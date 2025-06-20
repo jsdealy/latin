@@ -1,0 +1,20 @@
+# Thesaurum Verborum
+
+- nihilominus (adv) nonetheless $\rightarrow$ minus dolendum fuit re non perfectā, sed puniendum certe nihilo minus, Cic. Mil. 7, 19;
+- subiungere $\rightarrow$ to yoke/harness; annex/add to; subject/subdue. 
+- res rei *femininum* est 
+- praeditus -a -um 
+  - (+abl) endowed with, provided with, possessed of {*legiones pulchris armis praediti*} 
+  - (+dat) (of a deity) presiding over {*deus ei rei praeditus*}
+- langueo, languere $\rightarrow$ to be sick/weak
+- comitatus -a -um (+abl) $\rightarrow$ accompanied by 
+- fallo, fefelli, fallere, falsum $\rightarrow$ to deceive/cheat/disappoint; to lighten/silence/beguile {*somno fallere curam*}
+- advenio $\rightarrow$ I arrive
+- venio $\rightarrow$ I come
+- alicubi (adv) somewhere; anywhere; alicubi ... alicubi ... in one place, in another
+- alicunde (adv) from somewhere
+- quoniam typically provides a known or understood reason for a new assertion
+- quia typically cites a new reason and answers a new why question
+- suffugium -i (n) shelter (place beneath one flies); refuge
+- illic (adv) in that place; there
+- illuc (adv) to that place; thence

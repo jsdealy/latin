@@ -19,3 +19,4 @@
 - illic (adv) in that place; there
 - illuc (adv) to that place; thence
 - fastigium -i (n) peak of a gable / roof; (in general) apex / summit
+- nimirum (adv) without a doubt, doubtless, indisputably, surely, truly; *often ironical*

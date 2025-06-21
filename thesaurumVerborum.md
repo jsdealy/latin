@@ -20,3 +20,6 @@
 - illuc (adv) to that place; thence
 - fastigium -i (n) peak of a gable / roof; (in general) apex / summit
 - nimirum (adv) without a doubt, doubtless, indisputably, surely, truly; *often ironical*
+- dēstino -avi -atum (1) $\rightarrow$ to establish, decide, resolve, consider; to design, intend, destine; to appoint, elect
+- dēstinātum -i (n) $\rightarrow$ mark or aim; intended or determined object; intention, design
+- dēstinātē (adv) $\rightarrow$ resolutely; obstinately

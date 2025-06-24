@@ -252,9 +252,10 @@ decernunt id intra muros inducere.
 
 3. Orator, signo a sacerdote dato, eo die revenit et nunc totus populus Latinus gaudet.
 
->  
+>  Inimicis eius expulsis, oratori ut reveneret signum dabat sacerdos, et populo placet. 
 
-4. Gens Romiina versus illius scriptoris magna laude quondam recepit.
+4. Gens Romana versus illius scriptoris magna laude quondam recepit.
+
 5. Laudes atque dona huius modi ab oratoribus desiderabantur.
 6. Imperio accepto, dux magmlllimus fidem suam rei publicae ostendit.
 7. Aliquis eos quinque equos ex igne eripi postea iusserat.

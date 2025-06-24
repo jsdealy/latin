@@ -48,3 +48,5 @@
 - arvum -i (n) $\rightarrow$ arable land; crop 
 - aura -ae (f) $\rightarrow$ breeze; vapor; air
 - sacerdos -dotis (m) $\rightarrow$ priest
+- signum -i (n) $\rightarrow$ sign; seal; indication / signal
+- quondam (adv) $\rightarrow$ formerly, once

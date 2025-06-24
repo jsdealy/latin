@@ -40,3 +40,10 @@
 - quaero, -ere, quaesivi, -situm $\rightarrow$ to seek / look for; strive for; ask; inquire into
 - rideo, ridere, risi, risum $\rightarrow$ to laugh; to laugh at
 - maestus -a -um $\rightarrow$ sad / sorrowful / dejected; gloomy / causing sorrow
+- laeva -ae $\rightarrow$ the left hand
+- laevus -a -um $\rightarrow$ leftwards; awkward / foolish; lucky; unlucky
+- strepitus -ūs $\rightarrow$ noise / din / rustling / sound
+- nequiquam (adv) $\rightarrow$ frustrā; in vain; for nothing; without reason
+- nequaquam (adv) $\rightarrow$ by no means
+- arvum -i (n) $\rightarrow$ arable land; crop 
+- aura -ae (f) $\rightarrow$ breeze; vapor; air

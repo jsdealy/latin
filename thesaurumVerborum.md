@@ -24,3 +24,5 @@
   - hence: destinari $\rightarrow$ to be destined
 - dēstinātum -i (n) $\rightarrow$ mark or aim; intended or determined object; intention, design
 - dēstinātē (adv) $\rightarrow$ resolutely; obstinately
+- pasco, pavi, pastum (3) to feed / provide (animals) with food; to feast on; to cherish
+  - passive form has deponent (active) force: to feed on

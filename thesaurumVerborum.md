@@ -27,3 +27,16 @@
 - pasco, pavi, pastum (3) $\rightarrow$ to feed / provide (animals) with food; to feast on; to cherish
   - passive form has deponent (active) force: to feed on
 - manduco (1) (also deponent, manducor) $\rightarrow$ to chew; devour
+- imperium -ii (n) $\rightarrow$ power to command; supreme power / authority
+- perfugium -ii (n) $\rightarrow$ shelter / refuge
+- solacium -ii (n) $\rightarrow$ comfort / relief
+- vulnus -neris (n) $\rightarrow$ wound / injury
+- postea (adv) $\rightarrow$ afterwards
+- accipio, cipere, cepi, ceptum $\rightarrow$ to receive / accept
+- excipio, cipere, cepi, ceptum $\rightarrow$ to take out / except; take / receive / capture
+- recipio, cipere, cepi, ceptum $\rightarrow$ to receive / retake; admit / receive
+- pello, pellere, pepuli, pulsum $\rightarrow$ to strike / push; drive out; banish
+- expello, -pellere, -puli, -pulsum $\rightarrow$ drive out; banish; expel
+- quaero, -ere, quaesivi, -situm $\rightarrow$ to seek / look for; strive for; ask; inquire into
+- rideo, ridere, risi, risum $\rightarrow$ to laugh; to laugh at
+- maestus -a -um $\rightarrow$ sad / sorrowful / dejected; gloomy / causing sorrow

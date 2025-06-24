@@ -47,3 +47,4 @@
 - nequaquam (adv) $\rightarrow$ by no means
 - arvum -i (n) $\rightarrow$ arable land; crop 
 - aura -ae (f) $\rightarrow$ breeze; vapor; air
+- sacerdos -dotis (m) $\rightarrow$ priest

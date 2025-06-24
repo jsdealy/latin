@@ -243,12 +243,17 @@ decernunt id intra muros inducere.
 1. Igne visa, omnes viri et uxores territae sunt et ultra urbem ad litus
    insulae navigaverunt, ubi perfugium inventum est.
 
->  Omnibus populis igne per urbem currente perterritis, ceciderunt ad 
-   proximam insulam sper
+>  Cum totus populus ignes per urbem currentes veritus esset, multitudo 
+   fluxerunt ad naves ut in insula proxima perfugium petiverent. 
 
-2. Populo metii oppresso, iste imperator nobis ex urbe pellendus est.
-3. Orator, signo a sacerdote dato, eo die revenit et nunc totus populus
-Latinus gaudet.
+2. Populo metu oppresso, iste imperator nobis ex urbe pellendus est.
+
+>  Isto imperatore ex urbe pulso, populus celebrat. 
+
+3. Orator, signo a sacerdote dato, eo die revenit et nunc totus populus Latinus gaudet.
+
+>  
+
 4. Gens Romiina versus illius scriptoris magna laude quondam recepit.
 5. Laudes atque dona huius modi ab oratoribus desiderabantur.
 6. Imperio accepto, dux magmlllimus fidem suam rei publicae ostendit.

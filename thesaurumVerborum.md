@@ -50,3 +50,7 @@
 - sacerdos -dotis (m) $\rightarrow$ priest
 - signum -i (n) $\rightarrow$ sign; seal; indication / signal
 - quondam (adv) $\rightarrow$ formerly, once
+- voveo, vovi, votum (2) $\rightarrow$ to vow / promise solemnly
+- eques -quitis (m) $\rightarrow$ horseman
+- equus -i (m) horse
+- arx arcis (f) citadel / stronghold

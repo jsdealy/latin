@@ -256,11 +256,28 @@ decernunt id intra muros inducere.
 
 4. Gens Romana versus illius scriptoris magna laude quondam recepit.
 
+>  Versibus illius scriptoris quondam cantatis, Gens Romana plausit.
+
 5. Laudes atque dona huius modi ab oratoribus desiderabantur.
-6. Imperio accepto, dux magmlllimus fidem suam rei publicae ostendit.
+
+>  Oratores saepe cupiunt laudes huius generis. 
+
+6. Imperio accepto, dux magnanimus fidem suam rei publicae ostendit.
+
+>  Cum imperator factus esset, dux vovit fidem suam rei publicae. 
+
 7. Aliquis eos quinque equos ex igne eripi postea iusserat.
+
+>  Proelio concluso, eos quinque equos iubebat eripi ex igne et caede. 
+
 8. Cernisne omnia quae tibi scienda sunt?
-9. IIIe, ab arce urbis reveniens, ab istis hominibus premi coepit.
+
+>  Sunt multa quae vobis scienda sunt si magister vester delectabitur. 
+
+9. Ille, ab arce urbis reveniens, ab istis hominibus premi coepit.
+
+
+
 10. Cupio tangere mnnum iltius mnitis qui metu caruit atque gravia sce-
 lern contra rem publicam oppressit.
 11. Iste dux protinus expulsus est, ut imperium excipiebat.

@@ -240,3 +240,32 @@ decernunt id intra muros inducere.
 
 # Ch 24 --- Ablative Absolute; Passive Periphrastic; Dative of Agent
 
+1. Igne visa, omnes viri et uxores territae sunt et ultra urbem ad litus
+   insulae navigaverunt, ubi perfugium inventum est.
+
+>  Omnibus populis igne per urbem currente perterritis, ceciderunt ad 
+   proximam insulam sper
+
+2. Populo metii oppresso, iste imperator nobis ex urbe pellendus est.
+3. Orator, signo a sacerdote dato, eo die revenit et nunc totus populus
+Latinus gaudet.
+4. Gens Romiina versus illius scriptoris magna laude quondam recepit.
+5. Laudes atque dona huius modi ab oratoribus desiderabantur.
+6. Imperio accepto, dux magmlllimus fidem suam rei publicae ostendit.
+7. Aliquis eos quinque equos ex igne eripi postea iusserat.
+8. Cernisne omnia quae tibi scienda sunt?
+9. IIIe, ab arce urbis reveniens, ab istis hominibus premi coepit.
+10. Cupio tangere mnnum iltius mnitis qui metu caruit atque gravia sce-
+lern contra rem publicam oppressit.
+11. Iste dux protinus expulsus est, ut imperium excipiebat.
+12. IIIae servae, autem, perfugium siilaciumque ab amicis qunerebant.
+13. Cornll audito, ille mnes, incertus consilii, copias ad mediam insu-
+lam vertit.
+14. When the common dilllger had been nverted, two of our sons and
+all our daughters came back from Asia.
+15. Our hopes must not be destroyed by those three evil men.
+16. Since the people of all nations are seeking peace, all leaders must
+conquer the passion for (= of) power. (Use an ablative absolute and
+a passive periphrastic.)
+17. The leader, having been driven out by both the li-ee men and the
+slaves, could not regain his command.

@@ -7,12 +7,15 @@
   - "absolutum" $\rightarrow$ "separated / loosened from" (the main clause)
 - Ablative absolutes are usually set off by commas and describe general circumstances under which 
   the action of the clause takes place.
-- Ablative absolute are always "self-contained" and as a general rule the noun occuring therein
-  does not occur outside the phrase in the main clause. 
+- Ablative absolute are always "self-contained" and as a general rule the person or thing occuring therein
+  does not occur as subject or direct object outside the phrase in the main clause. 
   - Roma visa, viri gaudebant $\rightarrow$ ablative absolute (note noun is ablative)
     - visa modifies Roma, not viri
   - Romam videntes, viri gaudebant $\rightarrow$ not an ablative absolute (note noun is accusative)
     - videntes modifies viri, not Romam
+  - "Caesar having taken the enemy massacred them" is *Caesar hostes captos trucidavit* not 
+    *hostibus captis Caesar eos trucidavit*. 
+  - "As I was reading this I saw you" is *haec legens te vidi* not *me haec legente te vidi*.
 - Participles in ablative absolutes can still take direct objects (and/or any of the other
   verbal modifiers participles are subject to).
   - Eo imperium tenente, eventum timeo! $\rightarrow$ (with) him holding power, I fear the outcome! 
@@ -21,6 +24,14 @@
   - There is no participle for esse, but that is the meaning to be understood. 
   - Caesare duce, nil timebamus $\rightarrow$ two nouns forming the ablative absolute with 
     participial esse tacitly understood.
+
+### Bradley's Arnold on Ablative Absolutes
+
+- Long and complex ablative absolutes are better replaced with cum-clauses.
+- The future participle is rarely used in ablative absolutes. 
+- The past participle of a deponent verb is active in meaning, and affords an alternative to ablative absolutes.
+  - *Haec locutus rediit* is just as good as *his dictis rediit*.
+    - Here "locutus" is an adjective modifying the understood (masculine) subject of rediit.
 
 ## Passive Periphrastic & Dative of Agent
 

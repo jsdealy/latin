@@ -2,11 +2,11 @@
 
 ## The Rule: `Similis` with Dative or Genitive
 
-The adjective `similis` ("like, similar") can be followed by a noun in either the dative or the genitive case. While they are often used interchangeably, there is a distinct tendency in classical prose:
+The adjective `similis` ("like, similar") can be followed by a noun in either the dative or the genitive case. 
 
-1.  **The Genitive Case** is typically preferred when `similis` refers to **living beings**, especially personal pronouns (`mei`, `tui`, `sui`, `nostri`, `vestri`) and other persons. It often implies an essential or internal likeness (in character, nature, etc.).
+The genitive is used for personal pronouns ("similar to you") and other terms referring to people
+(similar to his father). The dative is used more broadly.
 
-2.  **The Dative Case** is used more broadly for both **persons and things**. It can denote a more external or general similarity and is the more common construction overall, especially for inanimate objects.
 
 ## Examples
 

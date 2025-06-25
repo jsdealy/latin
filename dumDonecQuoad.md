@@ -1,6 +1,6 @@
 # Clauses introduced by Dum, Dōnec, Quoad
 
-## Dum, dōnec, and quoad, as long as, take the Indicative 
+## Dum, dōnec, and quoad, ("as long as"), take the Indicative 
 
 Indicative present is used of an attempted action ('Conative Present'); as
 

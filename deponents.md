@@ -93,4 +93,3 @@
 * nāscor, nāscī, nātus sum - to be born
 * ordior, ordīrī, orsus sum - to begin
 * orior, orīrī, ortus sum - to rise, begin
-

@@ -1,5 +1,13 @@
 # Common Deponent Verbs
 
+Deponent verbs are cool. In particular, their passive perfect
+participles are cool, because they have active meaning. 
+This enables cool usages like: 
+
+> Caesar haec intuitus spernit. ("Caesar, having looked at these, spurns (them).")
+
+> Tullio hic reverso, gaudet Atticus. ("Tully having returned, Atticus is glad.") 
+
 ## Verbs of the Mind (Thinking, Perceiving, Remembering)
 
 * arbitror, arbitrārī, arbitrātus sum - to think, judge
@@ -32,6 +40,7 @@
 
 ## Verbs of Motion and Position
 
+* revertor, reverti, reversus sum - to return 
 * adorior, adorīrī, adortus sum - to attack, rise up against
 * vagor, vagārī, vagātus sum - to wander, roam
 * aggredior, aggredī, aggressus sum - to attack, approach

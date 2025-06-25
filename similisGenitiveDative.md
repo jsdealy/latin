@@ -8,13 +8,7 @@ The adjective `similis` ("like, similar") can be followed by a noun in either th
 
 2.  **The Dative Case** is used more broadly for both **persons and things**. It can denote a more external or general similarity and is the more common construction overall, especially for inanimate objects.
 
-## Sources and Examples
-
-This distinction is explained in standard reference grammars. For instance, **Allen and Greenough's New Latin Grammar, §359.b** notes:
-
-> "Adjectives signifying likeness, fitness, friendliness, and their opposites, take the Dative... *Similis* (like) sometimes takes the Genitive, but this is an early use, and is common in Cicero only in the phrase *veri similis* (probable), and of persons, especially the personal pronouns..."
-
-**Examples:**
+## Examples
 
 * **With Genitive (Persons):**
     * `Filius est similis patris.` (The son is like his father.)

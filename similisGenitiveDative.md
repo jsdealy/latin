@@ -5,7 +5,7 @@
 The adjective `similis` ("like, similar") can be followed by a noun in either the dative or the genitive case. 
 
 The genitive is used for personal pronouns ("similar to you") and other terms referring to people
-(similar to his father). The dative is used more broadly.
+("similar to his father"). The dative is used more broadly.
 
 
 ## Examples

@@ -2,9 +2,15 @@
 
 Deponent verbs are cool. In particular, their passive perfect
 participles are cool, because they have active meaning. 
-This enables cool usages like: 
 
-> Caesar haec intuitus spernit. ("Caesar, having looked at these, spurns (them).")
+This enables short, ablative-absolute-like contextualizing
+clauses that are not subject to ablative absolute restriction on sharing
+subject or object with the main clause. 
+
+It also enables ablative absolutes with intransitive verbs,
+which is not possible with non-deponent verbs. 
+
+> haec intuitus, Caesar spernit. ("Caesar, having looked at these, spurns (them).")
 
 > Tullio hic reverso, gaudet Atticus. ("Tully having returned, Atticus is glad.") 
 

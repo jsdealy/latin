@@ -278,10 +278,13 @@ decernunt id intra muros inducere.
 
 >  Duce ab arce centri urbis revento, illi homines portam iterum premere coeperunt.
 
+10. Cupio tangere manum illius militis qui metu caruit atque gravia scelera contra rem publicam oppressit.
 
 
-10. Cupio tangere mnnum iltius mnitis qui metu caruit atque gravia sce-
-lern contra rem publicam oppressit.
+> 
+
+
+
 11. Iste dux protinus expulsus est, ut imperium excipiebat.
 12. IIIae servae, autem, perfugium siilaciumque ab amicis qunerebant.
 13. Cornll audito, ille mnes, incertus consilii, copias ad mediam insu-

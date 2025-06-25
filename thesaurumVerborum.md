@@ -1,5 +1,6 @@
 # Thesaurum Verborum
 
+
 - nihilominus (adv) nonetheless $\rightarrow$ minus dolendum fuit re non perfectā, sed puniendum certe nihilo minus, Cic. Mil. 7, 19;
 - subiungere $\rightarrow$ to yoke/harness; annex/add to; subject/subdue. 
 - res rei *femininum* est 
@@ -54,3 +55,4 @@
 - eques -quitis (m) $\rightarrow$ horseman
 - equus -i (m) $\rightarrow$ horse
 - arx arcis (f) $\rightarrow$ citadel / stronghold
+- careo, carēre, carui, cariturum (+abl of separation) $\rightarrow$ be without; be deprived of; want; lack

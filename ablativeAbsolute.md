@@ -1,4 +1,4 @@
-# Ch 24 --- Ablative Absolute; Passive Periphrastic; Dative of Agent
+# Ablative Absolute; Passive Periphrastic; Dative of Agent
 
 ## Ablative Absolute
 

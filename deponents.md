@@ -4,8 +4,8 @@ Deponent verbs are cool. In particular, their passive perfect
 participles are cool, because they have active meaning. 
 
 This enables short, ablative-absolute-like contextualizing
-clauses that are not subject to ablative absolute restriction on sharing
-subject or object with the main clause. 
+clauses that are not subject to the ablative absolute restriction on sharing
+a subject with the main clause. 
 
 It also enables ablative absolutes with intransitive verbs,
 which is not possible with non-deponent verbs. 

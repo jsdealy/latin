@@ -52,5 +52,5 @@
 - quondam (adv) $\rightarrow$ formerly, once
 - voveo, vovi, votum (2) $\rightarrow$ to vow / promise solemnly
 - eques -quitis (m) $\rightarrow$ horseman
-- equus -i (m) horse
-- arx arcis (f) citadel / stronghold
+- equus -i (m) $\rightarrow$ horse
+- arx arcis (f) $\rightarrow$ citadel / stronghold

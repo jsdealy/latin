@@ -33,6 +33,13 @@
   - *Haec locutus rediit* is just as good as *his dictis rediit*.
     - Here "locutus" is an adjective modifying the understood (masculine) subject of rediit.
 
+### Elegant Trick: Using Deponents in Ablative Absolute 
+
+- Because deponent participles are active in meaning, they *can* be used in an ablative absolute.
+- **`revertor, reverti, reversus sum`** is a deponent verb for "to return." 
+* **Example:** **`Duce ab arce centri urbis reverso...`**
+* **Analysis:** This means "With the leader having returned..." `Reverso` is the ablative participle of `revertor`, and this is a correct and sophisticated way to form the phrase.
+
 ## Passive Periphrastic & Dative of Agent
 
 - A passive verb form consisting of the gerundive (future passive participle) + sum. 

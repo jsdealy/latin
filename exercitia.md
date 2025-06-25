@@ -276,6 +276,8 @@ decernunt id intra muros inducere.
 
 9. Ille, ab arce urbis reveniens, ab istis hominibus premi coepit.
 
+>  Duce ab arce centri urbis revento, illi homines portam iterum premere coeperunt.
+
 
 
 10. Cupio tangere mnnum iltius mnitis qui metu caruit atque gravia sce-

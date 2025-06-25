@@ -288,7 +288,7 @@ decernunt id intra muros inducere.
 
 12. Illae servae, autem, perfugium solaciumque ab amicis quaerebant.
 
->  illae servae a domino suo fugientes ad ostium amicae suae advenerunt ut perfugium precaretur.
+>  illae servae a domino suo fugientes ad ostium amicae suae advenerunt ut perfugium precarentur.
 
 13. Cornu audito, ille miles, incertus consilii, copias ad mediam insulam vertit.
 

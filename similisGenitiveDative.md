@@ -17,9 +17,9 @@ This distinction is explained in standard reference grammars. For instance, **Al
 **Examples from Classical Authors:**
 
 * **With Genitive (Persons):**
-    * `Filius est **similis patris**.` (The son is like his father.)
-    * `Nemo est **similis tui**.` (No one is like you.)
+    * `Filius est similis patris.` (The son is like his father.)
+    * `Nemo est similis tui.` (No one is like you.)
 
 * **With Dative (Things):**
-    * `Mors est **somno similis**.` (Death is like sleep.)
-    * `Haec vox est **illi voci similis**.` (This voice is similar to that voice.)
+    * `Mors est somno similis.` (Death is like sleep.)
+    * `Haec vox est illi voci similis.` (This voice is similar to that voice.)

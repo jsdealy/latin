@@ -295,7 +295,10 @@ decernunt id intra muros inducere.
 >  cornu audiens hic miles labebatur in mente, incertus, et protinus decrevit ut ad insulam copiae eius 
    properarent. 
 
-14. When the common dilllger had been nverted, two of our sons and all our daughters came back from Asia.
+14. When the common danger had been averted, two of our sons and all our daughters came back from Asia.
+
+>  Periculo commune averto, duo filii et omnes filiae reverti Asia sunt.
+
 
 15. Our hopes must not be destroyed by those three evil men.
 

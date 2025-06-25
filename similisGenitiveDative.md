@@ -14,7 +14,7 @@ This distinction is explained in standard reference grammars. For instance, **Al
 
 > "Adjectives signifying likeness, fitness, friendliness, and their opposites, take the Dative... *Similis* (like) sometimes takes the Genitive, but this is an early use, and is common in Cicero only in the phrase *veri similis* (probable), and of persons, especially the personal pronouns..."
 
-**Examples from Classical Authors:**
+**Examples:**
 
 * **With Genitive (Persons):**
     * `Filius est similis patris.` (The son is like his father.)

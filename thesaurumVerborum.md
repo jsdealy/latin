@@ -57,3 +57,4 @@
 - equus -i (m) $\rightarrow$ horse
 - arx arcis (f) $\rightarrow$ citadel / stronghold
 - careo, carēre, carui, cariturum (+abl of separation) $\rightarrow$ be without; be deprived of; want; lack
+- porro (adv) forward; further; at a distance

@@ -43,6 +43,7 @@ which is not possible with non-deponent verbs.
 * precor, precārī, precātus sum - to pray, ask
 * queror, querī, questus sum - to complain
 * testor, testārī, testātus sum - to call to witness, declare
+* polliceor, pollicēri, pollicitus sum - to hold forth; promise
 
 ## Verbs of Motion and Position
 

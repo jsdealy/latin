@@ -288,13 +288,17 @@ decernunt id intra muros inducere.
 
 12. Illae servae, autem, perfugium solaciumque ab amicis quaerebant.
 
->  
+>  illae servae a domino suo fugientes ad ostium amicae suae advenerunt ut perfugium precaretur.
 
-13. Cornll audito, ille mnes, incertus consilii, copias ad mediam insu-
-lam vertit.
-14. When the common dilllger had been nverted, two of our sons and
-all our daughters came back from Asia.
+13. Cornu audito, ille miles, incertus consilii, copias ad mediam insulam vertit.
+
+>  cornu audiens hic miles labebatur in mente, incertus, et protinus decrevit ut ad insulam copiae eius 
+   properarent. 
+
+14. When the common dilllger had been nverted, two of our sons and all our daughters came back from Asia.
+
 15. Our hopes must not be destroyed by those three evil men.
+
 16. Since the people of all nations are seeking peace, all leaders must
 conquer the passion for (= of) power. (Use an ablative absolute and
 a passive periphrastic.)

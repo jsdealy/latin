@@ -12,7 +12,7 @@ which is not possible with non-deponent verbs.
 
 > haec intuitus, Caesar spernit. ("Caesar, having looked at these, spurns (them).")
 
-> Tullio hic reverso, gaudet Atticus. ("Tully having returned, Atticus is glad.") 
+> Tullio hic reverso, gaudet Atticus. ("Tully having returned here, Atticus is glad.") 
 
 ## Verbs of the Mind (Thinking, Perceiving, Remembering)
 

@@ -57,8 +57,8 @@
 - equus -i (m) $\rightarrow$ horse
 - arx arcis (f) $\rightarrow$ citadel / stronghold
 - careo, carēre, carui, cariturum (+abl of separation) $\rightarrow$ be without; be deprived of; want; lack
-- porro (adv) forward; further; at a distance
+- porro (adv) $\rightarrow$ forward; further; at a distance
 - ūro, ussi, ustum $\rightarrow$ to burn; to consume (by fire); to rub / chafe (e.g., feet in shoes)
-- scisco, scivi, scitum $\rightarrow$ to decree / establish; to accept / approve (by vote); to seek to know (rare & older usage)
+- scisco, scivi, scitum $\rightarrow$ to decree / establish; to accept / approve (by vote); to learn; to seek to know (rare & older usage)
 - scitē (adv) $\rightarrow$ shrewdly, cleverly, adroitly, tastefully
 - scitus -a -um $\rightarrow$ (of people) wise, skillful, experienced, knowing; (of things) fitting, suitable, proper

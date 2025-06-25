@@ -1,6 +1,7 @@
 # Thesaurum Verborum
 
 
+- protinus (adv) statim; immediately
 - nihilominus (adv) nonetheless $\rightarrow$ minus dolendum fuit re non perfectā, sed puniendum certe nihilo minus, Cic. Mil. 7, 19;
 - subiungere $\rightarrow$ to yoke/harness; annex/add to; subject/subdue. 
 - res rei *femininum* est 

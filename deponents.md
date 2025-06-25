@@ -46,7 +46,6 @@ which is not possible with non-deponent verbs.
 
 ## Verbs of Motion and Position
 
-* revertor, reverti, reversus sum - to return 
 * adorior, adorīrī, adortus sum - to attack, rise up against
 * vagor, vagārī, vagātus sum - to wander, roam
 * aggredior, aggredī, aggressus sum - to attack, approach

@@ -280,13 +280,16 @@ decernunt id intra muros inducere.
 
 10. Cupio tangere manum illius militis qui metu caruit atque gravia scelera contra rem publicam oppressit.
 
-
-> 
-
-
+>  eum militem qui minationem gravem contra rem publicam exstinxit magnopere cupio cognoscere 
 
 11. Iste dux protinus expulsus est, ut imperium excipiebat.
-12. IIIae servae, autem, perfugium siilaciumque ab amicis qunerebant.
+
+>  Eodem tempore cum omne imperium amittebat, expulsus est ex urbe. 
+
+12. Illae servae, autem, perfugium solaciumque ab amicis quaerebant.
+
+>  
+
 13. Cornll audito, ille mnes, incertus consilii, copias ad mediam insu-
 lam vertit.
 14. When the common dilllger had been nverted, two of our sons and

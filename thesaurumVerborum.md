@@ -62,3 +62,4 @@
 - scisco, scivi, scitum $\rightarrow$ to decree / establish; to accept / approve (by vote); to learn; to seek to know (rare & older usage)
 - scitē (adv) $\rightarrow$ shrewdly, cleverly, adroitly, tastefully
 - scitus -a -um $\rightarrow$ (of people) wise, skillful, experienced, knowing; (of things) fitting, suitable, proper
+- mereo, merēre (2) $\rightarrow$ (with acc. ut, ne, and absol.) merit, deserve, earn

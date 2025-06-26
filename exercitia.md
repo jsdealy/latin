@@ -240,6 +240,8 @@ decernunt id intra muros inducere.
 
 # Ch 24 --- Ablative Absolute; Passive Periphrastic; Dative of Agent
 
+## practice
+
 1. Igne visa, omnes viri et uxores territae sunt et ultra urbem ad litus
    insulae navigaverunt, ubi perfugium inventum est.
 
@@ -297,13 +299,40 @@ decernunt id intra muros inducere.
 
 14. When the common danger had been averted, two of our sons and all our daughters came back from Asia.
 
->  Periculo commune averto, duo filii et omnes filiae reverti Asia sunt.
-
+>  Periculo communi averso, duo filii et omnes filiae reversi ab Asia sunt.
 
 15. Our hopes must not be destroyed by those three evil men.
 
-16. Since the people of all nations are seeking peace, all leaders must
-conquer the passion for (= of) power. (Use an ablative absolute and
-a passive periphrastic.)
-17. The leader, having been driven out by both the li-ee men and the
-slaves, could not regain his command.
+>  Spes nostrae a his tribus viris malis non delendae sunt.
+
+16. Since the people of all nations are seeking peace, all leaders must 
+    conquer the passion for (= of) power. (Use an ablative absolute and
+    a passive periphrastic.)
+
+>  Populis omnium nationum pacem petentibus, cupiditas imperii omnibus ducibus vincenda est.
+
+17. The leader, having been driven out by both the free men and the slaves, could not regain his command.
+
+>  Dux a viris liberis et servis expulsus imperium suum recipere nequivit.
+
+>  Dux a viris liberis et servis expulsus imperium suum recepere nequeat.
+
+## Sententiae Antiquae
+
+1. Carthago delenda est. 
+
+>  Necesse est nobis Carthaginem obruere.
+
+2. Asia victa, dux Romanus relix multos servos in Italiam misit. 
+3. Omnibus fem) militis pe.tenilis, quisque se serviil-e cupiebat.
+(Caesar.)
+4. Quidquid dicendum est, IThere dicam. (Cicero.-libere, udv. ofliber.)
+5. Haec omniu vulnera belli tibi nunc sananda sunt. (Cicero.-siniire,
+10 heat.)
+6. Nec tumultum nec hastam militis nec mortem violentam timebii,
+Augusto terrdS tenente. (Horace.-tumultus -iis, disturbance. <'ivit
+lVUI:-\iolenhls, -a, -um.-AugustlJS, -i.)
+7. Tarquinio expulso, nomen regis audi.-e non potecat populus Ro-
+manus. (Cicero.)
+8. Ad utilitiitem vitae omnia consilia factaque nobis regenda sunt.
+(Tacitus.-utilitiis, -tutis, benefit. advantage.)

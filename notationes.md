@@ -36,6 +36,6 @@
 ## bare ablative of place from
 
 - you can use a bare ablative to signify place from which if the place is *a town* or *a small island*
-  or you home (domus)
+  or your home (domus)
   - *abiit Romā*, *domō profectus est*, etc.
 - poets are more liberal and sometimes disregard the restriction (*Italiā discessit*)

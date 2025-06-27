@@ -70,3 +70,5 @@
 - pateō, ui (2) $\rightarrow$ to be / stand open; to lie open to (alicui); to be accessible / passable
 - inferus -a -um $\rightarrow$ below; beneath
 - infimus -a -um (imus -a -um) $\rightarrow$ lowest; last; worst; meanest
+- pectus -i (m) $\rightarrow$ chest
+- vates -is (m/f) $\rightarrow$ homo qui divino modo res futuras praedicit

@@ -73,3 +73,4 @@
 - pectus -i (m) $\rightarrow$ chest
 - vates -is (m/f) $\rightarrow$ homo qui divino modo res futuras praedicit
 - nimirum (adv) $\rightarrow$ scilicet; certe
+- cōnficī = consūmi, invalidus fieri; from conficio (3) $\rightarrow$ to make ready / prepare; to compose; to finish; to consume / destroy

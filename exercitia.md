@@ -323,10 +323,18 @@ decernunt id intra muros inducere.
 
 >  Necesse est nobis Carthaginem obruere.
 
-2. Asia victa, dux Romanus relix multos servos in Italiam misit. 
-3. Omnibus fem) militis pe.tenilis, quisque se serviil-e cupiebat.
-(Caesar.)
-4. Quidquid dicendum est, IThere dicam. (Cicero.-libere, udv. ofliber.)
+2. Asia victa, dux Romanus felix multos servos in Italiam misit. 
+
+>  Bello terminato, hic dux relevatus ut in Italiam vaderent illis servatis imperavit.
+
+3. Omnibus ferro militis perterritis, quisque se servare cupiebat. 
+
+>  cum ferrum hostis aspiceret, quisque civis matrem suam exoptavit.
+
+4. Quidquid dicendum est, libere dicam. 
+
+>  
+
 5. Haec omniu vulnera belli tibi nunc sananda sunt. (Cicero.-siniire,
 10 heat.)
 6. Nec tumultum nec hastam militis nec mortem violentam timebii,

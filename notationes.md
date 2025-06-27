@@ -39,3 +39,7 @@
   or your home (domus)
   - *abiit Romā*, *domō profectus est*, etc.
 - poets are more liberal and sometimes disregard the restriction (*Italiā discessit*)
+
+## impero et iubeo
+
+- these verbs take a dative of person commanded and an ut+subjunctive clause, rather than ACI.

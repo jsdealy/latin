@@ -63,3 +63,7 @@
 - scitē (adv) $\rightarrow$ shrewdly, cleverly, adroitly, tastefully
 - scitus -a -um $\rightarrow$ (of people) wise, skillful, experienced, knowing; (of things) fitting, suitable, proper
 - mereo, merēre (2) $\rightarrow$ (with acc. ut, ne, and absol.) merit, deserve, earn
+- relevo (1) $\rightarrow$ relieve/alleviate; diminish/lighten; exonerate; raise; lift (eyes)
+- exopto (1) $\rightarrow$ to long for
+- praeditus -a -um $\rightarrow$ gifted with; provided with
+- fretum -i (n) $\rightarrow$ straight / sound /channel; sea; (poetic) flood 

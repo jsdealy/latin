@@ -72,3 +72,4 @@
 - infimus -a -um (imus -a -um) $\rightarrow$ lowest; last; worst; meanest
 - pectus -i (m) $\rightarrow$ chest
 - vates -is (m/f) $\rightarrow$ homo qui divino modo res futuras praedicit
+- nimirum (adv) $\rightarrow$ scilicet; certe

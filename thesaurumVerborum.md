@@ -67,3 +67,6 @@
 - exopto (1) $\rightarrow$ to long for
 - praeditus -a -um $\rightarrow$ gifted with; provided with
 - fretum -i (n) $\rightarrow$ straight / sound /channel; sea; (poetic) flood 
+- pateō, ui (2) $\rightarrow$ to be / stand open; to lie open to (alicui); to be accessible / passable
+- inferus -a -um $\rightarrow$ below; beneath
+- infimus -a -um (imus -a -um) $\rightarrow$ lowest; last; worst; meanest

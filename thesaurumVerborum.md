@@ -78,3 +78,4 @@
 - funis -is (m/f) rope / cord / line
 - adimo, ademi, ademptum (3) $\rightarrow$ to take away; rescue; deprive
 - tumultus, -ūs $\rightarrow$ uprising
+- rego, regere, rexi, rectum $\rightarrow$ to rule, direct, guide (correct/direction)

@@ -12,6 +12,8 @@
 
 - with intransitives it's impersonal and neuter. 
 - with transitives the subject's gender and case must be matched.
+- it doesn't make sense to combine it with debere; e.g., *id purgandum esse debet* is a bit
+  like saying "it ought to be to be cleaned".
 
 ## gender quirks
 

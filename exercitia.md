@@ -340,9 +340,14 @@ decernunt id intra muros inducere.
 >  Nunc est tempus tibi ad vulnera belli sananda. 
 
 6. Nec tumultum nec hastam militis nec mortem violentam timebo, Augusto terras tenente. 
-(Horace. tumultus -ūs: disturbance / civil war; violentus, a, um)
+    (Horace. tumultus -ūs: disturbance / civil war; violentus, a, um)
 
-7. Tarquinio expulso, nomen regis audi.-e non potecat populus Ro-
-manus. (Cicero.)
-8. Ad utilitiitem vitae omnia consilia factaque nobis regenda sunt.
-(Tacitus.-utilitiis, -tutis, benefit. advantage.)
+>  Quid me terrere potest, quid hasta mortifera vel pestilentia, dum Augustus sceptrum tenet.
+
+7. Tarquinio expulso, nomen regis audire non poterat populus Romanus. (Cicero.)
+
+>  Cum Tarquinius multos annos ante eiectus esset, populus fere numquam verbum regis audiverat. 
+
+8. Ad utilitatem vitae omnia consilia factaque nobis regenda sunt. (Tacitus.utilitas,-tatis, benefit. advantage.)
+
+>  Omnis petitio voluntatis nostrae ad utilitatem hominum inclinanda est.  

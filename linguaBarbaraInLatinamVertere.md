@@ -24,3 +24,17 @@ Memoria a senectute deteritur. Haud dubie ita est iis qui memoriam suam exercend
 Epistulae tuae mihi adveniunt nimis raro, quamquam iter ad Romam facientes multum apud te crebriores sunt quam ii ad Athenas apud me, et magis credis me in Roma futurum quam te in Athenis. Dubium hoc est causa brevitatis huius epistulae, ita nolui sermonem intimum nostrum in nescio cuius manibus, cum incertus fuissem ubi te futurum. Exspecto signa Megarica aestuose quos mihi descripsisti. Ullum eiusdem generis quod academiae scitum censes ne moreris mihi mittere; pecuniae meae confidas. Hoc est genus rei quod cupiebam. Quaero res aptissimas gymnasio. Lentulus naves pollicetur. Curate obserate hoc. Vale.
 
 I condemn all violence in the education of a tender soul that is being trained for honour and freedom. There is something servile in harshness and constraint; and I believe that what cannot be accomplished by reason, and by wisdom and tact, can never be accomplished by force. That is how I was brought up. They tell me that in all my childhood I was only whipped twice, and then very mildly. I owed the same upbringing to my own children. They all died at nurse, except Leonor, my one daughter who escaped this unhappy fate. She ahs reached the age of more than 6 without anything but words, and very gentle words, being used to guide her and correct her childish faults. Her mother's indulgence readily concurred in this. And even if my hopes in her should be disappointed, there will be enough other causes for this without blaming my educational system, which I know to be both just and natural. I should have followed it still more scrupulously with sons, who are born less subservient and are freer by nature. I should have loved to build up their courage by honest and frank treatment. I have never seen any other effects of a whipping than to make the soul more cowardly and more perversely obstinate. 
+
+
+> I am very much obliged to you for sending me Serapion's book, of which,
+> between ourselves, I hardly understand one line in a thousand. I have given
+> instructions for you to be paid for it in cash so that you won't have to put
+> it down under the heading of 'presents'. But since I have mentioned money,
+> please do get things settled with Titinius any way you can. If he doesn't
+> keep his word, the best thing in my opinion is to return the bad sale, if
+> Pomponia can be brought to agree. If even that won't do, you had better pay
+> the money than have any awkwardness. I would be most grateful if you would
+> clear this up before you go away in your usual kind and businesslike way.
+
+Valde obligo tibi ob librum Serapionis mi missum, a quo, inter nos, vix unam ex mille sententiam intellego. Ne id sub titulum 'donae' ponendum tibi esset, iubebam tibi solvi nummis. At mentione nummorum facta, rem cum Titinio recte resolvito ullo pacto quo potes, quaeso. Si non tenet fidem suam, optime faceres si malam remitteres venditionem, ut opinor, dummodo Pompeia ut assentiatur adduci possit. Et si deficit etiam illud, satius est nummos solvere quam incommoditatem pati. Gratissimum esset si ante abires hoc resolveres solito cum more tuo negotiali. 
+

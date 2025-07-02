@@ -333,13 +333,15 @@ decernunt id intra muros inducere.
 
 4. Quidquid dicendum est, libere dicam. 
 
->  
+>  Quidquid necesse est mihi dicere, dicam ut liber homo. 
 
-5. Haec omniu vulnera belli tibi nunc sananda sunt. (Cicero.-siniire,
-10 heat.)
-6. Nec tumultum nec hastam militis nec mortem violentam timebii,
-Augusto terrdS tenente. (Horace.-tumultus -iis, disturbance. <'ivit
-lVUI:-\iolenhls, -a, -um.-AugustlJS, -i.)
+5. Haec omnia vulnera belli tibi nunc sananda sunt. (Cicero. sanare, to heal.)
+
+>  Nunc est tempus tibi ad vulnera belli sananda. 
+
+6. Nec tumultum nec hastam militis nec mortem violentam timebo, Augusto terras tenente. 
+(Horace. tumultus -ūs: disturbance / civil war; violentus, a, um)
+
 7. Tarquinio expulso, nomen regis audi.-e non potecat populus Ro-
 manus. (Cicero.)
 8. Ad utilitiitem vitae omnia consilia factaque nobis regenda sunt.

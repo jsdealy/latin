@@ -77,3 +77,4 @@
 - ulciscor, ultus sum (3) $\rightarrow$ to avenge (acc.); to avenge oneself; to take vengeance on
 - funis -is (m/f) rope / cord / line
 - adimo, ademi, ademptum (3) $\rightarrow$ to take away; rescue; deprive
+- tumultus, -ūs $\rightarrow$ uprising

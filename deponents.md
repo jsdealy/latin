@@ -16,12 +16,13 @@ which is not possible with non-deponent verbs.
 
 ## Verbs of the Mind (Thinking, Perceiving, Remembering)
 
+* mētior, metiri, mensus sum - to measure, mete out, plan, judge; (poet.) traverse
 * arbitror, arbitrārī, arbitrātus sum - to think, judge
-* cōnfiteor, cōnfitērī, cōnfessus sum - to confess, acknowledge
 * conspicor, conspicārī, conspicātus sum - to catch sight of, see
 * intueor, intuērī, intuitus sum - to gaze at, consider
 * mentior, mentīrī, mentītus sum - to lie, deceive
-* mīror, mīrārī, mīrātus sum - to wonder at, admire
+* mīror, mīrārī, mīrātus sum - to wonder at, admire, be surprised by
+* admīror, mīrārī, mīrātus sum - to wonder at 
 * opīnor, opīnārī, opīnātus sum - to suppose, be of the opinion
 * oblivīscor, oblivīscī, oblītus sum - to forget (+ genitive)
 * recordor, recordārī, recordātus sum - to remember, recollect
@@ -30,12 +31,17 @@ which is not possible with non-deponent verbs.
 * tueor, tuērī, tuitus sum - to watch over, protect
 * vereor, verērī, veritus sum - to fear, respect
 * videor, vidērī, vīsus sum - to seem, appear
+* veneror, -erari, -eratus - to venerate, esteem
 
 ## Verbs of Speech and Communication
 
 * blandior, blandīrī, blandītus sum - to flatter (+ dative)
+* omīnor, -minari, minatus - to forebode, predict, prophesy
+* cōnfiteor, cōnfitērī, cōnfessus sum - to confess, acknowledge
+* profiteor, profiteri, professus sum - to declare publicly, acknowledge / confess
 * fātor, fārī, fātus sum - to speak, say
 * hortor, hortārī, hortātus sum - to encourage, urge
+* cohortor, cohortari, cohortatus sum - to forcefully encourage, admonish, incite
 * lamentor, lamentārī, lamentātus sum - to lament, complain
 * loquor, loquī, locūtus sum - to speak, talk
 * minitor, minitārī, minitātus sum - to threaten
@@ -56,9 +62,15 @@ which is not possible with non-deponent verbs.
 * ingredior, ingredī, ingressus sum - to enter, go into
 * lābor, lābī, lapsus sum - to slip, fall, glide
 * moror, morārī, morātus sum - to delay, stay
+* commoror, -morārī, -morātus sum - to stop somewhere, tarry, abide, remain
 * proficīscor, proficīscī, profectus sum - to set out, depart
 * revertor, revertī, reversus sum - to return, go back
 * sequor, sequī, secūtus sum - to follow
+* assequor, assequi, assecutus sum - to pursue, overtake, obtain
+* consequor, consequi, consecutus sum - to follow, to obtain, overtake
+* persequor, persequi, persecutus sum - to perseveringly pursue, overtake, imitate
+* prosequor, prosequi, prosecutus sum - to escort, attend, pursue, honor, bestow
+* subsequor, subsequi, subsecutus sum - to follow up, immediately follow, imitate
 * versor, versārī, versātus sum - to be situated, be engaged in
 
 ## Verbs of Emotion and Sensation
@@ -76,9 +88,11 @@ which is not possible with non-deponent verbs.
 
 * conor, cōnārī, cōnātus sum - to try, attempt
 * experior, experīrī, expertus sum - to try, test, experience
+* deprecor, -precārī, -precātus sum - to avert with prayer, intercede via prayer
+* insidior, -sidiari, -atus - to prepare ambush for; to observantly wait to strike
 * fungor, fungī, fūnctus sum - to perform, carry out (+ ablative)
 * imitor, imitārī, imitātus sum - to imitate, copy
-* molior, molīrī, molītus sum - to strive, build, undertake
+* molior, molīrī, molītus sum - to strive/endeavor/struggle, build, undertake, plot
 * opperior, opperīrī, oppertus sum - to wait for, await
 * perīclitor, perīclitārī, perīclitātus sum - to test, risk, be in danger
 * nītor, nītī, nīsus/nīxus sum - to strive, lean upon, struggle

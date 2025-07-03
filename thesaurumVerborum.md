@@ -81,3 +81,4 @@
 - rego, regere, rexi, rectum $\rightarrow$ to rule, direct, guide (correct/direction)
 - depono, ere, posui, positum $\rightarrow$ to put down, resign
 - respondeo, -ēre, -spondi, -sponsum $\rightarrow$ note that this is second conjugation
+- cor, cordis (n) $\rightarrow$ note this is neuter

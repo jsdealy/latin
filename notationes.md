@@ -45,3 +45,7 @@
 ## impero et iubeo
 
 - these verbs take a dative of person commanded and an ut+subjunctive clause, rather than ACI.
+
+## faveo
+
+- this take the dative of the person favored, not the accusative $\rightarrow$ *isti non faveo*

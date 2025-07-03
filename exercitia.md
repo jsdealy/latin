@@ -379,10 +379,9 @@ melius est talem deponere
 Hercules cum in caelo ingressus esset,
 salutationibus a deis multis acceptis, vidit Plutum 
 et oculos suos avertit. Cum quaesitus esset quare 
-Plutum ita frigide tractavisse, respondit ille 
-dicens, "Ego istum non faveo. Is malos viros 
-gemmis et pretiosis vestimentis ornat, cordes 
-hominum corrumpit amore pecuniae."
+Plutum ita frigide tractavisset, respondit ille 
+dicens, "Ego isti non faveo. Is malos viros 
+gemmis et pretiosis vestimentis ornat, corda 
+hominum corrumpit amore pecuniae." 
 
-
-
+(Note: note the infinitive tractavisse here!)

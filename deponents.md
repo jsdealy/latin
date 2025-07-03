@@ -37,9 +37,9 @@ which is not possible with non-deponent verbs.
 
 * blandior, blandīrī, blandītus sum - to flatter (+ dative)
 * omīnor, -minari, minatus - to forebode, predict, prophesy
+* fātor, fārī, fātus sum - to speak, say
 * cōnfiteor, cōnfitērī, cōnfessus sum - to confess, acknowledge
 * profiteor, profiteri, professus sum - to declare publicly, acknowledge / confess
-* fātor, fārī, fātus sum - to speak, say
 * hortor, hortārī, hortātus sum - to encourage, urge
 * cohortor, cohortari, cohortatus sum - to forcefully encourage, admonish, incite
 * lamentor, lamentārī, lamentātus sum - to lament, complain

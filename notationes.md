@@ -21,6 +21,15 @@
 - gens gentis (f)
 - we use multi/multos to refer to many people, multa/multa to refer to many things
 
+## indirect discourse
+
+- the main clause in indirect discourse takes the infinitive 
+  with the subject accusative ("ACI").
+- *all subordinate clauses take the subjunctive*
+  - e.g., *dicit esse nonnullos quorum auctoritas plurimum valeat*
+  - this includes *conditional antecedents*
+    - e.g., *nisi iurasset, se scelus facturum esse arbitrabatur*
+
 ## subjunctive quirks
 - Bare subjunctives can function as the main clause (apodosis) of a past contrary-to-fact condition. 
 - This type of clause expresses what would have happened in the past if circumstances had been different.

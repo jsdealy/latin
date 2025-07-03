@@ -30,7 +30,7 @@
   - this includes *conditional antecedents*
     - e.g., *nisi iurasset, se scelus facturum esse arbitrabatur*
 - the exceptions regarding the subjunctive in subordinate clauses
-  seem to be cases where the independent truth of what is contained a 
+  seem to be cases where the independent truth of what is contained in a 
   given clause is being emphasized. 
   - *quis neget haec omnia **quae videmus** deorum potestate administrari*
 

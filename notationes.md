@@ -25,10 +25,15 @@
 
 - the main clause in indirect discourse takes the infinitive 
   with the subject accusative ("ACI").
-- *all subordinate clauses take the subjunctive*
+- *all subordinate clauses regularly the subjunctive*
   - e.g., *dicit esse nonnullos quorum auctoritas plurimum valeat*
   - this includes *conditional antecedents*
     - e.g., *nisi iurasset, se scelus facturum esse arbitrabatur*
+- the exceptions regarding the subjunctive in subordinate clauses seems to
+  seem to be cases where the independent truth of what is contained in that
+  clause is being emphasized. 
+  - *quis neget haec omnia **quae videmus** deorum potestate administrari*
+
 
 ## subjunctive quirks
 - Bare subjunctives can function as the main clause (apodosis) of a past contrary-to-fact condition. 

@@ -29,9 +29,9 @@
   - e.g., *dicit esse nonnullos quorum auctoritas plurimum valeat*
   - this includes *conditional antecedents*
     - e.g., *nisi iurasset, se scelus facturum esse arbitrabatur*
-- the exceptions regarding the subjunctive in subordinate clauses seems to
-  seem to be cases where the independent truth of what is contained in that
-  clause is being emphasized. 
+- the exceptions regarding the subjunctive in subordinate clauses
+  seem to be cases where the independent truth of what is contained a 
+  given clause is being emphasized. 
   - *quis neget haec omnia **quae videmus** deorum potestate administrari*
 
 

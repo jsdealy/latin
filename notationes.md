@@ -25,7 +25,7 @@
 
 - the main clause in indirect discourse takes the infinitive 
   with the subject accusative ("ACI").
-- *all subordinate clauses regularly the subjunctive*
+- *all subordinate clauses regularly take the subjunctive*
   - e.g., *dicit esse nonnullos quorum auctoritas plurimum valeat*
   - this includes *conditional antecedents*
     - e.g., *nisi iurasset, se scelus facturum esse arbitrabatur*

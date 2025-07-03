@@ -351,3 +351,38 @@ decernunt id intra muros inducere.
 8. Ad utilitatem vitae omnia consilia factaque nobis regenda sunt. (Tacitus.utilitas,-tatis, benefit. advantage.)
 
 >  Omnis petitio voluntatis nostrae ad utilitatem hominum inclinanda est.  
+
+## Paragraphs
+
+> Homo stultus "O cives, cives," inquit, 
+> "pecunia ante omnia quaerenda est; virtus et probitas
+> post pecuniam." Pecuniae autem cupiditas fugienda est.
+> Fugienda etiam est cupiditas gloriae; eripit enim libertatem.
+> Neque imperia semper petenda sunt neque semper accipienda;
+> etiam deponenda non numquam.
+ 
+Aliqui virtutem laudantes in pectore credunt 
+pecuniam praeponendam esse omnibus aliis bonis. 
+Avaritia copiarum vitandast autem, et gloriae, nam
+ambae libertatem minantur.  (Nota bene: ambae, non ambo!)
+Imperium vel potentiam ducis 
+non semper bonum est possidere, et multis temporibus 
+melius est talem deponere
+
+> Caelo receptus propter virtutem, 
+> Hercules multos deos salutavit; sed Pluto veniente,
+> qui Fortunae est filius, avertit oculos. Tum, causa
+> quaesita, "Odi," inquit, "illum, quod malis amicus est 
+> atque omnia corrumpit lucri causa."
+> (Plutus deus pecuniae est.)
+
+Hercules cum in caelo ingressus esset,
+salutationibus a deis multis acceptis, vidit Plutum 
+et oculos suos avertit. Cum quaesitus esset quare 
+Plutum ita frigide tractavisse, respondit ille 
+dicens, "Ego istum non faveo. Is malos viros 
+gemmis et pretiosis vestimentis ornat, cordes 
+hominum corrumpit amore pecuniae."
+
+
+

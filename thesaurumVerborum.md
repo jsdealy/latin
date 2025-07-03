@@ -79,3 +79,5 @@
 - adimo, ademi, ademptum (3) $\rightarrow$ to take away; rescue; deprive
 - tumultus, -ūs $\rightarrow$ uprising
 - rego, regere, rexi, rectum $\rightarrow$ to rule, direct, guide (correct/direction)
+- depono, ere, posui, positum $\rightarrow$ to put down, resign
+- respondeo, -ēre, -spondi, -sponsum $\rightarrow$ note that this is second conjugation

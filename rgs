@@ -1,0 +1,3 @@
+#!/bin/bash
+
+rg --line-number $1 popma1865cleaned.txt | fzf --preview-window=wrap --preview "batcent {1} {2}"

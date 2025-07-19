@@ -9,9 +9,9 @@
 - Example: Laudare
   - laudare 
   - laudavisse
-  - laudaturum, a, um esse
+  - laudaturus, a, um esse
   - laudari 
-  - laudatum, a, um esse
+  - laudatus, a, um esse
   - laudatum iri
 
 - Note that future active and perfect passive use verbal adjectives (=participles)!
@@ -25,4 +25,12 @@
 - Direct object clause anchor (*iussit eos venire*).
 - Indirect statement / speech report.
 
- 
+## Infinitives in Indirect Statements
+
+- Latin allows for both direct speech reports and indirect speech reports.
+  - Direct (with the special verb "inquit"): *Iulia, magister inquit, discipula est bona*.
+  - Indirect: *Magister dicit Iuliam esse bonam discipulam*.
+
+- Latin indirect statement contrasts with English in two major ways:
+  1. Latin doesn't use subordinate clauses, but rather infinitive phrases with accusative subjects.
+  2. Latin doesn't use a complementizer word like "that" in English.

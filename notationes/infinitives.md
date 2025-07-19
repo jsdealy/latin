@@ -29,8 +29,12 @@
 
 - Latin allows for both direct speech reports and indirect speech reports.
   - Direct (with the special verb "inquit"): *Iulia, magister inquit, discipula est bona*.
+    - "Julia," says the teacher, "is a good student."
   - Indirect: *Magister dicit Iuliam esse bonam discipulam*.
+    - The teacher says that Julia is a good student.
 
 - Latin indirect statement contrasts with English in two major ways:
   1. Latin doesn't use subordinate clauses, but rather infinitive phrases with accusative subjects.
   2. Latin doesn't use a complementizer word like "that" in English.
+
+

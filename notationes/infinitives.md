@@ -55,5 +55,5 @@
 - Present infinitives do not necessarily denote the actual present, but rather
   the same time as the main verb. (E.g., *dixerunt se esse innocentes* --- they said they
   were [then, at the time of their saying so] innocent). 
-- The perfect and future infintives function analogously, relative past and future
-  not absolutely, but relative to the main verb.
+- The perfect and future infintives function analogously, denoting past and future
+  times not absolutely, but relative to the main verb.

@@ -82,3 +82,4 @@
 - depono, ere, posui, positum $\rightarrow$ to put down, resign
 - respondeo, -ēre, -spondi, -sponsum $\rightarrow$ note that this is second conjugation
 - cor, cordis (n) $\rightarrow$ note this is neuter
+- suscipio, -cipere, -cepi, -ceptum $\rightarrow$ to undertake

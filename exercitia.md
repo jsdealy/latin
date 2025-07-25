@@ -385,3 +385,48 @@ gemmis et pretiosis vestimentis ornat, corda
 hominum corrumpit amore pecuniae." 
 
 (Note: note the infinitive tractavisse here!)
+
+# Wheelock CH. 25
+
+1. "Quisque," inquit, "semper putat suas res esse magnas."
+
+> Is dicit quemque putare suas res esse magnas. 
+
+2. Postea audivimus servos donorum causa laboravisse, ut milites fideles heri narraverant.
+
+> paulo post milites dixerunt servos laboravisse tantum munerum causa. 
+
+3. Vicini nostri vim ignis magna virtute dehinc averterunt, quod laudem atque dona cupiverunt.
+
+> ii vicini nostri cupiunt nihil nisi laudem et praemia, et sine causa praeter haec 
+> oppidum a flammis defenderunt.
+
+
+4. Hoc signum periculi totam gentem nostram tanget, nisi hostem ex urbe 
+   excipere ac ab Italia pellere poterimus.
+
+> opus est nobis hostes expellere ab Italia, ne his signis periculi nos cuncti tangerentur.
+
+5. Duce feroci Carthaginis expulso, spes fidesque virorum magnanimorum rem 
+   publicam continebunt.
+
+> cum ferox dux carthaginis expulsus esset, virorum magnorum spes et
+> corda liberata sunt metu. 
+
+6. Cur iucundus Horatius culpas humanas in saturis semper ostendebat atque ridebat?
+
+> perplacet semper horatio vitia humana praebere et ea inridere. 
+
+7. Credimus fidem antiquam omnibus gentibus iterum alendam esse.
+
+> 
+
+8. Dux, ad senatum missus, imperium accepit et imperator factus est.
+9. Res pOblica, ut ait, libelJis huius modi tolJi potest.
+10. Aliqui negant hostes victiis servitiite umqnam opprimendos esse.
+11. Credunt magistram sapientem veritatem patefactOram esse.
+12. Quisquis veritatem recipiet bene educabitur.
+13. We thought that your sisters were wliting the letter.
+14. They will show that the letter was written by the brave slilVegirl.
+15. He said that the letter had never been written.
+16. We hope that the judge's wife will write those two letters tomorrow.

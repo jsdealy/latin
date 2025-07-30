@@ -83,3 +83,4 @@
 - respondeo, -ēre, -spondi, -sponsum $\rightarrow$ note that this is second conjugation
 - cor, cordis (n) $\rightarrow$ note this is neuter
 - suscipio, -cipere, -cepi, -ceptum $\rightarrow$ to undertake
+- dego, degere, degi $\rightarrow$ to spend, pass (time); endure, live on

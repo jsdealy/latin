@@ -32,3 +32,13 @@ nam cum ei luctandum sit, si vincitur a terra, obruitur dominus.
 et haud dubie est ager latus perperam cultus minus confert quam parvus
 accuratissime aratus. 
 
+> But if the stream is far removed from the hills, and if the healthfulness of
+> the region and the somewhat elevated position of its banks allow the pla­cing
+> of the villa above flowing water, care must still be taken that it have the
+> stream at the rear rather than in front of it, and that the front of the
+> structure face away from the harmful winds peculiar to the region and towards
+> those that are most friendly; for most streams reek with mists, hot in summer
+> and cold in winter, and these, unless dispersed by the greater force of winds
+> that blow upon them, are the cause of destruction to man and beast.
+
+sed si amnis collibus procul abest, et si regionis salus et ripae paulo elevatae villa super aquas fluitantes posita esse permittuntur, cures etiam ut amnis post non ante villam sit et frons aedis avertatur a ventis nocentibus illi regioni propriis et in amicissimis. nam pleri amnes asperginibus fumant, calidae in aestate frigidaeque hieme, et nisi disperguntur viribus praestantibus ventús contra fluentium, hominem bestiamque perdunt.

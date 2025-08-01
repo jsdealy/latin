@@ -467,7 +467,6 @@ hominum corrumpit amore pecuniae."
 
 3. Eum ab hostibus exspectari nunc sentis. (Cicero.)
 
-
 4. Vidi eos in urbe remansisse et nobiscum esse. (Cicero.)
 5. Itaque aeternum bellum cum malis civibus a me susceptum esse
 cerno. (Cicero.)

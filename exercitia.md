@@ -419,14 +419,74 @@ hominum corrumpit amore pecuniae."
 
 7. Credimus fidem antiquam omnibus gentibus iterum alendam esse.
 
-> 
+> Ut credimus, omnes fidem antiquam colere debent. 
 
 8. Dux, ad senatum missus, imperium accepit et imperator factus est.
-9. Res pOblica, ut ait, libelJis huius modi tolJi potest.
-10. Aliqui negant hostes victiis servitiite umqnam opprimendos esse.
-11. Credunt magistram sapientem veritatem patefactOram esse.
+
+> cum dux inductus esset in senatum, indutus est imperio, ordinatus est imperator.
+
+9. Res publica, ut ait, libellis huius modi tolli potest.
+
+> libelli scripti hoc modo rem publicam salvare possunt, ut ait.
+
+10. Aliqui negant hostes victos servitute umquam opprimendos esse.
+
+> pauci nostrum affirmant numquam decere hostes superatos opprimendos esse.  
+
+11. Credunt magistram sapientem veritatem patefacturam esse.
+
+> Magistra his documentis se credit veritatem prabituram esse. 
+
 12. Quisquis veritatem recipiet bene educabitur.
-13. We thought that your sisters were wliting the letter.
-14. They will show that the letter was written by the brave slilVegirl.
+
+> si veritas accepta erit, educatus eris.
+
+13. We thought that your sisters were writing the letter.
+
+> credebamus sorores tuas epistulam scribere. 
+
+14. They will show that the letter was written by the brave slave girl.
+
+> demonstrabunt epistulam scriptam esse a serva forti. 
+
 15. He said that the letter had never been written.
+
+> dixit epistulam numquam scriptam esse. 
+
 16. We hope that the judge's wife will write those two letters tomorrow.
+
+> speramus iudicis coniugem epistulas illas duas scribere cras.
+
+1. Id factum esse tum non negavit. (Tercnce.)
+
+> id factum esse eo tempore iste affirmat
+
+2. His rebus pronuntiatis, igitur, eum esse hostem scivisti. (Cicero.)
+
+> cum has res enuntiavisset, eum hostem esse cognovi.
+
+3. Eum ab hostibus exspectari nunc sentis. (Cicero.)
+
+
+4. Vidi eos in urbe remansisse et nobiscum esse. (Cicero.)
+5. Itaque aeternum bellum cum malis civibus a me susceptum esse
+cerno. (Cicero.)
+6. Idem credo tibi faciendum esse. (Cicero.)
+7. le enim esse fidelem mihi sciebam. (Terence.)
+8. Hostibus se in civilalem vertentibus, senatus Cincinnalo nuntiavit
+eum factum esse diclalorem. (Cicero.-Cincinniitus, -i.-dictiitor,
+-toris.)
+9. Dico le, Pyrrhe, ROmanos posse vincere. (Ennius.-Pyrrllus, -i.)
+10. Die, hospes, Spartae te nos hie iacentes vidisse, palriae fideles. (Cic-
+ero; epigram on the Spartans who died at Thermopylae.-hospes,
+-pitis, m., slranger. -Spartae, 10 Sparla.)
+11. Slicrates putabat se esse civem totius mundi. (Cicero.)
+12. IIJi magistri negant quemquam virum esse bonum nisi sapientem.
+(Cicero.-quisquam, quidquam, Iln)'One, anylhing; any.)
+13. NegavT, autem, mortem timendam esse. (Cicero.)
+14. Credo deos immortales sparsisse spirilus in corpora humana. (Cic-
+ero.-spargo, -ere, sparsl, sparsum, 10 seal/er. SOIl'.)
+15. Adulescens sperat se diu vTClurum esse; senex potesl dicere se diu
+vixisse. (Cicero.-Do not confuse victiirum, from vim, with victii-
+rum, from vinco).
+16. Aiunt enim multum legendum esse, non multa. (*Pliny.)

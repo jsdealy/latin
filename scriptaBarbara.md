@@ -42,3 +42,19 @@ accuratissime aratus.
 > that blow upon them, are the cause of destruction to man and beast.
 
 sed si amnis collibus procul abest, et si regionis salus et ripae paulo elevatae villa super aquas fluitantes posita esse permittuntur, cures etiam ut amnis post non ante villam sit et frons aedis avertatur a ventis nocentibus illi regioni propriis et in amicissimis. nam pleri amnes asperginibus fumant, calidae in aestate frigidaeque hieme, et nisi disperguntur viribus praestantibus ventús contra fluentium, hominem bestiamque perdunt.
+
+> To begin with, a knowledge of very many matters must be grasped, without which
+> oratory is but an empty and ridiculous swirl of verbiage: and the distinctive
+> style has to be formed, not only by the choice of words, but also by the
+> arrangement of the same ; and all the mental emotions, with which nature has
+> endowed the human race, are to be intimately understood, because it is in
+> calming or kindling the feelings of the audience that the full power and
+> science of oratory are to be brought into play. To this there should be added a
+> certain humour, flashes of wit, the culture befitting a gentleman, and
+> readiness and terseness alike in repelling and in delivering the attack, the
+> whole being combined with a delicate charm and urbanity. Further, the complete
+> history of the past and a store of precedents must be retained in the memory,
+> nor may a knowledge of statute law and our national law in general be omitted.
+
+ut incipimus, scientia multarum rerum tendena est, sine qua oratio modo vanitas vel gurges vaniloquentiae ridicula est. modus proprius fingendus est non tantum verbis eligendis, sed eisdem ordinandis. et omnes affectus mentis dati a natura hominibus intime intellegendi sunt, quia vires oratorii completae scientiaeque in affectibus tranquillandis vel incendendis audientium adhibendae sunt. Ad hoc addenda sint quaedam iucunditas, aliquae fulminae sagacitatis, cultus aptus domino, et facultas et brevitas repellendi et impetus faciendi, cuncto quodam lepore contexto. porro, historia praeteriti totius et thesaurum praeiudicii memoria tenenda sunt, nec fere licet scientiam legis statuarii vel legis nationis omitti. 
+

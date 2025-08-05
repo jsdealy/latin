@@ -66,4 +66,3 @@ ut incipimus, scientia multarum rerum tendena est, sine qua oratio modo vanitas 
 > knows how few actors there are, or ever have been, whom we could bear to watch!
 
 et quorsum describere modum dicendi oratoris pergam? gubernandum est hoc corpore gerendo, motibus brachiorum, lusitando subtilitatem, vocem versando in pronuntione---et quantum pendat de illo ipso ars actoris levis et theatrum proclamant, nam illic, cum omnes laborent ut ordinent verba, vocem, et motum corporis, quam paucos actores esse, vel umquam fuisse, quos spectare pati possimus sciunt omnes! 
-

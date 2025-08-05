@@ -58,3 +58,12 @@ sed si amnis collibus procul abest, et si regionis salus et ripae paulo elevatae
 
 ut incipimus, scientia multarum rerum tendena est, sine qua oratio modo vanitas vel gurges vaniloquentiae ridicula est. modus proprius fingendus est non tantum verbis eligendis, sed eisdem ordinandis. et omnes affectus mentis dati a natura hominibus intime intellegendi sunt, quia vires oratorii completae scientiaeque in affectibus tranquillandis vel incendendis audientium adhibendae sunt. Ad hoc addenda sint quaedam iucunditas, aliquae fulminae sagacitatis, cultus aptus domino, et facultas et brevitas repellendi et impetus faciendi, cuncto quodam lepore contexto. porro, historia praeteriti totius et thesaurum praeiudicii memoria tenenda sunt, nec fere licet scientiam legis statuarii vel legis nationis omitti. 
 
+> And why should I go on to describe the speaker's delivery? That needs to be
+> controlled by bodily carriage, gesture, play of features and changing
+> intonation of voice; and how important that is wholly by itself, the actor's
+> trivial art and the stage proclaim ; for there, although all are labouring to
+> regulate the expression, the voice, and the movements of the body, everyone
+> knows how few actors there are, or ever have been, whom we could bear to watch!
+
+et quorsum describere modum dicendi oratoris pergam? gubernandum est hoc corpore gerendo, motibus brachiorum, lusitando subtilitatem, vocem versando in pronuntione---et quantum pendat de illo ipso ars actoris levis et theatrum proclamant, nam illic, cum omnes laborent ut ordinent verba, vocem, et motum corporis, quam paucos actores esse, vel umquam fuisse, quos spectare pati possimus sciunt omnes! 
+

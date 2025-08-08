@@ -467,19 +467,36 @@ hominum corrumpit amore pecuniae."
 
 3. Eum ab hostibus exspectari nunc sentis. (Cicero.)
 
+> rerisne nunc hostes eum exspectare? 
+
 4. Vidi eos in urbe remansisse et nobiscum esse. (Cicero.)
-5. Itaque aeternum bellum cum malis civibus a me susceptum esse
-cerno. (Cicero.)
+
+> ut videbam, ii in urbe remanuerunt et nobiscum versantur. 
+
+5. Itaque aeternum bellum cum malis civibus a me susceptum esse cerno. (Cicero.)
+
+> percipio me sempiterne dimicaturum esse contra viris vitiossisimis nostrae
+> civitatis.(Note: not viribus, as that would mean most wicked *forces*.)
+
 6. Idem credo tibi faciendum esse. (Cicero.)
-7. le enim esse fidelem mihi sciebam. (Terence.)
-8. Hostibus se in civilalem vertentibus, senatus Cincinnalo nuntiavit
-eum factum esse diclalorem. (Cicero.-Cincinniitus, -i.-dictiitor,
--toris.)
-9. Dico le, Pyrrhe, ROmanos posse vincere. (Ennius.-Pyrrllus, -i.)
-10. Die, hospes, Spartae te nos hie iacentes vidisse, palriae fideles. (Cic-
-ero; epigram on the Spartans who died at Thermopylae.-hospes,
--pitis, m., slranger. -Spartae, 10 Sparla.)
+
+> tibi accipiendum idem esse reor
+
+7. Te enim esse fidelem mihi sciebam. (Terence.)
+
+> semper novi te mihi fidelem fuisse
+
+8. Hostibus se in civitatem vertentibus, senatus Cincinnato nuntiavit eum factum esse dictatorem. 
+
+> cum hostes civitatem oppressuri minati essent, cincinnatus praefectus
+est toti exercitui dictator.
+
+9. Dico te, Pyrrhe, Romanos posse vincere. 
+
+10. Die, hospes, Spartae te nos hie iacentes vidisse, palriae fideles. 
+
 11. Slicrates putabat se esse civem totius mundi. (Cicero.)
+
 12. IIJi magistri negant quemquam virum esse bonum nisi sapientem.
 (Cicero.-quisquam, quidquam, Iln)'One, anylhing; any.)
 13. NegavT, autem, mortem timendam esse. (Cicero.)

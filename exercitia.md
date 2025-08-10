@@ -488,8 +488,7 @@ hominum corrumpit amore pecuniae."
 
 8. Hostibus se in civitatem vertentibus, senatus Cincinnato nuntiavit eum factum esse dictatorem. 
 
-> cum hostes civitatem oppressuri minati essent, cincinnatus praefectus
-est toti exercitui dictator.
+> cum hostes civitatem oppressuri minati essent, cincinnatus praefectus est toti exercitui dictator.
 
 9. Dico te, Pyrrhe, Romanos posse vincere. 
 

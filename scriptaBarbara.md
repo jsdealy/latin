@@ -58,6 +58,32 @@ sed si amnis collibus procul abest, et si regionis salus et ripae paulo elevatae
 
 ut incipimus, scientia multarum rerum tendena est, sine qua oratio modo vanitas vel gurges vaniloquentiae ridicula est. modus proprius fingendus est non tantum verbis eligendis, sed eisdem ordinandis. et omnes affectus mentis dati a natura hominibus intime intellegendi sunt, quia vires oratorii completae scientiaeque in affectibus tranquillandis vel incendendis audientium adhibendae sunt. Ad hoc addenda sint quaedam iucunditas, aliquae fulminae sagacitatis, cultus aptus domino, et facultas et brevitas repellendi et impetus faciendi, cuncto quodam lepore contexto. porro, historia praeteriti totius et thesaurum praeiudicii memoria tenenda sunt, nec fere licet scientiam legis statuarii vel legis nationis omitti. 
 
+> And the Lord said to Samuel: How long wilt thou mourn for Saul, whom I have
+> rejected from reigning over Israel? fill thy horn with oil, and come, that I
+> may send thee to Isai the Bethlehemite: for I have provided me a king among his
+> sons.  And Samuel said: How shall I go? for Saul will hear of it, and he will
+> kill me. And the Lord said: Thou shalt take with thee a calf of the herd, and
+> thou shalt say: I am come to sacrifice to the Lord.  And thou shalt call Isai
+> to the sacrifice, and I will shew thee what thou art to do, and thou shalt
+> anoint him whom I shall shew to thee.  Then Samuel did as the Lord had said to
+> him. And he came to Bethlehem, and the ancients of the city wondered, and
+> meeting him, they said: Is thy coming hither peaceable?  And he said: It is
+> peaceable: I am come to offer sacrifice to the Lord, be ye sanctified, and come
+> with me to the sacrifice. And he sanctified Isai and his sons, and called them
+> to the sacrifice.
+
+et dominus dicit samueli: quanto tempore luges saulum, quem regnare super
+israelem abnui? completo cornu oleo, et veni, ut te mittam isaio,  nam intra
+filios eius regem mihi providi. et ait samuel: quomodo vadam? saul de hoc
+audiverit et me interficiet. et ait dominus: tu tecum vitulam gregis ceperis,
+et dicas: perveni ad sacrificium faciendum domino. et advocaveris isaium ad
+sacrificium, et quod tibi faciendum est monstrabo ego, et unxeris eum tibi a me
+tum monstratum. deinde samuel facit quod dixit ei dominus. et pervenit
+bethlehem, et vetusti urbis admirantur, et eum obvenientes aiunt: pervenis hic
+in pace? et ait: ita. veni ut sacrificium domino faciam, sanctificantor,
+comitatote mecum ad sacrificium. et sanctificat isaium liberosque eius, et eos
+ad sacrificium advocat. 
+
 > And why should I go on to describe the speaker's delivery? That needs to be
 > controlled by bodily carriage, gesture, play of features and changing
 > intonation of voice; and how important that is wholly by itself, the actor's
@@ -84,4 +110,22 @@ officiis adhiberi latissime posse videntur.
 
 omnis interpretatio scripturae duabus rebus pendet: discendo id quod discendum est, et praebendo discitum. disseram de discendo primum, deinde de praebendo. magna moles et ardua haec, difficile sustineri, et ut timeo, imprudens moliri. 
 
+> What is truth? said jesting Pilate; and would not stay for an answer.
+> Certainly, there be that delight in giddiness; and count it a bondage to fix a
+> belief; affecting freewill in thinking as well as in acting. And though the
+> sects of philosophers of that kind be gone, yet there remain certain
+> discoursing wits which are of the same veins, though there be not so much blood
+> in them as was in those of the ancients. But it is not only the difficulty and
+> labor which men take in finding out of truth: nor again, that, when it is
+> found, it imposeth upon men’s thoughts, that doth bring lies in favor; but a
+> natural though corrupt love of the lie itself. One of the later schools of the
+> Grecians examineth the matter, and is at a stand to think what should be in it
+> that men should love lies; where neither they make for pleasure, as with poets;
+> nor for advantage, as with the merchant, but for the lie’s sake.
+
+quid est veritas? ita cavillatus Pilatus, et manere ad 
+responsum noluit. certe sunt qui ludendo luxurient, et 
+pro vinculis ullam firmitatem credendi considerent. 
+voluntate liberata praeditos esse simulantes cum cogitant 
+atque cum agunt. 
 

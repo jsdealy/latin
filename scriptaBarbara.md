@@ -110,4 +110,22 @@ officiis adhiberi latissime posse videntur.
 
 omnis interpretatio scripturae duabus rebus pendet: discendo id quod discendum est, et praebendo discitum. disseram de discendo primum, deinde de praebendo. magna moles et ardua haec, difficile sustineri, et ut timeo, imprudens moliri. 
 
+> What is truth? said jesting Pilate; and would not stay for an answer.
+> Certainly, there be that delight in giddiness; and count it a bondage to fix a
+> belief; affecting freewill in thinking as well as in acting. And though the
+> sects of philosophers of that kind be gone, yet there remain certain
+> discoursing wits which are of the same veins, though there be not so much blood
+> in them as was in those of the ancients. But it is not only the difficulty and
+> labor which men take in finding out of truth: nor again, that, when it is
+> found, it imposeth upon men’s thoughts, that doth bring lies in favor; but a
+> natural though corrupt love of the lie itself. One of the later schools of the
+> Grecians examineth the matter, and is at a stand to think what should be in it
+> that men should love lies; where neither they make for pleasure, as with poets;
+> nor for advantage, as with the merchant, but for the lie’s sake.
+
+quid est veritas? ita cavillatus Pilatus, et manere ad 
+responsum noluit. certe sunt qui ludendo luxurient, et 
+pro vinculis ullam firmitatem credendi considerent. 
+voluntate liberata praeditos esse simulantes cum cogitant 
+atque cum agunt. 
 

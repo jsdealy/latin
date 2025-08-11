@@ -123,9 +123,33 @@ omnis interpretatio scripturae duabus rebus pendet: discendo id quod discendum e
 > that men should love lies; where neither they make for pleasure, as with poets;
 > nor for advantage, as with the merchant, but for the lie’s sake.
 
-quid est veritas? ita cavillatus Pilatus, et manere ad 
-responsum noluit. certe sunt qui ludendo luxurient, et 
-pro vinculis ullam firmitatem credendi considerent. 
-voluntate liberata praeditos esse simulantes cum cogitant 
-atque cum agunt. 
+quid est veritas? ita cavillatus Pilatus, et opperiri responsum noluit. certe sunt qui ludendo luxurient, et pro vinculis ullam firmitatem credendi considerent. voluntate liberata praeditos esse simulantes cum cogitant atque cum agunt. quamquam greges philosophorum illius gentis defuncti sunt, remanent etiam quidam et loquaces et lepidi qui consanguinei sunt, at minus in eis sanguis currit quam infuerunt in antiquissimis. sed causa mendacii efflorescendi non tantum inest difficultatibus laboribusque quae ab hominibus adsumuntur quaerentibus veritatem, neque in modo quo, cum veritas invenitur, cogitationes hominum ea opprimuntur, sed in amore naturali at corrupto mendacii ipsius. aliqua schola sera graeca hac rem inquirens nequeunt intellegere quomodo mendacia amari ab hominibus possunt cum neque placent sicut poetis, neque prosint, sicut mercatoribus, sed gratia mendacii ipsius.
 
+> Useful exercises are: reading aloud, drill, handball, running, walking; but
+> this is not by any means most useful on the level, since walking up and down
+> hill varies the movement of the body, unless indeed the body is thoroughly
+> weak; but it is better to walk in the open air than under cover; better,
+> when the head allows of it, in the sun than in the shade; better under the
+> shade of a wall or of trees than under a roof; better a straight than a winding walk.
+
+exercitia utilia sunt recitare, decurrere, follem ludere, currere, ambulare; sed si in aequore exerces, nequaquam tibi prodest ullum horum, nam colle ambulando sursum deorsumque motus corporis fluctuat, nisi scilicet corpus penitus defessum est. sed melius foris ambulare quam sub tegumento; melius, cum caput permittit, in sole quam in umbris; melius sub umbraculo muri vel arborum quam tecto; melius prorsus ambulare quam errare.
+
+> But I cannot tell; this same truth is a naked and open daylight, that doth not
+> show the masks, and mummeries, and triumphs of the world, half so stately and
+> daintily as candle-lights. Truth may perhaps come to the price of a pearl, that
+> showeth best by day, but it will not rise to the price of a diamond or
+> carbuncle, that showeth best in varied lights. A mixture of a lie doth ever add
+> pleasure. Doth any man doubt, that if there were taken out of men’s minds vain
+> opinions, flattering hopes, false valuations, imaginations as one would, and
+> the like, but it would leave the minds of a number of men poor shrunken things,
+> full of melancholy and indisposition, and unpleasing to themselves? One of the
+> fathers, in great severity, called poesy “vinum dæmonum,” because it filleth
+> the imagination, and yet it is but with the shadow of a lie. But it is not the
+> lie that passeth through the mind, but the lie that sinketh in, and settleth in
+> it, that doth the hurt, such as we spake of before. But howsoever these things
+> are thus in men’s depraved judgments and affections, yet truth, which only doth
+> judge itself, teacheth that the inquiry of truth, which is the love-making, or
+> wooing of it, the knowledge of truth, which is the presence of it, and the
+> belief of truth, which is the enjoying of it, is the sovereign good of human nature.
+
+nequeo discernere. haec eadem veritas nuda est apertaque lux diei, quae praebet personas, histriones, victorias mundi non dimidie tam eleganter belluleque quam lux candelae. veritas fortasse pretium margaritae attinet, quae die optime lucet, sed non adipisci alta adamantis possit, vel gemmae, quae se ostendunt optime luce mutante. mendacio paulo admixto, voluptas semper augetur. Dubitatne aliquis, an si raperentur ex hominibus opiniones vana, spes blandae, estimationes falsae, imaginationes rerum cupitarum, et similia, id quod relinquerentur in mentibus plurum hominum exsanguie et desiccatum esset, completum tristitia et absurditate, sibi odiosum? unus pater severissime poesem "vinum daemonum" nominat quia imaginatio complet, tamen umbra mendacii. sed volans per mente mendacium non nocet, sed haerens et sedens, ut ante dictum est. at quomodocumque hae res in iudiciis affectibusque pravis hominum sunt, tamen veritas, tantum de se iudicans, exquisitionem veritatis, id est eam complectare et procare, scientiam veritatis, id est eam in promptu habere, et assensionem veritatis, id est ea frui, esse summum bonum humanitatis docet.

@@ -2,6 +2,43 @@
 
 ## 1
 
+extra simple: 
+
+Miltiades, filius Cimonis, Atheniensis, erat clarus genere antiquo, gloria
+maiorum, et sua modestia. Is aetatem habebat, ut cives bene sperare et certe
+credere possent eum futurum bonum virum, sicut postea viderunt. Accidit, ut
+Athenienses colonos in Chersonesum mittere vellent. Multi hoc facere volebant.
+Ex his pauci electi sunt et Delphos missi, ut Apollinem rogarent, quem ducem
+caperent. Tum Thraces eas terras tenebant, cum quibus pugnandum erat. Pythia
+iussit eos Miltiadem ducem facere. Si hoc facerent, res bene procederet. Hoc
+responso, Miltiades cum paucis navibus ad Chersonesum profectus est. Cum ad
+Lemnum venisset et incolas sub potestatem Atheniensium ponere vellet, Lemnii id
+facere noluerunt. Cum rogatus esset, illi risu dixerunt se id facturos esse, si
+ille domo vento aquilone venisset. Hic ventus a septentrione flat et contra est
+navigantibus ex Athenis. Miltiades, cum morari nollet, rectum iter fecit et
+Chersonesum venit.
+
+simplified: 
+
+Miltiades, filius Cimonis, Atheniensis, genere antiquo et gloria maiorum et sua
+modestia inter omnes maxime clarus erat. Is tali aetate erat, ut cives non
+solum de eo bene sperare, sed etiam certo credere possent eum talem futurum,
+qualem postea experti sunt. Accidit, ut Athenienses colonos in Chersonesum
+mittere vellent. Eius generis hominum numerus magnus erat, et multi in eam
+migrationem ire cupiebant. Ex his quidam electi sunt et Delphos missi, ut
+Apollinem rogarent, quo duce uti deberent. Eo tempore Thraces eas terras
+tenebant, cum quibus armis pugnandum erat. His consulibus Pythia nominatim
+praecepit, ut Miltiadem ducem sumerent. Si hoc facerent, res bene successurae
+erant. Hoc responso accepto, Miltiades cum manu delecta navibus ad Chersonesum
+profectus est. Cum ad insulam Lemnum venisset et incolas sub potestatem
+Atheniensium redigere vellet, Lemnii sua voluntate id facere non volebant. Cum
+postulasset, illi iocantes responderunt se id facturos esse tum, cum ille domo
+navibus profectus vento aquilone venisset Lemnum. Hic ventus ab septentrione
+flat et Atheniensibus proficiscentibus adversus est. Miltiades, cum tempus
+morandi non haberet, rectum iter continuavit et Chersonesum pervenit.
+
+original:
+
 MILTIADES, Cimonis filius, Atheniensis, cum et antiquitate generis
 et gloria maiorum et sua modestia unus omnium maxime floreret eaque
 esset aetate, ut non iam solum de eo bene sperare, sed etiam confidere

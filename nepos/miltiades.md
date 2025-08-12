@@ -61,20 +61,56 @@ pervenitque Chersonesum.
 
 ## 2
 
+very simple:
+
+Ibi, post breve tempus, barbaros vicit et totam regionem cepit. Loca alta et
+tuta muro firmavit. Homines, quos secum duxerat, in agris habitare iussit.
+Multis parvis bellis eos locupletavit. Consilio et fortuna idem valuit. Cum
+virtute militum hostes vicisset, aequo animo omnia constituit. Ipse ibi manere
+voluit. Apud eos erat quasi rex, sed nomen regis non habebat. Hoc non vi, sed
+iustitia obtinuerat. Atheniensibus semper bene fecit. Ita semper imperium
+tenuit voluntate eorum qui miserant et eorum cum quibus vivebat. Postquam
+Chersonesum sic firmavit, Lemnum rediit. Petivit urbem, sicut pacti erant. Illi
+dixerant se dare, si ille vento septentrionali domo venisset. Dicebant domum
+suam esse in Chersoneso. Cares, qui tum Lemnum incolebant, quamquam res aliter
+ceciderat, tamen propter fortunam adversariorum non resistere ausi sunt. Ita ex
+insula abierunt. Eadem fortuna ceteras insulas, quae Cyclades vocantur, sub
+potestatem Atheniensium misit.
+
+simplified: 
+
+Ibi, brevi tempore, barbaris copiis victis, totam regionem quam petierat cepit.
+Loca ad castra idonea munivit. Multitudinem, quam secum duxerat, in agris
+posuit et multis excursionibus divitem fecit. Non minus consilio quam fortuna
+adiutus est. Nam, cum virtute militum hostes vicisset, summa aequitate res
+constituit. Ipse ibi manere decrevit. Erat apud eos dignitate regia, quamvis
+nomen regis non habebat. Hoc autem non magis vi quam iustitia consecutus erat.
+Atheniensibus, a quibus profectus erat, officia praestabat. Ita fiebat, ut
+imperium semper haberet voluntate eorum qui miserant et eorum cum quibus
+venerat. Chersoneso sic constituta, Lemnum revertitur et, ex pacto, postulat ut
+urbem sibi tradant. Illi enim dixerant se id facturos esse, si ille vento borea
+domo profectus eo venisset. Dixerant etiam domum suam esse in Chersoneso.
+Cares, qui tum Lemnum incolebant, etsi res contra opinionem ceciderat, tamen,
+fortuna adversariorum secunda, resistere non ausi sunt et ex insula abierunt.
+Eadem felicitate ceteras insulas, quae Cyclades appellantur, sub potestatem
+Atheniensium redegit.
+
+original:
+
 Ibi brevi tempore barbarum copiis disiectis tota regione, quam
 petierat, potitus, loca castellis idonea communiit, multitudinem, quam
 secum duxerat, in agris collocavit crebrisque excursionibus
-locupletavit. 2 Neque minus in ea re prudentia quam felicitate adiutus
+locupletavit. Neque minus in ea re prudentia quam felicitate adiutus
 est. Nam cum virtute militum devicisset hostium exercitus, summa
-aequitate res constituit atque ipse ibidem manere decrevit. 3 Erat enim
+aequitate res constituit atque ipse ibidem manere decrevit. Erat enim
 inter eos dignitate regia, quamvis carebat nomine, neque id magis
 imperio quam iustitia consecutus. Neque eo setius Atheniensibus, a
 quibus erat profectus, officia praestabat. Quibus rebus fiebat, ut non
 minus eorum voluntate perpetuo imperium obtineret, qui miserant, quam
-illorum, cum quibus erat profectus. 4 Chersoneso tali modo constituta
+illorum, cum quibus erat profectus. Chersoneso tali modo constituta
 Lemnum revertitur et ex pacto postulat, ut sibi urbem tradant. Illi enim
 dixerant, cum vento borea domo profectus eo pervenisset, sese dedituros:
-se autem domum Chersonesi habere. 5 Cares, qui tum Lemnum incolebant,
+se autem domum Chersonesi habere. Cares, qui tum Lemnum incolebant,
 etsi praeter opinionem res ceciderat, tamen non dicto, sed secunda
 fortuna adversariorum capti resistere ausi non sunt atque ex insula
 demigrarunt. Pari felicitate ceteras insulas, quae Cyclades nominantur,

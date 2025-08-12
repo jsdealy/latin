@@ -9,14 +9,14 @@ maiorum, et sua modestia. Is aetatem habebat, ut cives bene sperare et certe
 credere possent eum futurum bonum virum, sicut postea viderunt. Accidit, ut
 Athenienses colonos in Chersonesum mittere vellent. Multi hoc facere volebant.
 Ex his pauci electi sunt et Delphos missi, ut Apollinem rogarent, quem ducem
-caperent. Tum Thraces eas terras tenebant, cum quibus pugnandum erat. Pythia
-iussit eos Miltiadem ducem facere. Si hoc facerent, res bene procederet. Hoc
-responso, Miltiades cum paucis navibus ad Chersonesum profectus est. Cum ad
-Lemnum venisset et incolas sub potestatem Atheniensium ponere vellet, Lemnii id
-facere noluerunt. Cum rogatus esset, illi risu dixerunt se id facturos esse, si
-ille domo vento aquilone venisset. Hic ventus a septentrione flat et contra est
-navigantibus ex Athenis. Miltiades, cum morari nollet, rectum iter fecit et
-Chersonesum venit.
+caperent. Tum Thraces eas terras tenebant, cum quibus pugnandum erat. Pythia,
+femina quae ibi oracula dicebat, iussit eos Miltiadem ducem facere. Si hoc
+facerent, res bene procederet. Hoc responso, Miltiades cum paucis navibus ad
+Chersonesum profectus est. Cum ad Lemnum venisset et incolas sub potestatem
+Atheniensium ponere vellet, Lemnii id facere noluerunt. Cum rogatus esset, illi
+cum risu dixerunt se id facturos esse, si ille domo vento aquilone venisset. Hic
+ventus a septentrione flat et contra est navigantibus ex Athenis. Miltiades,
+cum morari nollet, rectum iter fecit et Chersonesum venit.
 
 simplified: 
 

@@ -153,3 +153,36 @@ exercitia utilia sunt recitare, decurrere, follem ludere, currere, ambulare; sed
 > belief of truth, which is the enjoying of it, is the sovereign good of human nature.
 
 nequeo discernere. haec eadem veritas nuda est apertaque lux diei, quae praebet personas, histriones, victorias mundi non dimidie tam eleganter belluleque quam lux candelae. veritas fortasse pretium margaritae attinet, quae die optime lucet, sed non adipisci alta adamantis possit, vel gemmae, quae se ostendunt optime luce mutante. mendacio paulo admixto, voluptas semper augetur. Dubitatne aliquis, an si raperentur ex hominibus opiniones vana, spes blandae, estimationes falsae, imaginationes rerum cupitarum, et similia, id quod relinquerentur in mentibus plurum hominum exsanguie et desiccatum esset, completum tristitia et absurditate, sibi odiosum? unus pater severissime poesem "vinum daemonum" nominat quia imaginatio complet, tamen umbra mendacii. sed volans per mente mendacium non nocet, sed haerens et sedens, ut ante dictum est. at quomodocumque hae res in iudiciis affectibusque pravis hominum sunt, tamen veritas, tantum de se iudicans, exquisitionem veritatis, id est eam complectare et procare, scientiam veritatis, id est eam in promptu habere, et assensionem veritatis, id est ea frui, esse summum bonum humanitatis docet.
+
+> Every task assigned by the Emperor demands an earnest sense of responsibility,
+> and whether by a watchful concern which is mine by nature or by loyalty which
+> is sincere and attentive, I am roused not merely to the competent performance
+> of an entrusted task, but even to feel devotion towards it. It happens now that
+> Nerva Augustus, an Emperor whose attitude towards the state is one of
+> special devotion or, perhaps better, of special love, has imposed upon me the
+> duties of water commissioner, a post which relates to matters not only
+> generally useful, but necessary for the health, even the security, of the City,
+> an office which has always been administered by the foremost men of our
+> commonwealth.
+
+omne pensum a imperatore assignatum indiget sensu officii sincero, et utrum a cura vigilanti naturali an a fide vera et adspicienti, excitor non modo ad confisum pensum apte perficiendum, sed ut etiam eidem me dicatum esse sentiar. accidit nunc ut nerva augustus, imperator qui rei publicae dedicationem specialem sentiat, vel potius, amorem specialem, officium aquae commisarii mihi imposueret, munus non solum pertinens ad res vulgo utiles, sed quibus salus, etiam securitas urbis nostrae, pendet. hoc officium semper a principalibus rei publicae nostrae procuratum est. 
+
+> The first creature of God, in the works of the days, was the light of the
+> sense; the last was the light of reason; and his sabbath work, ever since, is
+> the illumination of his Spirit. First, he breathed light upon the face of the
+> matter, or chaos; then he breathed light into the face of man; and still he
+> breatheth and inspireth light into the face of his chosen. The poet that
+> beautified the sect, that was otherwise inferior to the rest, saith yet
+> excellently well: “It is a pleasure to stand upon the shore, and to see ships
+> tossed upon the sea; a pleasure to stand in the window of a castle, and to see
+> a battle, and the adventures thereof below; but no pleasure is comparable to
+> the standing upon the vantage-ground of truth” (a hill not to be commanded, and
+> where the air is always clear and serene), “and to see the errors, and
+> wanderings, and mists, and tempests, in the vale below;” so always that this
+> prospect be with pity, and not with swelling or pride. Certainly it is heaven
+> upon earth, to have a man’s mind move in charity, rest in providence, and turn
+> upon the poles of truth.
+
+prima creatura dei in operibus dierum lux sensus fuit---ultima lux rationis fuit. et opus sabbati dehinc lux spiritus eius est. initio, lucem in faciem materiae, vel chai, adspiravit; deinde spiravit lucem faciebus hominum; adhuc spirat et inspirat lucem faciebus electorum. poeta qui gregem illum beatum fecit quod aliter infimum aliis erat, splendide dicit: placet stare in ora adspectans naves undis vexatas; voluptas aspicere per fenestram arcis est, proelium periculumque videns infra evolventia; sed quid possit voluptas aequare stantis in summa veritatis---collis non imperandus, ubi aer semper purus et serenus est---notans errores et nebulas et tempestates, infra in valle---ita semper prospectus ille misericordiae adiunctus est, non inflationi vel superbiae. caelum certe in mundo est si mens hominis movetur caritate, quiescat in providentia, et in axibus veritatis volvitur. 
+
+

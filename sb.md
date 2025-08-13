@@ -84,6 +84,17 @@ in pace? et ait: ita. veni ut sacrificium domino faciam, sanctificantor,
 comitatote mecum ad sacrificium. et sanctificat isaium liberosque eius, et eos
 ad sacrificium advocat. 
 
+> Let us therefore cease to wonder what may be the cause of the rarity of
+> orators, since oratory is the result of a whole number of things, in any one of
+> which to succeed is a great achievement, and let us rather exhort our children,
+> and the others whose fame and repute are dear to us, to form a true
+> understanding of the greatness of their task, and not to believe that they can
+> gain their coveted object by reliance on the rules or teachers or methods of
+> practice employed by everybody, but to rest assured that they can do this by
+> the help of certain other means.
+
+desinamus mirari qua de causa oratores rarissimi sunt, nam oratio efficitur multis e rebus in una quarum excellere egregium sit. itaque liberos nostros aliosque quorum fama existimatioque nobis carae sunt adhortamur ut veram conceptionem magnitudinis periculi fingant, et ne credant id quod cupiant persequi regulis, praeceptoribus, methodis turbae sequendo, sed confirmentur se hoc perficere posse per auxilium alterius materiae.
+
 > And why should I go on to describe the speaker's delivery? That needs to be
 > controlled by bodily carriage, gesture, play of features and changing
 > intonation of voice; and how important that is wholly by itself, the actor's
@@ -185,4 +196,10 @@ omne pensum a imperatore assignatum indiget sensu officii sincero, et utrum a cu
 
 prima creatura dei in operibus dierum lux sensus fuit---ultima lux rationis fuit. et opus sabbati dehinc lux spiritus eius est. initio, lucem in faciem materiae, vel chai, adspiravit; deinde spiravit lucem faciebus hominum; adhuc spirat et inspirat lucem faciebus electorum. poeta qui gregem illum beatum fecit quod aliter infimum aliis erat, splendide dicit: placet stare in ora adspectans naves undis vexatas; voluptas aspicere per fenestram arcis est, proelium periculumque videns infra evolventia; sed quid possit voluptas aequare stantis in summa veritatis---collis non imperandus, ubi aer semper purus et serenus est---notans errores et nebulas et tempestates, infra in valle---ita semper prospectus ille misericordiae adiunctus est, non inflationi vel superbiae. caelum certe in mundo est si mens hominis movetur caritate, quiescat in providentia, et in axibus veritatis volvitur. 
 
+> The third type of question arises when that which seems to be expedient seems
+> to conflict with that which is morally right; for when expediency seems to be
+> pulling one way, while moral right seems to be calling back in the opposite
+> direction, the result is that the mind is distracted in its inquiry and brings
+> to it the irresolution that is born of deliberation.
 
+cum id quod fas est expedienti discrepare videatur, tertia percontatio obvenitur. cum enim nos trahi illo ab lucro, altero ab eo quod fas est, videmur, evenitur ut mens inquirens confundatur, et dubitationem deliberatione natam sibi imponat.

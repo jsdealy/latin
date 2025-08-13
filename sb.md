@@ -203,3 +203,34 @@ prima creatura dei in operibus dierum lux sensus fuit---ultima lux rationis fuit
 > to it the irresolution that is born of deliberation.
 
 cum id quod fas est expedienti discrepare videatur, tertia percontatio obvenitur. cum enim nos trahi illo ab lucro, altero ab eo quod fas est, videmur, evenitur ut mens inquirens confundatur, et dubitationem deliberatione natam sibi imponat.
+
+> To pass from theological and philosophical truth to the truth of civil
+> business; it will be acknowledged, even by those that practise it not, that
+> clear and round dealing is the honor of man’s nature, and that mixture of
+> falsehood is like alloy in coin of gold and silver, which may make the metal
+> work the better, but it embaseth it. For these winding and crooked courses are
+> the goings of the serpent; which goeth basely upon the belly, and not upon the
+> feet. There is no vice that doth so cover a man with shame, as to be found
+> false and perfidious; and therefore Montaigne saith prettily, when he inquired
+> the reason why the word of the lie should be such a disgrace, and such an
+> odious charge: saith he, “If it be well weighed, to say that a man lieth, is as
+> much as to say that he is brave towards God and a coward towards men. For a lie
+> faces God, and shrinks from man;” surely, the wickedness of falsehood and
+> breach of faith cannot possibly be so highly expressed, as in that it shall be
+> the last peal to call the judgments of God upon the generations of men: it
+> being foretold, that, when “Christ cometh,” he shall not “find faith upon the 
+> earth.”
+
+si transeamus ab veritate theologica et philosophica ad veritatem negotii
+civilis, agnoscetur, etiam ab eis non id exercentibus, clare et plene gerere
+honor est naturae hominum, et falsum admiscere sicut plumbum inplicare in
+argento vel auro est, quo fit metallum mollius, sed depravatur. nam ii cursus
+errantes sunt serpentibus, pronis, non pedibus, eantibus. non est vitium quo
+tam obruimur ut id falsum perfidiumque iudicetur, itaque montaigne belle dicit,
+cum inquisivit cur vocabulum mendacii tanta infamia sit, et tam accusatio
+odiosa, ait, si bene aestimatum est, dicere hominem mentitum esse tantum est
+dicere eum audacem deo ignavum hominibus esse, quoniam cum mentimur, obicimur
+deo et ab hominibus recedimus. malitia scilicit falsi et perfidium non possunt
+altius exprimere quam hoc, tuba ultima advocans iudicio dei saeculorum
+humanitatis, nam praedictum est, cum christus advenerit, fidem in mundo non
+repertam iri.

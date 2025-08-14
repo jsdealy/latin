@@ -269,4 +269,8 @@ repertam iri.
 > tenderest of affections) provoked many to die out of mere compassion to their
 > sovereign, and as the truest sort of followers
 
-homines mortem timent 
+sicut parvuli timent tenebras inire homines mortem timent, et veluti primus timor fabulis augetur, ita secundus. certe, contemplatio mortis, ut merces peccati, et transitio in alio mundo, sacra religiosaque est; sed timor eiusdem, ut testamentum naturae, ignavus est. tamen in meditationibus religiosis nonnumquam confusio vanitatis et superstitionis est. legeris in aliquibus libris sacerdotum de mortificatione, hominem debet consilium sibi capere, quid esset dolor, si tantum cuspis digiti sui comprimeretur vel cruciaretur, et inde imaginare quid dolor mortis est, cum totum corpus corruitur et dissolvitur, nam saepe mortus transitus est minus cum dolore quam ubi artus excruciatur, quoniam vitalia non sunt alacerrima sensu. et ab eo qui modo ut philosophus et homo naturalis dixit, bene dicitur, "Pompa mortis magis terret, quam mors ipsa." gemitús et convulsiones, facies male colorata, amici flentes, et atra et exequiae, et similia, mortum terribilem esse demonstrant. est dignum notatu, nullum affectum in mente hominis tam fessum esse ne timorem per eo superetur, et igitur mors non est tam inimicus terribilis, cum homo tot adiutores in promptu habet qui id expugnare possint. ultio mortem vincit; amor id abicit; honor id studet; maeror ad id volat; timor id preoccupat; immo, ut legimus, postquam otho imperator sua manu interfectus est, misericordia, tenerrimus affectus, multas ad se interficiendas ex mera miseratione regi incitavit, verissima secutores.
+
+
+
+

@@ -204,6 +204,18 @@ prima creatura dei in operibus dierum lux sensus fuit---ultima lux rationis fuit
 
 cum id quod fas est expedienti discrepare videatur, tertia percontatio obvenitur. cum enim nos trahi illo ab lucro, altero ab eo quod fas est, videmur, evenitur ut mens inquirens confundatur, et dubitationem deliberatione natam sibi imponat.
 
+
+> Perhaps, to the uninformed, it may appear unaccountable that a man should be
+> able to retain in his memory such a variety of learning; but the close alliance
+> with each other, of the different branches of science, will explain the
+> difficulty. For as a body is composed of various concordant members, so does
+> the whole circle of learning consist in one harmonious system. Wherefore those,
+> who from an early age are initiated in the different branches of learning, have
+> a facility in acquiring some knowledge of all, from their common connexion with
+> each other.
+
+forsan, ignorantibus, inexplicabile videtur cum unus homo memoria sua tenet tantum varietatis scientiae; sed difficultas explicetur si in artissima coniunctione inter omnes ramos scientiae spectamus. nam sicut corpus ex variis membris concordantibus connexum est, ita cunctus circulus scientiarum uno toto concordanti constat. igitur ii qui prima aetate in diversis spatiis scientiae initi sunt, potentiam ad aliquantum ex omnibus colligendum adepti sunt, omnibus mutuo connexis.
+
 > To pass from theological and philosophical truth to the truth of civil
 > business; it will be acknowledged, even by those that practise it not, that
 > clear and round dealing is the honor of man’s nature, and that mixture of

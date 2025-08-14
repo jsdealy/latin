@@ -272,5 +272,20 @@ repertam iri.
 sicut parvuli timent tenebras inire homines mortem timent, et veluti primus timor fabulis augetur, ita secundus. certe, contemplatio mortis, ut merces peccati, et transitio in alio mundo, sacra religiosaque est; sed timor eiusdem, ut testamentum naturae, ignavus est. tamen in meditationibus religiosis nonnumquam confusio vanitatis et superstitionis est. legeris in aliquibus libris sacerdotum de mortificatione, hominem debet consilium sibi capere, quid esset dolor, si tantum cuspis digiti sui comprimeretur vel cruciaretur, et inde imaginare quid dolor mortis est, cum totum corpus corruitur et dissolvitur, nam saepe mortus transitus est minus cum dolore quam ubi artus excruciatur, quoniam vitalia non sunt alacerrima sensu. et ab eo qui modo ut philosophus et homo naturalis dixit, bene dicitur, "Pompa mortis magis terret, quam mors ipsa." gemitús et convulsiones, facies male colorata, amici flentes, et atra et exequiae, et similia, mortum terribilem esse demonstrant. est dignum notatu, nullum affectum in mente hominis tam fessum esse ne timorem per eo superetur, et igitur mors non est tam inimicus terribilis, cum homo tot adiutores in promptu habet qui id expugnare possint. ultio mortem vincit; amor id abicit; honor id studet; maeror ad id volat; timor id preoccupat; immo, ut legimus, postquam otho imperator sua manu interfectus est, misericordia, tenerrimus affectus, multas ad se interficiendas ex mera miseratione regi incitavit, verissima secutores.
 
 
+> Having won the goodwill of the masses, Caesar made an attempt through some of
+> the tribunes to have the charge of Egypt given him by a decree of the commons,
+> seizing the opportunity to ask for so irregular an appointment because the
+> citizens of Alexandria had deposed their king, who had been named by the senate
+> an ally and friend of the Roman people, and their action was generally
+> condemned. He failed however because of the opposition of the aristocratic
+> party; wishing therefore to impair their prestige in every way he could, he
+> restored the trophies commemorating the victories of Gaius Marius over Jugurtha
+> and over the Cimbri and Teutoni, which Sulla had long since demolished.
+> Furthermore in conducting prosecutions for murder, he included in the
+> number of murderers even those who had received moneys from the public treasury
+> during the proscriptions for bringing in the heads of Roman citizens, although
+> they were expressly exempted by the Cornelian laws.
+
+benevolentiam vulgarem adeptus, caesar per tribunis tentavit custodiam aegypti sibi daturam esse imperato vulgari, occasionem ad tam abnormem munus postulandum capessens quia cives alexandriae regem suum deiecerant, qui a senatu amicum et socium populi romani nuncupatus erat, hoc facinore vulgo condemnato. deficit, autem, quia obiectus est a nobilibus. sperans igitur ut famam eorum deterat ullo pacto quo possit, monumenta commemorantes victorias gaii marii super jugertham et super cimbros et teutonos, quae sulla diu demolita est, restitit. exinde agendo accusationem caedis, addidit numeris percussorum etiam qui merces accepti sunt ex aerario publico ad capites civium romanorum intra proscriptiones, quamquam exempti sunt legibus cornelii.
 
 

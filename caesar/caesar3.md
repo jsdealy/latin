@@ -4,6 +4,8 @@
 
 simplified:
 
+horto
+
 Cum Caesar in Italiam iter faceret, Servium Galbam cum duodecima legione et
 parte equitum ad Nantuates, Veragros, Sedunos misit. Hi populi a finibus
 Allobrogum et a lacu Lemanno et flumine Rhodano ad summas Alpes habitant. Causa

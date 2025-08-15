@@ -271,7 +271,6 @@ repertam iri.
 
 sicut parvuli timent tenebras inire homines mortem timent, et veluti primus timor fabulis augetur, ita secundus. certe, contemplatio mortis, ut merces peccati, et transitio in alio mundo, sacra religiosaque est; sed timor eiusdem, ut testamentum naturae, ignavus est. tamen in meditationibus religiosis nonnumquam confusio vanitatis et superstitionis est. legeris in aliquibus libris sacerdotum de mortificatione, hominem debet consilium sibi capere, quid esset dolor, si tantum cuspis digiti sui comprimeretur vel cruciaretur, et inde imaginare quid dolor mortis est, cum totum corpus corruitur et dissolvitur, nam saepe mortus transitus est minus cum dolore quam ubi artus excruciatur, quoniam vitalia non sunt alacerrima sensu. et ab eo qui modo ut philosophus et homo naturalis dixit, bene dicitur, "Pompa mortis magis terret, quam mors ipsa." gemitús et convulsiones, facies male colorata, amici flentes, et atra et exequiae, et similia, mortum terribilem esse demonstrant. est dignum notatu, nullum affectum in mente hominis tam fessum esse ne timorem per eo superetur, et igitur mors non est tam inimicus terribilis, cum homo tot adiutores in promptu habet qui id expugnare possint. ultio mortem vincit; amor id abicit; honor id studet; maeror ad id volat; timor id preoccupat; immo, ut legimus, postquam otho imperator sua manu interfectus est, misericordia, tenerrimus affectus, multas ad se interficiendas ex mera miseratione regi incitavit, verissima secutores.
 
-
 > Having won the goodwill of the masses, Caesar made an attempt through some of
 > the tribunes to have the charge of Egypt given him by a decree of the commons,
 > seizing the opportunity to ask for so irregular an appointment because the
@@ -289,3 +288,29 @@ sicut parvuli timent tenebras inire homines mortem timent, et veluti primus timo
 benevolentiam vulgarem adeptus, caesar per tribunis tentavit custodiam aegypti sibi daturam esse imperato vulgari, occasionem ad tam abnormem munus postulandum capessens quia cives alexandriae regem suum deiecerant, qui a senatu amicum et socium populi romani nuncupatus erat, hoc facinore vulgo condemnato. deficit, autem, quia obiectus est a nobilibus. sperans igitur ut famam eorum deterat ullo pacto quo possit, monumenta commemorantes victorias gaii marii super jugertham et super cimbros et teutonos, quae sulla diu demolita est, restitit. exinde agendo accusationem caedis, addidit numeris percussorum etiam qui merces accepti sunt ex aerario publico ad capites civium romanorum intra proscriptiones, quamquam exempti sunt legibus cornelii.
 
 
+> Nay, Seneca adds niceness and satiety: “Think how long you will have done the
+> same things [in life]; it's not only the brave and the wretched who are capable
+> of the will to die, but also those who are simply fed up." A man would die,
+> though he were neither valiant nor miserable, only upon a weariness to do the
+> same thing so oft over and over. It is no less worthy to observe, how little
+> alteration in good spirits the approaches of death make: for they appear to be
+> the same men till the last instant. Augustus Cæsar died in a compliment:
+> “Livia, in mindfulness of our marital bond, live, and be well.” Tiberius in
+> dissimulation, as Tacitus saith of him, “Now, what began to fail Tiberius was
+> his strength, indeed, his body, not his caginess.” Vespasian in a jest, sitting
+> upon the stool, “It seems to me I am become God;” Galba with a sentence,
+> “Strike, if it indeed be the will of the Roman people” holding forth his neck;
+> Septimus Severus in dispatch, “Be ye here, if there is anything left for me to
+> do,” and the like. Certainly, the Stoics bestowed too much cost upon death, and
+> by their great preparations made it appear more fearful. Better, saith he, “who
+> placed the ultimate end of life among the functions of nature.” It is as
+> natural to die as to be born; and to a little infant, perhaps, the one is as
+> painful as the other. He that dies in an earnest pursuit, is like one that is
+> wounded in hot blood, who, for the time, scarce feels the hurt; and therefore a
+> mind fixed and bent upon somewhat that is good, doth avert the dolors of death;
+> but, above all, believe it, the sweetest canticle is “Now, you let go,” when a
+> man hath obtained worthy ends and expectations. Death hath this also, that it
+> openeth the gate to good fame, and extinguisheth envy: “This same one, when
+> gone, shall be loved.”
+
+immo, seneca addit elegantiam et satietatem: reputes quam saepe te eadem res repetiturum esse; non solum fortes et miseri sunt qui mori velle, sed quoque ii defessi. quidam mori velit, qui tamen non sit robustus neque miser, sed ex taedio iterum iterumque eiusdem rei agendi. non minus dignum est notatu, quam paulum mors accedens bonum animum mutat: tales homines eandem speciem praebent donec ultimum tempus. caesar augustus expiravit blandiens: livia, foedus nuptiarum nostrarum in mente, vive, et vale. tiberius in dissimulatione, ut ait tacitus: "nam, ea quae deficiebant tiberio erant corpus suum et vires, non acumen." vespasian inter iocus, in sella sedens, ait, "videor deus factus esse." galba cum sententiá, "ice, si ita velint populi romani" collum suum extendens; septimus severus in epistula, "este, si quidnam remaneat ad mihi agendum," et cetera. nimirum, stoici pretium maiorem morti attribuerunt, et magnopere parando speciem eius terribiliorem fecerunt. melius dixit qui "ultimam finem vitae cum muneribus naturae posuit." morimur aeque naturaliter quam nascimur; infanti parvulo, unum aeque dolet ac alterum. is qui insequens sincere moritur sicut est unum qui vulneratur in sanguine callido et qui, paulo tempore, non vulnus sentit. ergo mens in aliquid bonum defixa et eo nitens, avertit dolores mortis; sed supra omnes, crede, cantus dulcissimus est, "nunc, demittis," cum homo destinata digna et expectationes adeptus sit. praeterea mors quoque facit ut portam ad famam bonam aperiatur, et invidiam extinguit: "hic idem, mortuus, amabitur."

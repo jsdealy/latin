@@ -365,7 +365,7 @@ brevi tempore est recuperata. et propter facultatem suam arti poesis, adeptus
 est summam laudem famamque ab aliis mulieribus.
 
 > Later, when Cleomenes, king of the Spartans, had killed many citizens of
-> Argos—some say seven hundred and seventy in all—and was aiming to seize and
+> Argos---some say seven hundred and seventy in all---and was aiming to seize and
 > occupy the city, the women in the prime of life resolved to defend their city
 > against the enemy. So, under Telesilla’s leadership, they quickly took up arms
 > and suddenly gathered in a body to man the city walls. This greatly astonished
@@ -374,4 +374,6 @@ est summam laudem famamque ab aliis mulieribus.
 > (as Socrates says), after seizing part of the city called Paphnia, was driven
 > out.
 
-
+posterius, cum cleomenes, rex spartae, multos cives argorum interfecisset, ut 
+aiunt aliqui septingenti et septuaginta in toto, et urbem capessere et occupare
+intendit

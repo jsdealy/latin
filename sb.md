@@ -314,3 +314,64 @@ benevolentiam vulgarem adeptus, caesar per tribunis tentavit custodiam aegypti s
 > gone, shall be loved.”
 
 immo, seneca addit elegantiam et satietatem: reputes quam saepe te eadem res repetiturum esse; non solum fortes et miseri sunt qui mori velle, sed quoque ii defessi. quidam mori velit, qui tamen non sit robustus neque miser, sed ex taedio iterum iterumque eiusdem rei agendi. non minus dignum est notatu, quam paulum mors accedens bonum animum mutat: tales homines eandem speciem praebent donec ultimum tempus. caesar augustus expiravit blandiens: livia, foedus nuptiarum nostrarum in mente, vive, et vale. tiberius in dissimulatione, ut ait tacitus: "nam, ea quae deficiebant tiberio erant corpus suum et vires, non acumen." vespasian inter iocus, in sella sedens, ait, "videor deus factus esse." galba cum sententiá, "ice, si ita velint populi romani" collum suum extendens; septimus severus in epistula, "este, si quidnam remaneat ad mihi agendum," et cetera. nimirum, stoici pretium maiorem morti attribuerunt, et magnopere parando speciem eius terribiliorem fecerunt. melius dixit qui "ultimam finem vitae cum muneribus naturae posuit." morimur aeque naturaliter quam nascimur; infanti parvulo, unum aeque dolet ac alterum. is qui insequens sincere moritur sicut est unum qui vulneratur in sanguine callido et qui, paulo tempore, non vulnus sentit. ergo mens in aliquid bonum defixa et eo nitens, avertit dolores mortis; sed supra omnes, crede, cantus dulcissimus est, "nunc, demittis," cum homo destinata digna et expectationes adeptus sit. praeterea mors quoque facit ut portam ad famam bonam aperiatur, et invidiam extinguit: "hic idem, mortuus, amabitur."
+
+> When the conspiracy of Catiline was detected, and all the rest of the senate
+> favoured inflicting the extreme penalty on those implicated in the plot,
+> Caesar, who was now praetor elect, alone proposed that their goods be
+> confiscated and that they be imprisoned each in a separate town. Nay, more, he
+> inspired such fear in those who favoured severer measures, by picturing the
+> hatred which the Roman commons would feel for them for all future time, that
+> Decimus Silanus, consul elect, was not ashamed to give a milder interpretation
+> to his proposal (since it would have been humiliating to change it) alleging
+> that it had been understood in a harsher sense than he intended. Caesar would
+> have prevailed too, for a number had already gone over to him, including
+> Cicero, the consul's brother, had not the address of Marcus Cato kept the
+> wavering senate in line.
+
+cum coniuratio catilinae deprehensa erat, et ceteri senatores poena extrema illis implicatis insidiis exerceri voluerant, caesar, qui tum praetor electus est, solus proposuit ut sua confiscarentur et ii in oppidis singulis in carceribus compescerentur. immo, amplius, talem metum in malentes modos severiores instigavit, pingens quam odirentur a populo romano in perpetuum, ut decimo silano, consuli electo, non pudet propositionem suam molliri (quia mutari abiectius fuisset), dicens eam acceptam fuisse multo acriorem quam destinavit. caesar vincisset quoque, quoniam multi ad eum transmissi erant, cicerone adnumerato, fratre consulis, nisi oratio marci catonis senatum dubitantem confirmasset.
+
+> During the second Punic war, when Hannibal, leader of the Carthaginians, had
+> dealt Italy's power the heaviest blow since the Roman nation attained its full
+> stature, Masinissa, king of Numidia, had become the friend of Publius Scipio,
+> afterwards surnamed Africanus because of his prowess, and performed many
+> illustrious deeds of arms. In return for this, after the defeat of the
+> Carthaginians and the capture of Syphax, whose dominion in Africa was great and
+> extensive, the Roman people gave Masinissa as a free gift all the cities and
+> territories that he had taken in war. Consequently Masinissa was ever our
+> true and loyal friend.
+
+intra bellum punici secundum, cum hannibal, dux carthaginiensum, potentiam italiae ictum dederat gravissimum postquam statura nationis romanae alta et magna attacta erat, masinissa, rex numidiae, socius publii scipionis (posthac nominatur africanum propter victorias suas) factus est, et plura acta illustria armorum confecit. ad hoc referendum, carthagine devincta, syphace cuius imperio africae magna lataque fuit capto, populi romani masinissae omnia urbes et territoria ab eo bellando capessita munum dedit. itaque masinissa semper amicus verus et fidelis nobis fuit.
+
+> Nor, indeed, among the deeds commonly accomplished by women do I think there is
+> any deserving of less praise and admiration than the struggle in which, under
+> the leadership and command of Telesilla, the women of Argos fought against
+> Cleomenes, king of the Argives. It is recorded that this woman was skilled in
+> the art of poetry. Born of very noble parents, she fell ill, and, when
+> suffering from ill health, received an oracle’s answer that she must devote
+> herself zealously to the service of Mars if she wished to regain her lost
+> strength. Obeying the divine command, she turned all her effort and attention
+> to musical songs and harmonies, and in a short time recovered her health. And
+> because of her skill in the poetic art she gained among other women the highest
+> fame and praise.
+
+neque, quippe, ex acta vulgo ab mulieribus confecta censeo ullam esse dignam 
+pluris laudis admirationisque quam certamen in quo, sub ducatu et imperio 
+telesillae, mulieres argorum dimicata sint contra cleomenes, regem argivum.
+traditum est hanc feminam peritam artis poesis fuisse. nata nobilioribus 
+parentibus, morbo icta, et, dum laboravit valetudine, oraculum accepit 
+ut sibi se dicanda marti esset si vellet vim amissam recepere. obtemperans
+numini, totam operam suam attentionemque vertit ad musicas melodiasque, et
+brevi tempore est recuperata. et propter facultatem suam arti poesis, adeptus
+est summam laudem famamque ab aliis mulieribus.
+
+> Later, when Cleomenes, king of the Spartans, had killed many citizens of
+> Argos—some say seven hundred and seventy in all—and was aiming to seize and
+> occupy the city, the women in the prime of life resolved to defend their city
+> against the enemy. So, under Telesilla’s leadership, they quickly took up arms
+> and suddenly gathered in a body to man the city walls. This greatly astonished
+> the enemy. Cleomenes, after repeatedly attempting in vain to storm the city and
+> losing many soldiers, was finally forced to retreat. The other king, Demaratus
+> (as Socrates says), after seizing part of the city called Paphnia, was driven
+> out.
+
+

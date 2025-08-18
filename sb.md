@@ -391,3 +391,11 @@ intendit
 > as attendants, the tools, as it were, in the hands of the director.
 
 primum et caput munerum meorum est, ut puto, negotium quod incepi cognoscere plane, aditus quem secutus sum omni in divisione curriculi mei. crederem neminem officium suum perficere posse firmius, neque ullum alterum modum decernendi inter tentanda vitandaque. nec credo ullam maiorem esse infamiam quam munera assignata sua secundum consilium adiutorum suorum consequi. hoc necessario accidet quandocunque dux consuetudine eget et confugit ad subditos suos; hi minores muneribus essentialibus funguntur, scilicet, sed tantum ut adiutantes, instrumenta, dicamus, in manibus ducis.
+
+primum ac potissimum existimo, sicut in ceteris negotiis institueram, nosse
+quod suscepi. Neque enim ullum omnis actus certius fundamentum crediderim, aut
+aliter quae facienda quaeque vitanda sint posse decerni, aliudve tam indecorum
+tolerabili viro, quam delegatum officium ex adiutorum agere praeceptis, quod
+fieri necesse est, quotiens imperitia praepositi ad illorum decurrit usum;
+quorum etsi necessariae partes sunt ad ministerium, tamen ut manus quaedam et
+instrumentum agentis.

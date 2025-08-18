@@ -377,3 +377,23 @@ est summam laudem famamque ab aliis mulieribus.
 posterius, cum cleomenes, rex spartae, multos cives argorum interfecisset, ut 
 aiunt aliqui septingenti et septuaginta in toto, et urbem capessere et occupare
 intendit
+
+> First and most important of my duties, I think, is to acquaint myself
+> thoroughly with the business I have undertaken, a procedure which I have
+> followed in all prior stages of my career. 
+
+> I should have thought that no man's
+> performance of duty could be more firmly grounded, nor that there could be any
+> other means of deciding between what to attempt and what to avoid. 
+
+> Nor do I
+> believe that there is anything more disgraceful for a man who bears another's
+> trust than to perform the delegated duties according to instructions received
+> from his own assistants. 
+
+> This will happen of necessity whenever a man in charge
+> suffers from lack of experience and has recourse to the practical skills of his
+> underlings; these lesser persons have roles which are crucial, indeed, but only
+> as attendants, the tools, as it were, in the hands of the director.
+
+primum et caput munerum meorum est, ut puto, negotium quod incepi cognoscere plane, aditus quem secutus sum omni in divisione curriculi mei. crederem neminem officium suum perficere posse firmius, neque ullum alterum modum decernendi inter tentanda vitandaque. nec credo ullam maiorem esse infamiam quam munera assignata sua secundum consilium adiutorum suorum consequi. hoc necessario accidet quandocunque dux consuetudine eget et confugit ad subditos suos; hi minores muneribus essentialibus funguntur, scilicet, sed tantum ut adiutantes, instrumenta, dicamus, in manibus ducis.

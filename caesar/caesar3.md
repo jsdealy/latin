@@ -122,7 +122,7 @@ Baculus, primi pili centurio, quem Nervico proelio compluribus confectum
 vulneribus diximus, et item C. Volusenus, tribunus militum, vir et
 consilii magni et virtutis, ad Galbam accurrunt atque unam esse spem
 salutis docent, si eruptione facta extremum auxilium experirentur.
-Itaque convocatis centurionibus celeriter milites certiores facit,
+Itaque convocatis centurionibus celeriter milites certiores facit, [ut]
 paulisper intermitterent proelium ac tantum modo tela missa exciperent
 seque ex labore reficerent, post dato signo ex castris erumperent, atque
 omnem spem salutis in virtute ponerent.

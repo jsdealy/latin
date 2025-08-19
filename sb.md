@@ -401,3 +401,55 @@ original:
 > fieri necesse est, quotiens imperitia praepositi ad illorum decurrit usum;
 > quorum etsi necessariae partes sunt ad ministerium, tamen ut manus quaedam et
 > instrumentum agentis.
+
+
+
+> In the consulship of Marcus Valerius Maximus and Publius Decius Mus, thirty
+> years after the beginning of the Samnite War, the Aqua Appia was brought into
+> the City by the censor Appius Claudius (later called "the
+> Blind"). In that year the same man also had charge of constructing the
+> Appian Road from Porta Capena as far as the city of Capua.
+> Appius' colleague in the censorship was Gaius Plautius, called Venox for
+> having discovered the veins of this water. But Plautius resigned from the
+> censorship before the eighteen months' term had elapsed, deceived by Appius
+> who pretended he would do likewise, and so the name of the aqueduct fell to
+> the credit of Appius alone. Indeed, Appius is reported to have extended his
+> censorship by many subterfuges, until he could complete both the road and
+> the aqueduct.
+
+m. valerio maximo et p. decio mure consulibus, triginta annos post initio belli contra pentros, aqua appia collata est in urbem ab appio claudio censore (seriusque caecum nuncupatus). illo anno, idem homo praefectus est viae appiae construendae ab porta capena usque ad capuam. collega appii in censurá fuit gaius plautius, venox vocatus quia venas huius aquae comperit. sed plautius ab censurá abdicavit priusquam octodecim mensium spatium confectum est, deceptus ab appio dissimulante ut idem faceret; itaque aqueductus nominatum secundum appium solum est. immo, appius fertur tempus censurae suae porrigere multis coniurationibus, donec viam aqueductumque perficere potuisset. 
+
+> Thus, through the counsel and courage of the women, the city was freed. 
+> All the women who had fallen in the battle they decreed should be buried 
+> in the street called Argia; but to those who had survived the fight 
+> permission was given to set up a statue to Mars, as a memorial of their bravery.
+
+> As for the date of the battle, some record that it was fought on the sixteenth
+> day, others on the Kalends of that month which is now counted as the fourth by
+> the Argives, but was once reckoned as the last; on this day certain rites are
+> still celebrated among the Argives. In these, the women wear cloaks and are
+> dressed in men’s clothing, while the men carry rods and, with their heads
+> wrapped in women’s veils, take part in the ceremonies. And so, in order to make
+> good the loss of the slain citizens, they afterwards---as Herodotus says---chose
+> from among the country-dwellers around the city, as each man seemed superior to
+> the rest, and admitted them as citizens, joining them to themselves in
+> marriage.
+
+ita, consilio et virtute mulierum urbs liberata est. decretum est ut 
+omnes feminae in proelio casae obruendae essent in via argia. superantibus
+concessio data est ad signum marti instituendum, ut virtus earum memoranda esset. 
+
+de die proelii, alii ferunt pugnatum fuisse sexdecima die, alii kalendas illius mensis numerati quarti apud argivos (sed qui quondam ultimus ab eis conputatus est). hoc die ritus quidam adhuc celebrati sunt apud argivos in quibus mulieres sunt sagis et vestimentis hominum amictae dum homines ferulas portant et caeremoniis participant cum capitibus velatis. itaque, ut restituerentur amissio civium occisarum, ut ait herodotus, posthac elegerunt ex rusticis circum urbem habitantibus, nam unusquisque melius ceteris visus est, civitates eos receperunt, sibi matrimonio iunxerunt.
+
+> These, then, Publius Silvinus, are the men whom you are to call into
+> consultation before you make any contract with agriculture, yet not with any
+> thought that you will attain perfection in the whole subject through their
+> maxims; for the treatises of such writers instruct rather than create the
+> craftsman. It is practice and experience that hold supremacy in the crafts, and
+> there is no branch of learning in which one is not taught by his own mistakes.
+> For when a venture turns out un­success­fully through wrong management, one
+> avoids the mistake that he had made, and the instructions of a teacher cast a
+> light upon the right course. Hence these precepts of ours promise, not to bring
+> the science to perfection, but to lend a helping hand.
+
+hi, dein, publi mi, sunt viri qui ad consultationem tibi vocandi sunt antequam ullum foederem agriculturae iceris, et sine ulla perfectionis exspectatione attingi totae rei dictis eorum, nam commentaria talium scriptorum artificem docent, non efficiunt. exercitatio enim atque consuetudo regnant in fabricis, et semper docentur omnes sua errata. nam cum periculum male gestum perditur, vitanda sunt errata comissa consiliisque doctoris recta via lucetur. itaque praecepta nostra non tendunt perducere scientiam usque ad perfectionem, sed profert manum. 

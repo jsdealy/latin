@@ -5,21 +5,18 @@ of speaking Latin in the classroom. The success
 that has attended these efforts has fully justified 
 the method pursued and brought into relief the 
 real need of elementary books to supplement the 
-endeavor. The desire of forwarding this move- 
-ment in favor of more solid studies, and of seeing 
+endeavor. The desire of forwarding this movement in favor of more solid studies, and of seeing 
 I the scope of a method become more extended 
 'which has already borne such good fruit in Italy 
 and in many colleges of France, has prompted 
 us to write this Guide to Latin Conversation. We 
-have reunited in a convenient and handy vol- 
-ume, a vocabulary of ordinary words, a list of 
+have reunited in a convenient and handy volume, a vocabulary of ordinary words, a list of 
 comparatives and of superlatives, the principal 
 irregular verbs, choice familiar phrases, dialogues, 
 3ro verbs, choice sentences and quotations. A 
 I lingle volume contains, the phrases and dialogues 
 [ )f Erasmus, of Vives, of Cordier, of Alde-Manuce, 
-1 >f Fathers Pontanus, Van Torre and Champs- 
-
+1 >f Fathers Pontanus, Van Torre and Champs
 
 OF THE BOOK. 
 
@@ -32,20 +29,12 @@ OF THE BOOK.
 
 
 The vocabulary, distributed under different 
-headings, contains in alphabetical order the no- 
-menclature of such words as are most in use. We 
-have been careful not to introduce in this dic- 
-tionary any word of uncertain Latinity. Some 
+headings, contains in alphabetical order the nomenclature of such words as are most in use. We 
+have been careful not to introduce in this dictionary any word of uncertain Latinity. Some 
 ecclesiastical terms, names of rank, of sciences, and 
-of modern inventions, do not belong to the lan- 
-guage of the Augustan age, and will be easily rec- 
-ognized. In the list of comparatives and of super- 
-latives we ware more desirous of giving positive 
-indications than of wishing to make the list com- 
-plete. The gender of nouns and the quantity of 
-increments and penultimates which do not fol- 
-low the rules of position, will be found desig- 
-nated. 
+of modern inventions, do not belong to the language of the Augustan age, and will be easily recognized. In the list of comparatives and of superlatives we ware more desirous of giving positive 
+indications than of wishing to make the list complete. The gender of nouns and the quantity of 
+increments and penultimates which do not follow the rules of position, will be found designated. 
 
 A collection of idioms and Latin expressions 
 follows the vocabulary. We have grouped them 
@@ -83,18 +72,15 @@ them for themselves.
 the conversations. With a few proverbs from 
 
 1 Anthony Van Torre was born at Alost, in 1615, became 
-a religious in 1632, and passed his life in teaching belles- 
-lettres, and in supervising classes. He died in 1677, at the 
+a religious in 1632, and passed his life in teaching belleslettres, and in supervising classes. He died in 1677, at the 
 college of Courtrai. His dialogues, written for the college 
 of Anvers, were published for the first time in 1657. The 
 same Father published, in 1674, A Collection of Latin 
 Phrases. 
 
-2 James Pontanus, a Bohemian Jesuit, taught belles- 
-lettres for a long time and with great success in Germany. 
+2 James Pontanus, a Bohemian Jesuit, taught belleslettres for a long time and with great success in Germany. 
 He died at Augsburg, in 1626, at the age of eighty-four 
-years. He was the author of Poetical Precepts, Commen- 
-taries on Virgil and Ovid, several Greek Translations, and 
+years. He was the author of Poetical Precepts, Commentaries on Virgil and Ovid, several Greek Translations, and 
 many other writings in prose and verse. 
 
 
@@ -106,11 +92,9 @@ Guide to Latin Conversation.
 Publius Syrus are grouped noted sayings from 
 Juvenal, Terence, Seneca, Ovid, Virgil, and 
 Horace, all of which we have inserted as happy 
-remembrances of a solid and varied literary edu- 
-cation. 
+remembrances of a solid and varied literary education. 
 
-The book ends with tables, abbreviations, nota- 
-tions, the Koman calendar, all of which cannot 
+The book ends with tables, abbreviations, notations, the Koman calendar, all of which cannot 
 but be useful for easy reference. 
 
 
@@ -130,12 +114,8 @@ for the higher classes. In the learning of the
 vocabulary it is necessary that the pupil be able 
 to give the Latin word in answer to the English 
 word. This exercise may be taken up once a 
-week with profit, by having the pupils interro- 
-gate each other on some particular subject desig- 
-nated in advance by the professor. The proper 
-accentuation of every Latin word should be in- 
-sisted on from the first lesson. A habit of pro- 
-nouncing words badly is corrected only with 
+week with profit, by having the pupils interrogate each other on some particular subject designated in advance by the professor. The proper 
+accentuation of every Latin word should be insisted on from the first lesson. A habit of pronouncing words badly is corrected only with 
 great difficulty. 
 
 (6.) In the fifth class, the vocabulary may be 
@@ -152,14 +132,11 @@ The dialogues should be committed to memory
 and recited. The professor may appoint two or 
 three on each side, to converse on a given subject 
 and name some special day for the dialogue. 
-This will also answer for a review. Examina- 
-tions may also be held on the subject matter seen 
+This will also answer for a review. Examinations may also be held on the subject matter seen 
 by each class. 
 
 (c.) In the fourth class, the students should 
-exercise their minds by rendering into Latin, sen- 
-tences such as are in the book, but with this dif- 
-ference, they should strive to change the verbs, 
+exercise their minds by rendering into Latin, sentences such as are in the book, but with this difference, they should strive to change the verbs, 
 the case of the nouns, the number, the tense, and 
 even go so far as to introduce new phrases. They 
 should make a special study of all the dialogues. 
@@ -168,8 +145,7 @@ they should seek to converse with one another, or
 answer in writing questions put to them by the 
 professor. The book is suitable for any class and 
 may be made useful in a thousand ways which 
-will suggest themselves to the conscientious pro- 
-fessor or student. 
+will suggest themselves to the conscientious professor or student. 
 
 
 ## VOCABULARY. 
@@ -405,8 +381,7 @@ The day after.
 After to-morrow. 
 The day before, 
 
-The day before yes- 
-[terday, 
+The day before yes[terday, 
 
 In the morning, 
 
@@ -752,8 +727,7 @@ Enamelled,
 Enamelled picture, 
 Flint-stone, 
 
-Place full of flint- 
-Grold, [stone. 
+Place full of flintGrold, [stone. 
 
 Golden, 
 
@@ -1065,8 +1039,7 @@ Vitex, icis, m.
 Acacia. 
 
 
-Vocabulary- 
-
+Vocabulary
 
 Acanthus, 
 
@@ -1188,8 +1161,7 @@ Faba.
 
 Fagus. i,/. 
 
-Fageus, fagmus, fagi- 
-[nSus. 
+Fageus, fagmus, fagi[nSus. 
 
 
 
@@ -1228,10 +1200,8 @@ Bulrush,
 Of bulrush. 
 
 Full of bulrushes. 
-Place where bul- 
-[rushes grow, 
-Basket made of bul- 
-Cabbage, [rushes. 
+Place where bul[rushes grow, 
+Basket made of bulCabbage, [rushes. 
 Camomile, 
 
 Carnation, 
@@ -1808,8 +1778,7 @@ Prune,
 Pomegranate-tree, 
 Pomegranate, 
 Pomegranate-flower, 
-Rind of pomegran- 
-Poplar, [ate. 
+Rind of pomegranPoplar, [ate. 
 
 Of poplar. 
 
@@ -2337,8 +2306,7 @@ Aquila.
 Aquilae pullus. 
 Anguilla. 
 
-Elephantus; el^phas, an- 
-Proboscis, idis,/. [tis,/ 
+Elephantus; el^phas, anProboscis, idis,/. [tis,/ 
 Falco, onis, m. 
 
 Viverra. 
@@ -2750,8 +2718,7 @@ Cochlea.
 
 Sus, suis,/.; porca. 
 
-Passer, eris, w.; passer- 
-Accipiter, tris, m. [cuius. 
+Passer, eris, w.; passerAccipiter, tris, m. [cuius. 
 Araneus, aranea. 
 Araneolus, aranebla. 
 
@@ -2938,8 +2905,7 @@ Stridere.
 
 Gemere, saevire. 
 Bombilare, bombitare, 
-[susurare, strepSre, stri- 
-[dere. 
+[susurare, strepSre, stri[dere. 
 
 Balbutire, cangre. 
 
@@ -3023,8 +2989,7 @@ Wood-pigeon coos,
 
 
 Clangere, strepgre. 
-Fritinnire, stridere, ca- 
-[nere, clamare. 
+Fritinnire, stridere, ca[nere, clamare. 
 Pipare, clamare. 
 
 Glocire, glocitare, pipare. 
@@ -3399,8 +3364,7 @@ Grgmium.
 
 Crus, uris, n. 
 
-Labrum, labium, (gener- 
-[ally) labra, labia, 
+Labrum, labium, (gener[ally) labra, labia, 
 [orum, n. pi. 
 
 Superius. 
@@ -3535,8 +3499,7 @@ Visus, us, m.
 9. 
 
 
-QUALITIES AND DE- DOTES ET VITIA CORPOR- 
-FECTS OF THE HU- IS HUMANI ; MORBI, 
+QUALITIES AND DE- DOTES ET VITIA CORPORFECTS OF THE HU- IS HUMANI ; MORBI, 
 MAN body; DISEASES, VULNERA, MORS. 
 WOUNDS, DEATH. 
 
@@ -3618,8 +3581,7 @@ Calvus.
 
 V algus. 
 
-Pulchritudo, mis, /.; de- 
-[cor, 6ris, m, ; venustas, 
+Pulchritudo, mis, /.; de[cor, 6ris, m, ; venustas, 
 [atis, /. 
 
 Gramia; lema. 
@@ -3737,8 +3699,7 @@ Luxatura.
 
 Luxatus. 
 
-Hydrops, opis, m.\ hydro- 
-[pisis, is,/. 
+Hydrops, opis, m.\ hydro[pisis, is,/. 
 
 Hydropicus. 
 
@@ -3747,8 +3708,7 @@ Mutus, elinguis.
 Pumilio, onis, m. 
 Dysenteria. [bus. 
 
-Comitialis ; sonticus mor- 
-Impetlgo, inis, /. 
+Comitialis ; sonticus morImpetlgo, inis, /. 
 
 Ortigo, inis, f. 
 Erysipelas, atis, ii. [f. 
@@ -3771,8 +3731,7 @@ Oscitare.
 Gargarizatio, onis, /. 
 Gargarizare. 
 
-Arthritis, idis, /.; articu- 
-[lorum dolor. 
+Arthritis, idis, /.; articu[lorum dolor. 
 
 Chiragra. 
 
@@ -3970,8 +3929,7 @@ Varix, ids,/, w.
 
 Vertigo, inis, /. 
 
-Vomitio, onis, /.; vomi- 
-[tus, us,???. 
+Vomitio, onis, /.; vomi[tus, us,???. 
 
 
 VoinOre. 
@@ -4099,8 +4057,7 @@ Infibulare.
 
 Pallium. [via. 
 
-Peniila, lacerna, implu- 
-Pannus. 
+Peniila, lacerna, impluPannus. 
 
 — aureus. 
 
@@ -4200,8 +4157,7 @@ Silk,
 
 
 Periscelis, idis,/. 
-Digitalia, ium, w.; mani- 
-[cae, arum,/ 
+Digitalia, ium, w.; mani[cae, arum,/ 
 
 Linteblum, 
 
@@ -4245,8 +4201,7 @@ Vitta, taenia.
 Annulus. 
 
 Annuli pala. [liebris. 
-Vestis, is, m.; toga mu- 
-Sandalium, solea. 
+Vestis, is, m.; toga muSandalium, solea. 
 
 Forfex, icis, /. 
 
@@ -4306,8 +4261,7 @@ OF THE SOUL.
 
 DE ANIMA. 
 
-■ QUALITIES AND DE- 
-
+■ QUALITIES AND DE
 VIRTUTES ET VITIA 
 
 FECTS OF THE INTELLI- JUDICII, VOLUNTATIS ; 
@@ -4480,8 +4434,7 @@ Consideratus, cautus.
 Urbanitas, atis,/. 
 
 Urbanus, com is. [tia. 
-Mundities, ei, /.; mundi- 
-Mundus. [onis,/. 
+Mundities, ei, /.; mundiMundus. [onis,/. 
 
 Miseratio, commiseratio 
 Misericors, ordis. 
@@ -4825,8 +4778,7 @@ Ignarus.
 
 Jgnorare, nescTre. 
 Immodestia, inverecundia. 
-Immodestus, inverecun- 
-[dus. 
+Immodestus, inverecun[dus. 
 
 Immortalitas, atis, f. 
 
@@ -4871,8 +4823,7 @@ Indecent,
 Indignation, 
 
 Indignant, [nant. 
-To become indig- 
-Industry, 
+To become indigIndustry, 
 
 Industrious, 
 
@@ -4919,8 +4870,7 @@ Inconstantia, le vitas, atis,/.
 
 Inconstans, antis ; levis. 
 Incontinentia. [mobilis. 
-Incontinens, entis ; in- 
-[tempgrans, antis. 
+Incontinens, entis ; in[tempgrans, antis. 
 Indec5rum. 
 
 Indecorusjinverecundus. 
@@ -5131,8 +5081,7 @@ Oblivious,
 To forget. 
 Obstinacy, 
 
-Obstinate, head- 
-
+Obstinate, head
 [strong, 
 
 Pain, 
@@ -5261,8 +5210,7 @@ Parcus.
 
 Animi motus ; affectus. 
 
-Imp6tens, entis; cu- 
-Patientia. [pidiis. 
+Imp6tens, entis; cuPatientia. [pidiis. 
 
 Patiens, entis. 
 
@@ -5373,8 +5321,7 @@ RevSrens, entis.
 Latrocinium. 
 
 Latro, prsedo, on is, m. 
-Dolus ; astus, hs, m,] calli- 
-[ditas, atis,/. 
+Dolus ; astus, hs, m,] calli[ditas, atis,/. 
 Callidus, astutus. 
 Sacrilegium. 
 
@@ -5466,8 +5413,7 @@ Fur, furis, m.
 
 Furari. 
 
-Cogitatio, onis, /.; senten- 
-[tia, consilium. 
+Cogitatio, onis, /.; senten[tia, consilium. 
 Timiditas, atis,/. 
 
 Timidus. 
@@ -5873,8 +5819,7 @@ Hospes, Itis, m.
 
 Judex, Icis, m. [tus. 
 
-Jurisconsultus, jurisperi- 
-
+Jurisconsultus, jurisperi
 
 
 
@@ -5997,8 +5942,7 @@ Antistes, it is, m.
 Canonicus. 
 
 Archdiacbnus. [chus 
-Curio, onis, iru] paro- 
-Vicarius. 
+Curio, onis, iru] paroVicarius. 
 
 Diac5nus. 
 
@@ -6083,8 +6027,7 @@ Rector, oris, m,
 
 Monachus, [alis, is, /. 
 
-Monacha, sancUmoni- 
-Rhetor, oris, m. 
+Monacha, sancUmoniRhetor, oris, m. 
 
 Dives, divitis. 
 
@@ -6102,8 +6045,7 @@ Miles, itis, m.
 Eques, itis, m. 
 
 Pedes, itis, m. [tus. 
-Rei maritimae praefec- 
-Dux, ducis, m, 
+Rei maritimae praefecDux, ducis, m, 
 Chiliarchus, legionis 
 
 [tribunus. 
@@ -6111,8 +6053,7 @@ Centurio, onis, m.
 Legatus. 
 
 Decurio, onis, m. 
-SignTfer, 6ri, m.\ vexil- 
-[larius. 
+SignTfer, 6ri, m.\ vexil[larius. 
 
 Speculator, excubitor, 
 [oris, m. 
@@ -6213,11 +6154,9 @@ Vocabulary, ‘
 Cousins (children of 
 [two sisters), 
 Cousins (children of 
-[brother and of sis- 
-Daughter, [ter), 
+[brother and of sisDaughter, [ter), 
 Granddaughter, 
-Great-grand- 
-
+Great-grand
 [daughter. 
 Daughter-in-law, 
 Daughter (minor). 
@@ -6237,12 +6176,10 @@ Great-grandfather,
 
 Great-grandmother, 
 
-Great-great-grand- 
-
+Great-great-grand
 [father, 
 
-Great-great-grand- 
-
+Great-great-grand
 [mother, 
 
 Husband, 
@@ -6262,8 +6199,7 @@ Nurse,
 Old age. 
 
 
-Consobrini, m.; consobri- 
-[nae,/. 
+Consobrini, m.; consobri[nae,/. 
 
 Amitini, m.; amitlnae,/. 
 Filia, nata. 
@@ -6399,8 +6335,7 @@ Pupillus.
 
 Pupllla. [gis,/. 
 
-Uxor, oris, /.; conjux ju- 
-Mulier, eris, /. 
+Uxor, oris, /.; conjux juMulier, eris, /. 
 
 Juventus, utis,/. 
 
@@ -6417,8 +6352,7 @@ Vir, viri, m.
 DE DOMO EJUSQUE 
 PARTIBUS. 
 
-Spiramen, inis, w.; spiracu- 
-[lum. 
+Spiramen, inis, w.; spiracu[lum. 
 
 Camera ; fornix, icis, m. 
 
@@ -7307,8 +7241,7 @@ Straw-mat,
 Strickle, 
 
 Table, [mensions. 
-Table of small di- 
-Table utensils, 
+Table of small diTable utensils, 
 Earthenware, 
 Silver, 
 
@@ -9462,8 +9395,7 @@ Vocabulary.
 
 15 Qiiind^cim, 
 
-16 Sed^eim, SexdS- 
-
+16 Sed^eim, SexdS
 [cira, 
 
 17 Septemdecim, 
@@ -9507,8 +9439,7 @@ Vocabulary.
 600 Sexcenti, ae, a, 
 700 Septingenti, ae,a 
 800 Octingenti, ae, a, 
-( 900 Nongenti, Non- 
-
+( 900 Nongenti, Non
 1000 Mille, [ingenti, 
 
 
@@ -9558,8 +9489,7 @@ Ducentesimus.
 
 Trecentesimus. 
 
-Quadringentesimus- 
-
+Quadringentesimus
 Quingentesimus. 
 
 Sexcentesimus. 
@@ -9604,8 +9534,7 @@ Distributives.
 
 14 Quaternideni, 
 
-15 Quinideni, Quin- 
-
+15 Quinideni, Quin
 16 Senideni, [deni, 
 
 17 Septenideni, 
@@ -9707,20 +9636,16 @@ Vocabulary.
 
 102 Centeni bini, 
 
-200 Ducenteni, Du- 
-[ceni, 
+200 Ducenteni, Du[ceni, 
 
-300 Trecenteni,Tre- 
-[ceni, 
+300 Trecenteni,Tre[ceni, 
 
-400 Qnadringen- 
-
+400 Qnadringen
 [teni, geni, 
 
 500 Quingenteni, 
 
-600 SexcentenijSex- 
-[ceiii, 
+600 SexcentenijSex[ceiii, 
 
 700 Septingenteni, 
 [geiii, 
@@ -9854,15 +9779,12 @@ concave,
 oval, 
 
 
-Reguia ourea proporti- 
-
+Reguia ourea proporti
 Regula societiitis. [onum. 
 
-Quadratae radicis inves- 
-[tigatio. 
+Quadratae radicis inves[tigatio. 
 
-CubTcae radicis investi- 
-
+CubTcae radicis investi
 Algebra. [gatio, 
 
 Algebricus. 
@@ -10216,8 +10138,7 @@ Fumus.
 Fulgur, uris, n. 
 
 Fulmen, inis, n. 
-Tonitrus, (is, m.; toni- 
-Tonare. [truum. 
+Tonitrus, (is, m.; toniTonare. [truum. 
 
 Arcus coelest is; iris, idis,/. 
 Tempestas, atis,/. 
@@ -10628,8 +10549,7 @@ Effigies, ei,/.
 
 Tela. [arius. 
 
-Sculptor, oris, m. ; statu- 
-vSculpere. 
+Sculptor, oris, m. ; statuvSculpere. 
 
 Statua, simulacrum. 
 Proplasma, atis, n. 
@@ -10743,15 +10663,13 @@ Piliila, catapotium.
 Sanguinis detractio. 
 
 Venain incidere. [siiga. 
-Hirudo, Inis, /. ; sangui- 
-Sepecillum. 
+Hirudo, Inis, /. ; sanguiSepecillum. 
 
 Abaptistum. 
 
 Cucurbitula. [turn. 
 
-Vomitorium medicamen- 
-Vomitivus. 
+Vomitorium medicamenVomitivus. 
 
 
 32. 
@@ -11258,8 +11176,7 @@ Lixivia.
 
 Lixivijis. [rius. 
 
-Bibliopola, je, m.; libra- 
-Liber, bri, 'tn. 
+Bibliopola, je, m.; libraLiber, bri, 'tn. 
 Concinnatio, onis,/. 
 Libri tegmen, inis, n. 
 Dorsum. 
@@ -11336,8 +11253,7 @@ Paver,
 Pavement, 
 
 Beetle of a paver. 
-To pave with ham- 
-Road, route, [mer, 
+To pave with hamRoad, route, [mer, 
 Path, 
 
 Peddler, 
@@ -11489,8 +11405,7 @@ Furca.
 Furcilla. 
 
 Rastellus, raster, tri, m. 
-Vannus, i, /. ; ventila- 
-[brum. 
+Vannus, i, /. ; ventila[brum. 
 
 Restiarius, restio, onis, m. 
 Funis, IS, m. 
@@ -11515,8 +11430,7 @@ Pedum.
 
 Funda. 
 
-Sutor, oris, m. ; calceola- 
-Sutrlna. [rius. 
+Sutor, oris, m. ; calceolaSutrlna. [rius. 
 
 
 
@@ -11550,8 +11464,7 @@ Compass,
 
 Crayon, 
 Swine-herd, 
-Tavern-keeper, - 
-Tavern, 
+Tavern-keeper, Tavern, 
 Upholsterer, 
 Tapestry, 
 
@@ -11609,8 +11522,7 @@ Carbo linearis.
 Subulcus, porcarius. 
 Caupo, onis, m. [na. 
 
-Caupona, popina, taber- 
-Aulaeorum opifex, icis, m. 
+Caupona, popina, taberAulaeorum opifex, icis, m. 
 Aulaeum, peripetasma, 
 
 Vindemiator, oris, m. 
@@ -11697,8 +11609,7 @@ LUDI, OBLECTAMENTA.
 
 Pila. [cularis. 
 
-Ludus tudicularis, trudi- 
-Alea, seliim. 
+Ludus tudicularis, trudiAlea, seliim. 
 
 Fundfila, barathrum, 
 Globulus, pila. 
@@ -11709,8 +11620,7 @@ Venatio, on is, /. ; venatus,
 Venator oris, m. [us, m. 
 Auceps, cilpis, m. [da. 
 Venatio, venatus, prae* 
-Plagae, arum, /. pL ; cas- 
-[ses, ium,m. pi. ; retia, 
+Plagae, arum, /. pL ; cas[ses, ium,m. pi. ; retia, 
 [him, n. pi. 
 
 Ilex, icis, m. 
@@ -11724,8 +11634,7 @@ Alveus.
 Calculus. 
 
 Latrunculi, drum, m. pi. 
-AlveSlus, alveus luso- 
-Latrunculus. [rius. 
+AlveSlus, alveus lusoLatrunculus. [rius. 
 Pedes, itis, m. 
 
 Eques, itis, m. 
@@ -11805,8 +11714,7 @@ Ass,
 Regina. 
 
 Rex, regis, m. [gem. 
-Vici regem, teneo re- 
-Tess^ra, talus, tax Ulus. 
+Vici regem, teneo reTess^ra, talus, tax Ulus. 
 Fritillus. 
 
 Tesserae j actus. 
@@ -11848,8 +11756,7 @@ Cursus, iis, m.
 Equestris cursus. 
 Reticulum. [tio. 
 
-Equitatus, us, m. ; equita- 
-Equus. 
+Equitatus, us, m. ; equitaEquus. 
 
 Equa. 
 
@@ -11926,8 +11833,7 @@ Oscillatione lud6re ;
 Grallae, arum, /. pi. 
 Turbo, Inis, m. [nem. 
 
-Agitare, movere turbi- 
-Crepundia, orum, n. pi. 
+Agitare, movere turbiCrepundia, orum, n. pi. 
 
 
 ## COMPARATIVA ET SUPERLATIVA A PROBATISSIMIS AUCTORI- BUS USURPATA. 
@@ -12510,8 +12416,7 @@ Devinctus.
 
 Devotus. [tlinus. 
 
-Dexter, dexterior, dex- 
-Dext6re, c. 
+Dexter, dexterior, dexDext6re, c. 
 
 Dicax. 
 
@@ -12759,8 +12664,7 @@ Extenuatus, 8.
 
 Excusate, c. 
 
-Exter and extgrus, ex- 
-
+Exter and extgrus, ex
 Exercitatus. 
 
 [terior, extimus. 
@@ -12908,8 +12812,7 @@ Fortis.
 
 Fortiter. 
 
-For tuna tus- 
-Fortunate, c. 
+For tuna tusFortunate, c. 
 Fractus, c. 
 Fragilis, c. 
 Fragdse, c. 
@@ -13244,8 +13147,7 @@ Infense, c. [mus.
 
 Insalubris. 
 
-InfSrus, inferior, infi- 
-
+InfSrus, inferior, infi
 Insanus. 
 
 Infra, inferius. 
@@ -13355,8 +13257,7 @@ Intense, c. [mus.
 
 Jocose, c. 
 
-Internus, interior, inti- 
-
+Internus, interior, inti
 Jucundus. 
 
 Interne, inter ins, intime. 
@@ -13502,8 +13403,7 @@ Comparatives and Superlatives.
 
 Magnop^re. 
 
-Magnus, major, maxi- 
-[mus, maximopSre. 
+Magnus, major, maxi[mus, maximopSre. 
 Magis, maxime. 
 MaledTcens. 
 
@@ -13820,14 +13720,12 @@ Perspectus, s.
 
 Parvus, minox*, 
 
-mini- 
-
+mini
 Persuasus, s. 
 
 Parvum, minus 
 
-, min- 
-
+, min
 Pertinax. 
 
 Patens. 
@@ -13975,8 +13873,7 @@ Portuosus. [tremus.
 
 ProclTvis, c. 
 
-Posterns, posterior, pos- 
-
+Posterns, posterior, pos
 Procliviter, c. 
 
 Posterius, postremo. 
@@ -14041,8 +13938,7 @@ Pronus, c. [ime.
 
 Putide, c. 
 
-Prope, propius, prox- 
-Propensus, c. 
+Prope, propius, proxPropensus, c. 
 
 Putus, s. 
 
@@ -14413,8 +14309,7 @@ Superbus.
 
 Superbe. [mus. 
 
-Sup^rus, superior, suprt- 
-Super, superior, supreme 
+Sup^rus, superior, suprtSuper, superior, supreme 
 [and suprtmum. 
 Supinus, c. 
 
@@ -14713,30 +14608,22 @@ Cerno, crevi, cretum,
 centre, to see. 
 
 
-Claudo, claiisi, clau- 
-sum, claud^re, to sfnit. 
+Claudo, claiisi, clausum, claud^re, to sfnit. 
 
-Coalesce, coalui, co- 
-alitum, coalere and coal- 
-escere, to grow up. 
+Coalesce, coalui, coalitum, coalere and coalescere, to grow up. 
 
 Coepio, coepi, coeptum, 
 coepere, to begin. 
 
-Coerceo, coercui, co- 
-ercitum, coerce re, to con- 
-fine, repress. 
+Coerceo, coercui, coercitum, coerce re, to confine, repress. 
 
-CollTdo, colllsi, colli- 
-sum collid^re, to dash 
+CollTdo, colllsi, collisum collid^re, to dash 
 against. 
 
 Colo, colui, cultum, 
 colere, to cultivate. 
 
-Comminiscor, com- 
-mentus sum, commin- 
-isci, to invent. 
+Comminiscor, commentus sum, comminisci, to invent. 
 
 Como, comsi and 
 compsi, comtum and 
@@ -14751,8 +14638,7 @@ Compesco, compescui,
 compescere, to contain. 
 
 Compingo, compegi, 
-compactum, compin- 
-g6re, to thrust^ to drive. 
+compactum, comping6re, to thrust^ to drive. 
 
 Concresco, concrevi, 
 concretum, concrescere, 
@@ -14764,23 +14650,19 @@ Conciipio, conciipivi,
 concupitum, concupere, 
 to covet, to long for. 
 
-Condo, condidi, con- 
-dltum, cond^re, to hide. 
+Condo, condidi, condltum, cond^re, to hide. 
 
 Condio, condii, and 
 ivi, conditum, condire, 
 to season. 
 
-Con fligo, con fli x i, con - 
-flictiim, confligere, to 
+Con fligo, con fli x i, con flictiim, confligere, to 
 fight. 
 
 Congruo, congrui, 
-congnigre, to come to- 
-gether. 
+congnigre, to come together. 
 
-Consto, constiti, cons- 
-iatum and constitura, 
+Consto, constiti, consiatum and constitura, 
 constare, to stop, to be, 
 to cost. 
 
@@ -14789,18 +14671,15 @@ consultum, consulere, to
 consult. 
 
 Consumo, consumpsi, 
-consumptura, consii- 
-mere, to consume. 
+consumptura, consiimere, to consume. 
 
-ContingOjContigi, con- 
-tact um, contingere, to 
+ContingOjContigi, contact um, contingere, to 
 arrive at, to attain. 
 
 Coquo, coxi, coctum, 
 coquere, to cook. 
 
-CoiTigo, correxi, cor- 
-rectum, corrig^re, to 
+CoiTigo, correxi, correctum, corrig^re, to 
 chastise. 
 
 
@@ -14808,43 +14687,33 @@ Corripio, corripiii,
 correptum, corripere, to 
 seize. 
 
-Credo, credidi, credi- 
-tum, credgre, to believe. 
+Credo, credidi, creditum, credgre, to believe. 
 
-Crepo, crepui, crepi- 
-tiim, crepare, to crackle, 
+Crepo, crepui, crepitiim, crepare, to crackle, 
 to resound. 
 
 Cresco, crevi, cretum, 
 crescgre, to grow. 
 
-Cubo, ciibiii and Cu- 
-ba vi, cubitum, cubare, to 
+Cubo, ciibiii and Cuba vi, cubitum, cubare, to 
 lie in bed. 
 
-Cudo, cudi, cusum, cu- 
-dere, to beat, to forge. 
+Cudo, cudi, cusum, cudere, to beat, to forge. 
 
-Cupio, cupii and cu- 
-pTvi, cupltum, cupere, to 
+Cupio, cupii and cupTvi, cupltum, cupere, to 
 desire. 
 
-Curro, cucurri, cur- 
-sum, currere, to run. 
+Curro, cucurri, cursum, currere, to run. 
 
 Do, dedi, datum, dare, 
 to give. 
 
-Decern o, decrevi, de- 
-er etum, decern gre, to de- 
-cide, to decree. 
+Decern o, decrevi, deer etum, decern gre, to decide, to decree. 
 
 Deferveo, defervui, 
-defervere and deferves- 
-cere, to cease to boil. 
+defervere and defervescere, to cease to boil. 
 
-Deleo, delevi, dele- 
-turn, delere, to efface, to 
+Deleo, delevi, deleturn, delere, to efface, to 
 destroy. 
 
 Demo, demsi and 
@@ -14854,45 +14723,34 @@ dempsi, demtum and
 
 
 
-demptum, demure, to re- 
-move, withdraw. 
+demptum, demure, to remove, withdraw. 
 
-Depri mo, depressi, de- 
-pressum, deprimgre, to 
+Depri mo, depressi, depressum, deprimgre, to 
 depres.^, to sink. 
 
 Descendo, descendi, 
 descensum, descendere, 
 to descend. 
 
-Desino, desTvi and de- 
-si i, desitum, desinere, 
+Desino, desTvi and desi i, desitum, desinere, 
 to cease. 
 
-Desisto, destiti, desti- 
-tum, de>istere, to desist. 
+Desisto, destiti, destitum, de>istere, to desist. 
 
-Diligo, dilexi, dilec- 
-tum, diligere, to cherish. 
+Diligo, dilexi, dilectum, diligere, to cherish. 
 
-Dirimo, diremi, di- 
-remtum and diremp- 
-tum, dirimere, to party 
+Dirimo, diremi, diremtum and diremptum, dirimere, to party 
 to separate. 
 
-Diripio, diripui, di- 
-rep turn, diripere, to tear 
+Diripio, diripui, direp turn, diripere, to tear 
 asunder. 
 
-Dir no, dirni, dirti- 
-tum, dir Here, to demol- 
-ish, to destroy 
+Dir no, dirni, dirtitum, dir Here, to demolish, to destroy 
 
 Disco, didici, dicitum 
 [rare), discere, to learn. 
 
-Divido, divisi, divi- 
-sum, dividere, to divide. 
+Divido, divisi, divisum, dividere, to divide. 
 
 Doleo, dolui, dolitum, 
 dolere, to he in pain. 
@@ -14901,14 +14759,12 @@ Doceo, docui, doctum,
 docere, to teach. 
 
 
-Domo, domui, domi- 
-tiim, domare, to tame. 
+Domo, domui, domitiim, domare, to tame. 
 
 Diico, duxi, ductum, 
 ducfire, to lead. 
 
-Duresco, dnrui, du- 
-rere and durescere, to 
+Duresco, dnrui, durere and durescere, to 
 grow hard. 
 
 Edo, edidi, esuni and 
@@ -14917,8 +14773,7 @@ estiim, edSre, to eat.
 Edo, edidi, editum, 
 edere, to publish, to say. 
 
-Elicio, elicui, elici- 
-tum, elicere, to draw out. 
+Elicio, elicui, elicitum, elicere, to draw out. 
 
 Elldo, ellsi, ellsum, 
 elidere, to bruise, to grind. 
@@ -14926,8 +14781,7 @@ elidere, to bruise, to grind.
 Eligo, elegi, electum, 
 eligere, to choose, to elect. 
 
-Eluceo, eluxi, elu- 
-cere, to shine, to glitter. 
+Eluceo, eluxi, elucere, to shine, to glitter. 
 
 Emo, emi, emptiim, 
 emere, to buy. 
@@ -14936,34 +14790,27 @@ Emungo, emiinxi,
 emunctum, emungere, 
 to blow the nose. 
 
-Eneco, enecui, eneca- 
-tum and enectiim, enec- 
-are, to fill. 
+Eneco, enecui, enecatum and enectiim, enecare, to fill. 
 
 Eruo, erui, erutuin, 
 eruere, to draw out, to 
 subvert. 
 
 Evado, evasi, evasum, 
-evadere, io go out, to es- 
-cape. 
+evadere, io go out, to escape. 
 
 
 Verbs, 
 
-Excello, excellui, ex- 
-cellere, to excel. 
+Excello, excellui, excellere, to excel. 
 
-Expergiscor, exper- 
-rectiis sum, expergisci, 
+Expergiscor, experrectiis sum, expergisci, 
 to awakr. 
 
-Expleo, explevi, ex- 
-pletum, explere, to Jill 
+Expleo, explevi, expletum, explere, to Jill 
 again. 
 
-Ex plod o, explosi, ex- 
-plosum, explodere, to 
+Ex plod o, explosi, explosum, explodere, to 
 hias, to disapprove. 
 
 Exprimo, express!, 
@@ -14974,13 +14821,11 @@ ExquTro, exquisivi,
 exqnisitura, exquirere, 
 to seek a gain , to enquire. 
 
-Exsero, exserui, ex- 
-sertum, exserere, to put 
+Exsero, exserui, exsertum, exserere, to put 
 forth. 
 
 Exsilio, exsilii and 
-exsilui, exsultum, ex- 
-si lire, to leap forth, to go 
+exsilui, exsultum, exsi lire, to leap forth, to go 
 out. 
 
 Fallo, fefelli, falsum, 
@@ -15001,18 +14846,14 @@ Ferio, ferii*e, to strike.
 Fero, tuli, latum, 
 ferre, to bear. 
 
-Fido, fisus sum, fi- 
-dere, to conjide. 
+Fido, fisus sum, fidere, to conjide. 
 
-Figo, fixi, fixum, fi- 
-gure, to fix, to plant. 
+Figo, fixi, fixum, figure, to fix, to plant. 
 
-Findo, fidi, fissum, fin- 
-dere, to cleave. 
+Findo, fidi, fissum, findere, to cleave. 
 
 Fingo, finxi, fictum, 
-fingere, to feign, to repre- 
-sent. to make. 
+fingere, to feign, to represent. to make. 
 
 Flecto, flexi, flexum, 
 flectere, to curb, to bend. 
@@ -15032,27 +14873,22 @@ fodere, to dig.
 Foveo, fovi, fotum, 
 fovere, to inflame. 
 
-Frango, fregi, frac- 
-tum, frangere, to break. 
+Frango, fregi, fractum, frangere, to break. 
 
-Fremo,fremui, fremi- 
-tum, fremgre, to tremble. 
+Fremo,fremui, fremitum, fremgre, to tremble. 
 
 Frendo and frendeo, 
 frendere and frendere, 
 to gnash the teeth. 
 
-Frico, fricui, frica- 
-tum and frictum, fri- 
-care, to rub. 
+Frico, fricui, fricatum and frictum, fricare, to rub. 
 
 
 
 
 
 Fruor, fruTtus and 
-fructus sum, fnii, to en- 
-joy. 
+fructus sum, fnii, to enjoy. 
 
 Fugio, fugi, fugitum, 
 fugere, to fiy from. 
@@ -15066,64 +14902,51 @@ to shine, to brighten.
 Fiindo, fiidi, fusiiin, 
 fimdere, to pour. 
 
-Geino, gemui, gemi- 
-tuin, gemgre, to groan. 
+Geino, gemui, gemituin, gemgre, to groan. 
 
 Gero, gessi, gestum, 
 gerere, to carry on, to 
 produce. 
 
-Gigno, genui, geni- 
-tum, gignere, to bring 
+Gigno, genui, genitum, gignere, to bring 
 Jorth. 
 
 Gradior, grcssus sum, 
 gradi; (o walk, to advance. 
 
 Haereo, hsesi, haesum, 
-haerere, to stick, to hesi- 
-tate. 
+haerere, to stick, to hesitate. 
 
-Haurio, hausi, liaus- 
-tum, haurire, to draw up. 
+Haurio, hausi, liaustum, haurire, to draw up. 
 
-Horreo, horrui, hor- 
-rere and horrescere, to 
+Horreo, horrui, horrere and horrescere, to 
 stand on end. 
 
 Ico, ici, ictum, icere, 
 to strike, to wound. 
 
-Ignosco, ignovi, igno- 
-tum, ignocSre, to pardon. 
+Ignosco, ignovi, ignotum, ignocSre, to pardon. 
 
 
-Impingo, impegi, im- 
-pactum, impingere, to 
+Impingo, impegi, impactum, impingere, to 
 throw. 
 
-Incido, incidi, inci- 
-dere (cado), to fall. 
+Incido, incidi, incidere (cado), to fall. 
 
-IncTdo, incidi, incT- 
-sum, incidere (ccedo), to 
+IncTdo, incidi, incTsum, incidere (ccedo), to 
 cut. 
 
-Incumbo, incubui, in- 
-cubitum, incumbgre, to 
+Incumbo, incubui, incubitum, incumbgre, to 
 lie on, to exert oneself. 
 
-Indiilgeo, indulsi, in- 
-dultum, indulgere, to be 
+Indiilgeo, indulsi, indultum, indulgere, to be 
 indulgent toward. 
 
-Ingruo, ingrui, in- 
-gruSre, to attack, lo fall 
+Ingruo, ingrui, ingruSre, to attack, lo fall 
 upon. 
 
 Intueor, intuitus sum, 
-intueri, to look with at- 
-tention. 
+intueri, to look with attention. 
 
 Irascor, iratus, sum, 
 irasci, to get angry. 
@@ -15137,11 +14960,9 @@ jacere, to throw, to cast.
 Jubeo, Jussi, jussum, 
 jubere, to order. 
 
-Juvo, juvi, jutum, ju- 
-vare, to aid. 
+Juvo, juvi, jutum, juvare, to aid. 
 
-Labo, lapsus sum, la- 
-bi, to fall. 
+Labo, lapsus sum, labi, to fall. 
 
 
 Verbs. 
@@ -15152,11 +14973,9 @@ Verbs.
 Lii?do, laesi, Itesiim, 
 laed^re, to wound. 
 
-Lambo, Iambi, 1am- 
-bere, to lick. 
+Lambo, Iambi, 1ambere, to lick. 
 
-Langiieo, langiii, lan- 
-guere, to lamjuish. 
+Langiieo, langiii, languere, to lamjuish. 
 
 Lateo, latiii, latere, to 
 hide. 
@@ -15169,43 +14988,34 @@ Lino, levi and livi,
 litiim, lingre, to smear^ 
 to cover. 
 
-Linquo, liqiii, lin- 
-qnSre, to leave. 
+Linquo, liqiii, linqnSre, to leave. 
 
 Luceo, luxij lucere, 
 to shine. 
 
-Ludo, lusi, liisum, lu- 
-dSre, to ptay. 
+Ludo, lusi, liisum, ludSre, to ptay. 
 
 Lugeo, luxi, luctum, 
 lugere, to iveep. 
 
-Mando, mandi, man- 
-sum, mandgre, to chew. 
+Mando, mandi, mansum, mandgre, to chew. 
 
-Maneo, mansi, man- 
-sum, manere, to dwell. 
+Maneo, mansi, mansum, manere, to dwell. 
 
 Medeor, mederi, to 
 cure, to care for. 
 
-Mergo, raei'si, mer- 
-sum, merg^re, to plunge. 
+Mergo, raei'si, mersum, merg^re, to plunge. 
 
-Meto, messui, mes- 
-sum, metere, to harvest. 
+Meto, messui, messum, metere, to harvest. 
 
 Metior, mensus sum, 
 metlri, to measure. 
 
 
-Metuo, metui, metii- 
-turn, metu6re, to fear. 
+Metuo, metui, metiiturn, metu6re, to fear. 
 
-Misceo miscui, mix- 
-tum and mistum, mis- 
-cere, to mix, to join. 
+Misceo miscui, mixtum and mistum, miscere, to mix, to join. 
 
 Misereor, miser tus 
 
@@ -15218,8 +15028,7 @@ mittere, to send.
 Mcereo, moestus sum, 
 moerere, to afflict. 
 
-Molo, molui, moli- 
-tum, mol6re, to grind. 
+Molo, molui, molitum, mol6re, to grind. 
 
 Mordeo, memordi, 
 morsum, mordere, to 
@@ -15228,8 +15037,7 @@ bite.
 Moveo, movi, motum, 
 movere, to move. 
 
-Miilceo, mulsi, mul- 
-sum, mulcere, to caress. 
+Miilceo, mulsi, mulsum, mulcere, to caress. 
 
 Mulgeo, mulxi and 
 mulsi, mulctum and 
@@ -15239,9 +15047,7 @@ milk.
 Nanciscor, nactus 
 sum, hancisci, to find. 
 
-Neco, necui and ne- 
-ciivi, necatum and nec- 
-tum {rare)j necilre, to 
+Neco, necui and neciivi, necatum and nectum {rare)j necilre, to 
 kill. 
 
 Necto, nexui, nexum, 
@@ -15251,15 +15057,13 @@ Hectare, to knot.
 
 
 
-Negligo, neglexi, ne- 
-glectum, negligere, to 
+Negligo, neglexi, neglectum, negligere, to 
 necfUct, 
 
 Nitor, nisus and nixus 
 sum, niti, to drive. 
 
-Noceo, nocui, noci- 
-tiim, nocere, to harm. 
+Noceo, nocui, nocitiim, nocere, to harm. 
 
 Nosco, novi, notiim, 
 noscere, to know. 
@@ -15271,32 +15075,24 @@ Oblino, lini, livi, evi,
 oblitum, oblinere, to 
 anoint. 
 
-Obllnio, oblinivi, ob- 
-linire, to lay over, to erase. 
+Obllnio, oblinivi, oblinire, to lay over, to erase. 
 
 Obliviscor, oblltus 
 sum, oblivisci, to forget. 
 
-Obsideo, obsedi, ob- 
-sessum, obsidere, to be- 
-siege. 
+Obsideo, obsedi, obsessum, obsidere, to besiege. 
 
-Obsoleo, obsolevi, ob- 
-soletum, obsolere and 
-obsolescere, to be obso- 
-lete. 
+Obsoleo, obsolevi, obsoletum, obsolere and 
+obsolescere, to be obsolete. 
 
-Occtdo, occului, oc- 
-cultum, occulere, to hide. 
+Occtdo, occului, occultum, occulere, to hide. 
 
 Oleo, olui, olere, to 
 spread an odor. 
 
-Operio, operui, oper- 
-tum, operire, to cover. 
+Operio, operui, opertum, operire, to cover. 
 
-Ordior, orsus sum, or- 
-diri, to begin. 
+Ordior, orsus sum, ordiri, to begin. 
 
 
 Orior, ortus sum, 
@@ -15305,12 +15101,9 @@ orlri, to be born.
 Paciscor, pactus sum. 
 pacisci, to treat. 
 
-Pando, pandi, pan- 
-sum and passum, pan- 
-dere, to extend. 
+Pando, pandi, pansum and passum, pandere, to extend. 
 
-Pango, panxi or pe- 
-pigi, pactum, pangere, 
+Pango, panxi or pepigi, pactum, pangere, 
 to fasten in. 
 
 Parco, peperci and 
@@ -15318,11 +15111,9 @@ pars! [old), parcitum
 and parsum, parcere, to 
 spare. 
 
-Pareo, parui, pari- 
-tum, parere, to obey. 
+Pareo, parui, paritum, parere, to obey. 
 
-Pario, pepgri, par- 
-turn, parSre, to bring 
+Pario, pepgri, parturn, parSre, to bring 
 forth. 
 
 Pasco, pavi, pastum, 
@@ -15342,75 +15133,57 @@ pectere, to comb.
 Pello, peptdi, pulsum, 
 pellere, to push, to strike. 
 
-Pellicio, pellexi, pel- 
-lectum, pellicere, to at- 
-tract. 
+Pellicio, pellexi, pellectum, pellicere, to attract. 
 
 
 
 
 
 
-Pendeo, pependi,pen- 
-dere, to hwigj to be sus- 
-pended. 
+Pendeo, pependi,pendere, to hwigj to be suspended. 
 
-Pendo, pependi, peii- 
-suni, pendere, to weigh. 
+Pendo, pependi, peiisuni, pendere, to weigh. 
 
-Percello, perculi,per- 
-ciilsuiii, percellere, to 
+Percello, perculi,perciilsuiii, percellere, to 
 sti ike. 
 
 Percutio, percussi, 
 percussuiii, percutere, 
 to beat. 
 
-Perdo, perdidi, perdi- 
-tum, perdere, to lose. 
+Perdo, perdidi, perditum, perdere, to lose. 
 
-Peto, petii, and pe- 
-tivi, petltum, petere, to 
+Peto, petii, and petivi, petltum, petere, to 
 seek, to aak 
 
 Pingo, piiixi, pictum, 
 pingere, to paint. 
 
-Pinso, pinsiii, pin- 
-sum, pinsitum and pis- 
-tiiin, pinsere, to gruid^ 
+Pinso, pinsiii, pinsum, pinsitum and pistiiin, pinsere, to gruid^ 
 to pound. 
 
-Plaiido, plausi, plau- 
-sum, plaudere, to ap- 
-plaud. 
+Plaiido, plausi, plausum, plaudere, to applaud. 
 
 Plecto, plectere, to 
 whip, to punish. 
 
-Polio, polivi and po- 
-lii, polltum, poHre, to 
+Polio, polivi and polii, polltum, poHre, to 
 polish. 
 
 Polleo, pollere, to be 
 powerful. 
 
 
-Polluo, pollui, pollu- 
-tum, polluere, to spoil. 
+Polluo, pollui, pollutum, polluere, to spoil. 
 
 Pono, posiii, positum, 
 ponere, to restj to place. 
 
-Posco, poposci, posci- 
-tum, poscere, to ask. 
+Posco, poposci, poscitum, poscere, to ask. 
 
-Poto, potavi, pota- 
-tum and potum, po- 
-tiire, to drink. 
+Poto, potavi, potatum and potum, potiire, to drink. 
 
-Prsesto, prpestiti, prses- 
-tituin and praestiitum, 
+Prsesto, prpestiti, prsestituin and praestiitum, 
 praestare, to surpass^ to 
 ejccel. 
 
@@ -15418,11 +15191,9 @@ Prandeo, prandi,
 pransum, prandere, to 
 breakfast. 
 
-Premo, pressi, pres- 
-sum, premere, to press. 
+Premo, pressi, pressum, premere, to press. 
 
-Prodo, prodidi, prodi- 
-tum, prodere, to discover. 
+Prodo, prodidi, proditum, prodere, to discover. 
 
 Proficiscor, profectus 
 sum, proficisci, to depart. 
@@ -15437,8 +15208,7 @@ proreptum, proripere,
 to take off, to drag along. 
 
 Pungo, pupugi and 
-punxi, punctum, pun- 
-gere, to pricky to sting. 
+punxi, punctum, pungere, to pricky to sting. 
 
 
 
@@ -15447,34 +15217,28 @@ gere, to pricky to sting.
 Putreo,putrui,putrere 
 and putreseere, to rot. 
 
-Qusero, qusesivi, quse- 
-situm, qusergre, to aeek. 
+Qusero, qusesivi, qusesitum, qusergre, to aeek. 
 
-Quatio, quassum, qua- 
-tere, to shake. 
+Quatio, quassum, quatere, to shake. 
 
 Queror, questus sum, 
 queri, to complain. 
 
-Quiesco, qiiievi, quie- 
-tuiii, quiescere, to rest. 
+Quiesco, qiiievi, quietuiii, quiescere, to rest. 
 
-Rado, rasi, rasum, ra- 
-d6re, to scrape off. 
+Rado, rasi, rasum, rad6re, to scrape off. 
 
 Rapio, rapiii, raptum, 
 rapere, to bear away. 
 
-Recido, recidi, recii- 
-sum, recidere {cado), to 
+Recido, recidi, reciisum, recidere {cado), to 
 relapse. 
 
 RecTdo, recTdi, red- ' 
 sum, reddfire (ccedo)j to 
 cvt. to cut off. 
 
-Reddo, reddidi, reddi- 
-tum, reddere, to give 
+Reddo, reddidi, redditum, reddere, to give 
 hack. 
 
 Refello, refelRre, to 
@@ -15483,8 +15247,7 @@ refute.
 Rego, rexi, rectum, 
 regere, to reign. 
 
-Reminiscor, reminis- 
-ci, to recollect. 
+Reminiscor, reminisci, to recollect. 
 
 Repo, repsi, reptum, 
 repere, to crawl. 
@@ -15493,37 +15256,28 @@ Reor, ratus sum, reri,
 to think j to believe. 
 
 
-Resipio, resipui, resi- 
-p6re and resipiscere, to 
+Resipio, resipui, resip6re and resipiscere, to 
 feel. 
 
-Respicio, respexi, res- 
-pectum, respicSre, to 
+Respicio, respexi, respectum, respicSre, to 
 look at. 
 
 Respondeo, respond!, 
 responsum, respondere, 
 to answer. 
 
-Respuo, respui, res- 
-puSre, to reject, to repel. 
+Respuo, respui, respuSre, to reject, to repel. 
 
-Retundo, rettidi, retii- 
-sum and retunsura, re- 
-tundgre, to blunt, to re- 
-pulse. 
+Retundo, rettidi, retiisum and retunsura, retundgre, to blunt, to repulse. 
 
-Rideo, risi, risum, ri- 
-dere, to laugh. 
+Rideo, risi, risum, ridere, to laugh. 
 
 Rigeo, rigui, rigere 
 and rigescere, to freeze. 
 
-Rodo, rosi, rosum, ro- 
-d6re, to gnaw. 
+Rodo, rosi, rosum, rod6re, to gnaw. 
 
-Rumpo, rupi, rup- 
-tum, rumpere, to break, 
+Rumpo, rupi, ruptum, rumpere, to break, 
 to separate. 
 
 Ruo, rui, ruitum and 
@@ -15533,8 +15287,7 @@ forth, to fall down.
 Salio, salii and saiui, 
 saltum, salire, to jump. 
 
-Sallio, salii and sa- 
-livi, salTtum, salire and 
+Sallio, salii and salivi, salTtum, salire and 
 sallire, to salt. 
 
 
@@ -15542,27 +15295,20 @@ sallire, to salt.
 
 
 
-Saiicio, sanxi, sancl- 
-tuni and sanctum, sanc- 
-ire, to establishj to sanc- 
-tion. 
+Saiicio, sanxi, sancltuni and sanctum, sancire, to establishj to sanction. 
 
-Sapio, sapivi and sa- 
-pui, sapgre, to hate a rel- 
-ish, to be ivise. 
+Sapio, sapivi and sapui, sapgre, to hate a relish, to be ivise. 
 
 Sarcio, sarci, sartum, 
 sarcire, to piece, to repair. 
 
-Satiigo, sategi, satac- 
-tum, sataggre, to satisfy. 
+Satiigo, sategi, satactum, sataggre, to satisfy. 
 
 Scindo, scidi, scissum, 
 scindwre, to cleave. 
 
 Scisco, scivi, scitum, 
-sciscere, to decree, to de- 
-cide. 
+sciscere, to decree, to decide. 
 
 Seco, secui, sectum, 
 secare, to cut, to cut off. 
@@ -15570,8 +15316,7 @@ secare, to cut, to cut off.
 Sedeo, sedi, sessum, 
 sedere, to sit down. 
 
-Senesco, senui, se- 
-nere and senescSre, to 
+Senesco, senui, senere and senescSre, to 
 grow old. 
 
 Sentio, sensi, sensum, 
@@ -15579,14 +15324,12 @@ sentire, to perceive, to
 think, to feel. 
 
 Sepelio, sepelii and 
-sepelivi, sepultum, sepe- 
-lire, to bury. 
+sepelivi, sepultum, sepelire, to bury. 
 
 Sepio, sepsi, septum, 
 sepire, to surround. 
 
-Sero, sevi, satum, se- 
-r6re, to sow. 
+Sero, sevi, satum, ser6re, to sow. 
 
 10^ 
 
@@ -15594,8 +15337,7 @@ r6re, to sow.
 Sero, serui, sertum, 
 ser6re, to interlace. 
 
-Serpo, serpsi, serp- 
-tum, serpC^re, to creep. 
+Serpo, serpsi, serptum, serpC^re, to creep. 
 
 Sido, sidi and sedi, 
 sessum, sidSre, to sit 
@@ -15604,14 +15346,12 @@ down.
 Singultio, singultire, 
 to sob, to groan. 
 
-Sino, sivi, situm, si- 
-n6re, to permit. 
+Sino, sivi, situm, sin6re, to permit. 
 
 Sisto, stiti, statum, 
 sistSre, to stop. 
 
-Soleo, solitus sum, so- 
-lere, to be accustomed. 
+Soleo, solitus sum, solere, to be accustomed. 
 
 Sol VO, solvi, solutum, 
 solvere, to untie, to break. 
@@ -15619,11 +15359,9 @@ solvere, to untie, to break.
 Sono, sonui, somtum, 
 sonare, to sound, to ring. 
 
-Sorbeo, sorbui, sorp- 
-tum, sorbere, to swallow. 
+Sorbeo, sorbui, sorptum, sorbere, to swallow. 
 
-Sperno, sprevi, spre- 
-tum, sperrigre, to despise. 
+Sperno, sprevi, spretum, sperrigre, to despise. 
 
 Splendeo, splendid, 
 splendere, to shine, to 
@@ -15643,27 +15381,20 @@ stare, to stand.
 
 
 
-Sterno, stravi, stra- 
-tum, sternSre, to spread, 
+Sterno, stravi, stratum, sternSre, to spread, 
 
-Sterto, stertui, ster- 
-tere, to snore. 
+Sterto, stertui, stertere, to snore. 
 
-Strepo, strepui, strepi- 
-tum, strepere, to resound. 
+Strepo, strepui, strepitum, strepere, to resound. 
 
-Strideo, stridere, to re- 
-echo, to resound. 
+Strideo, stridere, to reecho, to resound. 
 
-Stringo, strinxi, stric- 
-tum, stringere, to bind, to 
+Stringo, strinxi, strictum, stringere, to bind, to 
 draw together. 
 
-Struo, strnxi, struc- 
-tum, struere, to construct. 
+Struo, strnxi, structum, struere, to construct. 
 
-Studeo, studui, stu- 
-dere, to study. 
+Studeo, studui, studere, to study. 
 
 Suadeo, suasi, suasum, 
 suadere, to persuade. 
@@ -15672,11 +15403,9 @@ Sugo, suxi, suctum,
 sugere, to suck. 
 
 Sumo, sumsi and 
-sumpsi, sumptum, su- 
-mere, to take. 
+sumpsi, sumptum, sumere, to take. 
 
-Surgo, surrexi, sur- 
-rectum, surggre, to rise. 
+Surgo, surrexi, surrectum, surggre, to rise. 
 
 Tabeo, tabui, tabere, 
 to melt away. 
@@ -15699,19 +15428,16 @@ tempsi, temtum and
 temptum, temnfire, to 
 despise. 
 
-Tendo, tetendi, ten- 
-turn, tensum, tendgre, to 
+Tendo, tetendi, tenturn, tensum, tendgre, to 
 stretch out. 
 
 Teneo, tenui, tentum, 
 ten ere, to hold. 
 
-Tergeo and tergo, ter- 
-si, tersum, tergere and 
+Tergeo and tergo, tersi, tersum, tergere and 
 tergere, to mb, to clean 
 
-Tero, trivi, tritum, te- 
-rere, to grind, to pound. 
+Tero, trivi, tritum, terere, to grind, to pound. 
 
 Timeo, timui, timere, 
 to fear. 
@@ -15719,25 +15445,19 @@ to fear.
 Tingo, tinxi, tinctum, 
 tinggre, to dye 
 
-Tollo, sustuli, subla- 
-tum, tollgre, to bear 
+Tollo, sustuli, sublatum, tollgre, to bear 
 away. 
 
-Tondeo, totondi, ton- 
-sum, tondere, to shear. 
+Tondeo, totondi, tonsum, tondere, to shear. 
 
 Tono, tonui, tonitum, 
 tonare, to thunder 
 
-Torpeo, torpui, tor- 
-pere, to he torpid. 
+Torpeo, torpui, torpere, to he torpid. 
 
-Torqueo, torsi, tor- 
-sum and tortum, tor- 
-quere, to twist. 
+Torqueo, torsi, torsum and tortum, torquere, to twist. 
 
-Torreo, torrui, tos- 
-tum, torrere, to dry, to 
+Torreo, torrui, tostum, torrere, to dry, to 
 roast. 
 
 
@@ -15746,26 +15466,21 @@ Verds,
 
 
 
-Traho, traxi, trac- 
-turn, traliSre, to draw. 
+Traho, traxi, tracturn, traliSre, to draw. 
 
 Transilio, transilivi, 
 transilii and transilui, 
 transiiltum, transilire, 
 to trap. 
 
-Tremo, tremui, tre- 
-mere, to tremble. 
+Tremo, tremui, tremere, to tremble. 
 
 Trudo, trusi, trusum, 
 trudere, to shove fonvard. 
 
-Tiieor, tuitus sum, tu- 
-eri, to consider, lo protect. 
+Tiieor, tuitus sum, tueri, to consider, lo protect. 
 
-Tundo, tutiidi, tun- 
-sum and tusum, tun- 
-dere, to strike. 
+Tundo, tutiidi, tunsum and tusum, tundere, to strike. 
 
 Turgeo, tursi, turgere, 
 to swell. 
@@ -15796,11 +15511,9 @@ vulsum, vellSre, to draw
 forth. 
 
 
-Vendo, vendidi, ven- 
-ditum, vendere, to sell. 
+Vendo, vendidi, venditum, vendere, to sell. 
 
-Veneo, venii and ve- 
-nlvi, venitum, venire, 
+Veneo, venii and venlvi, venitum, venire, 
 to be sold. 
 
 VeiTO, vend, versum, 
@@ -15815,18 +15528,15 @@ on.
 Veto, vetui, vetitum, 
 vetare, to forbid. 
 
-V ideo, vidi, visum, vi- 
-dere, to see. 
+V ideo, vidi, visum, videre, to see. 
 
 Vinco, vici, victum, 
 vincere, to conquer. 
 
-Vincio, vinxi, vine- 
-turn, vincire, to lie, to 
+Vincio, vinxi, vineturn, vincire, to lie, to 
 knot. 
 
-Viso, visi, visum, vi- 
-sgre, to examine, to visit. 
+Viso, visi, visum, visgre, to examine, to visit. 
 
 Vivo, vixi, victum, 
 vivgre, to live. 
@@ -15834,12 +15544,10 @@ vivgre, to live.
 Volo, volui velle, to 
 wish. 
 
-Volvo, volvi, volu- 
-tum, volvgre, to turn 
+Volvo, volvi, volutum, volvgre, to turn 
 round. 
 
-Vomo, vomui, vomi- 
-tum, vomere, to vomit. 
+Vomo, vomui, vomitum, vomere, to vomit. 
 
 Voveo, vovi, votum, 
 vovere, to vow, to make a 
@@ -15853,43 +15561,35 @@ vow.
 
 I,— QUESTIONS. 
 
-1. There are two kinds of questions : the di- 
-rect and the indirect The indirect question is 
+1. There are two kinds of questions : the direct and the indirect The indirect question is 
 always expressed by a subordinate proposition. In 
 the sentences : Tell me ivho you are, I wish to know 
-what he is doing, who you are, what he is do- 
-ing, are indirect questions. The direct question 
-is put thus: Who are you? What is he do- 
-ing? 
+what he is doing, who you are, what he is doing, are indirect questions. The direct question 
+is put thus: Who are you? What is he doing? 
 
 I 1. — Direct Questions. 
 
 2. The following pronouns and adverbs are 
 
-often used in direct questions : Quis, quisnam ec- 
-
+often used in direct questions : Quis, quisnam ec
 quis; ecquisnam,^ uier^ for two persons or things; 
 
 1 Eoquis, ecquisnam, ecquo, ecquando, expect an affi rraative 
 answer. 
 
 Quid, subject or object of a verb of asking, is used alone 
-or is followed by a substantive in the nominative, the ac- 
-cusative, or the genitive case. Quid tibi videUir? (Cic.) How 
+or is followed by a substantive in the nominative, the accusative, or the genitive case. Quid tibi videUir? (Cic.) How 
 
 
 
 Question and Answer, 
 qmliSy for quality; quantus, quantum, quam, for 
 dimensions, quantity ; quanti, for price, value ; 
-quanto, in comparisons; quot, quotie^i, quoins, quo- 
-teni, quotuplex, quotuplus, for number; cujus, for 
+quanto, in comparisons; quot, quotie^i, quoins, quoteni, quotuplex, quotuplus, for number; cujus, for 
 possession; cujas, for country; ubi, quo, ecquo, 
 uiule, qua, quorsum, quorsus, utro, utrobi, utrubi, for 
 place ; quando, ecquando, quamdiu, quamdudum, for 
-time; cur, quare, quamobrem, quin, for cause, mo- 
-tive ; quomodo, quemadmodum, lU, qui,^ for man- 
-ner and instrument. 
+time; cur, quare, quamobrem, quin, for cause, motive ; quomodo, quemadmodum, lU, qui,^ for manner and instrument. 
 
 Quis hie loquitur? Ter. 
 
@@ -15911,8 +15611,7 @@ What am I to hear?
 does it look to you? Quid tibi nomm est? ('Plant.) What is 
 your name^ Quid tu hominis es? (T6r.) What man art thou? 
 Quod is always followed by a substantive in the same case. 
-Quod scefus enmmisit? What crime has he committed? In- 
-terrogative pronouns are used only with nouns which are 
+Quod scefus enmmisit? What crime has he committed? Interrogative pronouns are used only with nouns which are 
 expressed, in the cases which have the same form for the 
 masculine and neuter. Thus we say: Cui rei studes? de 
 qua re loqueris? and not Cui studes? de quo loqueris? 
@@ -15991,16 +15690,14 @@ Quamobrem id non facis? Ter.
 
 Why do you not do this? 
 
-Ut vales? Qui sciam? Ter- 
-
+Ut vales? Qui sciam? Ter
 How do you do? How may 1 know it? 
 
 Msecenas quomodo tecum? Hor. 
 
 How is it with yoUj Mcecenas? 
 
-3. When the pronouns and adverbs just enu- 
-
+3. When the pronouns and adverbs just enu
 
 merated are not used, the particles ne^ an, numquid, 
 numnam, nonne, annon, utrum, may be employed. 
@@ -16011,8 +15708,7 @@ or an is used ; ne is always placed after a word.
 
 152 Guide to Ledin Conversation, 
 
-and an ordinarily begins a subordinate proposi- 
-tion.^ 
+and an ordinarily begins a subordinate proposition.^ 
 
 Novistine Euclionem? Plant 
 
@@ -16046,9 +15742,7 @@ Was not that enough?
 
 1 An and annon serve to announce the second part of an 
 interrogation which has two members, and correspond to 
-or. They begin a proposition which stands as an explana- 
-tion or as an answer to another ; we could not say an no- 
-visti Euclionem f 
+or. They begin a proposition which stands as an explanation or as an answer to another ; we could not say an novisti Euclionem f 
 
 2 Numquid is stronger than num. 
 
@@ -16065,8 +15759,7 @@ In vain do you call yourself free ; is not every fear a
 bondage f 
 
 6. When the question regards two things or 
-two persons, utruni or ne is used in the first mem- 
-ber, and an before the second. ‘ 
+two persons, utruni or ne is used in the first member, and an before the second. ‘ 
 
 Guatulerne tibi, an timeam? Cic. 
 
@@ -16101,8 +15794,7 @@ in secret or openly f
 
 
 7* When we ask whether a thing exists or not, 
-whether an event has taken place or not, the sen- 
-tence is expressed as a simple affirmation, necveox 
+whether an event has taken place or not, the sentence is expressed as a simple affirmation, necveox 
 arinon being placed at the end. 
 
 Sunt haec tua verba necne? Cic. 
@@ -16120,19 +15812,15 @@ Has his father returned or not?
 
 § 2. — Indirect Questions, 
 
-8. In indirect questions, as in direct, the pro- 
-nouns and adverbs quiy qualis, cur^ etc., are used.' 
+8. In indirect questions, as in direct, the pronouns and adverbs quiy qualis, cur^ etc., are used.' 
 
 1 Indirect questions generally follow the verbs scirei 
 nejsdrei ignorare, quaerere^ interrogare^ videre^ deliberare^ 
 dijudicarey decernere^ etc. The relative pronoun should 
 not be confounded wiih the interrogative pronoun. The 
-relative pronoun has an antecedent expressed or under- 
-stood, and is construed with the indicative; the interro- 
-gative pronoun is always followed in indirect questions by 
+relative pronoun has an antecedent expressed or understood, and is construed with the indicative; the interrogative pronoun is always followed in indirect questions by 
 tbe subjunctive. Thus, Scio quae tu nescis signifies i 
-know things which you do not know, while Scio quae tu nes- 
-cias signifies I know what the things are which you do not 
+know things which you do not know, while Scio quae tu nescias signifies I know what the things are which you do not 
 know. Likewise, Di^am tamen quod sentio signifies I will 
 teU nevertheless that which (id quod) I think, the thing which 
 I think, and Dicam tamen quid sentinm, 1 ivitl tell nevertheless 
@@ -16160,8 +15848,7 @@ What reason is there for rejecting him f
 
 9. When these adverbs and pronouns are not 
 used, ne, num^ an^ nonnCy annoUy utrum, etc., are 
-used instead. If the interrogative sentence con- 
-sists of but one member, ne, nuniy and sometimes 
+used instead. If the interrogative sentence consists of but one member, ne, nuniy and sometimes 
 an may be used. 
 
 Quaeritur idemne sit pertinacia et perseverantia 
@@ -16216,8 +15903,7 @@ whether they be staves or freemen?
 An is repeated before every proposition when there are 
 several of them: Quaeritur an atomorum con cur su mundus 
 sit effectus, an Providentia regatur, an sit aliquando casurus 
-(C.) — An, anne are often used for aut: Postulo mihi respon- 
-deat, qui sit iste verutius : mercator, an aralor, an pecuarius? 
+(C.) — An, anne are often used for aut: Postulo mihi respondeat, qui sit iste verutius : mercator, an aralor, an pecuarius? 
 (Cic.) Sometimes the meaning of the sentence demands 
 aut : An, ille, tempus aut in poetis evolvendis, aut in musicis 
 contereret (Cic.). ' 
@@ -16230,13 +15916,10 @@ g 3. — The Verb in Questions.
 put in the subjunctive : ^ in direct questions it is 
 put in the indicative. 
 
-In direct questions the verb is put in the sub- 
-junctive : 1st. When the tense is conditional : 
+In direct questions the verb is put in the subjunctive : 1st. When the tense is conditional : 
 Qaem te appellemf (Cic.). How should I call you? 
-— Utrum plus aestimemus pecuuiam Pyrrhl, an con- 
-tinentiam Fabricii f (Cic.). Which should we 
-esteem the more, the treasures of Pyrrhm or the dis- 
-interestedness of Fabricius f 2nd. When there 
+— Utrum plus aestimemus pecuuiam Pyrrhl, an continentiam Fabricii f (Cic.). Which should we 
+esteem the more, the treasures of Pyrrhm or the disinterestedness of Fabricius f 2nd. When there 
 arises an idea of doubt, of possibility: Quid 
 faciamf Quid facer em? (Cic.) What am I to 
 do f What could I do f 
@@ -16258,8 +15941,7 @@ Qui vocare? — Geta. Ter.
 
 What is your name f — Geta. 
 
-1 Nescio quis stands for aliquis and the verb which fol- 
-lows is put in the indicative. 
+1 Nescio quis stands for aliquis and the verb which follows is put in the indicative. 
 
 Nescio quis teneros oculus mihi fascinat agnos. 
 
@@ -16400,11 +16082,9 @@ Mens, tuus, suus, noster, vester,
 or the genitive of a noun : Cujum 
 pecus? Meum or ^gonis. 
 
-Names of country ^ of sect, of fam- 
-ily: Italus, Komanus, Stoicus. 
+Names of country ^ of sect, of family: Italus, Komanus, Stoicus. 
 
-Ibi, hie, istic, illic, ubique, ibi- 
-dem, alibi, nusquam, alicubi, 
+Ibi, hie, istic, illic, ubique, ibidem, alibi, nusquam, alicubi, 
 usquam, foris, etc. 
 
 
@@ -16436,19 +16116,15 @@ Eo, hue, istuc, illuc, quovis,
 quolibet, eodem, alio, aliquo, 
 quoquam, quopiam, foras, etc. 
 
-Inde, hinc, istinc, illinc, un- 
-dique, indiedeni, aliunde, ali- 
-cunde, coelitus, etc. 
+Inde, hinc, istinc, illinc, undique, indiedeni, aliunde, alicunde, coelitus, etc. 
 
 Ea, hac, istac, iliac, qualibet, 
 eadera, aliqua, usquequaque, 
 recta, dextra, etc. 
 
-Sursum, deorsura, introrsum, ali- 
-orsum, etc. 
+Sursum, deorsura, introrsum, aliorsum, etc. 
 
-Utroqiie, utroque versus, neu- 
-tro, etc. 
+Utroqiie, utroque versus, neutro, etc. 
 
 Utrobique, neutribi, etc. 
 
@@ -16460,8 +16136,7 @@ etc.
 Aliquandiu, diu, tandiu, semper, 
 paulisper, parun^per, etc. 
 
-Magnopere, valde, omnino, par- 
-tim, etc. 
+Magnopere, valde, omnino, partim, etc. 
 
 Aliquantum, multum, parum, 
 paulum, plus, minus, etc. 
@@ -16489,8 +16164,7 @@ Good-day. — Good-day.
 Good-day, John — And 
 you, Paul. 
 
-Good-day, my good fel- 
-low, good-clay my 
+Good-day, my good fellow, good-clay my 
 dear Cur; ul ion. 
 
 I am glad to see you 
@@ -16520,23 +16194,19 @@ Salve Joannes. — Et tu Paule.
 
 O salve, bone vir, C^r- culio exoptate, salve. 
 
-Venire te salvum vo- 
-lupe est. — Credo, quid 
+Venire te salvum volupe est. — Credo, quid 
 agitur? 
 
-Salvum te advenire gau- 
-demus. 
+Salvum te advenire gaudemus. 
 
-Aliquem salutare ; salu- 
-tem alicui dic6re, 
+Aliquem salutare ; salutem alicui dic6re, 
 dare, ferre. 
 
 Consalutare inter se. 
 
 Salvus sis. 
 
-Multam tibi salutem im- 
-pertio. 
+Multam tibi salutem impertio. 
 
 Venit ad me salutatum. 
 
@@ -16547,13 +16217,11 @@ Forms of Conversation.
 Give my regards to 
 Peter. 
 
-He has sent me his re- 
-gards through you. 
+He has sent me his regards through you. 
 
 Give him my regards. 
 
-Cicero sends his re- 
-gards. 
+Cicero sends his regards. 
 
 My son Cicero wishes 
 to be remembered to 
@@ -16589,8 +16257,7 @@ I am well.
 I am a little better. 
 
 
-Petro meis verbis salu- 
-tem adscribe. 
+Petro meis verbis salutem adscribe. 
 
 A te mihi sal (item dixit. 
 
@@ -16623,8 +16290,7 @@ contraxisti?
 
 Bene mihi est. 
 
-Melius, meliusciile rai- 
-hi est. 
+Melius, meliusciile raihi est. 
 
 
 
@@ -16674,8 +16340,7 @@ He has sore eyes.
 My tooth aches. 
 
 
-Non plane a morbo con- 
-valui. 
+Non plane a morbo convalui. 
 
 Ninus belle me habes. 
 
@@ -16709,17 +16374,14 @@ evasit.
 
 Nausea plane abiit. 
 
-Ex intestlnis, ex reni- 
-bus, podagra laboro 
+Ex intestlnis, ex renibus, podagra laboro 
 
-Sanguis ei naribus ma- 
-nat, fluit. Naribus 
+Sanguis ei naribus manat, fluit. Naribus 
 sanguinem emittit. 
 
 Laborat ex ociilis. 
 
-Dens dolet, dolores mo- 
-vet. 
+Dens dolet, dolores movet. 
 
 
 
@@ -16754,15 +16416,12 @@ Ab ocQlis valet.
 Meliuschle est. 
 
 PerdTta ei at valetudine ; 
-illi erat infirma vale- 
-tudo. 
+illi erat infirma valetudo. 
 
 Tenet eum morbus • 
-aegrotat; morbo la- 
-borat. 
+aegrotat; morbo laborat. 
 
-JEger gravi morbo de- 
-cumbit 
+JEger gravi morbo decumbit 
 
 In morbum delapsum 
 est, morbo correptus 
@@ -16777,19 +16436,15 @@ from the gout.
 To take care of the 
 health. 
 
-To recover from a sick- 
-ness. 
+To recover from a sickness. 
 
 
-Magnas articulorum do- 
-lores habet. 
+Magnas articulorum dolores habet. 
 
 Valetudini consul^re 
 servire. 
 
-Emorbo emerggre, rec- 
-reari; a morbo rec- 
-reari. 
+Emorbo emerggre, recreari; a morbo recreari. 
 
 
 3. 
@@ -16801,8 +16456,7 @@ Where are you going?
 I was going to see you. 
 
 VV here were you going 
-from here? — No- 
-where; I know not 
+from here? — Nowhere; I know not 
 where to go. 
 
 
@@ -16813,9 +16467,7 @@ Quo te agis?
 Ad te ibam. 
 
 Quo te hinc agis? quo 
-tibi est iter?— ISTis- 
-quam ; nescio qu^r- 
-sum earn. 
+tibi est iter?— ISTisquam ; nescio qu^rsum earn. 
 
 
 
@@ -16837,8 +16489,7 @@ Wait awhile.
 
 Wait a minute. 
 
-I will return immedi- 
-ately. 
+I will return immediately. 
 
 I have been waiting a 
 long time. 
@@ -16859,8 +16510,7 @@ as you have begun
 
 Let me go. 
 
-Go, I am not prevent- 
-ing you. 
+Go, I am not preventing you. 
 
 Make haste and go 
 there. 
@@ -16871,15 +16521,12 @@ Wherefore?
 Leave my presence. 
 
 
-Quo tendis? quo te pe- 
-des ducunt? quor- 
-sum is? 
+Quo tendis? quo te pedes ducunt? quorsum is? 
 
 Quo te rapis? quo te 
 coiTjpis, proripis? 
 
-Quo te capessis? — Ca- 
-pesso me domum. 
+Quo te capessis? — Capesso me domum. 
 
 Quo cursum, gradum 
 corripis? 
@@ -16896,12 +16543,10 @@ Non novi viam.
 
 Quam viam insistam? 
 
-Hac aut iliac iter insti- 
-tuit? 
+Hac aut iliac iter instituit? 
 
 Quam tenet cursum? — 
-Lutetiam versus in- 
-tendit. 
+Lutetiam versus intendit. 
 
 Perge viam ; perge quo 
 coepisti. 
@@ -16912,8 +16557,7 @@ Transi, nihil te moror.
 
 Matura illuc ire. 
 
-Egredere hinc. — ;Quam- 
-obrem? 
+Egredere hinc. — ;Quamobrem? 
 
 A page te a me. 
 
@@ -16936,11 +16580,9 @@ Te hinc am6ve; facesse
 hinc; istinc recede. 
 
 Facessite hinc ocyus ; 
-VOS hinc ocyus anio- 
-limmi. 
+VOS hinc ocyus aniolimmi. 
 
-Hinc av6la ; abi quam- 
-prlrnum ; move te 
+Hinc av6la ; abi quamprlrnum ; move te 
 ocius. 
 
 At etiam restitas, cessas? 
@@ -16971,9 +16613,7 @@ Will you come? — Yes.
 
 Will you come or not? 
 
-Will you come to-mor- 
-row?— Yes, but to- 
-ward evening. 
+Will you come to-morrow?— Yes, but toward evening. 
 
 What day wdll you 
 come? 
@@ -16987,8 +16627,7 @@ A judice venio.
 
 Quam mox veniam. 
 
-Veni frequens in sena- 
-tum. 
+Veni frequens in senatum. 
 
 Jamdiu factum est cum, 
 postquam venimus. 
@@ -17000,12 +16639,10 @@ Certe.
 Veniesne an non? 
 
 Veniesne eras? — Ego 
-vero, sed sub vesp.6- 
-rum. 
+vero, sed sub vesp.6rum. 
 
 Ad quern diem redibis? 
-Ad quae tempbra ve- 
-
+Ad quae tempbra ve
 
 
 
@@ -17014,8 +16651,7 @@ Come when you will.
 
 Have you just come? 
 
-He met me very conve- 
-niently. 
+He met me very conveniently. 
 
 You come on time. 
 
@@ -17051,8 +16687,7 @@ hither.
 
 When will he return? 
 
-He will return to-mor- 
-row at the latest. 
+He will return to-morrow at the latest. 
 
 Who rapped at my 
 door? 
@@ -17062,13 +16697,11 @@ Ubi vis, accede.
 
 Advgnis modo? 
 
-Commftdum obviam mi- 
-hi venit. 
+Commftdum obviam mihi venit. 
 
 Per tempus venis. 
 
-Tardiusciile, justo tar- 
-dius venisti. 
+Tardiusciile, justo tardius venisti. 
 
 Mihi morae est quod 
 non adsis. 
@@ -17076,8 +16709,7 @@ non adsis.
 Quae te causa impulit 
 ut hue venires? 
 
-Ego obviam tibi cona- 
-bar 
+Ego obviam tibi conabar 
 
 Prop^ra, actutum hue 
 redi. 
@@ -17089,20 +16721,15 @@ Adest ex Africa.
 
 Quampridem rediit? 
 
-Non ita pridem me con- 
-venit. 
+Non ita pridem me convenit. 
 
-Quidni eum intro mis- 
-isti? 
+Quidni eum intro misisti? 
 
-Hue coram adducam il- 
-ium. 
+Hue coram adducam ilium. 
 
-Ecquando redibit, redi- 
-turus est, revertet? 
+Ecquando redibit, rediturus est, revertet? 
 
-Ut tardissime eras redi- 
-bit. 
+Ut tardissime eras redibit. 
 
 Quisnam a me pepdlit 
 fores? 
@@ -17112,8 +16739,7 @@ Forms of Conversation,
 He is waiting at the Ad januam spectat. 
 door. 
 
-Come in, otherwise I IngredSre, sin aliter oc- 
-shall close the door. cludam fores. 
+Come in, otherwise I IngredSre, sin aliter ocshall close the door. cludam fores. 
 
 Tliis often happens. Hoc ssepe usuvenit. 
 
@@ -17124,19 +16750,16 @@ WEATHER.
 What is the state of the 
 weather? 
 
-The weather is beauti- 
-ful. 
+The weather is beautiful. 
 
 The weather is very 
 gloomy. 
 
 The weather is splendid. 
 
-The weather is uncer- 
-tain. 
+The weather is uncertain. 
 
-The weather is unfavor- 
-able to setting out. 
+The weather is unfavorable to setting out. 
 
 The weather was never 
 so bad. 
@@ -17161,22 +16784,18 @@ Quaenam est tempestas?
 Coelo sereno utemur ; 
 sudum erit coelum. 
 
-Tenebricdsum est tem- 
-pos. 
+Tenebricdsum est tempos. 
 
 Dies luculentus est. 
 
 Dubium est coelum. 
 
-Tempos discessus ab- 
-surdum est. 
+Tempos discessus absurdum est. 
 
 Nullus unquam dies 
-tarn magna turbulen- 
-taque tempestate fuit. 
+tarn magna turbulentaque tempestate fuit. 
 
-Hie non intermittit coe- 
-lum nitesc6re. 
+Hie non intermittit coelum nitesc6re. 
 
 Valde pluvium est hoc 
 coelum. 
@@ -17207,8 +16826,7 @@ It rained all night.
 I shall depart if the 
 weather is good. 
 
-It was never any warm- 
-er. 
+It was never any warmer. 
 
 His head is uncovered, 
 no matter how cold 
@@ -17218,8 +16836,7 @@ it is.
 Conglaciat frigoribus 
 aqua. 
 
-Glacies mollltur tepe- 
-facta, calore tabescit. 
+Glacies mollltur tepefacta, calore tabescit. 
 
 Nives diffunduntur. 
 
@@ -17268,9 +16885,7 @@ Kespondet patri ; oris
 similitudine patrem 
 refert. 
 
-Natura te prOrsus a sim- 
-ilitudine parentis ar- 
-ripuit. 
+Natura te prOrsus a similitudine parentis arripuit. 
 
 Qui vocaris? Quod 
 nomen tibi est? 
@@ -17329,41 +16944,35 @@ This is no time to be
 lazy. 
 
 
-Quotum agit setatis an- 
-num? — Deci mum. 
+Quotum agit setatis annum? — Deci mum. 
 
 Excessit egressus est 
 annos decern. 
 
-Nondum sextum ata- 
-tis annum egressus 
+Nondum sextum atatis annum egressus 
 sum. 
 
-Undeviginti annos na- 
-tus. 
+Undeviginti annos natus. 
 
 Ego te {ctate consequor. 
 
 iEqualis est mens. 
 
 Natu major, provectior ; 
-natu posterior, infe- 
-rior. 
+natu posterior, inferior. 
 
 Ubi habitas? 
 
 Respondet domus mea 
 huic gymnasio. 
 
-Propinque, nostris jedi- 
-bus, accolit nostras 
+Propinque, nostris jedibus, accolit nostras 
 8edes. 
 
 Habet se propter aream 
 Mauberti. 
 
-Summis in jedibus hab- 
-itat. 
+Summis in jedibus habitat. 
 
 Quando sapies? 
 
@@ -17373,8 +16982,7 @@ Nihil sapit.
 
 Prseter modum sapis. 
 
-Disciplinas, litt6ras pri- 
-mis labiis attigit. 
+Disciplinas, litt6ras primis labiis attigit. 
 
 Pigritia labdrat. 
 
@@ -17396,13 +17004,10 @@ He has but little talent.
 He studies with ardor. 
 
 
-Katio cum aetate ado- 
-lescit. 
+Katio cum aetate adolescit. 
 
-Multis naturae muneri- 
-bus. dotibus ornatus; 
-plurimum ingenio va- 
-let. 
+Multis naturae muneribus. dotibus ornatus; 
+plurimum ingenio valet. 
 
 Ingenio parum potest. 
 
@@ -17415,8 +17020,7 @@ TO SPEAK, TO TELL.
 Do I speak to you or 
 not? 
 
-Do you not wish to an- 
-swer? 
+Do you not wish to answer? 
 
 I know not what to say. 
 
@@ -17447,15 +17051,13 @@ Tibi ego dico, an non?
 
 Dicisne, an non? 
 
-Quod dicam non re- 
-perio. 
+Quod dicam non reperio. 
 
 Lingua haeret metu. 
 
 Jacent ratidnes. 
 
-Amo te, et non neglex- 
-isse habeo gratia m. 
+Amo te, et non neglexisse habeo gratia m. 
 
 Hoc mihi gratius facSre 
 nihil potes. 
@@ -17492,15 +17094,13 @@ that?
 
 I tell the thing as it is. 
 
-What do they say con- 
-cerning the death of 
+What do they say concerning the death of 
 my brother? 
 
 This is a secret, tell it 
 to nobody. 
 
-You may tell it to him- 
-self if you wish. 
+You may tell it to himself if you wish. 
 
 He speaks well. 
 
@@ -17509,25 +17109,21 @@ He speaks distinctly.
 He speaks Latin quite 
 well. 
 
-He speaks Latin ele- 
-gantly. 
+He speaks Latin elegantly. 
 
 You speak Latin badly. 
 
-He talks to me every- 
-where. 
+He talks to me everywhere. 
 
 
 Belle onmlno, belle 
 sane. 
 
-Num hoc ex ullo audi- 
-visti aliquando? 
+Num hoc ex ullo audivisti aliquando? 
 
 De tuo illud addis. 
 
-Aliud dicit atque sen- 
-tit; aliud dicit, aliud 
+Aliud dicit atque sentit; aliud dicit, aliud 
 cogitat. 
 
 Dicam tibi turn demum 
@@ -17538,8 +17134,7 @@ Quid istuc verbi est?
 Dico ut res est. 
 
 Quod ad fratris obi turn 
-attinet, quid circum- 
-fertur? 
+attinet, quid circumfertur? 
 
 Secreto hoc audi, tecum 
 habeto. 
@@ -17554,14 +17149,11 @@ distincte loquitur.
 Satis commode Latin e 
 loquitur. 
 
-Perbgne Latine loqui- 
-tur. 
+Perbgne Latine loquitur. 
 
-Latine admSdum in- 
-quinate loqu^ris. 
+Latine admSdum inquinate loqu^ris. 
 
-Mihi usquequaque lo- 
-quitur. 
+Mihi usquequaque loquitur. 
 
 
 
@@ -17588,8 +17180,7 @@ Desist from speaking
 badly. 
 
 Enough is said, this is 
-enough on the sub- 
-ject. 
+enough on the subject. 
 
 Let us cease speaking of 
 these things. 
@@ -17611,8 +17202,7 @@ you joking? — I am
 in earnest. 
 
 
-Nullum verbum pro- 
-loqui potui 
+Nullum verbum proloqui potui 
 
 Satis jam verborum est. 
 
@@ -17620,8 +17210,7 @@ Ex eo millies audivi.
 
 Cupit te conventum. 
 
-Vult te conventum pa- 
-ter. 
+Vult te conventum pater. 
 
 Convento Joanne opus 
 est. 
@@ -17632,27 +17221,21 @@ Satis jam verborum est,
 satis superque dictum 
 est. 
 
-De his dicere desista- 
-mus. 
+De his dicere desistamus. 
 
-Sermonem alio trans- 
-feramus. 
+Sermonem alio transferamus. 
 
 Jacet istud in tenSbris; 
 haec obvoluta sunt 
 silentio. 
 
-Hie jam plura non di- 
-cam. 
+Hie jam plura non dicam. 
 
 Verbum nemo facit. — 
 Tandem aliquando 
 conticuit. 
 
-Jocone an serio? — Ex- 
-tra jocum, remdto jo- 
-co, bona fide, ex ani- 
-mo. 
+Jocone an serio? — Extra jocum, remdto joco, bona fide, ex animo. 
 
 
 
@@ -17665,8 +17248,7 @@ Forms of Conversation,
 TO ASK, TO ACCORD, 
 TO REFUSE. 
 
-To permit, to grant per- 
-mission. 
+To permit, to grant permission. 
 
 Grant us a thing. 
 
@@ -17693,12 +17275,10 @@ that
 I will permit you to do 
 that. 
 
-Who gave you permis- 
-sion? 
+Who gave you permission? 
 
 I will not allow that to 
-be done ; I’ll not tol- 
-erate it. 
+be done ; I’ll not tolerate it. 
 
 If you do it, you will 
 be punished. 
@@ -17711,16 +17291,11 @@ value.
 PETERE, CONCEDERE, 
 ABNUERE. 
 
-Dare copiam, faculta- 
-tem, potestatem, li- 
-centiam. 
+Dare copiam, facultatem, potestatem, licentiam. 
 
-Unum sinite a nobis ex- 
-orari ; unum conce- 
-dite, date nobis. 
+Unum sinite a nobis exorari ; unum concedite, date nobis. 
 
-Date mi hi, quseso, ve- 
-niam ut... 
+Date mi hi, quseso, veniam ut... 
 
 Sine te exorari. 
 
@@ -17729,27 +17304,22 @@ jam hie ad6ro.
 
 Per me ut abeas licet. 
 
-Hoc precibus tuis con- 
-cedo; aquum pos- 
-til las. 
+Hoc precibus tuis concedo; aquum postil las. 
 
 Illicitum est hoc agere. 
 
 Tibi permissurus sum 
 ut hoc facias. 
 
-Quis tibi potestatem fe- 
-cit? 
+Quis tibi potestatem fecit? 
 
 Non committam ut hoc 
-fiSri possit ; non pa- 
-tiar, non feram. 
+fiSri possit ; non patiar, non feram. 
 
 Hoc si egeris, non feres 
 in taciturn. 
 
-Mihi denegas, quod tan- 
-ti non est. 
+Mihi denegas, quod tanti non est. 
 
 
 
@@ -17761,12 +17331,9 @@ He has never refused
 me. 
 
 He received naught 
-from him but a re- 
-fusal. 
+from him but a refusal. 
 
-I will see that you ob- 
-tain what you de- 
-mand. 
+I will see that you obtain what you demand. 
 
 He has permission to 
 do anything. 
@@ -17777,17 +17344,13 @@ has allowed him.
 
 Ne quid ultra requiras. 
 
-Nihil unquam mihi ab- 
-nuit, denegavit. 
+Nihil unquam mihi abnuit, denegavit. 
 
-Nihil ab illo nisi repul- 
-sam tulit. 
+Nihil ab illo nisi repulsam tulit. 
 
-Tibi quod posttilas im- 
-petrabo. 
+Tibi quod posttilas impetrabo. 
 
-Omnium rerum liber- 
-tatem tenet. 
+Omnium rerum libertatem tenet. 
 
 Quantum pricceptoris 
 voluntas tulit. 
@@ -17803,8 +17366,7 @@ Do me this favor.
 
 Help me, I pray you. 
 
-Can you do me this fa- 
-vor? 
+Can you do me this favor? 
 
 Do me this kindness. 
 
@@ -17828,23 +17390,18 @@ beneficium.
 
 Id, amabo, adjuva me. 
 
-Potesne me ad illud ad- 
-juvare? 
+Potesne me ad illud adjuvare? 
 
 Hoc beneficium adhibe? 
 
-Quem adjutorem habu- 
-isti? 
+Quem adjutorem habuisti? 
 
-Quid de te merui, com- 
-merui? 
+Quid de te merui, commerui? 
 
-Numquid est quod op- 
-era mea vobis opus 
+Numquid est quod opera mea vobis opus 
 sit? 
 
-Nihil est seque quod fa- 
-ciam lubens. 
+Nihil est seque quod faciam lubens. 
 
 
 Forms of Conversation. 
@@ -17861,8 +17418,7 @@ service.
 I am much obliged to 
 you for that. 
 
-I am under great obli- 
-gations to you. 
+I am under great obligations to you. 
 
 I return you sincere 
 thanks. 
@@ -17876,8 +17432,7 @@ a favor.
 He has tendered me his 
 services. 
 
-He is the most oblig- 
-ing man that I ever 
+He is the most obliging man that I ever 
 met. 
 
 
@@ -17896,22 +17451,16 @@ tibi debeo.
 Plurimum tibi gratias 
 habeo, ago, refero. 
 
-Nunquam illius me- 
-moria effluet,discedet; 
-nulla hujus rei me- 
-moriam oblivio ob- 
-scurabit. 
+Nunquam illius memoria effluet,discedet; 
+nulla hujus rei memoriam oblivio obscurabit. 
 
 Multis me beneficiis 
-complexus est, de- 
-vinxit. 
+complexus est, devinxit. 
 
 Ad hoc opgram suam 
 professus est. 
 
-Est omnium quos qui- 
-dem novgrim officio- 
-sissimus. 
+Est omnium quos quidem novgrim officiosissimus. 
 
 
 10. 
@@ -17947,8 +17496,7 @@ than I deserved.
 
 It does not concern you. 
 
-I am not sorry for hav- 
-ing done it. 
+I am not sorry for having done it. 
 
 What! you dared do 
 that? 
@@ -17980,8 +17528,7 @@ Did you do it? Yes.
 
 
 Ausisne hoc facere? 
-Plane, omnino pror- 
-sus, ausim equidem 
+Plane, omnino prorsus, ausim equidem 
 
 Quotusquisque vest rum 
 hoc audeat? 
@@ -17989,8 +17536,7 @@ hoc audeat?
 Hoc si egeris, non feres 
 taciturn. 
 
-Satis superque poenii- 
-rum dedi. 
+Satis superque poeniirum dedi. 
 
 Nihil tua refert. 
 
@@ -17998,17 +17544,11 @@ Haud muto factum.
 
 Quid? tu ausus es? 
 
-Cujus hoc hortatu fe- 
-cisti? 
+Cujus hoc hortatu fecisti? 
 
-Non fecit hoc de indus- 
-tria, per impruden- 
-tiam hoc fecit, im- 
-prudentia ab eo pec- 
-catum est. 
+Non fecit hoc de industria, per imprudentiam hoc fecit, imprudentia ab eo peccatum est. 
 
-At vero nos quid com- 
-misimus? 
+At vero nos quid commisimus? 
 
 Sciam de reliquo quid 
 agendum sit. 
@@ -18028,8 +17568,7 @@ Idnefecisti? Admodum.
 
 Forms of Conversaiion. 
 
-Will you do it? Cer- 
-tainly. 
+Will you do it? Certainly. 
 
 You do well. 
 
@@ -18042,8 +17581,7 @@ What shall I say to
 please you? 
 
 I shall do it with all 
-my heart, most wil- 
-lingly. 
+my heart, most willingly. 
 
 Do it according to your 
 judgment. 
@@ -18058,8 +17596,7 @@ You will have to deal
 with Lentulus 
 
 What are you doing? 
-You are doing noth- 
-ing but playing. 
+You are doing nothing but playing. 
 
 
 Faciesne id? Maxime. 
@@ -18068,27 +17605,22 @@ Facis commbde.
 
 Merlto tuo feci. 
 
-Istud erga me benefi- 
-cium ad lube. 
+Istud erga me beneficium ad lube. 
 
 Qui pro tuo desiderio 
 dicam? 
 
-Faciam illud animo li- 
-benti prolixoque ; fa- 
-ciam illud ex ammo 
+Faciam illud animo libenti prolixoque ; faciam illud ex ammo 
 lubens. 
 
-Judicio tuo rem per- 
-mitte. 
+Judicio tuo rem permitte. 
 
 Vide etiam atque etiam 
 quid sis facturus. 
 
 Vide quid agas. 
 
-Res tibi erit cum Len- 
-tiilo. 
+Res tibi erit cum Lentiilo. 
 
 Quid tibi agis? Nihil 
 aliud quam ludis. 
@@ -18127,8 +17659,7 @@ But you, what think
 you of it? 
 
 What is your opinion? 
-Are you of this opin- 
-ion? 
+Are you of this opinion? 
 
 Now then, what think 
 you of it? 
@@ -18160,8 +17691,7 @@ opinion.
 Add my opinion to that 
 of Caesar. 
 
-They have been of dif- 
-ferent opinions. 
+They have been of different opinions. 
 
 
 Consilii res est. 
@@ -18189,16 +17719,13 @@ Ita censes, sentis ; tibi
 ita videtur. 
 
 Mea quidem sententia, 
-quantum ego augu- 
-ror.ut meafert opinio. 
+quantum ego auguror.ut meafert opinio. 
 
-Nostri sensus con- 
-gruunt. 
+Nostri sensus congruunt. 
 
 Tibi assentio, tecum 
 sentio, eo in tuam 
-sententiam, tu^e sen- 
-te ntiae faveo. 
+sententiam, tu^e sente ntiae faveo. 
 
 Nee Celso acceo. 
 
@@ -18217,8 +17744,7 @@ Forms of Conversation.
 The opinions agree. 
 
 
-The opinions are con- 
-trary. 
+The opinions are contrary. 
 
 This subject merits our 
 attention. 
@@ -18228,8 +17754,7 @@ Consider it, I pray you.
 I think of it day and 
 night. 
 
-I shall give it my seri- 
-ous attention. 
+I shall give it my serious attention. 
 
 It came to me when I 
 was not thinking of it. 
@@ -18255,8 +17780,7 @@ habet deliberationem.
 Considerate cum animis 
 vestris velim. 
 
-Cura haec apud me ex- 
-cdbat. 
+Cura haec apud me excdbat. 
 
 De hoc valde vidSro. 
 
@@ -18281,24 +17805,18 @@ not yet.
 How long have you 
 been fasting? 
 
-I promised to tak^ sup- 
-per with Csesar. 
+I promised to tak^ supper with Csesar. 
 
 
 DE CONVIVIIS SEU 
 EPULIS. 
 
-Prandistine? — Non- 
-dum, minime, nequa- 
-quam. 
+Prandistine? — Nondum, minime, nequaquam. 
 
 Quam pridem, quam 
 dudum non edisti? 
 
-Csesari condixi, prorhi- 
-si ; Csesari coenam con- 
-dixi, ad coenam pro- 
-mlsi. 
+Csesari condixi, prorhisi ; Csesari coenam condixi, ad coenam promlsi. 
 
 
 
@@ -18313,8 +17831,7 @@ taking dinner.
 He went to bed without 
 his supper. 
 
-To invite anyone to din- 
-ner. 
+To invite anyone to dinner. 
 
 To invite anyone to 
 supper. 
@@ -18345,8 +17862,7 @@ To quench thirst.
 
 This makes one thirsty. 
 
-To give drink to any- 
-one, to pour out wine. 
+To give drink to anyone, to pour out wine. 
 
 
 Coenabo, post demum 
@@ -18356,21 +17872,15 @@ Impransus abiit.
 
 Incoenatus decubuit. 
 
-Aliquem in prandio ac- 
-cipere ; prandio, men- 
-sse adhibere. 
+Aliquem in prandio accipere ; prandio, mensse adhibere. 
 
-Aliquem invitare, vo- 
-care ad ccenam. 
+Aliquem invitare, vocare ad ccenam. 
 
-Prandium curare, appa- 
-rare, epulas, convivi- 
-um instituere, parare. 
+Prandium curare, apparare, epulas, convivium instituere, parare. 
 
 A prandio, a jentaculo. 
 
-Irruere, invadere in of- 
-fam. 
+Irruere, invadere in offam. 
 
 Ovillam edere. 
 
@@ -18381,16 +17891,13 @@ integram famem.
 
 Famem replere 
 
-Adliibere aliquid ad pa- 
-nem, adjicere aliquid 
+Adliibere aliquid ad panem, adjicere aliquid 
 pani. 
 
 Qualem vultis panem? 
-cuj usmodi panem vul- 
-tis? 
+cuj usmodi panem vultis? 
 
-Explere, extinguere, se- 
-dare, leva re sitim. 
+Explere, extinguere, sedare, leva re sitim. 
 
 Hoc sitim accendit. 
 
@@ -18407,8 +17914,7 @@ never drinks wine.
 To drink wine that is 
 too pure, too strong. 
 
-To drink wine much di- 
-luted. 
+To drink wine much diluted. 
 
 To drink one’s health. 
 
@@ -18416,16 +17922,13 @@ See that my dinner be
 got ready. 
 
 
-Exiquo iititur potu, ab- 
-stemius est. 
+Exiquo iititur potu, abstemius est. 
 
-Meracius vinum su- 
-m6re. adhibere. 
+Meracius vinum sum6re. adhibere. 
 
 Dilutius potare. 
 
-Propimire salutem ali- 
-cui. 
+Propimire salutem alicui. 
 
 Vide mihi prandium. 
 
@@ -18458,8 +17961,7 @@ night.
 
 VESPER, NOX, SOMNUS. 
 
-Occidit sol, sol ad occa- 
-sum abscessit. 
+Occidit sol, sol ad occasum abscessit. 
 
 Oriente sole, sub ortum 
 soils ; occidente sole, 
@@ -18469,18 +17971,14 @@ Nocte concubia.
 
 Advesperascit ; decllnat, 
 inclinat ad vesperum 
-dies, nox appetit, in- 
-stat. 
+dies, nox appetit, instat. 
 
 N o c t e s contractiores 
-sunt sestate quam hi- 
-eme. 
+sunt sestate quam hieme. 
 
-Luna ad initium recur- 
-rit. 
+Luna ad initium recurrit. 
 
-Ad multam noctem stu- 
-d3re. 
+Ad multam noctem stud3re. 
 
 
 184 Ghiide to Latin Conversation. 
@@ -18529,20 +18027,17 @@ my custom.
 
 
 Pervigilat noctes totas ; 
-noctes insomnes du- 
-cit. 
+noctes insomnes ducit. 
 
 In noctem se conjecit, 
-multa de nocte pro- 
-fectus est. 
+multa de nocte profectus est. 
 
 Decubueruntne omnes? 
 
 Cubitum discedamus; 
 quieti nos tradamus. 
 
-Me complexus est som- 
-nus. 
+Me complexus est somnus. 
 
 Oppressit eum somnus. 
 
@@ -18551,25 +18046,21 @@ est.
 
 Excitare e lecto. 
 
-Surge, dies est, diei mul- 
-tum jam est. 
+Surge, dies est, diei multum jam est. 
 
 Securus dormit. 
 
 Hoc somnum inducit, 
-facit, conciliat, exci- 
-tat. 
+facit, conciliat, excitat. 
 
 Hoc somnum prohibet, 
 hoc somnum adimit. 
 
 Hac nocte non quievi, 
 somnum non vidi, 
-nullam partem noc- 
-tis requievi. 
+nullam partem noctis requievi. 
 
-De nocte multa, concu- 
-bia nocte exsurrexi. 
+De nocte multa, concubia nocte exsurrexi. 
 
 Arctior quam solebat 
 me somnus tenuit, 
@@ -18595,11 +18086,8 @@ Crastlna die me somno
 replebo. 
 
 Ad mu hum diei, ad 
-multam diem dor- 
-mlre ; ad multam lu- 
-cem stertere et ad 
-multam noctem vigi- 
-lare. 
+multam diem dormlre ; ad multam lucem stertere et ad 
+multam noctem vigilare. 
 
 De die dormit et de 
 nocte vigil at. 
@@ -18615,8 +18103,7 @@ TO PAY.
 To sell at auction, at 
 public sale. 
 
-To ask the price of any- 
-thing. 
+To ask the price of anything. 
 
 How much do you wish 
 for that? 
@@ -18643,23 +18130,19 @@ SOLVERE.
 Per prseconem, auctione 
 vendgre. 
 
-Mercis pretium exqui- 
-r6re. 
+Mercis pretium exquir6re. 
 
-Quanti hoc judicas, ses- 
-timas? 
+Quanti hoc judicas, sestimas? 
 
 Quanti est hoc? 
 
 Quanti hoc veniit? 
 
-Quanti hoc venit, con- 
-stat? 
+Quanti hoc venit, constat? 
 
 Hoc extra pretium est. 
 
-Hoc mihi gratis con- 
-stat ; mihi magno 
+Hoc mihi gratis constat ; mihi magno 
 constat. 
 
 
@@ -18713,8 +18196,7 @@ against vou, we will
 go before the judges. 
 
 
-Librum comparavit vi- 
-li, impenso. 
+Librum comparavit vili, impenso. 
 
 Meo pretio emit. 
 
@@ -18726,8 +18208,7 @@ Jacent equorum pretia.
 
 Tua judicatio est. 
 
-Poma hoc teruntio ses- 
-timantur, adaquato 
+Poma hoc teruntio sestimantur, adaquato 
 singillatim pretio. 
 
 Venerunt ad pactionem. 
@@ -18747,8 +18228,7 @@ Ad tempus, ad diem
 dictam, respondere, 
 solvere. 
 
-Dissolve mihi quod de- 
-bes. 
+Dissolve mihi quod debes. 
 
 Habes tibi res solutas. 
 
@@ -18758,8 +18238,7 @@ ad judices veniemus.
 
 Forms of Conversation, 
 
-To demand payment, Nomina exigere. — Sol- 
-to pay one’s debts. v6re, dissolvSre aes 
+To demand payment, Nomina exigere. — Solto pay one’s debts. v6re, dissolvSre aes 
 
 alienum, nomina. 
 
@@ -18784,8 +18263,7 @@ I give you the game.
 To give an opportunity 
 to retaliate. 
 
-Come then, let the con- 
-test be renewed. 
+Come then, let the contest be renewed. 
 
 To challenge anyone to 
 play. 
@@ -18809,24 +18287,18 @@ Placetne tibi lud^re?
 
 Inter nos ludamus. 
 
-Qua sponsidne vis lu- 
-dgre 
+Qua sponsidne vis ludgre 
 
 Sponsione vincgre ; 
 sponsibnem vincere. 
 
-Conditibnem non res- 
-puo, conditionem se- 
-quor. 
+Conditibnem non respuo, conditionem sequor. 
 
 Tibi cedo. 
 
-Keddgre certammis po- 
-testatem ; lusus repe- 
-tendi copiam facSre. 
+Keddgre certammis potestatem ; lusus repetendi copiam facSre. 
 
-Age, certiimen instaure- 
-tur. 
+Age, certiimen instauretur. 
 
 Ludo aliquem poscere. 
 
@@ -18834,8 +18306,7 @@ De pila palmaria non
 eum metuo. 
 
 Ammum meura mire 
-recreat, ref icit, oblec- 
-tat, afficit venationis 
+recreat, ref icit, oblectat, afficit venationis 
 usus et pila. 
 
 Ludere pila. 
@@ -18867,8 +18338,7 @@ He fences.
 To fence with anyone. 
 
 
-Cursu ad metas conten- 
-dere. 
+Cursu ad metas contendere. 
 
 Trunculis ludSre. 
 
@@ -18885,11 +18355,9 @@ Ludgre par impar.
 
 Discgre rudibus. 
 
-Eudibus eludit, digladi- 
-atur. 
+Eudibus eludit, digladiatur. 
 
-Batugre cum aliquo ru- 
-dibus. 
+Batugre cum aliquo rudibus. 
 
 
 16. 
@@ -18917,8 +18385,7 @@ Who gave you that
 name? 
 
 
-ALTERCATIO, ACCUSA- 
-TIONES. 
+ALTERCATIO, ACCUSATIONES. 
 
 Quorsum, quorsus haec 
 d isputatiOjin dign atio? 
@@ -18926,19 +18393,16 @@ d isputatiOjin dign atio?
 Quid est argentum 
 querelse? 
 
-Altercantur inter se mu- 
-lierum ritu. 
+Altercantur inter se mulierum ritu. 
 
 Omitte lacrymas.. 
 
 Habet lacrymas in pO' 
 testate. 
 
-Quid tibi injuriae fac- 
-tum est? 
+Quid tibi injuriae factum est? 
 
-Quis hoc tibi nomen im- 
-posuit, indidit? 
+Quis hoc tibi nomen imposuit, indidit? 
 
 
 
@@ -18958,8 +18422,7 @@ done?
 What great fault have 
 I committed? 
 
-What crime has he com- 
-mitted? 
+What crime has he committed? 
 
 Did it happen through 
 any fault of mine? 
@@ -18978,16 +18441,13 @@ fist.
 He tripped up my heels. 
 
 
-TO LISTEN ATTENTIVE- 
-LY, TO BE ATTENTIVE. 
+TO LISTEN ATTENTIVELY, TO BE ATTENTIVE. 
 
 Listen attentively. 
 
-Lend your ear and lis- 
-ten. 
+Lend your ear and listen. 
 
-You are paying atten- 
-tion to something else. 
+You are paying attention to something else. 
 
 
 Voca ilium meis verbis, 
@@ -19003,8 +18463,7 @@ Quid tantopSre dellqui?
 Quod scelus admisit, 
 patravit, commisit? 
 
-Meritone meo id acci- 
-dit? 
+Meritone meo id accidit? 
 
 Uti res gesta est? 
 
@@ -19018,13 +18477,11 @@ infregit, infiixit.
 Me supplantavit. 
 
 
-ATTENTE AUDIRF, ANI- 
-MUM ATTENDERE. 
+ATTENTE AUDIRF, ANIMUM ATTENDERE. 
 
 Erigite aures, animum 
 attendite, advertite. 
-Ad move aurem et sub- 
-ausculta. 
+Ad move aurem et subausculta. 
 
 Alias res agis. 
 
@@ -19059,8 +18516,7 @@ t am going to tell you.
 
 Keep this well in mind. 
 
-Look out for what fol- 
-lows. 
+Look out for what follows. 
 
 Pay attention to what I 
 ask. 
@@ -19078,43 +18534,34 @@ Lower your voice.
 You speak too freely. 
 
 
-Tuse peregrin antur au- 
-res. 
+Tuse peregrin antur aures. 
 
 Adesdum, paucis te volo. 
 
 Silentio, attento animo 
 adesse, audlre. 
 
-Mihi interloqueres ! mi- 
-hi obloquSris ! 
+Mihi interloqueres ! mihi obloquSris ! 
 
 Quid repones? 
 
-Licto citius, abjecta om- 
-ni cunctatione. 
+Licto citius, abjecta omni cunctatione. 
 
-Favete, adeste aequo an- 
-imo. 
+Favete, adeste aequo animo. 
 
-Anirnum et aures ad- 
-hibe. 
+Anirnum et aures adhibe. 
 
 Ex plica atque excute 
 intelligentiam tuam. 
 
-Attende, adverte am- 
-mum ad ea quae dic- 
-tiirus sum. 
+Attende, adverte ammum ad ea quae dictiirus sum. 
 
-Haec in memoria ves- 
-tra penitus insideant. 
+Haec in memoria vestra penitus insideant. 
 
 Attendite animos ad ea 
 quae sequuntur. 
 
-Quid petam, ammo at- 
-tendee. 
+Quid petam, ammo attendee. 
 
 Nimis diu et nimium 
 loqueris. 
@@ -19179,8 +18626,7 @@ serious offense.
 Excuse me. 
 
 
-Excerce te Latino ser- 
-mone, Latine loqui. 
+Excerce te Latino sermone, Latine loqui. 
 
 Attendite me dicentem. 
 
@@ -19201,11 +18647,9 @@ quidqiiam.
 Causa nulla est cur 
 apud te mentiar. 
 
-Idne fecisti? — Admod- 
-um. 
+Idne fecisti? — Admodum. 
 
-Negasne? — Nego enim- 
-vero. 
+Negasne? — Nego enimvero. 
 
 Qua excusatidne uteris? 
 — An setatera aflferet? 
@@ -19221,8 +18665,7 @@ ejus rei in te culpa.
 Ecquando te ad bonam 
 frugem recipies? 
 
-Gravi te scelere devinx- 
-isti. 
+Gravi te scelere devinxisti. 
 
 
 Excusatum me habeas. 
@@ -19235,8 +18678,7 @@ I accept your excuse. Accipio, admitto, capio
 tuam excusationem. 
 
 I will let your father DefSram nomen tuum 
-know of your laziness. ad patrem de prigri- 
-tia. 
+know of your laziness. ad patrem de prigritia. 
 
 
 18. 
@@ -19269,8 +18711,7 @@ your eyes.
 
 Show him to us. 
 
-Does not my father sus- 
-pect it? 
+Does not my father suspect it? 
 
 He has sharp eyes. 
 
@@ -19284,13 +18725,11 @@ in me, ad me.
 
 Vide quid agas. 
 
-Adm5ve vultum ad au- 
-ditores. 
+Adm5ve vultum ad auditores. 
 
 Vide ut incedat. 
 
-Ecquid non animadver- 
-tis? 
+Ecquid non animadvertis? 
 
 Id non observavgram. 
 
@@ -19302,8 +18741,7 @@ enim tenebrse sunt.
 
 Rem subjiciam ochlis 
 vestris, ponam vobis 
-ob oculos, in conspec- 
-tu vestro collocabo. 
+ob oculos, in conspectu vestro collocabo. 
 
 Exhibe ilium nobis. 
 
@@ -19330,16 +18768,13 @@ to discover their
 tricks. 
 
 
-Perversis, malis, obll- 
-quis, torvis oculis nos 
+Perversis, malis, obllquis, torvis oculis nos 
 intuetur. 
 
 In vultu prseceptoris 
-habitant discipulor- 
-um oculi. 
+habitant discipulorum oculi. 
 
-Illorum fallacias nun- 
-quam praesensi. 
+Illorum fallacias nunquam praesensi. 
 
 
 19. 
@@ -19367,8 +18802,7 @@ That word means many
 things. 
 
 
-EX PLANA RE, DIFFICUL- 
-TATEM APERIRE. 
+EX PLANA RE, DIFFICULTATEM APERIRE. 
 
 Quid valet, sonat ilia 
 vox? Quaenam est 
@@ -19378,21 +18812,15 @@ Quae notio subjecta est
 huic voci, quid istud 
 verbi est? 
 
-Explicemus illud ver- 
-bum et excutiamus. 
+Explicemus illud verbum et excutiamus. 
 
-Verbum istud est ins6- 
-lens, inusitatum, tri- 
-tum non est illud vo- 
-cabulum. 
+Verbum istud est ins6lens, inusitatum, tritum non est illud vocabulum. 
 
 Recessit hoc verbum a 
-vetSri sui significati- 
-one. 
+vetSri sui significatione. 
 
 Huic verbo multiplex 
-subjecta est significa- 
-tio 
+subjecta est significatio 
 
 
 
@@ -19407,11 +18835,9 @@ These two words have
 the same meaning. 
 
 
-What is the interpreta- 
-tion of this passage? 
+What is the interpretation of this passage? 
 
-I do not thoroughly un- 
-derstand this passage 
+I do not thoroughly understand this passage 
 from Cicero. 
 
 Do you understand what 
@@ -19425,16 +18851,13 @@ Yes, very well.
 He does not understand 
 a word of it. 
 
-I do not quite under- 
-stand what you wish 
+I do not quite understand what you wish 
 to say. 
 
-I do not quite under- 
-stand what that word 
+I do not quite understand what that word 
 means. 
 
-I will make the difficul- 
-ty clear to him. 
+I will make the difficulty clear to him. 
 
 To clear up a difficulty. 
 
@@ -19443,20 +18866,16 @@ children.
 
 
 Verbum istud in duas 
-sentenlias acclpi po- 
-test. 
+sentenlias acclpi potest. 
 
 Ilaec duo verba ununi 
-sonant, eamdem ha- 
-bent sententiam, noti- 
-onem 
+sonant, eamdem habent sententiam, notionem 
 
 Qusenam est hujus loci 
 sententia / 
 
 Parum intelligo, minus 
-locum islum a Cice- 
-rone accipio. 
+locum islum a Cicerone accipio. 
 
 Tenes quod dicam? 
 
@@ -19466,8 +18885,7 @@ callide.
 
 Nihil in eo videt. 
 
-Nondum tuam cogitati- 
-onem assecutus sum, 
+Nondum tuam cogitationem assecutus sum, 
 percepi. 
 
 Parum intelligo, minus 
@@ -19475,14 +18893,11 @@ capio, non satis novi
 quid haec vox sonet. 
 
 Ilium ad intelligentiam 
-hujus difficultatis ad- 
-ducam. 
+hujus difficultatis adducam. 
 
 Aperire difficultatem. 
 
-Aliquid pueris prsele- 
-gere, exponere, ex- 
-planare, interpretari. 
+Aliquid pueris prselegere, exponere, explanare, interpretari. 
 
 
 
@@ -19496,19 +18911,14 @@ from Cicero.
 To translate word for 
 word. 
 
-To give a free transla- 
-tion. 
+To give a free translation. 
 
 
-Locum Ciceronis expla- 
-nfire, aperire, illus- 
-trare. 
+Locum Ciceronis explanfire, aperire, illustrare. 
 
-Totidem verbis inter- 
-pretari. 
+Totidem verbis interpretari. 
 
-Diffusius, enodatius ex- 
-plicare ; dicSre latius; 
+Diffusius, enodatius explicare ; dicSre latius; 
 plenius exprimere ; 
 uberius explanare. 
 
@@ -19544,10 +18954,8 @@ They all study as best
 they can. 
 
 
-STUDIIS VACARE, LE- 
-
-GERE, MEMORISE MAN- 
-DARE. 
+STUDIIS VACARE, LE
+GERE, MEMORISE MANDARE. 
 
 In studiis pro mea parte 
 versor. 
@@ -19555,9 +18963,7 @@ versor.
 Dare se labdri ; tradere 
 se studiis. 
 
-Labdrem inanem susci- 
-pere ; laborem pro- 
-fundere. 
+Labdrem inanem suscipere ; laborem profundere. 
 
 Laborem diutius non 
 tulit. 
@@ -19568,12 +18974,10 @@ Studet ut cum maxime.
 
 Satis exardet ad littSi'as. 
 
-Est in eo inexhausta avi- 
-ditas legendi. 
+Est in eo inexhausta aviditas legendi. 
 
 Omnes certatim, alius 
-alio diligentius stu- 
-dent. 
+alio diligentius student. 
 
 
 
@@ -19582,19 +18986,15 @@ dent.
 I read all the time. 
 
 I employ all my spare 
-time in reading Ci- 
-cero. 
+time in reading Cicero. 
 
 Cicero is continually in 
 his hands. 
 
-He has begun to trans- 
-late the complete 
+He has begun to translate the complete 
 works of Cicero. 
 
-I employed the after- 
-noon in reading Vir- 
-
+I employed the afternoon in reading Vir
 You have not Virgil in 
 your hands. 
 
@@ -19621,8 +19021,7 @@ To learn one^s lesson.
 Nihil mihi temp^ris a 
 legendo vacat. 
 
-Otium in legendo Cice- 
-rone consumpsi. 
+Otium in legendo Cicerone consumpsi. 
 
 Nunquam Ciceronem 
 de manibus deponit, 
@@ -19632,32 +19031,26 @@ Interpretandi Ciceronis
 provinciam suscSpit. 
 
 Pomeridianum tempus 
-Jectione Vergilii tra- 
-duxi, transmisi. 
+Jectione Vergilii traduxi, transmisi. 
 
 Non habes Maronem 
 prae manibus. 
 
-Po6tas evolvgre, vol- 
-v^re, percurrgre. 
+Po6tas evolvgre, volv^re, percurrgre. 
 
-Prfecepta crebro regus- 
-tare. 
+Prfecepta crebro regustare. 
 
 Calent littgrae Graecae. 
 
 Frigent nunc litt^rae. 
 
-DiscSre memoriter ; me- 
-moriae tradSre, man- 
-dare, percip^re. 
+DiscSre memoriter ; memoriae tradSre, mandare, percip^re. 
 
 Discendi voluntatem 
 abjecit, deposuit. 
 
 Lectidnem memoriae 
-cornmendare, man- 
-dare. 
+cornmendare, mandare. 
 
 
 
@@ -19683,8 +19076,7 @@ him.
 Begin your lesson over 
 from the beginning. 
 
-He knew hardly any- 
-thing. 
+He knew hardly anything. 
 
 The words did not come 
 to me. 
@@ -19694,27 +19086,22 @@ I ’m not myself.
 
 Aliquid reddSre sine 
 scripto, memoriter, 
-ex memoria pronun- 
-tiare, recitare. 
+ex memoria pronuntiare, recitare. 
 
 Sensim et lente recitare. 
 
-Cursius lectionem reci- 
-tare. 
+Cursius lectionem recitare. 
 
 Tres versus recitando 
-pmetervolasti, prseter- 
-misisti, omisisti. 
+pmetervolasti, prsetermisisti, omisisti. 
 
 Mertioria lapsus est. 
 
-Ordire lectionem ab in- 
-tggro. 
+Ordire lectionem ab intggro. 
 
 Nihil adm6dum sciebat. 
 
-Neque mihi succure- 
-bant verba. 
+Neque mihi succurebant verba. 
 
 Apud me non sum. 
 
@@ -19722,8 +19109,7 @@ Apud me non sum.
 21. 
 
 
-TO TRANSLATE, TO COM- 
-POSE, TO WRITE. 
+TO TRANSLATE, TO COMPOSE, TO WRITE. 
 
 To translate into Latin. 
 
@@ -19732,13 +19118,10 @@ To translate Greek word
 for word. 
 
 
-INTERPRETARI, SCRIP- 
+INTERPRETARI, SCRIP
+TIONI ANIMUM ADHIBERE. 
 
-TIONI ANIMUM ADHI- 
-BERE. 
-
-Latine reddSre, inter- 
-pretari ; in Latlnum 
+Latine reddSre, interpretari ; in Latlnum 
 sermonem transferre, 
 vertere. 
 
@@ -19763,15 +19146,13 @@ and in prose.
 Apply yourself to your 
 theme. 
 
-To write one^s compo- 
-sition with care. 
+To write one^s composition with care. 
 
 I write a theme every 
 day. 
 
 Your theme has not 
-been corrected thor- 
-oughly. 
+been corrected thoroughly. 
 
 To review and correct 
 anything diligently. 
@@ -19793,35 +19174,26 @@ He understands Greek
 very well. 
 
 
-Verbum verbo expri- 
-mere, redd^re ver- 
-bum pro verbo. 
+Verbum verbo exprimere, redd^re verbum pro verbo. 
 
-Opus elaborare, perpo- 
-Hre, perficSre. 
+Opus elaborare, perpoHre, perficSre. 
 
-In eo vehementer desu- 
-davi. 
+In eo vehementer desudavi. 
 
-Stricta oratione scribe- 
-mus, soluta oratione. 
+Stricta oratione scribemus, soluta oratione. 
 
-Converte, adhibe ani- 
-mum ad scriptionem. 
+Converte, adhibe animum ad scriptionem. 
 
 Scriptionem accurare, 
-elaborare, polire, li- 
-mare. 
+elaborare, polire, limare. 
 
-A scriptione nullus mi- 
-hi dies vacuus est. 
+A scriptione nullus mihi dies vacuus est. 
 
 Ultima lima defuit 
 scriptioni tu8e. 
 
 Aliquid summa cura et 
-diligenter recognos- 
-cere. 
+diligenter recognoscere. 
 
 Hie oratoria facultate, 
 ille prsestat poetica. 
@@ -19849,16 +19221,14 @@ He has not translated
 that passage well. 
 
 To this passage he hns 
-given an entirely dif- 
-ferent meaning. 
+given an entirely different meaning. 
 
 
 Latine nescit. • 
 
 Hanc sententiam male 
 interpretatus est. 
-Hunc locum in contra- 
-rium sensum detorsit. 
+Hunc locum in contrarium sensum detorsit. 
 
 
 22. 
@@ -19894,33 +19264,26 @@ To make an erasure.
 writing of Lentulus. 
 
 
-CALAMUM CONFOR- 
-MAKE, SC KIBE RE. 
+CALAMUM CONFORMAKE, SC KIBE RE. 
 
-Calamum apparare, con- 
-formare. 
+Calamum apparare, conformare. 
 
 Hunc mihi calamum in 
 acutum mucrdnem, 
-ilium vero in latio- 
-rem con form a. 
+ilium vero in latiorem con form a. 
 
 Calamum experiri. 
 
-In aversa charta scri- 
-be re. 
+In aversa charta scribe re. 
 
 Pura charta. 
 
 Non suppgtunt mihi 
 chartse. 
 
-Transmittit litteras pa- 
-pyrus mea. 
+Transmittit litteras papyrus mea. 
 
-Mendum scripturse litii- 
-ra tollere, delere, ob- 
-literare. 
+Mendum scripturse litiira tollere, delere, obliterare. 
 
 Placet mihi Lentuli 
 mantis. 
@@ -19929,8 +19292,7 @@ mantis.
 
 
 
-Write this in your note- 
-book. 
+Write this in your notebook. 
 
 You have blotted my 
 book with ink. 
@@ -19938,8 +19300,7 @@ book with ink.
 To stain one’s book with 
 ink. 
 
-To write what he dic- 
-tates. 
+To write what he dictates. 
 
 Lend me that book. 
 
@@ -19951,12 +19312,9 @@ that paper.
 Eefer hoc in adversaria. 
 
 Atramenti effusione 
-chartam meam infe- 
-cisti. 
+chartam meam infecisti. 
 
-Atramento librum mac- 
-ulare inquinare, fee- 
-dare. 
+Atramento librum maculare inquinare, feedare. 
 
 I^us dictata scribe re ; 
 excIpSre. 
@@ -19965,8 +19323,7 @@ CommSda mihi librum,
 da mihi utendum 
 hunc librum. 
 
-Cedo tabiilas, hanc char- 
-tam. 
+Cedo tabiilas, hanc chartam. 
 
 
 23. 
@@ -19985,28 +19342,22 @@ To open a letter.
 
 To address a letter. 
 
-To send letters to any- 
-one. 
+To send letters to anyone. 
 
 He has delivered letters 
 to me unopened. 
 
 
-DE EPISTOLIS, ET IN EX- 
-TREMIS EPISTOLIS QUO- 
-
+DE EPISTOLIS, ET IN EXTREMIS EPISTOLIS QUO
 MODO VALEDICENDUM 
 SIT. 
 
 Epistolam complicare. 
 
-Obsignare litt^ras, epis- 
-t5lam sigillo munire, 
-signo litteras obsig- 
-nare. 
+Obsignare litt^ras, epist5lam sigillo munire, 
+signo litteras obsignare. 
 
-Epistblam resign are, re- 
-solv^re, explicare. 
+Epistblam resign are, resolv^re, explicare. 
 
 Epistolam inscribe re. 
 
@@ -20019,8 +19370,7 @@ mihi reddidit.
 
 Forms of Conversation. 
 
-To intrust letters to any- 
-one. 
+To intrust letters to anyone. 
 
 We hear no longer from 
 you. 
@@ -20056,18 +19406,15 @@ of news to tell you.
 I had no news to send 
 you. 
 
-I received your short let- 
-ter; your letter gave 
+I received your short letter; your letter gave 
 me much pleasure. 
 
 I thank you for your 
 letters ; they gave me 
-great pleasure, especi- 
-ally that of Sextius. 
+great pleasure, especially that of Sextius. 
 
 
-Alicui litt^ras commit- 
-tere. 
+Alicui litt^ras committere. 
 
 Conquiescunt littSrae 
 tuae. 
@@ -20087,9 +19434,7 @@ quidem.
 Scribam ad te saepe, 
 vide ut par mihi sis. 
 
-LittSrae meae conquis- 
-cent; longiore epis- 
-t5la supersedebo. 
+LittSrae meae conquiscent; longiore epist5la supersedebo. 
 
 Pluribus verbis ad te 
 scribam quum plus 
@@ -20098,25 +19443,21 @@ otii nactus ero.
 Plane nihil erat quod 
 ad te scribSrem. 
 
-Nihil habebamquod di- 
-cSrem. 
+Nihil habebamquod dicSrem. 
 
 Accepi perbreves tuas 
 littgras ; gratae mihi 
 tuae littgrae fuerunt. 
 
-Gratum quod mihi de- 
-disti epistSlas, quae 
-quidem me delecta- 
-runt, in primis Sextii 
+Gratum quod mihi dedisti epistSlas, quae 
+quidem me delectarunt, in primis Sextii 
 nostri. 
 
 
 
 
 
-Tell me as soon as pos- 
-sible wliat you are 
+Tell me as soon as possible wliat you are 
 doing and what you 
 intend to do. 
 
@@ -20127,8 +19468,7 @@ letter from you.
 Tu velim, et quid agas 
 et quid acturum te 
 putes, facias me quam 
-diligentissime certio- 
-rem. 
+diligentissime certiorem. 
 
 Tuas jam littSras Brutus 
 expectabat. 
@@ -20145,8 +19485,7 @@ Cara si me amas ut valeas.
 
 Vale, et matrem meosque iihi commendalos habe. 
 
-Me velim, ut facis, dillgas, valetadinique tuce et tran- 
-quiUitati animi servias. 
+Me velim, ut facis, dillgas, valetadinique tuce et tranquiUitati animi servias. 
 
 ValebiSj meque, ut a puero fecisti, amabis. 
 
@@ -20198,8 +19537,7 @@ Cura ut valeas et nos ames, et tihi persuadeas te a me
 fraterne amari. 
 
 Cura ut valeas etiam atque etiam, Tiro noster. 
-Quantum me diligis, tantum fac ut valeas, vel quan- 
-tum te a me scis diligi. 
+Quantum me diligis, tantum fac ut valeas, vel quantum te a me scis diligi. 
 
 Ama nos et vale. 
 
@@ -20285,8 +19623,7 @@ In person.
 According to the 
 weather. 
 
-According to your pleas- 
-ure. 
+According to your pleasure. 
 
 In earnest, seriously. 
 
@@ -20308,8 +19645,7 @@ Suo Marte.
 
 Pro re, pro re nata. 
 
-Pro mea parte, pro vi- 
-rili parte. 
+Pro mea parte, pro virili parte. 
 
 Pro portione, pro rata 
 portione. 
@@ -20374,8 +19710,7 @@ It is your affak'.
 The business is not 
 pressing. 
 
-He did it without think- 
-ing. 
+He did it without thinking. 
 
 Neither this nor that. 
 For that is all nonsense. 
@@ -20403,8 +19738,7 @@ Contra ac dicit.
 Ut par erat. 
 
 Quoad ejus fieri potuit. 
-Quoad ejus facSre po- 
-tSris. 
+Quoad ejus facSre potSris. 
 
 Ut verum loquar, ne 
 dicam dolo. 
@@ -20416,8 +19750,7 @@ Mese nunc partes sunt.
 Sua quisque vice, suo 
 quisque ordine. 
 
-Tua res est, tua res agl- 
-tur. 
+Tua res est, tua res agltur. 
 
 Res habet moram. 
 
@@ -20438,8 +19771,7 @@ Let me alone.
 Will you not let me 
 alone? 
 
-Will you soon have fin- 
-ished? 
+Will you soon have finished? 
 
 He finds a great deal of 
 fault with it. 
@@ -20462,13 +19794,11 @@ with you.
 
 It is useful, important. 
 
-To live but for the pres- 
-ent. 
+To live but for the present. 
 
 To take note of. 
 
-To speak from the man- 
-uscript. 
+To speak from the manuscript. 
 
 He is certainly much 
 mistaken. 
@@ -20495,13 +19825,11 @@ Non omittis?
 
 Potin’ ut desinas? 
 
-Accerrime illud vitu- 
-perat. 
+Accerrime illud vituperat. 
 
 Non ita multi sunt. 
 Liber est in mambus. 
-Kes obtigit atque opta- 
-bani. 
+Kes obtigit atque optabani. 
 
 Ut homo est, ita morem 
 geras. 
@@ -20517,14 +19845,12 @@ In diem vivere.
 Ad memoriam notare. 
 De scripto dicSre. 
 
-Nse ille vehementer er- 
-rat. 
+Nse ille vehementer errat. 
 
 Quid fecisset aliud? 
 
 Ut novus fert usus. 
-Extra jocum, homo bel- 
-lus es. 
+Extra jocum, homo bellus es. 
 
 Unus nemo te diligit. 
 Suo nutu regi. 
@@ -20535,15 +19861,13 @@ Suo nutu regi.
 Forms of Conversation, 
 
 
-Everyone after his man- 
-ner. 
+Everyone after his manner. 
 
 To read recto tono. 
 
 Seeing the time it is. 
 
-As near as I can re- 
-member. 
+As near as I can remember. 
 
 This is easy. 
 
@@ -20552,8 +19876,7 @@ The matter is not clear.
 My account agrees, is 
 right. 
 
-Eight or wrong it mat- 
-ters little to us. 
+Eight or wrong it matters little to us. 
 
 He asks for you at the 
 door. 
@@ -20571,8 +19894,7 @@ what they say of him.
 All things are turning 
 out as I would wish. 
 
-Believe me, you will re- 
-joice at having done 
+Believe me, you will rejoice at having done 
 it. 
 
 Everything goes well 
@@ -20581,8 +19903,7 @@ with him.
 There’s not so much in 
 it as is reported. 
 
-The labor has been ex- 
-pended with profit. 
+The labor has been expended with profit. 
 
 
 Suus cuique mos. 
@@ -20605,8 +19926,7 @@ nos
 
 A janua te quserit. 
 
-Nihil est seque quod fa- 
-ciam libens. 
+Nihil est seque quod faciam libens. 
 
 Nihil isthaec moveo ac 
 euro. 
@@ -20614,8 +19934,7 @@ euro.
 Sermdnes hominum de 
 se facile sustinet. 
 
-Mihi omnia voto com- 
-petunt. 
+Mihi omnia voto competunt. 
 
 Gaudebis facto, crede 
 mihi. 
@@ -20659,8 +19978,7 @@ me.
 You will pay for this, I 
 will be revenged. 
 
-Mind your own busi- 
-ness. 
+Mind your own business. 
 
 Saving the company’s 
 respect, with all due 
@@ -20679,9 +19997,7 @@ prseter sententiam.
 
 jEgre risum continui. 
 
-Nequeo risum conti- 
-ntre, tenere, cohi- 
-bere. 
+Nequeo risum contintre, tenere, cohibere. 
 
 Animi gratia, hoc dixit. 
 
@@ -20693,24 +20009,20 @@ evadat.
 
 Quo evadas nescio. 
 
-Hoc verbum mihi exci- 
-dit. 
+Hoc verbum mihi excidit. 
 
 Hoc feres non multum. 
 
 Tuas res per3ge. 
 
-Salva audientium rev- 
-erentia, dicto sit ve- 
-nia, bona adstantium 
+Salva audientium reverentia, dicto sit venia, bona adstantium 
 sit venia, honor sit 
 auribus. 
 
 Quod celerius, id potius 
 est. 
 
-Ordines stipate, compri- 
-mite. 
+Ordines stipate, comprimite. 
 
 Hoc perinde, proinde 
 est. 
@@ -20728,8 +20040,7 @@ want?
 I answer for tliis on my 
 honor. 
 
-You return a wrong an- 
-swer to my question. 
+You return a wrong answer to my question. 
 
 I have an answer all 
 ready. 
@@ -20759,8 +20070,7 @@ against you.
 You are completely 
 mistaken. 
 
-One or the other is mis- 
-taken. 
+One or the other is mistaken. 
 
 It is other than you say. 
 
@@ -20779,11 +20089,9 @@ meam interpono.
 Aliud mihi respondes 
 ac rogo. 
 
-Ad manum est respon- 
-sio. 
+Ad manum est responsio. 
 
-Respondebo veslram vi- 
-cem. 
+Respondebo veslram vicem. 
 
 Omnium mihi gratiam 
 fecit. 
@@ -20794,8 +20102,7 @@ Exemplum severitatis
 in aliquo statuere, 
 edere. 
 
-Cum illo magna est mi- 
-hi gratia. 
+Cum illo magna est mihi gratia. 
 
 Habenda est eius rei 
 ratio. 
@@ -20835,14 +20142,12 @@ Let me recover myself.
 
 I am not myself. 
 
-Pass along, 1 want noth- 
-ing from you. 
+Pass along, 1 want nothing from you. 
 
 That relieved me a 
 little. 
 
-It has become a pro- 
-verb. 
+It has become a proverb. 
 
 That has passed into a 
 proverb. 
@@ -20850,11 +20155,9 @@ proverb.
 In order not to retain 
 you any longer. 
 
-I meet you verv oppor- 
-tunely. 
+I meet you verv opportunely. 
 
-He said that ingenu- 
-ously. 
+He said that ingenuously. 
 
 Let us draw lots, if you 
 will. 
@@ -20871,8 +20174,7 @@ Let us now see the rest.
 NullTus momenti hoc 
 ducunt. 
 
-Quis liujusmQdi dissi- 
-pavit, disseminavit 
+Quis liujusmQdi dissipavit, disseminavit 
 rumorem? 
 
 Belle quadrat, convenit 
@@ -20925,8 +20227,7 @@ He has well merited it. Meritissimo ejus.
 
 VARIOUS QUESTIONS. 
 
-How came that suspi- 
-cion? 
+How came that suspicion? 
 
 What reason had he for 
 doing that? 
@@ -20959,15 +20260,12 @@ of me?
 VARIAE FORMULAE 
 PERCUNCTANDI. 
 
-Qui tibi ista inciditsus- 
-picio? 
+Qui tibi ista inciditsuspicio? 
 
 Quid habuit argument! 
-quamobrem hoc fe- 
-cerit? 
+quamobrem hoc fecerit? 
 
-Quid negotii et quam- 
-obrem succenses mihi? 
+Quid negotii et quamobrem succenses mihi? 
 
 Quid tibi aegre est? 
 Quid aegre animo tuo 
@@ -20980,12 +20278,9 @@ Quid tibi stomacho est?
 Quorsum tot clamores 
 et verba? 
 
-Sed quid ego argumen- 
-tor? Quid plura dis- 
-puto? 
+Sed quid ego argumentor? Quid plura disputo? 
 
-Quid opus est circui- 
-ti5ne? Quid verbis 
+Quid opus est circuiti5ne? Quid verbis 
 opus est? 
 
 Quid opgra mea egebat? 
@@ -21035,8 +20330,7 @@ should I not know it?
 Why not? 
 
 Have you not given a 
-thought to your rep- 
-utation? 
+thought to your reputation? 
 
 Why do you tremble? 
 
@@ -21051,17 +20345,13 @@ Tuas res per age.
 Quae tu causa hue affert, 
 vocat? 
 
-Quis ascivit hanc con- 
-suetiidinem? 
+Quis ascivit hanc consuetiidinem? 
 
-Qua in re vitam ex- 
-erces? 
+Qua in re vitam exerces? 
 
-Quam vitae conditio- 
-nem sequtris? 
+Quam vitae conditionem sequtris? 
 
-Quam ex hac re utilita- 
-tem ducis? Quid hoc 
+Quam ex hac re utilitatem ducis? Quid hoc 
 habet commodi. 
 
 In cujus hoc utilitatem 
@@ -21076,13 +20366,11 @@ Qui fit hoc nescias?
 
 Qui fit ut ego nesciam? 
 
-Idne scis? quid ego nes- 
-ciam? 
+Idne scis? quid ego nesciam? 
 
 Quid ita non? Quidni? 
 
-Nihil tibi venit in men- 
-tem existimationi 
+Nihil tibi venit in mentem existimationi 
 consul ere? 
 
 Quid est quamobrem 
@@ -21097,8 +20385,7 @@ Forms of Conversation,
 Think you that you 
 stand acquitted? 
 
-What are you mutter- 
-ing? 
+What are you muttering? 
 
 What means that joy? 
 
@@ -21127,8 +20414,7 @@ for teaching?
 
 What is the matter with 
 you, my son? Why 
-are you sad? Noth- 
-ing is the matter, 
+are you sad? Nothing is the matter, 
 mother. 
 
 Do you wish to do me 
@@ -21144,24 +20430,18 @@ putas *
 
 Quid est tibi mutitio? 
 
-Quid istud gaudii est? - 
-
+Quid istud gaudii est? 
 Penes te es? 
 
 Quid hoc rei? 
 
-Quid lies? inirum ! can- 
-tem? 
+Quid lies? inirum ! cantem? 
 
-Num cadit in virum bo- 
-il um metiri? 
+Num cadit in virum boil um metiri? 
 
-Num intelligis? num- 
-me, numnam intelll- 
-gis quse dicit. 
+Num intelligis? numme, numnam intelllgis quse dicit. 
 
-Quid tibi est sollicitudi- 
-nis? Quid te tenet 
+Quid tibi est sollicitudinis? Quid te tenet 
 solliciturn? 
 
 Qualem vultis panem? 
@@ -21174,9 +20454,7 @@ Quid est tarn tristis fili?
 — Kecte, mater. 
 
 
-Vis primum hodie fa- 
-c6re quod ego gau- 
-deam? 
+Vis primum hodie fac6re quod ego gaudeam? 
 
 Quorsum istud? 
 
@@ -21213,12 +20491,10 @@ come out the better?
 What do you talk about 
 together? 
 
-Why do you allow your- 
-self to take part in 
+Why do you allow yourself to take part in 
 such follies? 
 
-Please get out of the sun- 
-light, you hinder me 
+Please get out of the sunlight, you hinder me 
 from getting warm. 
 
 What madne>s has 
@@ -21231,24 +20507,19 @@ Who is to make the
 speech? 
 
 
-Ad quse exempla me re- 
-vCcas? 
+Ad quse exempla me revCcas? 
 
 Itane vero nobis fucum 
 facis? 
 
-Vide ne quid impiii- 
-dens luas? 
+Vide ne quid impiiidens luas? 
 
-Ecquis me vivit fortu- 
-natior?— Yemo certe 
+Ecquis me vivit fortunatior?— Yemo certe 
 quisqm m. 
 
-Quis has tibi partes im- 
-posuit? 
+Quis has tibi partes imposuit? 
 
-Provinciam cepisti du- 
-ra m. 
+Provinciam cepisti dura m. 
 
 Tiude, extrude, exige 
 ilium. 
@@ -21258,15 +20529,13 @@ Eona verba, quaso.
 Lter tandem nostrum 
 superavit? 
 
-Qua de re sermcnem ha- 
-bDis, teritis inter VOS? 
+Qua de re sermcnem habDis, teritis inter VOS? 
 
 Quid ad istas ineptias 
 abis? 
 
 Eogo te, absis a sole, 
-ofiicis enim mihi ap- 
-ricanti. 
+ofiicis enim mihi apricanti. 
 
 Quae te dementia cepit? 
 
@@ -21274,8 +20543,7 @@ Unde isthae te incessit
 religio? 
 
 Quis concionem habet? 
-quis pro condone di- 
-cit? 
+quis pro condone dicit? 
 
 
 Forms of Conversation. 
@@ -21287,9 +20555,7 @@ Anything new?
 
 Is there nothing else? 
 
-Who made you with- 
-draw from my com- 
-pany? 
+Who made you withdraw from my company? 
 
 Who is that man? 
 
@@ -21311,16 +20577,14 @@ want?
 
 3o you wish anything 
 else from me? May 
-you prosper in every- 
-thing. 
+you prosper in everything. 
 
 What more? 
 
 Is there anything more? 
 what more? 
 
-What happened after- 
-wards? 
+What happened afterwards? 
 
 What then? ah! who 
 could have told you? 
@@ -21330,21 +20594,17 @@ Is it he?
 £s he in? 
 
 
-Cedo, quid portas, ob- 
-secro. 
+Cedo, quid portas, obsecro. 
 
 Numquid novi? 
 
-Numquid est aliud? ni- 
-hilne praeterea? 
+Numquid est aliud? nihilne praeterea? 
 
-Quis te a mea consue- 
-tudine abstraxit? 
+Quis te a mea consuetudine abstraxit? 
 
 Quid hoc hominis est? 
 
-Quantum huic rei tem- 
-poris tribuisti? 
+Quantum huic rei temporis tribuisti? 
 
 Quern ad hoc interp5nes, 
 adhibebis? 
@@ -21352,8 +20612,7 @@ adhibebis?
 Quid habet argument! 
 liber iste? 
 
-Quid in hoc arguis, im- 
-probas, reprehendis? 
+Quid in hoc arguis, improbas, reprehendis? 
 
 Quid vultis amplius? 
 
@@ -21393,8 +20652,7 @@ of these?
 Where are you carrying 
 that book? 
 
-How long did you re- 
-main in Italy? 
+How long did you remain in Italy? 
 
 Where did you tarry so 
 long? 
@@ -21403,8 +20661,7 @@ What shall I gain by
 deceiving you? 
 
 To whom have you 
-given that commis- 
-sion? 
+given that commission? 
 
 What has been done? 
 speak — where are the 
@@ -21414,8 +20671,7 @@ What pleasure is there
 in that? 
 
 Give me the hand, 
-some water, my tab- 
-lets. 
+some water, my tablets. 
 
 Plow long is it since you 
 stopped going to 
@@ -21431,21 +20687,18 @@ commCde.
 
 Quo tibi ista sunt opus? 
 
-Quo librum hunc aspor- 
-tas? 
+Quo librum hunc asportas? 
 
 Quandiu, quandudum 
 egisti. degisti in 
 Italia? 
 
-Ubi tamdiu, commo- 
-ratus es, monltus es? 
+Ubi tamdiu, commoratus es, monltus es? 
 
 Quid lucri mihi est 
 failure te? 
 
-Cui istud negotiurn de- 
-mandasti? 
+Cui istud negotiurn demandasti? 
 
 Quid factum est? Cedo "I 
 cedo alios. 
@@ -21457,9 +20710,7 @@ re voluptas?
 Cedo manum, aquam, 
 tabulas. 
 
-Quampridem, quandu- 
-dum scholam frequen- 
-tfire desiisti? 
+Quampridem, quandudum scholam frequentfire desiisti? 
 
 
 
@@ -21479,8 +20730,7 @@ To baffle a design.
 
 To write on water. 
 
-To speak to a deaf per- 
-son. 
+To speak to a deaf person. 
 
 To impose upon. 
 
@@ -21515,12 +20765,9 @@ seer.
 To labor for nothing. 
 
 
-IDIOTISMI ET PRO- 
-VERBIA. 
+IDIOTISMI ET PROVERBIA. 
 
-Aquam perdere, lapi- 
-dem verberare, im- 
-brem in cribrum 
+Aquam perdere, lapidem verberare, imbrem in cribrum 
 gerere. 
 
 Aperire cuniculos. 
@@ -21533,23 +20780,18 @@ Verba dare.
 
 Me delicias facis. 
 
-Obductam refricas cica- 
-trlcem. 
+Obductam refricas cicatrlcem. 
 
-Belle, acute, argute con- 
-jecisti; rem acu tegisti. 
+Belle, acute, argute conjecisti; rem acu tegisti. 
 
-Maria montesque polli- 
-cetur. 
+Maria montesque pollicetur. 
 
-Nodum in scirpo quae- 
-rere. 
+Nodum in scirpo quaerere. 
 
 Naribus indulgere, naso 
 suspendere adunco. 
 
-Bedit mihi, res in res- 
-tim. 
+Bedit mihi, res in restim. 
 
 Sermonis ansas dare. 
 
@@ -21561,11 +20803,9 @@ Laterem crudum lavare.
 
 
 
-To begin at the begin- 
-ning. 
+To begin at the beginning. 
 
-Seek for dupes else- 
-where. 
+Seek for dupes elsewhere. 
 
 To admit being beaten. 
 
@@ -21578,8 +20818,7 @@ of worth.
 
 A man of fine taste. 
 
-There ’s a difference be- 
-tween a good man 
+There ’s a difference between a good man 
 and a rogue. 
 
 Not at all excessive. 
@@ -21599,8 +20838,7 @@ fox.
 
 To dispute over trifles. 
 
-To render a thing use- 
-less. 
+To render a thing useless. 
 
 From beginning to end. 
 
@@ -21617,8 +20855,7 @@ Ordiri ab ovo.
 Ad populum phaleras; 
 
 quaere peregrlnum. 
-Porriggre herbam. Sall- 
-vam movere. 
+Porriggre herbam. Sallvam movere. 
 
 Ab transenna turdus 
 lumbricum petit. 
@@ -21637,8 +20874,7 @@ Manus manum lavat.
 
 Albae gallinfc filiu'^. 
 
-Aderre dentes in domi- 
-num. 
+Aderre dentes in dominum. 
 
 Animus est in patinis. 
 
@@ -21690,8 +20926,7 @@ All is lost.
 Done accurately, to a 
 nicety. 
 
-A man of no consider- 
-ation. 
+A man of no consideration. 
 
 No longer a child. 
 
@@ -21724,11 +20959,9 @@ SarcTre centones alicui.
 
 Sub hasta venire. 
 
-Nec pes nec caput ser- 
-in on is apparet. 
+Nec pes nec caput serin on is apparet. 
 
-A capite usque ad cal- 
-cem. 
+A capite usque ad calcem. 
 
 Tangis ulcus. 
 
@@ -21752,15 +20985,13 @@ es.
 In utramque aurem 
 dor mire. 
 
-Magnum mare ingre- 
-deris. 
+Magnum mare ingrederis. 
 
 Dictum sapienti sat est. 
 
 Apud novercam queri. 
 
-Utramque paglnam fa- 
-cere. 
+Utramque paglnam facere. 
 
 Palumbem alicui ad 
 areani adducere. 
@@ -21793,8 +21024,7 @@ glass of water.
 Nothing is more worthy 
 of being loved. 
 
-To have immense pos- 
-sessions. 
+To have immense possessions. 
 
 To be extremely rich. 
 
@@ -21814,8 +21044,7 @@ To laugh in one’s sleeve.
 
 To talk to the wind. 
 
-To carry coals to New- 
-castle, to pour water 
+To carry coals to Newcastle, to pour water 
 into the sea. 
 
 Fortune does not change 
@@ -21852,14 +21081,11 @@ Modio nummos metiri.
 MetTre se suo modulo 
 ac pede. 
 
-Uno opere eamdem in- 
-ciidem tund^re. 
+Uno opere eamdem inciidem tund^re. 
 
-Ne sutor supra crepi- 
-dam. 
+Ne sutor supra crepidam. 
 
-Pares cum paribus facil- 
-lime congregantur. 
+Pares cum paribus facillime congregantur. 
 
 Taclto ridere naso. 
 
@@ -21867,8 +21093,7 @@ Mortua re verba facis.
 
 In silvam ligna ferre. 
 In mare fundere 
-aquas. In littus are- 
-nas ferre. 
+aquas. In littus arenas ferre. 
 
 Vulpes pilum mutat, 
 non mores. 
@@ -21882,11 +21107,9 @@ Forms of Conversation,
 To be all things to all 
 men. 
 
-To remain in one’s con- 
-dition. 
+To remain in one’s condition. 
 
-To rise above one’s con- 
-dition. 
+To rise above one’s condition. 
 
 To do impossibilities. 
 
@@ -21898,8 +21121,7 @@ precipice.
 The wine is drawn, we 
 must drink it. 
 
-He is a dangerous per- 
-son. 
+He is a dangerous person. 
 
 To kill two birds with 
 one stone. 
@@ -21932,11 +21154,9 @@ To fare sumptuously.
 
 Utrosque parietes linere. 
 
-In propria pelle quies- 
-c6re. 
+In propria pelle quiesc6re. 
 
-Maj5respennasnido ex- 
-tendere. 
+Maj5respennasnido extendere. 
 
 Mulgere hircos, jung^re 
 vulpes. 
@@ -21953,11 +21173,9 @@ Foenum habet in cornu.
 De eadem fidelia duos 
 parietes dealbare. 
 
-Lupus in sermone, lu- 
-pus in fabula. 
+Lupus in sermone, lupus in fabula. 
 
-Per transennam aspi- 
-cere. 
+Per transennam aspicere. 
 
 Ab acia et acu omnia 
 expongre. 
@@ -22005,8 +21223,7 @@ unconcerned.
 
 To love afar off. 
 
-To love one as the ap- 
-ple of your eye. 
+To love one as the apple of your eye. 
 
 Having neither hearth 
 nor home. 
@@ -22016,8 +21233,7 @@ To sell for cash.
 Spoken in vain, to the 
 wind. 
 
-Eiches wrongfully got- 
-gen count not as 
+Eiches wrongfully gotgen count not as 
 profit in the end. 
 
 He is loaded with debt. 
@@ -22025,25 +21241,19 @@ He is loaded with debt.
 
 Meo remigio rem gero. 
 
-Ebur atraniento cande- 
-facere postulas. 
+Ebur atraniento candefacere postulas. 
 
-Eamdem recoquit cram- 
-brem. 
+Eamdem recoquit crambrem. 
 
 Ad ravim decantare. 
 
-Laureum gestat bacu- 
-lum. 
+Laureum gestat baculum. 
 
-Fervet olla. vivit ami- 
-citia. 
+Fervet olla. vivit amicitia. 
 
-Excitare fluctus in sim- 
-pulo. 
+Excitare fluctus in simpulo. 
 
-Alicui ex manii exi- 
-mtre manubrium. 
+Alicui ex manii eximtre manubrium. 
 
 Spectare lacunar. 
 
@@ -22057,8 +21267,7 @@ Oculata die vendere.
 
 Verba hunt mortuo. 
 
-Male partum male dis- 
-pirit. 
+Male partum male dispirit. 
 
 Animam debet. 
 
@@ -22068,8 +21277,7 @@ Animam debet.
 
 From the beginning. 
 
-Wise without instruc- 
-tion. 
+Wise without instruction. 
 
 While the defendant 
 was absent. 
@@ -22090,8 +21298,7 @@ never.
 
 To the end. 
 
-The dispute is still pend- 
-ing. 
+The dispute is still pending. 
 
 AVithout end. 
 
@@ -22100,8 +21307,7 @@ At pleasure.
 To satiety or disgust. 
 
 To the touch of the 
-nails; to a nicety; ex- 
-actly. 
+nails; to a nicety; exactly. 
 
 Equity follows the law. 
 
@@ -22197,8 +21403,7 @@ The golden mean.
 The accursed appetite 
 for gold. 
 
-Either Caesar, or no- 
-body. 
+Either Caesar, or nobody. 
 
 Either to conquer or 
 die. 
@@ -22206,8 +21411,7 @@ die.
 From words to blows. 
 
 
-Aliquando bonus dor- 
-mitat Homerus. 
+Aliquando bonus dormitat Homerus. 
 
 Alma mater. 
 
@@ -22230,8 +21434,7 @@ A posteriori.
 
 Ardentia verba. 
 
-Argumentum ad homi- 
-nem. 
+Argumentum ad hominem. 
 
 Arrectis auribus. 
 
@@ -22255,8 +21458,7 @@ A verbis ad verbera.
 
 Current Latin Expressions, 
 
-From the bond of matri- 
-mony. 
+From the bond of matrimony. 
 
 War! horrid war! 
 
@@ -22268,11 +21470,9 @@ Enjoy the present day.
 
 A cause for war. 
 
-An indispensable con- 
-dition. 
+An indispensable condition. 
 
-A roundabout expres- 
-sion. 
+A roundabout expression. 
 
 By common consent. 
 
@@ -22288,8 +21488,7 @@ about tastes.
 
 By right; by law. 
 
-Carthage must be de- 
-stroyed. 
+Carthage must be destroyed. 
 
 About the dead say only 
 what is favorable. 
@@ -22337,8 +21536,7 @@ Cui bono?
 
 Cum grano salis. } 
 
-De gustibus non dispu- 
-tandurn. 
+De gustibus non disputandurn. 
 
 De jure. 
 
@@ -22369,8 +21567,7 @@ Dominus vobiscunk
 
 Characters of the drama. 
 
-It is sweet and honor- 
-able to die for one’s 
+It is sweet and honorable to die for one’s 
 country. 
 
 It is pleasant to fool in 
@@ -22411,9 +21608,7 @@ Out of the abundance.
 
 Heartily, sincerely. 
 
-From the chair or pul- 
-pit; from high author- 
-ity. 
+From the chair or pulpit; from high authority. 
 
 Higher ; more elevated. 
 
@@ -22466,8 +21661,7 @@ Ex cathedra.
 
 Excelsior. 
 
-Exceptio probat regu- 
-lam. 
+Exceptio probat regulam. 
 
 Exceptis excipiendis. 
 
@@ -22476,14 +21670,12 @@ Current Latin Expressions,
 
 From the crime. 
 
-I have built a monu- 
-ment more durable 
+I have built a monument more durable 
 than brass. 
 
 Examples are offensive. 
 
-For example; for in- 
-stance. 
+For example; for instance. 
 
 All go out. 
 
@@ -22497,8 +21689,7 @@ On one side.
 By profession. 
 
 Off-hand; on the spur 
-of the moment; ex- 
-temporaneously. 
+of the moment; extemporaneously. 
 
 The descent into Hell is 
 easy ; it is easy to get 
@@ -22551,15 +21742,13 @@ Ex professo.
 Ex tempore. 
 
 
-Facilis descensus aver- 
-ni. 
+Facilis descensus averni. 
 
 Fata obstant. 
 
 Fecit. 
 
-Fiat justitia, ruat coe- 
-lum. 
+Fiat justitia, ruat coelum. 
 
 Fiat lux. 
 
@@ -22708,8 +21897,7 @@ Nothing further.
 Whether he will or not. 
 Do not touch me. 
 
-To be unwilling to pro- 
-ceed. 
+To be unwilling to proceed. 
 
 He has not been found. 
 It does not follow. 
@@ -22726,8 +21914,7 @@ An accomplice.
 To compare small 
 things with great. 
 The father of a family. 
-The father of his coun- 
-try. 
+The father of his country. 
 
 1 have sinned. 
 
@@ -22773,8 +21960,7 @@ Obiit.
 O temporal O mores! 
 
 Particeps criminis. 
-Parva componere mag- 
-nis. 
+Parva componere magnis. 
 
 Paterfamilias. 
 
@@ -22812,13 +21998,11 @@ still sustains.
 
 By what right? 
 
-Which was to be demon- 
-strated. 
+Which was to be demonstrated. 
 
 A rare bird. 
 
-The reducing of a posi- 
-tion to an absurdity. 
+The reducing of a position to an absurdity. 
 
 The people rule. 
 
@@ -22827,8 +22011,7 @@ peace.
 
 I shall rise again. 
 
-The welfare of the peo- 
-ple isthe supreme law. 
+The welfare of the people isthe supreme law. 
 
 Holy of holies. 
 
@@ -22842,8 +22025,7 @@ Always the same.
 Words a foot and a half 
 long. 
 
-Such is the way to im- 
-mortality. 
+Such is the way to immortality. 
 
 Ever so to tyrants. 
 
@@ -22865,8 +22047,7 @@ Quid pro quo.
 Qui transtulit, sustinet. 
 Quo jure? 
 
-Quod erat demonstran- 
-dum. 
+Quod erat demonstrandum. 
 
 Bara avis. 
 
@@ -22900,14 +22081,11 @@ Current Latin Expressions,
 Like things are cured 
 by like. 
 
-If you seek his monu- 
-ment look around. 
+If you seek his monument look around. 
 
-Without a day ap- 
-pointed. 
+Without a day appointed. 
 
-An indispensable con- 
-dition. 
+An indispensable condition. 
 
 He stands in the shadow 
 of a mighty name. 
@@ -22931,12 +22109,10 @@ with them.
 
 Time flies. 
 
-Solid earth ; a safe foot- 
-ing. 
+Solid earth ; a safe footing. 
 
 By the whole heavens; 
-diametrically oppo- 
-site. 
+diametrically opposite. 
 
 The utmost limit. 
 
@@ -22952,11 +22128,9 @@ companion.
 Woe to the vanquished. 
 
 
-Similia similibus cu- 
-rantur. 
+Similia similibus curantur. 
 
-Si monumentum quae- 
-ris, circumspice. 
+Si monumentum quaeris, circumspice. 
 
 Sine die. 
 
@@ -23003,18 +22177,15 @@ Vae victis.
 
 Farewell. 
 
-I came, I saw, I con- 
-quered. 
+I came, I saw, I conquered. 
 
-Word for word and let- 
-ter for letter. 
+Word for word and letter for letter. 
 
 By way of. 
 
 In place of. 
 
-The terms being ex- 
-changed. 
+The terms being exchanged. 
 
 By force and arms ; by 
 main force. 
@@ -23120,24 +22291,16 @@ G. Numquam.
 
 G. Credo ipsammet non consuesse id facere. Mei 
 parentes consueverunt, et ita me instituerunt, 
-cum saepe illud Pauli occinSrent : Omne quod- 
-cumque facitis in verho aut in opere^ omnia in 
+cum saepe illud Pauli occinSrent : Omne quodcumque facitis in verho aut in opere^ omnia in 
 nomine Domini Jesu Christi. Ob hoc itSque 
-res tuae feliciter non eunt: opem enim praesi- 
-diumque coeleste non flagitas. 
+res tuae feliciter non eunt: opem enim praesidiumque coeleste non flagitas. 
 
-P. Tuam pietatem imitatus in postSrum baud desi- 
-piam. Quam ad hue male, tarn posthac bene 
-de me ipse merebor. Velim tamen pro con- 
-junctione benevolentiae nostrae, precatiuncii- 
-1am ipsam qua ut6ris ne me celes : hoc pre- 
-car io abs te peto. 
+P. Tuam pietatem imitatus in postSrum baud desipiam. Quam ad hue male, tarn posthac bene 
+de me ipse merebor. Velim tamen pro conjunctione benevolentiae nostrae, precatiuncii1am ipsam qua ut6ris ne me celes : hoc precar io abs te peto. 
 
 G. Ilia Ecclesise communisslina et commodissima 
-est. Acliones nostras, qucesumvs, Domine, aspi- 
-rando prceveni, et adjuvando prosequere, ut 
-cuncta nostra oratio et operatio a te semper in- 
-cipiatj et per te coepta fiiiiatur. Per Christum 
+est. Acliones nostras, qucesumvs, Domine, aspirando prceveni, et adjuvando prosequere, ut 
+cuncta nostra oratio et operatio a te semper incipiatj et per te coepta fiiiiatur. Per Christum 
 Dominum nostrum. Amen. 
 
 P. Haec valde arridet, hac utar. 
@@ -23155,9 +22318,7 @@ CONGRESSIONIBUS.
 
 Claudius, Alhinus. 
 
-C. Quandoquidem Latinitatis peritia multis par- 
-tibus jam diu factum est postquam me vin- 
-c6re coepisti, rogo atque oro, si comm6dum 
+C. Quandoquidem Latinitatis peritia multis partibus jam diu factum est postquam me vinc6re coepisti, rogo atque oro, si comm6dum 
 est, da mihi paulum opSrse. 
 
 A. Vel multum, si id ratiombus conducat tuis. 
@@ -23168,42 +22329,25 @@ hoc die, doceri peropto.
 
 A. Quid est illud unum? 
 
-C, Tristissimum cum sit ita salutare factos ob- 
-viam, et in congressis, bonus dies, bonus vesper, 
-bonum mane, bonum serum et respondetur sal- 
-utantibus. Deo qratias. Item in digressis 
-sub noctem, cum his verbis bene precari sol- 
+C, Tristissimum cum sit ita salutare factos obviam, et in congressis, bonus
+dies, bonus vesper, bonum mane, bonum serum et respondetur salutantibus. Deo
+gratias. Item in digressis sub noctem, cum his verbis bene precari soleamus:
+fausta nox, felix nox, reddaturque idem responsum, more patrio videlicet, good
+night, thanks be to God, iis autem formis loqui necessitas nulla cogat:
+latinisque auribus ingratissimum: sit quo pacto tum salutando tum
+valedicendo, sive cum in alicujus colloquium congressumque veniendum est, sive
+alicui scribendum nos geremus? Non enim latet solere te studium acerrimum
+pondere in notandis hujusmodi latinismis, cum inter legendum occurrunt, aut a
+magistro inculcantur. 
 
-
-
-
-
-eamus : fausta noxj felix nox, reddaturque idem 
-responsum, more patrio videlicet, good nighty 
-thanks he to Godj iis autem formis loqui 
-necessitas nulla cogat : latinisque auribus in- 
-gratissimum : sit quo pacto turn salutando 
-turn valedicendo, sive cum in alicujus coll6- 
-quium congressumque veniendum est, sive 
-alicui scribendum nos geremus? Non enim 
-latet solere te studium acerrimum ponSre in 
-notandis hujusm5di latinismis, cum inter le- 
-gendum occurrunt, aut a magistro inculcantur. 
-
-A. Hand equidem me tanto dignor hondre. Ni- 
-hilominus, quia tu hoc a me candide petis, et 
-posse me tibi commodare judicas, parebo vol- 
-untati tuse, in prsesentia, nihil tale provi- 
-dent!, memoriam subidrint. Hoc tenebis 
-primum, non semper opus esse responsione 
-cum salutamur: et interdum salutantem non 
-resalutari, verum respondere aliquid aliud, 
-quod ille libens ac volens audiat. Est quando 
-salutatidni quaestiunculse quaedam adjiciuntur, 
-de valetudine praesertim : nonnunquam resa- 
-lutantes etiam interrogatiunciilam annectunt. 
-Haec omnia exemplis declarabuntur, tu auri- 
-tum te facito. 
+A. Haud equidem me tanto dignor honore. Nihilominus, quia tu hoc a me candide
+petis, et posse me tibi commodare judicas, parebo voluntati tuae, in
+praesentia, nihil tale providenti, memoriam subierint. Hoc tenebis primum, non
+semper opus esse responsione cum salutamur: et interdum salutantem non
+resalutari, verum respondere aliquid aliud, quod ille libens ac volens audiat.
+Est quando salutatidni quaestiunculse quaedam adjiciuntur, de valetudine
+praesertim : nonnunquam resalutantes etiam interrogatiunciilam annectunt. Haec
+omnia exemplis declarabuntur, tu auritum te facito. 
 
 Salve. Kesp. Salve. 
 
@@ -23252,8 +22396,7 @@ Salvum te advenisse gaudeo.
 
 Venire te salvum volupe est. — Credo ; quid agitur f 
 
-Here, salve, salvum te advenisse gaudeo. 0 bone cus- 
-tos, sa ve. 
+Here, salve, salvum te advenisse gaudeo. 0 bone custos, sa ve. 
 
 Plurima salute Parmenonem suum impertil Gnato ; 
 quid agitur f 
@@ -23277,8 +22420,7 @@ usque? expectatusne advenio?
 Salvus atque fortunatus, Euclio, semper fies. — DU te 
 bene ament, Megadore. 
 
-0 amice, salve, atque cequalis mihi; ut vales Am- 
-brosi? — Et tu. 
+0 amice, salve, atque cequalis mihi; ut vales Ambrosi? — Et tu. 
 
 Salve, Gregori. Valen\ valuiM f — Valeo et valui 
 rectius. 
@@ -23290,8 +22432,7 @@ rectius.
 Mi homoy et mea mulier, ego vos saluto. — El nos te. 
 
 In Andrea Crito, quum salutasset ancillam, et ab 
-ea fuisset resalutatus, subjecit secunda interro- 
-gatione. Quid vos? Quo pacto hie? Satisne 
+ea fuisset resalutatus, subjecit secunda interrogatione. Quid vos? Quo pacto hie? Satisne 
 recte? M. Nosne? sic, ut quimus, aiunt, quando 
 ut volumuSy non licet. Queerebant etiam sic. 
 Satin’ salve? Exempla sunt apud Livium. 
@@ -23322,8 +22463,7 @@ PONTANUS, S. J.
 DidasculuSy BernardinuSy CceciliuSy Fusculus. 
 
 D. Formulas illas, quibus alicui, aut aliquibus 
-latine moreque Christiano bene precari pos- 
-sumus mihi recitato, Bernardine. 
+latine moreque Christiano bene precari possumus mihi recitato, Bernardine. 
 
 B. Hem, Prseceptor. 
 
@@ -23353,28 +22493,23 @@ B,C‘‘ '''it char us accidit tuus isle reditus.
 
 
 Quod sanus reverteris gaudeo. Deo sit laus qui 
-te firmum valentemque nobis restituit, Tua re- 
-versione etiam atque etiam Icetor, 
+te firmum valentemque nobis restituit, Tua reversione etiam atque etiam Icetor, 
 
-D. Prandentibus et coenantibus bene precare, Cae- 
+D. Prandentibus et coenantibus bene precare, Cae
 
-
-G, Escam potumque vestrum Deus benedicat Sit t'o- 
-bis hoc prandiumy*seu coeiia salutaris, Utinam 
+G, Escam potumque vestrum Deus benedicat Sit t'obis hoc prandiumy*seu coeiia salutaris, Utinam 
 istce epulce conducant vestris corporibus. 
 
 D, Ad te mox redibo, Bernardlne, si Fusciilum 
 interrogavSro. Age, Fuscule, quid dices, 
 segrotanti quod audiat quam libentissime? 
 
-F, Deus Opt. Max, tut misertus valetudinem tibi re- 
-dintegref. 
+F, Deus Opt. Max, tut misertus valetudinem tibi redintegref. 
 
 D. Die reliqua, nam plura recorder me dictasse 
 vobis. 
 
-F, Ab hoc febriy ab ista colicay ab isto morbo libe- 
-rel te Ghristus, qui sanavit omnem languorum, 
+F, Ab hoc febriy ab ista colicay ab isto morbo liberel te Ghristus, qui sanavit omnem languorum, 
 Medicinam malo tuo facial misericors Dominus. 
 Levare dolores tuos, et depellere morbum istur.i 
 dignabitur omnipotens Deus. 
@@ -23410,8 +22545,7 @@ somnus tibi placidus contingat.
 D. Optato aliquid boni honorem adipiscentibus 
 Fuscule. 
 
-F. Hie honor tibi eso perpetuus sit ; Deus hanc glo- 
-riam, istud decus tibi perpetuum faciat ; hunc 
+F. Hie honor tibi eso perpetuus sit ; Deus hanc gloriam, istud decus tibi perpetuum faciat ; hunc 
 honorem Deus tibi conservet atque augeat. Gra~ 
 tutor tibi honore isto. Deus faxit, ut eo dignus 
 maneas. 
@@ -23425,8 +22559,7 @@ laborem tuum fortunet.
 
 D. Novo anno ineunte, quse bona verba dicemus? 
 
-F. Hie annus tibi faustus procedat. Vive hunc an- 
-num sanus et incolumis. 
+F. Hie annus tibi faustus procedat. Vive hunc annum sanus et incolumis. 
 
 D. Nihil est prseteritum. Amo vos multum de 
 memoria et diligentia. 
@@ -23441,8 +22574,7 @@ Michael, Ambrosius.
 M. Scholam petentibus in nobis dies singulos, ac 
 pene incolentibus, cum instrumenta, ut aliis 
 cujusvis generis artificibus sua necessaria sint, 
-illorumque appellationes qusedam mihi exci- 
-
+illorumque appellationes qusedam mihi exci
 
 Dialogues. 
 grint, obs^cro, quod sine molestia tua fiat, 
@@ -23450,12 +22582,9 @@ redige illas in memoriam meain, et velut sub
 ununi aspectum subjice universa. 
 
 A. Forsitan non subibunt animo omnia, quanquam 
-adeo multa non sunt. Verum si quid nes- 
-ci^ro, ait Plautlnus Pseudotyndarus, id nes- 
-cium tradam tibi. 
+adeo multa non sunt. Verum si quid nesci^ro, ait Plautlnus Pseudotyndarus, id nescium tradam tibi. 
 
-M. Non vertam vitio, aut non recordfiri, aut nes- 
-cTre te, quod ipsemet vel nesciam, vel non 
+M. Non vertam vitio, aut non recordfiri, aut nescTre te, quod ipsemet vel nesciam, vel non 
 meminerim in prsesentia. 
 
 A. Interroges licet, quo commodius accipias, quje 
@@ -23474,29 +22603,21 @@ d stribuisse?
 
 A. Et valde quidem 
 
-M. Enumgra jam quae referuntur ad primum ge- 
-nus. 
+M. Enumgra jam quae referuntur ad primum genus. 
 
 A. Liber, libellus, quo spectant pagina, pagella, 
-margo seu ora libri, involucrum sen opercu- 
-lum, quo vestiuntur libri, ut ab injuria vetus- 
-tatis et pulverum conserventur. Hie filium, 
-acura, ceram quorum apud nos non infre- 
-quens est usus, referre potes. Eodem perti- 
-net pluteus. 
+margo seu ora libri, involucrum sen operculum, quo vestiuntur libri, ut ab injuria vetustatis et pulverum conserventur. Hie filium, 
+acura, ceram quorum apud nos non infrequens est usus, referre potes. Eodem pertinet pluteus. 
 
 M. Quid est pluteus? 
 
-A. Pluteorum alius dicitur armarium sive re- 
-positorium librorum qui etiam in forulis re- 
-
+A. Pluteorum alius dicitur armarium sive repositorium librorum qui etiam in forulis re
 
 
 
 
 ponuntur. Alius est tabula seu scrinium, 
-quod sibi scribentes subj iciunt ; barb^ris, pul- 
-pitum. 
+quod sibi scribentes subj iciunt ; barb^ris, pulpitum. 
 
 Habeo ista ; precede ad caetSra. 
 
@@ -23504,41 +22625,30 @@ Kestant nomina secundi ordinis.
 
 Quaenam ilia? 
 
-Charta sive papyrus. Jam chartarum alia vo- 
-catur Augusta, tenuis nempe et Candida, ad 
+Charta sive papyrus. Jam chartarum alia vocatur Augusta, tenuis nempe et Candida, ad 
 epistSlas accommodata ; appellata sic est ab 
 Augusto. Alia dentata, alia bibula, quae 
 transmittit littSras: alia Claudiana, regia, 
-imperialis, amplo folio et crassa: alia empo- 
-rica, mercibus involvendis idonea, unde cu- 
-culli fiunt ; alia charta virgo, ex qua nullum 
+imperialis, amplo folio et crassa: alia emporica, mercibus involvendis idonea, unde cuculli fiunt ; alia charta virgo, ex qua nullum 
 est descriptum exemplar, alia pura, in qua 
-nihil est litterarum; alia pergamena, quo- 
-niam apud Perg^mum Asise urbem inventa 
-sit ; etiam membrana dicitur. Hsec de char- 
-tarum generibus. Atramentum scriptorium 
+nihil est litterarum; alia pergamena, quoniam apud Perg^mum Asise urbem inventa 
+sit ; etiam membrana dicitur. Hsec de chartarum generibus. Atramentum scriptorium 
 sive librarium. 
 
 M. Cur addidisti scriptorium sive librarium? 
 
 A. Quod aliud est atramentum fuligineum, quo 
-utuntur typography aliud sutorium, quam- 
-quam consuetude, quse est verbdrum domina, 
-nihil solet adjicere. Atramentarium. Cal- 
-amus absolute seu calamus scriptorius. Cul- 
-tellum, graphiarium seu scalpellum, scal- 
-prum librarium vocat in Vitellio Suetonius, 
+utuntur typography aliud sutorium, quamquam consuetude, quse est verbdrum domina, 
+nihil solet adjicere. Atramentarium. Calamus absolute seu calamus scriptorius. Cultellum, graphiarium seu scalpellum, scalprum librarium vocat in Vitellio Suetonius, 
 ut docti annotarunt. Theca calamaria seu 
 graphiaria, theca sive pixis pulveraria, sive 
 arenaria. 
 
-M. Annon putas aliis quibusdam armis nos indi- 
-gere? 
+M. Annon putas aliis quibusdam armis nos indigere? 
 
 
 Dialogues. 
-A. Immo, sed praecipua recensui. Sunt ergo in- 
-sttper forcipes, clepsydra, regula, circinns 
+A. Immo, sed praecipua recensui. Sunt ergo insttper forcipes, clepsydra, regula, circinns 
 aeneus, et nonnumquain prsesertim in aestate, 
 cum sirius ardor find it agros, et versiculi 
 componuntur, moderatus vini haustus. 
@@ -23547,16 +22657,12 @@ Ingenium potis irritat Musa Poetis.
 
 Bacchey soles Phoeho fertilis esse tuo. 
 
-M. Optatissimum vero instrumentum ; nominas- 
-ses hoc primo loco. 
+M. Optatissimum vero instrumentum ; nominasses hoc primo loco. 
 
-A. Nam quia carmma laetum sunt opus, ut ce- 
-cmit Ovidius, vinum exhilarat animum. Et 
-saepe audisti iilud Ecclesiastici : Vinum Iceti- 
-ficat cor hominis. 
+A. Nam quia carmma laetum sunt opus, ut cecmit Ovidius, vinum exhilarat animum. Et 
+saepe audisti iilud Ecclesiastici : Vinum Icetificat cor hominis. 
 
-M. Probabilius dixisses, pecunia quoque ut in- 
-strumento opus esse scholasticis, idque non 
+M. Probabilius dixisses, pecunia quoque ut instrumento opus esse scholasticis, idque non 
 interdum, sed continenter ; qua suppeditante, 
 multo hilarior fit mens, vino pecunia non 
 emitur, emi certe quidem non dicitur. Nunc 
@@ -23573,8 +22679,7 @@ BartholomoeuSj GodefriduSy Franciscus.
 B. Hodie, fill, initia sunt studiorum, in gymnasio 
 societatis Jesu. 
 
-F. Gaudeo, Pater, illuxisse diem mihi toties ex- 
-optatum. Verum placetne coemgre mihi 
+F. Gaudeo, Pater, illuxisse diem mihi toties exoptatum. Verum placetne coemgre mihi 
 arma litterarum studiosis necessaria? 
 
 
@@ -23594,18 +22699,15 @@ G. Hie est in proximo.
 
 B. Salve, Franeisce. 
 
-F, Salvus sis tu quoque, mi Domine ; quidquam- 
-ne ex usu tuo est me penes? 
+F, Salvus sis tu quoque, mi Domine ; quidquamne ex usu tuo est me penes? 
 
-B, Apparatum sebolastieum desidSro huie par- 
-vulo. 
+B, Apparatum sebolastieum desidSro huie parvulo. 
 
 F. Habeo omnis generis. 
 
 B, Quibusnam opus est tibi rebus? Age, eloquere. 
 
-G. Ante omnia M agister pietatis instrumenta le- 
-
+G. Ante omnia M agister pietatis instrumenta le
 quTrit in diseipuiis. 
 
 B. Intelligo. Quanti illud rosarium sestimas, 
@@ -23642,24 +22744,20 @@ B, Joeone an serio?
 
 Dialogues. 
 F. Sic stat sentential teruntius hinc deduci non 
-potest. Quid? Non est rudi arte in mem- 
-lorrina consutus ; tectus est corio hispano, in- 
-aunitus perfoliorum secturas. 
+potest. Quid? Non est rudi arte in memlorrina consutus ; tectus est corio hispano, inaunitus perfoliorum secturas. 
 
 B. Numerabo centesTmas sexaginta, hac lege, ut 
 insuper libro adjicias ex sere adstrictorios 
 uncos. 
 
-F. Curabitur, eed adhuc adjicies centesimas de- 
-cern. 
+F. Curabitur, eed adhuc adjicies centesimas decern. 
 
 B, Imo ne obolum quidem. Cset6rum babes 
 chartam venalem V 
 F. Habeo. 
 
 B, Pix)fer. Hspc est charta tenuis et subhumida : 
-atramentum perfluet. Cedo densam, nec ta- 
-me n asperam nec scabram. 
+atramentum perfluet. Cedo densam, nec tame n asperam nec scabram. 
 
 F. Hfcccine placet? 
 
@@ -23678,8 +22776,7 @@ G. Maxime, pater, ad excipienda quotidiana
 
 scriptionis argumenta. 
 
-B, Videam volumen allquod hujus generis me- 
-diocriter densum. 
+B, Videam volumen allquod hujus generis mediocriter densum. 
 
 E. Hoc in annum integrum sufficiet, aut plus eo 
 
@@ -23726,16 +22823,13 @@ facta.
 B. Nolo thecam quae non nisi umcam pennam 
 capiat. 
 
-F. Scio quid quaeras : vis thecam oblongam et ro- 
-tundam? 
+F. Scio quid quaeras : vis thecam oblongam et rotundam? 
 
 B. Ipsam volo. 
 
-F. Ecce atramenti capiicem, et calamorum com- 
-plurium. 
+F. Ecce atramenti capiicem, et calamorum complurium. 
 
-B. Accumulemus in acervum eumdem: ad ex- 
-tremum una licebor in omnia. Imple hanc 
+B. Accumulemus in acervum eumdem: ad extremum una licebor in omnia. Imple hanc 
 lagunculam fictilem atramento. 
 
 F, Id praestat; necesse non habebit puer in dies 
@@ -23748,8 +22842,7 @@ G. Etiam, pater; velim regtilam mihi ligneam
 
 comptlres; curves plerumque versus diico; a 
 magistro quotidie objurgor ; deinceps plumbo 
-ducam lineas secundum regulam; his in- 
-scribam. 
+ducam lineas secundum regulam; his inscribam. 
 
 B. Hoc est opus arcularii. Tace; aliunde tibi 
 prospex^ro. 
@@ -23768,8 +22861,7 @@ B, Numerabo tres francos.
 
 F. Tantillo tibi non addixSro. 
 
-Z>. DiscrTmen pretii dividatur ex aequo : tibi de- 
-cedet medium, mihi accidet. 
+Z>. DiscrTmen pretii dividatur ex aequo : tibi decedet medium, mihi accidet. 
 
 F. Quod bene vertat habeas, per me licet ; sed ea 
 spe, ut me crebro re visas. 
@@ -23779,8 +22871,7 @@ B. Age, recense pecuniam et missos nos fac.
 F. Nihil desideratur aut supgrest ; vis tibi scribam 
 ap5cham? 
 
-B. Nihil opus est; habeo verbis tuis fidem. Pre- 
-cor tibi felTcem vespSrum. 
+B. Nihil opus est; habeo verbis tuis fidem. Precor tibi felTcem vespSrum. 
 
 F. Idem tibi vicissim precor. 
 
@@ -23804,27 +22895,23 @@ tempus.
 L. Quapropter solent exire a ludo. 
 
 N. Vel ut corpus levent, vel ut emant allquid 
-necessarium. Item ob causam aliquam om- 
-nino fortuitam. 
+necessarium. Item ob causam aliquam omnino fortuitam. 
 
 
 248 Ouide to Latin Conversation, 
 
 
-L. Estne, more Cynicdrum Stoicorumve, simplici- 
-bus, propriis, apertissimis utendum verbis, 
+L. Estne, more Cynicdrum Stoicorumve, simplicibus, propriis, apertissimis utendum verbis, 
 sine ulla prsefatidne honoris, cum loqmmur 
 de illis naturae humanae necessitatibus, quas 
 jam cogitatione praecipis: an potius tectis, ac 
 praetextatis, ut quod re inhonestum non est, 
-modo ociilte fiat, id verbo ne turpe obscce- 
-numque fiat? 
+modo ociilte fiat, id verbo ne turpe obsccenumque fiat? 
 
 N, Ita tu quidem nuper a Cicerdne nos erudivisti. 
 
 L. Velim petitiones aliquas iis verbis iteres, qui' 
-bus a me accepistis. Agite, pueri, auscul- 
-tate atque operam date et quae dicentur per^ 
+bus a me accepistis. Agite, pueri, auscultate atque operam date et quae dicentur per^ 
 cipite. 
 
 N. Caput dentes^ venter mihi condolent^ Prceceptor : quocirca^ 
@@ -23841,24 +22928,19 @@ Vocor domum a servo j ab ancilla; possum abire?
 L, Quomodo, Crispine, absentiae facultas rogandas 
 est? 
 
-C. Hoc illudve negotium mihi curandun\ transactum redden- 
-dum^ perficiendiim est^ lavandum, hospitibus servien- 
-dum, cegrotanti sorori/fratri^ ministrandum. 
+C. Hoc illudve negotium mihi curandun\ transactum reddendum^ perficiendiim est^ lavandum, hospitibus serviendum, cegrotanti sorori/fratri^ ministrandum. 
 
 Parentes mei hanc^illam rem ut peragerem mihi proeceperunt; 
 huCf nine me mitt ant: quamobrem hodWj eras, biduo, 
 triduo in ludo adesse non potero. 
 
-Hac de re certiorem te facere volui, amatissime Pa'er et Proe- 
-ceptor, qud id te conscio ac non repugnante jieret. 
+Hac de re certiorem te facere volui, amatissime Pa'er et Proeceptor, qud id te conscio ac non repugnante jieret. 
 
 A, Scholls abfui heri,nudiustertius,quatuor quinque dies, etc.; 
-oh hanCfOb illam causam; quam excusationem ne repu- 
-dies, te vehementer oro. 
+oh hanCfOb illam causam; quam excusationem ne repudies, te vehementer oro. 
 
 L, Hisce phrasibus edico a me potestatem petant 
-omnes, et usitatam sibi luculentamque bar- 
-
+omnes, et usitatam sibi luculentamque bar
 
 Dialogues. 
 bariem valere jubeant. Qui contra vengrit, 
@@ -23889,8 +22971,7 @@ G. Mater domi nos opperitur ad banc horam.
 
 P. Ipsa etiam procedet obviam? 
 
-G. Ipsa etiam et universa familia. Famuli prae- 
-current pedites. Mater cum sororibus rheda 
+G. Ipsa etiam et universa familia. Famuli praecurrent pedites. Mater cum sororibus rheda 
 vehetur ; ego facturus sum iter equo. 
 
 P. Abi : sit iter felix ac commodum. 
@@ -23908,8 +22989,7 @@ on6re me levav6ris?
 
 P. Quid polliceris mihi? 
 
-G. Futurum ut sarciam banc jacturam dupla de- 
-inde diligentia. 
+G. Futurum ut sarciam banc jacturam dupla deinde diligentia. 
 
 
 
@@ -23918,14 +22998,12 @@ P. Per me licet, sed vidMs, mihi fidem serves.
 
 G. Liberiibo apud te fidem meam. 
 
-G. Placetne, Eeverende Doinine, mihi fac6re po- 
-
+G. Placetne, Eeverende Doinine, mihi fac6re po
 testatem egrediendi schola? 
 
 P. Quid causae est? 
 
-Gr, Rure in urbem venit mater mea : condixit lo- 
-cum et tempus quo se conveniam. 
+Gr, Rure in urbem venit mater mea : condixit locum et tempus quo se conveniam. 
 
 P. Quid istud opus est? 
 
@@ -23954,13 +23032,11 @@ P. Continuo hie adsis.
 
 H. Placet exeam? Laboravi per aliquot dies alvi 
 
-profluvio : itSrum premor, placetne ut sece- 
-dam vel curriciilo do mum excurram? 
+profluvio : itSrum premor, placetne ut secedam vel curriciilo do mum excurram? 
 
 P. Abi. 
 
-Hier. Hora nona fiet sacrum funSbre anniversar- 
-ium pro avo meo : jussit me pater interesse : 
+Hier. Hora nona fiet sacrum funSbre anniversarium pro avo meo : jussit me pater interesse : 
 placetne Praeceptori ut earn? jam imminet 
 nona. 
 
@@ -23983,14 +23059,12 @@ P. Keddes a schola.
 
 J. Festinato opus est. 
 
-P. Quin ergo ante tertium pulsum patrem evo- 
-casti ad januam? 
+P. Quin ergo ante tertium pulsum patrem evocasti ad januam? 
 
 J, Antea plane excid6rat : j am mihi in memoriam 
 redit. 
 
-P. Vise, si do mi est. — Jam admomti estis de ade- 
-undo templo : colligant vasa, et ad sacrum 
+P. Vise, si do mi est. — Jam admomti estis de adeundo templo : colligant vasa, et ad sacrum 
 se compirent. 
 
 L. Ambo nos inservivimus sacro. Observande 
@@ -24003,9 +23077,7 @@ totus rigeo. Insiiper procul hinc habito,
 vix domi ad horam licet interquiescere : ad 
 scholam iterum expetendum est. 
 
-P. Jam VOS missos faciam, hac lege, ut pomeridi- 
-anas prselectiones firmius imprimatis me- 
-moriae. 
+P. Jam VOS missos faciam, hac lege, ut pomeridianas prselectiones firmius imprimatis memoriae. 
 
 L. Callebimus ad unguem. 
 
@@ -24014,14 +23086,11 @@ exeam schola?
 
 P. Exi et lava ad proximum fontem aut antliam. 
 
-Ph. Placetne Magistro, ut egrediar schola emptu- 
-rus chartam et calamos? 
+Ph. Placetne Magistro, ut egrediar schola empturus chartam et calamos? 
 
-P. Quo curres? Jamjam excipiendum est argu- 
-mentum scribendi pro imperio. 
+P. Quo curres? Jamjam excipiendum est argumentum scribendi pro imperio. 
 
-Ph. Est officina hie in proximo, e regione gym- 
-nasii. 
+Ph. Est officina hie in proximo, e regione gymnasii. 
 
 
 I 
@@ -24056,16 +23125,13 @@ P. Ut mihi liceat mutare locum quo vis alio.
 P. Locum, non ingenium mutabis, ut conjicio. 
 
 P. Confirmo fore ut secus eveniat. Nunc assideo 
-Emmanueli illi; puer est inquietus, identi- 
-dem me irritat: modo hoemodo illud insu- 
-surrat ad aures. 
+Emmanueli illi; puer est inquietus, identidem me irritat: modo hoemodo illud insusurrat ad aures. 
 
 P. Simula te indignari, desinet. 
 
 P. Nequaquam. Collocet me Reverentia vestra, 
 ubi placuerit, modo neprope Emmanuelem: 
-obmutescam illico et pendebo ab ore Magis- 
-tri docentis. 
+obmutescam illico et pendebo ab ore Magistri docentis. 
 
 P. Tentabo. 
 
@@ -24078,38 +23144,32 @@ oomparatione et de imponendis adagiis?
 Dialogues, 
 P. Quod pretium vis esse victorise? 
 
-J. Depono notas diligentiae, ex parte romana vi- 
-ginti : suppcnat ille, si ausit, totidem. 
+J. Depono notas diligentiae, ex parte romana viginti : suppcnat ille, si ausit, totidem. 
 
 P. Faciam tibi provocandi potestatem. 
 
-J. Insuper principem diligentiae ad certamen pro- 
-v5co, ut ipsum excludam loco. Diutius quam 
+J. Insuper principem diligentiae ad certamen prov5co, ut ipsum excludam loco. Diutius quam 
 pati possum tarn lionorifico potitur solio. 
 
 P. Vide sis, ne utrinque spe excidas. Alt^rum e 
 duobus lacesse: nam qui duos insectatur 
 lepbres neutrum capit. 
 
-C. Placetne tibi, Eeverende Domine, ut con- 
-veniaih Patrem Praefectum? 
+C. Placetne tibi, Eeverende Domine, ut conveniaih Patrem Praefectum? 
 
 P. Ubmam est? 
 
-C, In area modo erat, vel inambiilat cum magis- 
-tro Poeseos in porticu. 
+C, In area modo erat, vel inambiilat cum magistro Poeseos in porticu. 
 
 P. Quid illi babes dicere? 
 
 C, Heri vespbre adTvi ejus nomine causidicum 
-quempiam nobis vicinum, destinatiirus epis- 
-tolam; nunc illi responsum referam, si 
+quempiam nobis vicinum, destinatiirus epistolam; nunc illi responsum referam, si 
 placeat. 
 
 P. Placet. 
 
-F, Placetne Keverentiae vestrae mihi facbre potes- 
-tatem recurrendi domum? Quam mox 
+F, Placetne Keverentiae vestrae mihi facbre potestatem recurrendi domum? Quam mox 
 revertar. 
 
 Quid te urget? 
@@ -24119,10 +23179,8 @@ Suspicor te altbrum exemplum thematis non
 descripsisse. 
 
 F, Salva pace tua, Domine, descripsi hodie, primo 
-mane. Seposueram dum exsiccarentur char- 
-acteres: deinde non memini recondbre in 
-capsam : det veniam Keverentia vestra, im- 
-prudens feci. 
+mane. Seposueram dum exsiccarentur characteres: deinde non memini recondbre in 
+capsam : det veniam Keverentia vestra, imprudens feci. 
 
 
 
@@ -24135,19 +23193,16 @@ P. Sed revertere e vestigio.
 
 P. Sine mora hie ad6ro. 
 
-G. Keverende Domine, cum non ita pridem com- 
-
+G. Keverende Domine, cum non ita pridem com
 modassem aulsea et argentea candelabra ad 
 exornandum sacellum sodalitatis, pollicita 
-est mihi Reverentia vestra singularem im- 
-munitatem: licetne ut hodie fruar? 
+est mihi Reverentia vestra singularem immunitatem: licetne ut hodie fruar? 
 
 P. Quis postulas immunitatis. 
 
 G Ut liber sim a scriptione eras reddenda. 
 
-P. Eh! jequumtu postulas, et ego cupio stare pro- 
-missis. Esto immunis. 
+P. Eh! jequumtu postulas, et ego cupio stare promissis. Esto immunis. 
 
 C. Ago Keverentise vestrae maximas gratias. 
 
@@ -24170,29 +23225,22 @@ promptissimum.
 
 P. Non repudio. 
 
-F. Reddat mihi, obsgero, Reverentia vestra, cre- 
-pundia ilia hisce diebus mihi erepta. 
+F. Reddat mihi, obsgero, Reverentia vestra, crepundia ilia hisce diebus mihi erepta. 
 
 P. Non ideo eripui ut mox restituam. 
 
 P. Fateor me violasse mandatum Praeceptoris, cum 
-in scholam inthli: posthac numquam im- 
-portabo. 
+in scholam inthli: posthac numquam importabo. 
 
 P. Quas autem res requiris? 
 
 
 Dialogues, 
-F, Redda*, mihi, quseso, Reverentia vestra, bom- 
-byces meos, metuo ne moriantur fame : glo- 
-bulos, sunt inter eos marmorei tres quatu- 
-orve : forficem, non est meus sed spectat ad 
-sororem: deinde imagines, libellum, cul- 
-tellos. 
+F, Redda*, mihi, quseso, Reverentia vestra, bombyces meos, metuo ne moriantur fame : globulos, sunt inter eos marmorei tres quatuorve : forficem, non est meus sed spectat ad 
+sororem: deinde imagines, libellum, cultellos. 
 
 P. Hodie recipies quidem ; at si te unquam alias 
-attulisse deprehendgro, extremum tunc vi- 
-debis. 
+attulisse deprehendgro, extremum tunc videbis. 
 
 F. Cavebo thesaurum hunc exponSre prsesenti 
 periciilo. 
@@ -24204,11 +23252,9 @@ librorum, cum exibamus inservituri sacro.
 P. Obliviosi! Atqui jussSram una vobiscum in 
 sacrarium deferretis. 
 
-J, Excidit nobis prse festinatione : jamjam refere- 
-mus. Ecce clavem, Reverende Domine, 
+J, Excidit nobis prse festinatione : jamjam referemus. Ecce clavem, Reverende Domine, 
 licetne per Reverentiam vestram ut nos con> 
-feramus domum? Jam Missse sacrificio in- 
-terfuimus. 
+feramus domum? Jam Missse sacrificio interfuimus. 
 
 P. Hac lege ut ne per plateas tergiversemini. 
 
@@ -24223,11 +23269,9 @@ P. Quales mihi mores polliceris in posterum?
 (7. Quales exigunt leges, ut spero. 
 
 P. Ampla promissio! mereris ut nomen tuum 
-referam in album sodalium, et ref^ram do- 
-minica die proxime instante. 
+referam in album sodalium, et ref^ram dominica die proxime instante. 
 
-(7. Licetne ut illo die conveniam una cum sodali- 
-bus reliquis? 
+(7. Licetne ut illo die conveniam una cum sodalibus reliquis? 
 
 
 
@@ -24241,8 +23285,7 @@ sedendi in scamno?
 P. Ne minus quidem sacri spatio potes genibus 
 incumbere? Quid tibi obstat? 
 
-F. Heri procidi in genua inter ludendum : alt6- 
-rum genu graviter ofFendi. Decidi domi de 
+F. Heri procidi in genua inter ludendum : alt6rum genu graviter ofFendi. Decidi domi de 
 scalis : impegi tibiam in gradum, Isesi me ad 
 sanguinem. — Deficiunt me vires in genua 
 subsidentem, Pater, placetne ut sedeam? 
@@ -24253,8 +23296,7 @@ F, Metuo ne linquar animo: sentio vertiginem
 capitis; labdro ex intestinis; male habet 
 stomachus ; dolet caput. 
 
-J. Licetne per Keverentiam vestram ut earn con- 
-fessurus de peccatis? 
+J. Licetne per Keverentiam vestram ut earn confessurus de peccatis? 
 
 P. Quid rogas ! 
 
@@ -24267,9 +23309,7 @@ J. Sic et consuevi: sed sacerdos qui mihi est a
 confessionibus, heri aberat a domo; vacabat 
 sedlle. 
 
-F, Utmam placeat Reverentiae vestrae dare ve- 
-niam ut absim eras mane a schola? Eun- 
-dum mihi est rus cum parentibus. 
+F, Utmam placeat Reverentiae vestrae dare veniam ut absim eras mane a schola? Eundum mihi est rus cum parentibus. 
 
 P. Si quidem mihi videbitur. 
 
@@ -24294,40 +23334,33 @@ in schola.
 
 P. Abi, sed inter rusticos esto sapiens. 
 
-C. Cras, Eeverende Domine, non pot6ro frequen- 
-tare scliolam : ne gravetur me excusare. 
+C. Cras, Eeverende Domine, non pot6ro frequentare scliolam : ne gravetur me excusare. 
 
 P. Quid impediet? 
 
-C. Ex medici judicio snmenda mihi potio med- 
-ica ad purgandum corpus; tentatus fui feb- 
-ricula hisce diebus : mediclnam adliibebo, 
+C. Ex medici judicio snmenda mihi potio medica ad purgandum corpus; tentatus fui febricula hisce diebus : mediclnam adliibebo, 
 ut obstem principiis. 
 
 P. Num tibi aliquando aperta fuit vena? 
 
 C. Imo nudius tertius. 
 
-P. Absis per me licet, et valetudinem cura dili- 
-genter. 
+P. Absis per me licet, et valetudinem cura diligenter. 
 
 J. Eeverende Domine, remittit me parens mens 
 ad Eeverentiam vestram et rogat ut liceat 
-mihi abesse a schola hodierno die et cras- 
-tino. 
+mihi abesse a schola hodierno die et crastino. 
 
 P. Quid causae adfers? 
 
 J. Cum nuper pater meus decumb^ret oppressus 
 gravi morbo, mater mea peregrinationem 
-vovit Deiparae, si pater convalesceret. Con- 
-valuit, Deo sit gratia, defunctus extremo 
+vovit Deiparae, si pater convalesceret. Convaluit, Deo sit gratia, defunctus extremo 
 discrimine; hodie persolvet mater votum 
 quod nuncupavit : ipsara comitaturus sum, si 
 mihi, Domine, placeat facere potestatem. 
 
-P. Suspicor te hanc veniam a matre lacrymis ex- 
-torsisse. 
+P. Suspicor te hanc veniam a matre lacrymis extorsisse. 
 
 J. Nequaquam, Pater : jam in procinctu stabam, 
 venturus ad scholam, cum ultro me accersit 
@@ -24393,8 +23426,7 @@ A, Serione scribis, an tu nugas agis, Vincenti?
 Dialogues. 
 V. Equldem scribo serio, sed quorsnm id rogas? 
 A. Fuit cum elegantius scriberes. En litteras! 
-^que scite gall us gallinaceus scalp6ret un- 
-gulbus. 
+^que scite gall us gallinaceus scalp6ret ungulbus. 
 
 V. Deest mihi calamus accommddus : da mihi, 
 obsecro, pennam novam. 
@@ -24427,8 +23459,7 @@ P. Vade
 M. Li vine, da mihi mutuum tantisper scalpellum 
 tuum. 
 
-L. Scilicet ut Magister eripiat si te utentem de- 
-
+L. Scilicet ut Magister eripiat si te utentem de
 prehenderit. 
 
 M. Utar clanculum sub pallio. 
@@ -24437,8 +23468,7 @@ L. Habetibi: tamen tuo perichlo.
 
 M. Omne in me periculum transfSro. 
 
-L. Hac lege a me auftres ut, si Praeceptor te spo- 
-
+L. Hac lege a me auftres ut, si Praeceptor te spo
 liet. persolvas pretium. 
 
 M. Omnino hac lege. — En scalpellum, Paule.. 
@@ -24459,14 +23489,11 @@ Ego molliore uti soleo.
 Habeo altgrnm calamum tenui cuspide: para 
 nunc mucrdne crassiore. 
 
-Incomm5dum alienam semper opSram emen- 
-dicare aptandis calamis ; addisce ipse artem 
+Incomm5dum alienam semper opSram emendicare aptandis calamis ; addisce ipse artem 
 parandi. 
 
 Tentavi frequenter: oleum et op6ram perdo. 
-Nullius est negotii: en, sic rescindo utrum- 
-que caput. Turn in superiore parte inci- 
-suram facio scalpello sensim ducto: postea 
+Nullius est negotii: en, sic rescindo utrumque caput. Turn in superiore parte incisuram facio scalpello sensim ducto: postea 
 exacuo in cuspidem. Age, prefer atramen 
 turn : intinge calamum et perictilum fac an 
 sit accommodus. 
@@ -24488,16 +23515,13 @@ folium? Obsecro te, Domine.
 
 P. Habeo folium unicum, sed ego ipse egeo. 
 
-C. Tibi alterum dimidium serva : altSrum dimid- 
-
+C. Tibi alterum dimidium serva : altSrum dimid
 ium sufficiet mihi. 
 
-D, Kevelle ex codice tuo compacto chartam va- 
-
+D, Kevelle ex codice tuo compacto chartam va
 cuam. 
 
-C, Non fecero. Inde sensim compactio dissolvi- 
-tur et liber membratim discerpitur. 
+C, Non fecero. Inde sensim compactio dissolvitur et liber membratim discerpitur. 
 
 
 tt! 
@@ -24506,8 +23530,7 @@ tt!
 Dialogues. 
 D* SufHcitne tibi hoc frustulum? 
 
-Cl Hei! non capiet sex versus, ex meis prae- 
-sertim. 
+Cl Hei! non capiet sex versus, ex meis praesertim. 
 
 D. Scribe in utraque papyri facie, et due versus 
 densiores: quid necesse babes tuam niagna 
@@ -24557,8 +23580,7 @@ Infunde plusciilum.
 
 
 
-H, Deprime gossypium calamo ; alioquin redun- 
-dabit atque efiluet. 
+H, Deprime gossypium calamo ; alioquin redundabit atque efiluet. 
 
 F. Satis: qusenam est hsec profusio? Plus de^ 
 
@@ -24590,14 +23612,12 @@ R, Nihil, verum ad littus maris ubi ejus est copia.
 Tamen quia noster es, explica librum et 
 excipe. 
 
-G, Keferam vices cum tibi opus fuerit. Quid vi- 
-deo? Jamne nunc descripsisti integrum 
+G, Keferam vices cum tibi opus fuerit. Quid video? Jamne nunc descripsisti integrum 
 scriptidnis argumentum? 
 
 R, Descripsi. 
 
-G. Utinam mihi essent artichli tarn celdres I equi- 
-dem perquam tarde scribo. 
+G. Utinam mihi essent artichli tarn celdres I equidem perquam tarde scribo. 
 
 R. Quid potes dictantis vocem scribendo assSqui? 
 
@@ -24620,8 +23640,7 @@ Th. Habeo gratias quod Eeverentia vestra me
 janitorem scholse esse jusserit: nullum est 
 officium quod prse hoc malim. 
 
-P. Videsis, obeas sedulo. Quidquid mihi renun- 
-tiandum est, latine mihi renunties volo. 
+P. Videsis, obeas sedulo. Quidquid mihi renuntiandum est, latine mihi renunties volo. 
 
 Th. Dabo operam. 
 
@@ -24635,12 +23654,10 @@ Bal. Venitne ad scholam Claudius a Kempis I
 Th. Sic existimo. 
 
 Bal. Habeo, quod illi verbo significem : rogo 
-Magistrum ne gravetur potestatem illi fa- 
-cere egrediendi tantisper schola. 
+Magistrum ne gravetur potestatem illi facere egrediendi tantisper schola. 
 
 Th. Faciam: tu hie interim siste, dum rediero. — 
-Reverende Pater, est pro foribus adoles- 
-cens: cupit verbo agere cum Claudio a 
+Reverende Pater, est pro foribus adolescens: cupit verbo agere cum Claudio a 
 Kempis, si liceat per Eeverentiam vestram 
 ut is prodeat. 
 
@@ -24651,28 +23668,23 @@ Th. Claudi, Magister jubet te paucis absolvSre.
 
 CL E vestigio hie adero. 
 
-Th. Eeverende Pater, ^dituus desidSrat minis- 
-tros sacri. 
+Th. Eeverende Pater, ^dituus desidSrat ministros sacri. 
 
 P. Mittantur statuti in hanc diem et horam. Vise 
-ad januam, Theodore. Videris mihi sur- 
-daster, et tamen quis pephlit satis graviter 
+ad januam, Theodore. Videris mihi surdaster, et tamen quis pephlit satis graviter 
 fores. 
 
 
 
 
 
-Th. Adest, Keverende pater, ^ ex tertia classe nes- 
-cio quis. 
+Th. Adest, Keverende pater, ^ ex tertia classe nescio quis. 
 
 P. Qua de causa inter pell at nos? 
 
-Th, Rogat ut lubeat Eeverentise vestrse interro- 
-gare ex discipulis, num quis per plnteam 
+Th, Rogat ut lubeat Eeverentise vestrse interrogare ex discipulis, num quis per plnteam 
 repergrit Epistolas Ciceronis; num cui pilei 
-redimiciilum exciderit: pr?eterea an cor- 
-neam bane calamdrum thecam quispiam 
+redimiciilum exciderit: pr?eterea an corneam bane calamdrum thecam quispiam 
 amiserit. 
 
 Pr. Quisquamne amisit? Renuntia nemmem 
@@ -24681,13 +23693,11 @@ amisisse.
 
 Tk Habe tibi merces tuas: nihil harum ad 
 grammaticos pertinet. Professor rhetoricus 
-evocat Reverentiam vestram, nisi incommo- 
-dum est : habet quod verbo communicet. 
+evocat Reverentiam vestram, nisi incommodum est : habet quod verbo communicet. 
 
 Pr. Refer illi jamjara me futurum. 
 
-Th. Mox adfirit Prseceptor, dictate scribendi ar- 
-gumento ; restant paucula. Quid hoc rei? 
+Th. Mox adfirit Prseceptor, dictate scribendi argumento ; restant paucula. Quid hoc rei? 
 nullus est fores pulsandi modus : identidem 
 interpellor. 
 
@@ -24699,8 +23709,7 @@ Bened.. An mihi non liceat ilium allbqui?
 
 Th. Nescio an illi prodTre sit integrum. 
 
-Bened. Obs6cro te ut illi nun ties me hie pro fori- 
-bus consistere. 
+Bened. Obs6cro te ut illi nun ties me hie pro foribus consistere. 
 
 Th. Quern virum? 
 
@@ -24710,18 +23719,15 @@ Th. Reverende Domine, placetne prodire foras?
 
 Pr. Quis me vult? 
 
-Th. Vir est gravis et honestus: venit excusatu- 
-rus filium de absentia. 
+Th. Vir est gravis et honestus: venit excusaturus filium de absentia. 
 
 
 Dialogues, 
 Pr, Nosti ilium de facie? 
 
-Th. Non, verum de nomine: nam se ait paren- 
-tem Roderici. Heus, Ambrosi, occlud^ris 
+Th. Non, verum de nomine: nam se ait parentem Roderici. Heus, Ambrosi, occlud^ris 
 ostium ingrediens in scliolam : audin? Non 
-lubet mihi assiduo surgere, scribendo im- 
-pedior. — Ut quid januam pulsasti, Paule, 
+lubet mihi assiduo surgere, scribendo impedior. — Ut quid januam pulsasti, Paule, 
 quasi externus, esses quin recta introibas? 
 familifiris es. 
 
@@ -24729,8 +23735,7 @@ Pau. Qui poteram? Januse sera erat obdita.
 
 Th. Non erat, sed pessulus modo. 
 
-Pau. Ansam vidi, qua attrahatur janua, non pes- 
-siilum. 
+Pau. Ansam vidi, qua attrahatur janua, non pessiilum. 
 
 Th. Eadem est ansa et pessuli clavis. 
 
@@ -24752,11 +23757,9 @@ Van Torre, s.j.
 
 Michael, Angdus, etc. 
 
-M. Frustra, Angele, tuum pensum in schola ab- 
-solvis: non adrnittam. 
+M. Frustra, Angele, tuum pensum in schola absolvis: non adrnittam. 
 
-A. Rogavi te domi tuse quid mihi scribendum es- 
-set : gravatus es schedulam inspicere. 
+A. Rogavi te domi tuse quid mihi scribendum esset : gravatus es schedulam inspicere. 
 
 il/. Prseceptor diserte singiilos admonuit*: quin 
 attendisti? 
@@ -24778,8 +23781,7 @@ ego in discrimen castigandi veniam.
 Nihil periculi est: de te suspicio Magistro non 
 incidet. Bonae lidei haberis. 
 
-Praestabo igitur Magistro fidem, et defSram ca- 
-ruisse te penso. 
+Praestabo igitur Magistro fidem, et defSram caruisse te penso. 
 
 Odio dignus es cum rigdre. 
 
@@ -24809,12 +23811,10 @@ Magistri Bheto rices.
 
 Quid illi praestitSras obsequii? 
 
-Latino utebar et urbano sermone, cum pe- 
-tgrem immunitatem : hoc illi placuit. 
+Latino utebar et urbano sermone, cum petgrem immunitatem : hoc illi placuit. 
 
 M, Gratidsus es. — Hem, Simon, pensum mihi in 
-manus inseris aliud pro alio. Debebas ver- 
-tere epistdlam tertiam et verbum de verbo 
+manus inseris aliud pro alio. Debebas vertere epistdlam tertiam et verbum de verbo 
 expressum efFerre vernacule. 
 
 S. Nuper mihi Magister hoc pensum reddidit, 
@@ -24846,8 +23846,7 @@ J, Quid dabis?
 
 31. Denos globiilos. 
 
-J, Denos? scilicet. Non, si millenos dares, frau- 
-dem banc commis^ro. 
+J, Denos? scilicet. Non, si millenos dares, fraudem banc commis^ro. 
 
 31. Quam fraudem dicis? Non veni tarde. Satis 
 adhuc tempSris est ad recitandum. 
@@ -24867,8 +23866,7 @@ debeo.
 
 3f. Cave facias ; nam joco dicebam. 
 
-J. Joco autem? Non is sum qui sic impune ri- 
-dear. 
+J. Joco autem? Non is sum qui sic impune ridear. 
 
 31. Veniam posco ; dixisse pcenitet. 
 
@@ -24879,8 +23877,7 @@ J. Serione pcenitet?
 
 M. Serio ac sincere profecto. 
 
-J. Age : me tui misSret, jam recita ; tenesne Ci- 
-ceronem? 
+J. Age : me tui misSret, jam recita ; tenesne Ciceronem? 
 
 M. Teneo satis: primam mihi vocem indica. 
 
@@ -24889,8 +23886,7 @@ J. Prima vox est Qaamquam,
 M. Deinde quid sequitur? 
 
 J. Vis, credo, singula ut tibi vocabula sugggram? 
-M. Da ergo mihi tantillum temporis ad cogitan- 
-dum. 
+M. Da ergo mihi tantillum temporis ad cogitandum. 
 
 J, Scisne prseterita? 
 
@@ -24912,8 +23908,7 @@ volo dic6re.
 
 J. Quid illud est? 
 
-M. Est mihi turbo buxeus ; cerne quam concin- 
-nus: et est hsec pila, quam in sphferisterio 
+M. Est mihi turbo buxeus ; cerne quam concinnus: et est hsec pila, quam in sphferisterio 
 subripui nuper : utrumque dabo, si nullam 
 de me mentionem feceris. 
 
@@ -24933,8 +23928,7 @@ Lam. Kedde pi-selectionem memoriter, Ludovice.
 Lud. Paulisper expecta, dum relegfiro. 
 
 Lam. Non patior moras: examinandos habeo 
-plures, et dudum sonuit signum secun- 
-dum : age, incipe. 
+plures, et dudum sonuit signum secundum : age, incipe. 
 
 Lud. Unde vis exordiar? 
 
@@ -24974,14 +23968,12 @@ Lud. Absolvi ; nonne accurate reddidi?
 
 Lamb. Sic satis. Etiam scriptionem tuam prefer. 
 
-Lud. Paulo post ad me redi: interea subscrip- 
-. sero meum et aemuli mei nomen. 
+Lud. Paulo post ad me redi: interea subscrip. sero meum et aemuli mei nomen. 
 
 
 
 
-Lamb. Hoc domi factum oportuit. Quid me rno- 
-raris? 
+Lamb. Hoc domi factum oportuit. Quid me rnoraris? 
 
 Lud. Importunus es exactor : habe tibi. 
 
@@ -24991,8 +23983,7 @@ adversariis.
 Lud. Sane de sedulo decuridnis nobis prospectum 
 est ; non connives. 
 
-Lamb. Nolim ego pro te poenas dare, si deprehen- 
-dar dissimulasse. 
+Lamb. Nolim ego pro te poenas dare, si deprehendar dissimulasse. 
 
 Lud. Non ita in amicos tuos es rigidus censor. 
 Ego te novi, quam mihi parum faveas. 
@@ -25007,8 +23998,7 @@ Van Torre, s. j.
 
 14, — Censura Variarum Culparum. 
 
-Ludimagister, Adolphus, Basilius, Genesius, Jus- 
-tinusy MarcianuSy Quirinus. 
+Ludimagister, Adolphus, Basilius, Genesius, Justinusy MarcianuSy Quirinus. 
 
 L. Quis orationem recitavit? 
 
@@ -25028,9 +24018,7 @@ singulas.
 
 
 Dialogues, 
-L. Vera sunt ha?c omnia. In poenam autem tan- 
-tae negligentiae munus ei recitandae oratio- 
-nis auftro et in te transfero. 
+L. Vera sunt ha?c omnia. In poenam autem tantae negligentiae munus ei recitandae orationis auftro et in te transfero. 
 
 B. Multas habeo, agoque gratias. 
 
@@ -25042,19 +24030,15 @@ G. Alter ego sum, Domine.
 
 J. Et ego alter. 
 
-L, Ede tu prior, GenSsi, quae notasti, et singulo- 
-rum nomina. 
+L, Ede tu prior, GenSsi, quae notasti, et singulorum nomina. 
 
-G. Gaius sedebat, cum debuisset flex is esse geni- 
-bus: Paulus tecto erat capite: Lucas pi- 
-leum non plane detraxgrat, sed in alteram 
+G. Gaius sedebat, cum debuisset flex is esse genibus: Paulus tecto erat capite: Lucas pileum non plane detraxgrat, sed in alteram 
 depress^rat aurem. Ludovicus scribebat 
 nescio quid ; Claudius legebat chartam. 
 
 L, Tu vero, Justine, quid observasti? 
 
-J, Alpheus garriebat cum socio ; Drusus adride- 
-bat nescio cui; Celsus circumspiciebat in 
+J, Alpheus garriebat cum socio ; Drusus adridebat nescio cui; Celsus circumspiciebat in 
 omnem partem. Marcus digitorum pulsu 
 tympanotribam agitabat; Hugo et Otho, 
 pugnis pedibusque se mutuo impetebant. 
@@ -25074,8 +24058,7 @@ indicem : omnes attentissime audiant.
 
 M, Quispiam hodie mane, e lecto ubi desiluit, 
 
-diductis brachiis corpus pandebat, et hor- 
-sum illorsum contorquebat valde indecore. 
+diductis brachiis corpus pandebat, et horsum illorsum contorquebat valde indecore. 
 
 
 
@@ -25095,42 +24078,34 @@ L. Valde indec5rum est hoc ultimum; liabet
 enim id tedii significantionem, aut parum 
 comis observantiie in e^s quibuscum agunt. 
 
-G. At enim, si continere te non potes quin os- 
-cites. 
+G. At enim, si continere te non potes quin oscites. 
 
 L. Turn vero cavendum ne patulo ore hiscas, sed 
 pressandum illud modeste, seu objecta manu, 
-seu sudariolo, vultu ab circumstantium oc- 
-iilis modice averse. 
+seu sudariolo, vultu ab circumstantium ociilis modice averse. 
 
 3f. Novi unum quernpiara, qui quoties nares 
-emungit, naso personat ; deinde quod elicu- 
-erit, in sudariolo respectat, quod item facit, 
+emungit, naso personat ; deinde quod elicuerit, in sudariolo respectat, quod item facit, 
 postquam respuit. 
 
 L. Foedum imprimis illud est. Sputa pedum 
 pressu illico confundenda et obterenda sunt. 
 
-31. Vidi qui de fenestra in subjectam viam des- 
-puerent. Alii procul exscreant, quasi ja- 
-culo emisso, alii despuunt in focum. 
+31. Vidi qui de fenestra in subjectam viam despuerent. Alii procul exscreant, quasi jaculo emisso, alii despuunt in focum. 
 
 Jj. Illud omne contra decorum est. 
 
-31. De iis qui hie adsunt unus est qui, meo qui- 
-dem judicio, foedius peccat; consulto tamen 
+31. De iis qui hie adsunt unus est qui, meo quidem judicio, foedius peccat; consulto tamen 
 peccare ilium, vix credo: nimirum quos 
 
 alloquitur nonnunquam saliva compluit. 
 
-L. Certum est, id peccari aliquando ; quod ne ac- 
-cidat, nulli te in os propius offeres, sed justo 
+L. Certum est, id peccari aliquando ; quod ne accidat, nulli te in os propius offeres, sed justo 
 ex intervallo colloqueris. 
 
 
 Dialogues. 
-M, Istud autem committitur passim : multi videli- 
-cet, dum sedent, crus cruri, aut pedem pedi, 
+M, Istud autem committitur passim : multi videlicet, dum sedent, crus cruri, aut pedem pedi, 
 invenuste superponunt. 
 
 L. Id non decet. 
@@ -25138,8 +24113,7 @@ L. Id non decet.
 M. Sunt qui digitos articulatim distendunt cum 
 
 crepitu. Nonnulli, aliis intuentibus, digitis 
-nasum converrunt, et ungues subsecant pa- 
-lam, aut dentibus demordent, aut foedum in 
+nasum converrunt, et ungues subsecant palam, aut dentibus demordent, aut foedum in 
 modum sinunt excrescSre. 
 
 L. Res nice omnes sunt invenustje. 
@@ -25216,13 +24190,11 @@ Paul Non bene latinum est.
 Petrus. Die pure et emendate. 
 
 Paul. Queerere aliquid ex aliquo; interrogare ah 
-aliquo; scistari ex aliquo queestionem, sen- 
-tenliam. 
+aliquo; scistari ex aliquo queestionem, sentenliam. 
 
 Petrus. Eecte dictum. Interrdga vicissim. 
 
-Paul. DeclTna aliquis per omnia genera. Igno- 
-rasne? 
+Paul. DeclTna aliquis per omnia genera. Ignorasne? 
 
 Petrus, Non ignore. — Nominal. : aliquis, aliqua... 
 Accusat. : aliquem, aliquod vel aliquid. 
@@ -25236,23 +24208,20 @@ Age, prosequere, absolve quod restat.
 
 Petrus. Vocative... ablative, etc... Nunc mefe sunt 
 rogandi vices: quomSdo conjugatur fio 
-in future prseterito mixto? Nescis? Cu- 
-pisdoceri? 
+in future prseterito mixto? Nescis? Cupisdoceri? 
 
 
 Dialogues, 
 Paul, Paulisper expecta... Factum, factum esse 
 vet fnissp, 
 
-Petrus, Constas tibi? Constas? Vis corrigi? Li- 
-cetne iit corrigam interrogationeni? 
+Petrus, Constas tibi? Constas? Vis corrigi? Licetne iit corrigam interrogationeni? 
 
 Paul, Emenda, si potes. 
 
 Petrus, Faciendiimy faciendam esse, etc. 
 
-Paul. Responde porro et tii aliquid. Qua rati- 
-one inflectitur Fo in praesenti temp6re 
+Paul. Responde porro et tii aliquid. Qua ratione inflectitur Fo in praesenti temp6re 
 participii? 
 
 Petrus, lenSy ientis, 
@@ -25295,8 +24264,7 @@ Petrus, Constantissirae... agSsis... corrige.
 
 Paul, Cometa est feminlni generis. 
 
-Petrus, Hem ! emendatorem nostrum I male cor- 
-rexit. Masculinum est. 
+Petrus, Hem ! emendatorem nostrum I male correxit. Masculinum est. 
 
 Paul, Per quam regulam id assSris? Praeceptum 
 recita. 
@@ -25316,8 +24284,7 @@ Paul. Dictum opportuit : Veluti panthera, sagitta,
 
 Paul. Phui piget errati. 
 
-Petrus. Et crassi quidem: porro regulam prose- 
-quere. 
+Petrus. Et crassi quidem: porro regulam prosequere. 
 
 Paul. Hie mammoua petit. 
 
@@ -25365,8 +24332,7 @@ principem; tu es homuncio de fsece plebis.
 
 J. Nihil refer t. 
 
-(7. Ititne vero, nihil refert? Qui jacent in sub- 
-selliis infimis, an possunt provocare illos 
+(7. Ititne vero, nihil refert? Qui jacent in subselliis infimis, an possunt provocare illos 
 qui soliis insident? 
 
 X. Potestatem illi facio istam. Noli detrectare 
@@ -25376,8 +24342,7 @@ tibi nota ignavise.
 C. Mihi nota ignavise? Scilicet. En ; age, prsesto 
 sum, incipe. 
 
-L. Vos cens5res, officio accurate fungimmi. Agi- 
-tur enim et dignitas loci principis et honos 
+L. Vos cens5res, officio accurate fungimmi. Agitur enim et dignitas loci principis et honos 
 totlu 5 Provincise. 
 
 C. Notate; a signo Crucis non est auspicatus. 
@@ -25408,9 +24373,7 @@ lapsus sum.
 
 C. Imo plus quam decies offendisti. 
 
-J. O mendacissirnum nebulonem I Ubmam hjesi- 
-tavi! Quandonam me coarguisti, aut sug- 
-gessisti quod non occur rebat. 
+J. O mendacissirnum nebulonem I Ubmam hjesitavi! Quandonam me coarguisti, aut suggessisti quod non occur rebat. 
 
 L. Ita est ; sine ulla prorsus prolapsidne recitavit. 
 
@@ -25448,8 +24411,7 @@ C. Falleris; plura non habemus addiscenda.
 
 J, Esto sane, at uter vicit? 
 
-L. Quid quseris? Satis patet, te victdrem, vic- 
-tum ilium discedere a certamme. 
+L. Quid quseris? Satis patet, te victdrem, victum ilium discedere a certamme. 
 
 C. Super! ! vestram fidem ! 
 
@@ -25463,8 +24425,7 @@ CONJUGATIO.
 
 EliaSj Arnoldus, 
 
-E, Demus finem huic collocutioni temperius : ex- 
-templo coram aderit Prseceptor, exacturus 
+E, Demus finem huic collocutioni temperius : extemplo coram aderit Prseceptor, exacturus 
 quae heri reddenda imposuit. 
 
 A, Quid ergo facto opus est? 
@@ -25516,8 +24477,7 @@ E. Da superlativum.
 
 A. BenignissimtLSj benignissima, benignusimum. 
 
-E. Jam tu interrdga me de verbo quod conjugan- 
-dum erat. 
+E. Jam tu interrdga me de verbo quod conjugandum erat. 
 
 A. Commendo erat. 
 
@@ -25530,12 +24490,9 @@ E. Nihilo minus interrSga.
 
 A. Indicative prsesenti? 
 
-E. Commendo, commendas, commendat. Plural! nu- 
-mSro: commendamus, commendatis, commen- 
-dant. 
+E. Commendo, commendas, commendat. Plural! numSro: commendamus, commendatis, commendant. 
 
-A. Pro certo credo te numquam lapsurum. Ve- 
-rum haec facilia sunt : si anomala inflectSre 
+A. Pro certo credo te numquam lapsurum. Verum haec facilia sunt : si anomala inflectSre 
 et conjugare jussgrit, turn sudabimus. 
 
 
@@ -25543,11 +24500,9 @@ et conjugare jussgrit, turn sudabimus.
 
 E. Id forsitan hodie futurum est. Profecto cum 
 conjugarem nudiustertius Odi, multum id 
-verbi oderain : quia turn sit defectivum faci- 
-ebat ut deficSrem. 
+verbi oderain : quia turn sit defectivum faciebat ut deficSrem. 
 
-A, Recordaris, opinor, quemadmodum me vexa- 
-bant infelicia heteroclita et comparationes 
+A, Recordaris, opinor, quemadmodum me vexabant infelicia heteroclita et comparationes 
 anomalse. 
 
 E, Si... auditur horologium : tussit, screat ante ja^ 
@@ -25565,8 +24520,7 @@ didit, cum vos puerorumflosculi ante alios
 omnes hue intro pedem infertis. Quinam 
 cum prima luce potuistis expergisci? 
 
-C. Mandate matris famula nostra in dies me ex- 
-
+C. Mandate matris famula nostra in dies me ex
 pergefacit, quanquam hodie maturius praeter 
 morem. 
 
@@ -25578,8 +24532,7 @@ D. Ego etiam, Praeceptor.
 
 M. Res difficilis ad credendum : pueri quippe, 
 
-quibus sopore nihil est amicius, nihil dul- 
-cius, pro more non habent ultro ac per se de 
+quibus sopore nihil est amicius, nihil dulcius, pro more non habent ultro ac per se de 
 strato surgere. 
 
 P. Certe surgo, expergefactus a nemine. 
@@ -25591,8 +24544,7 @@ a Ita.
 Dialogues, 
 L. Dum ofFa coquitur, visum est nimis longum ; 
 
-quapropter relicto jentaculo hue appro- 
-peravi quam maturissime. 
+quapropter relicto jentaculo hue approperavi quam maturissime. 
 
 M. Pulchrum in hac setatfila facinus. Quid si ego 
 
@@ -25613,18 +24565,14 @@ C. Eia, quseso.
 M, Libgri, si prompte et nunquam intersistendo 
 
 recitaveris, quae heri nomma tibi ediscenda 
-praescripseram, ecce pictam imaginem prae- 
-mio tolles. 
+praescripseram, ecce pictam imaginem praemio tolles. 
 
-D, Ego quidem nomina mea teneo, ut qui perfec- 
-
+D, Ego quidem nomina mea teneo, ut qui perfec
 tissime. 
 
 C. Ego, ego mea referam memoriter. 
 
-M. Liberius esto primus: eum si memoria fefel- 
-l6rit, turn vos duo de istoc honor ario in cer- 
-tamen venietis. Sed cujus ordinis sunt tuae 
+M. Liberius esto primus: eum si memoria fefell6rit, turn vos duo de istoc honor ario in certamen venietis. Sed cujus ordinis sunt tuae 
 voces? 
 
 L, Kerum Ccelestium. 
@@ -25639,12 +24587,9 @@ Z). Dignitatum functionumque civilium.
 
 31. Incipe. 
 
-L. Deus Pater, Deus Filius, Deus Spiritus Sanc- 
-tus^ Sacrosancta Trinitas, sive Trias, Nu- 
-men, Divinitas, Creator, Salvator, Servator, 
+L. Deus Pater, Deus Filius, Deus Spiritus Sanctus^ Sacrosancta Trinitas, sive Trias, Numen, Divinitas, Creator, Salvator, Servator, 
 Dei Mater, Deipara Virgo, Dei genitrix, 
-Coelites, Ccelicolae, Divi, Sancti, Bead, An- 
-
+Coelites, Ccelicolae, Divi, Sancti, Bead, An
 
 
 
@@ -25674,9 +24619,7 @@ tua.
 
 Quid erit prsemii? 
 
-Si omnia, et ea serie qua se consequuntur red- 
-das, erit quod dem tibi : non omnes obtine- 
-bit effigies Liberius : sin perperam, neque 
+Si omnia, et ea serie qua se consequuntur reddas, erit quod dem tibi : non omnes obtinebit effigies Liberius : sin perperam, neque 
 indonatus abibis. 
 
 Pontifex Maximus, Patriarcha, Cardinalis, 
@@ -25684,8 +24627,7 @@ Archiepisc5pus, Episc5pus, Praesul.
 
 Quid liseres?... Antistes, Abbas. 
 
-Antistes, Abbas, Coenobiarcha, MonSchus, Con- 
-cionator, Ecclesiastes. 
+Antistes, Abbas, Coenobiarcha, MonSchus, Concionator, Ecclesiastes. 
 
 Quae est vis Ecclesiastae. 
 
@@ -25707,11 +24649,9 @@ CaetSra ubi sunt?
 Dialogues. 
 C. Non jussisti plura. 
 
-M, Hand recitasti ut cupiebam. Tu melius, Do- 
-nate. 
+M, Hand recitasti ut cupiebam. Tu melius, Donate. 
 
-D. Imperator, Imperatrix, Eex, Regina, Mon- 
-
+D. Imperator, Imperatrix, Eex, Regina, Mon
 arclia, Princeps, Dux, Comes, Baro, Dynasta, 
 Heros, Herolna, sive Herois; Prsefectus a 
 cubiculis, a pedibus, a poculis; Apparitor. 
@@ -25723,9 +24663,7 @@ M. Cape has imagines premium consecutus.
 
 Z>. Ut praecipis. 
 
-M. Sedete suo quisque loco, et quae adhuc prae- 
-scripsero, celeriter ac naviter nomina edis- 
-cite. 
+M. Sedete suo quisque loco, et quae adhuc praescripsero, celeriter ac naviter nomina ediscite. 
 
 L. Edam. 
 
@@ -25752,8 +24690,7 @@ A, Quaenarn ergo rectissime complexus es ammo?
 
 L Musicam. 
 
-A. Recense primo loco instrumentorum musico- 
-rum appellationes. Sed majus industriae 
+A. Recense primo loco instrumentorum musicorum appellationes. Sed majus industriae 
 
 
 
@@ -25780,11 +24717,9 @@ A. A triangular harp.
 
 I. Sambuca. 
 
-A, Immo sambuca, si rite audita recorder, signi- 
-ficat, elder tree. 
+A, Immo sambuca, si rite audita recorder, significat, elder tree. 
 
-I. Nequaquam : sambuci est ilia notio, non sam- 
-bucie. 
+I. Nequaquam : sambuci est ilia notio, non sambucie. 
 
 A. The how of a violin. 
 
@@ -25813,9 +24748,7 @@ I. Faciam in quibus potero, quorum meminero.
 
 A. Quod dedgris eo contentus ero. 
 
-I. Tympanista, citharsedus, chelys, seu xeAu<r ; dix- 
-it enim Magister ubjicienda Grseca, cum La- 
-tina desunt, quando innumera sint Gra>ca, 
+I. Tympanista, citharsedus, chelys, seu xeAu<r ; dixit enim Magister ubjicienda Grseca, cum Latina desunt, quando innumera sint Gra>ca, 
 qu3e Latina jam, velut usucapione putentur. 
 
 
@@ -25845,8 +24778,7 @@ Caet^ra tute, si voles, a magistris disciplinae
 hujus petas. 
 
 A, Polles memoria, lodoce, Obsonemus famem 
-parum inambulando, et de rebus ludicris ser- 
-mones seramus usque ad coenam: tantum 
+parum inambulando, et de rebus ludicris sermones seramus usque ad coenam: tantum 
 quippe spatii cessationis Magister indulsit. 
 
 PONTANUS, s. J. 
@@ -25876,8 +24808,7 @@ L. Totum, ad verbum.
 B, Qui tarn brevi spatio libellum paginarum 
 adeo non paucarum? 
 
-L. Diligentia quid non vincit? earn mihi sub- 
-sidio comparavi. 
+L. Diligentia quid non vincit? earn mihi subsidio comparavi. 
 
 B. Atqui nec ego segniter ad hoc ipsum incubui, 
 tamen vix dimidiatum comprehend! : itaque 
@@ -25885,11 +24816,9 @@ animo valde discrucior.
 
 L. Fortassis memoria non perinde vales. 
 
-B, Haec causa est, uti conjicio. Quando redde- 
-mus ex memoria? 
+B, Haec causa est, uti conjicio. Quando reddemus ex memoria? 
 
-L. Perendie ante meridiem. Ita jussit. Prse- 
-ceptor nobis renunciari. 
+L. Perendie ante meridiem. Ita jussit. Prseceptor nobis renunciari. 
 
 B, Interea discam plurima. 
 
@@ -25908,9 +24837,7 @@ intelligis, uti secundum ejus doctrinam
 vivas. 
 
 L. Vivam, Deo juvante. Et tu, quamvis non 
-teneas nihilommus decern prsecepta custo- 
-dire debes, et alia qua? ibi mandantur; com- 
-pertum et exploratum habeo. 
+teneas nihilommus decern prsecepta custodire debes, et alia qua? ibi mandantur; compertum et exploratum habeo. 
 
 Incitavit me quoque permultUm, genitor, qui 
 si scirem perfecte, non vile praemium mihi 
@@ -25927,8 +24854,7 @@ L. Satis honestum magnumque praemium.
 B, Quid tu expectas? 
 
 L. Praeter laudatiunctdam a Praeceptore nihil, si 
-scivSro ; praeter poenas similiter nihil, si ig- 
-noravSro. 
+scivSro ; praeter poenas similiter nihil, si ignoravSro. 
 
 B, Utriique merces sua mercede condigna est. 
 Sed vis te audiam prius, quam in gymnasio 
@@ -25963,11 +24889,9 @@ DIALOGUES.
 
 AntoniuSj Marcellus, 
 
-A, Securusne et timdre expeditus in sphseris- 
-terium vadis, Marcelle? 
+A, Securusne et timdre expeditus in sphseristerium vadis, Marcelle? 
 
-M. Quid tibi ista percunctatione vis? explican- 
-dum; non enim satis intelligo. 
+M. Quid tibi ista percunctatione vis? explicandum; non enim satis intelligo. 
 
 A, Fabor ergo apertius. Contexiiisti epistblam 
 quam a nobis hodie requTret Prseceptor? 
@@ -25976,16 +24900,13 @@ M. Contexui, et descriptam porto mecum.
 
 A, Prsecurrit alactritas tua meam tarditatem. 
 Quanquam baud ita pigritia me, ut cartse 
-penuria, qua premebar, remorata est fecit- 
-que ut meam non totam descripsSrim : 
+penuria, qua premebar, remorata est fecitque ut meam non totam descripsSrim : 
 serius quippe adeptus sum papyrum. 
 
 M, Quid acturus, si poposcerit? 
 
 A. Dum vestras emendat, interea quod reliquum 
-est nullo negotio describam. Hoc concessu- 
-rum mihi spes est, si quidem aliis alias con- 
-cessit. 
+est nullo negotio describam. Hoc concessurum mihi spes est, si quidem aliis alias concessit. 
 
 M. Ostende tuam scriptionem. 
 
@@ -25993,20 +24914,17 @@ A. Hem I
 
 
 Dialogues. 
-M. Quam fcede tu pingis litteras? galllnam scrip- 
-sisse arbitror. Quam item vacillant versus? 
+M. Quam fcede tu pingis litteras? galllnam scripsisse arbitror. Quam item vacillant versus? 
 
 A. Dumm5do legi queat scriptura, parvi duco 
-tristia sint, an Iseta, pulchra visu, an de- 
-formia elemental versus ad amussim nequeo 
+tristia sint, an Iseta, pulchra visu, an deformia elemental versus ad amussim nequeo 
 dirigSre, quantumvis coner. Atqui non tarn 
 valde utraque laude mihi ante stas. 
 
 M. Judicium caeci. 
 
 A. Aliter doceat me praeceptor, si ipsi displiceo, 
-cum istis illepidis invenustisque characteri- 
-bus. 
+cum istis illepidis invenustisque characteribus. 
 
 A. Abhorrent istae partes ab ejus munSre. 
 
@@ -26024,8 +24942,7 @@ efformant hguras istas.
 M, Dici aliter non potest, verum non idcirco sunt 
 docti: et tamen multi illoruin decenter. 
 
-A. Parentes mei (q uod vitiuni senectus affert) atten- 
-tiores sunt ad rem quam sat est; defraudant 
+A. Parentes mei (q uod vitiuni senectus affert) attentiores sunt ad rem quam sat est; defraudant 
 genium suum: vereor ut illis persuadeam. 
 
 M. Adhibe procuratorem Magistrum', cujus unum 
@@ -26037,8 +24954,7 @@ M. Cseterum, qu?e heri explicata sunt in Cicerone,
 si te forte nominaverit, poterisne repetSre? 
 
 A. Nisi ipsemet opituletur. parum bene : oblitus 
-enim sum quorumdam, et quern domi inter- 
-rogem, habeo, pr:eter pariStes, neminem. 
+enim sum quorumdam, et quern domi interrogem, habeo, pr:eter pariStes, neminem. 
 
 
 
@@ -26049,8 +24965,7 @@ M. Ha0renti subveniet. Ego insiiper, quoad ejus
 fac6re potuero, tibi opem feram. 
 
 A, Mi optime Marcelle, si)onden’ te mutuum esse 
-facturum mecum si in eodem Into hsesita- 
-vero? Si necessitudo postulavSrit. 
+facturum mecum si in eodem Into hsesitavero? Si necessitudo postulavSrit. 
 
 M. Spondeo firmiter. 
 
@@ -26096,26 +25011,22 @@ tardius venio.
 
 
 Dialogues, 
-Em, Quid si lijuic rationem tanquam commenti- 
-tiam repud iet? 
+Em, Quid si lijuic rationem tanquam commentitiam repud iet? 
 
 Eu, Fiducia est id minime facturum. Nam me 
 ab Imjuscemodi mendaciunculis temperare 
 non raro expertns didicit. 
 
 Em, Me miserum malique fati! quid confingam, 
-cum (ut hoc aestivum, et pomeridianum tern- 
-pus etiam magno natu homines invitare 
+cum (ut hoc aestivum, et pomeridianum ternpus etiam magno natu homines invitare 
 solet), somno captus obdormierim super 
 libros, in extreme sitae sunt fortunae meae, 
 nec quid agam certuni est. 
 
-Eu, Si rem ipsam ingenue confiteare, forsitan de- 
-licti gratiam faciet. Quid forsitan? certe 
+Eu, Si rem ipsam ingenue confiteare, forsitan delicti gratiam faciet. Quid forsitan? certe 
 faciet; exonera te metu. 
 
-Em, Obtemperabo bene monenti ; abstersisti m6- 
-tum. At enim ecce aliud mihi timorem 
+Em, Obtemperabo bene monenti ; abstersisti m6tum. At enim ecce aliud mihi timorem 
 objicit. 
 
 Eu. Aliud? die, quaeso. 
@@ -26128,12 +25039,10 @@ Eu, Alibi?
 Em. Quae memorller pronuncianda praescripsit 
 baud teneo absolute. 
 
-Eu. Suspicari fas est, non te inter primes interro- 
-gatum iri ; turn ego, qui secundus tibi sedeo, 
+Eu. Suspicari fas est, non te inter primes interrogatum iri ; turn ego, qui secundus tibi sedeo, 
 suggeram dissimulanter et fideliter. 
 
-Em. Id amabo, adjuva me. Summum tibi bene- 
-ficium debuero, hoc si perlectum dederis, 
+Em. Id amabo, adjuva me. Summum tibi beneficium debuero, hoc si perlectum dederis, 
 nam nunc spes opesque meae omnes in te 
 sunt sit;p. 
 
@@ -26167,28 +25076,21 @@ M, Perpaucos memoras.
 A, Peliqui ad unum omnes coram prsesentes 
 affuerunt. 
 
-M, Extra eos videlicet, qui munusciilis te elingua- 
-verunt. 
+M, Extra eos videlicet, qui munusciilis te elinguaverunt. 
 
 A, Hoc quidem alias cum tentarent nonnulli, 
 semper Austrum perculerunt. 
 
 M. Probatus es adolescens, et Magistro tuo fidelis. 
-Heus? prodite vos in medium repente, sta- 
-tim, sine mora, an nondum etiam? Confes- 
-tim, inquam, advolate. Quid babes, An- 
-toni, dicere ad excusandam absentiam? 
+Heus? prodite vos in medium repente, statim, sine mora, an nondum etiam? Confestim, inquam, advolate. Quid babes, Antoni, dicere ad excusandam absentiam? 
 
-A, Ingens quidam, et intolerabilis dolor occu- 
-paverat sinciput meum. Quocirca mihi in 
-mandatis dabat mater, extra sedes pedem us- 
-quam pongrem. 
+A, Ingens quidam, et intolerabilis dolor occupaverat sinciput meum. Quocirca mihi in 
+mandatis dabat mater, extra sedes pedem usquam pongrem. 
 
 M, Fabulne: Tibi ut credam? Non ego te novi? 
 
 A. Si verbis meis exigua apud te est fides, certum 
-liominem ad matrem et familiares indaga- 
-tum allega. 
+liominem ad matrem et familiares indagatum allega. 
 
 M. Logi. 
 
@@ -26198,22 +25100,18 @@ A, Hand secus reperies.
 Dialogues, 
 M. Somnium. Quasi vero tu, ut es callidus et 
 versipellis, hoc tuis non imposuisses, tibi 
-nimirum condolere caput. Btudebas ver- 
-berationem efiligere, quae propter segnitiem 
+nimirum condolere caput. Btudebas verberationem efiligere, quae propter segnitiem 
 te manebat. 
 
 A. Neutiquam, Praeceptor; nonimposui profecto; 
 revera nihil finxi. 
 
-M. Poterone hodie verum ex isto pu6ro exscul- 
-pere? Cave mihi mendacii quidquam. 
+M. Poterone hodie verum ex isto pu6ro exsculpere? Cave mihi mendacii quidquam. 
 
 A, Vera loquor. Si aliter fuerit ac dixi, causae 
 nihil erit quin tibi dem poenas. 
 
-M. I sessum; rem ego nunc quidein in medio re- 
-linquam, Tu, bone Faber, quo negotio im- 
-plicatus tenebare? 
+M. I sessum; rem ego nunc quidein in medio relinquam, Tu, bone Faber, quo negotio implicatus tenebare? 
 
 J, Pater, quopiam profectus ad animum suum 
 relax andum remittendumque, me perduxit 
@@ -26221,8 +25119,7 @@ illuc secum.
 
 M, Quo profectus? 
 
-J. In villulam nostram, quae aliquot millia pas- 
-suum ab urbe distat. 
+J. In villulam nostram, quae aliquot millia passuum ab urbe distat. 
 
 M. Cur pridie a me copiam non petebas? ' 
 
@@ -26239,26 +25136,21 @@ portenta loqueris.
 J, Videre me somnum baud sinebat gratissimae 
 missionis exspectatio. 
 
-M, Quin tu exoravgras patrem, ut hoc promit- 
-tfiret. 
+M, Quin tu exoravgras patrem, ut hoc promittfiret. 
 
 
 
 
-J. Factum est ut, patre secundo, villam amoenis- 
-simam petivgrim, ibique animiim studiorum 
-perpetuitate, fatigatum triduo isto instau- 
-ravSrim. Proinde, amabo, mi Pra:cex)tor, 
+J. Factum est ut, patre secundo, villam amoenissimam petivgrim, ibique animiim studiorum 
+perpetuitate, fatigatum triduo isto instauravSrim. Proinde, amabo, mi Pra:cex)tor, 
 parce ultra quserere ; quandoquidem te clam 
 non est, quanto me opere schola delectet, 
 nusquam ut sim libentius. 
 
 M. Qui tibi incessit metus poenarum insolitus, hie 
 de improvise oratorem te reddidit. Nunc 
-condonabitur erratum. Posthac nisi quo- 
-quo modo de absentia certiorem me feceris, 
-verberibus te caedam, ut si in pistrino mclS- 
-res, Percepisti? 
+condonabitur erratum. Posthac nisi quoquo modo de absentia certiorem me feceris, 
+verberibus te caedam, ut si in pistrino mclSres, Percepisti? 
 
 J, Planissime. 
 
@@ -26278,14 +25170,10 @@ mendacii teneo.
 
 Mar. Ast mihi ocenrrebat heri dies Jovis. 
 
-M. Ast ego faxo tibi hodie poena occurrat. Lepi- 
-dum capitulum. Tene errare in isto nego- 
-tio tarn antique, tarn note, tarn vulgato? 
+M. Ast ego faxo tibi hodie poena occurrat. Lepidum capitulum. Tene errare in isto negotio tarn antique, tarn note, tarn vulgato? 
 Quamobrem autem horis antemeridianis 
-saltern non comparuisti in hoc loco? Prae- 
-texis culpam hoc figmento; non fit mihi 
-verisimile quod ais. Illi, illi sodales et con- 
-
+saltern non comparuisti in hoc loco? Praetexis culpam hoc figmento; non fit mihi 
+verisimile quod ais. Illi, illi sodales et con
 
 Dialogues. 
 gerrones tui aliquo te ambuliltum, aut lusum 
@@ -26304,13 +25192,10 @@ Benedictus, Augustus.
 
 B. Multdrura dierum intervallo non te vidimus 
 in Gymnasio, Augustine; nec tamen fuit, 
-quod miratus sum vehementer, cum Prse- 
-ceptor te requireret, aut mittSret qui ubi 
-esses, et quid ageres investigaret. Cur abfu- 
-isti? 
+quod miratus sum vehementer, cum Prseceptor te requireret, aut mittSret qui ubi 
+esses, et quid ageres investigaret. Cur abfuisti? 
 
-A. Male me habebam ; idque ut ne lateret Magis- 
-
+A. Male me habebam ; idque ut ne lateret Magis
 trum curavi, quo bona cum ejus venia, et 
 tut® abesse liceret. 
 
@@ -26324,8 +25209,7 @@ B. Quandiu segrotasti?
 
 A. Quandiu me in schola non conspexisti. 
 
-B. Hand equidem recorder quantum temp5ris ab- 
-
+B. Hand equidem recorder quantum temp5ris ab
 bierit. 
 
 A. Dies compluschli, undeviginti omnino. 
@@ -26342,16 +25226,12 @@ B. Quo medicamento ei subvenisti?
 A. Inedia prope sola, qua, maximos quosque mor-' 
 
 bos, et gravissimos depelli solere, aiebat. 
-Magister auctores in mediclna claros et no- 
-biles asserere. Vacuus mihi venter crepi- 
-tare, ego flocci pendere. 
+Magister auctores in mediclna claros et nobiles asserere. Vacuus mihi venter crepitare, ego flocci pendere. 
 
-B. Facili negotio consequere, quae interim prse- 
-
+B. Facili negotio consequere, quae interim prse
 cepta nobilis dictata et explicata sunt. 
 
-A. Sic mihi persuasi: et in earn rem si non recii- 
-
+A. Sic mihi persuasi: et in earn rem si non recii
 sas, utar tuis suppeliis. 
 
 B. Kepetam tibi omnia, et rectissimis tuis atque 
@@ -26359,8 +25239,7 @@ B. Kepetam tibi omnia, et rectissimis tuis atque
 optimis studiis non gravate, obsequar. Quan-= 
 do te rediturum censes? 
 
-A. Secundum Natalia Domini. At tu quid va- 
-
+A. Secundum Natalia Domini. At tu quid va
 garis? Cur non es in ludo? 
 
 B, Eram in itinere cum libris : ecce tibi, pompa 
@@ -26368,16 +25247,14 @@ B, Eram in itinere cum libris : ecce tibi, pompa
 procedit ferentium instrumenta pugilatus. 
 Ego illos sequi in aulam curiae: ibi ludicrum 
 illud certamen certantes spectavi voluptate 
-mirifica. Nam ubi aetas maturuSrit, eam- 
-dem artem addiscere cogito : quandoquidem 
+mirifica. Nam ubi aetas maturuSrit, eamdem artem addiscere cogito : quandoquidem 
 disciplinis liberalibus non est aliena. Novi 
 per plures litteratos eosdemque pugiles non 
 spernendos. 
 
 A. Crastina luce quam expurgationem habebis? 
 
-B. Intendenda erit aliqua fallacia, quae me virga- 
-
+B. Intendenda erit aliqua fallacia, quae me virga
 rum periculo eximat: nox dabit consilium. 
 Simendacium dixero,solensmeomorefecero. 
 
@@ -26424,8 +25301,7 @@ libellos meos colligSrem, hunc non inveni.
 U, Qufiesivistine apud viclnos? 
 
 O. Ac diligentissime. Respondent omnes se esse 
-extra noxiam, ne habere, nec scire quis ha- 
-beat. 
+extra noxiam, ne habere, nec scire quis habeat. 
 
 U, Non tu illico ad Prfeceptorem? 
 
@@ -26455,8 +25331,7 @@ malo mihi dent malum.
 
 U. Juvabo te in quseritando Emmanuele tuo ; si 
 non in veneris est mihi ali quanto tritius hoc 
-ipso exemplar ejusdem, id dabo tibi pro- 
-prium. 
+ipso exemplar ejusdem, id dabo tibi proprium. 
 
 O. Si non simulate promittis, porrige dextSram. 
 
@@ -26467,8 +25342,7 @@ ex corde excessit.
 
 U. Lsetus sum quod te tranquillavi. Yse illi, qui 
 se hujus furti astrinxit: nam et librum 
-minime retinebit, et uberius quam tu plo- 
-rabit. 
+minime retinebit, et uberius quam tu plorabit. 
 
 0. Furem hunc mihi dari in conspectum gestio : 
 coram in os laudarem ipsum, et capillos 
@@ -26498,8 +25372,7 @@ H. JSTec me Bibliopegus erudivit.
 
 Cl^Attilinen, quasi eruditus eleganter id facis. 
 
-H. Si cui optime placet, ei optime facio. Com- 
-plicastine jam cliartas tuas? 
+H. Si cui optime placet, ei optime facio. Complicastine jam cliartas tuas? 
 
 C. Max line, iste sunt. 
 
@@ -26512,23 +25385,18 @@ diuturnius.
 
 C. Hens, pu6ri, quis secum afFert seram? 
 
-H. In meo sacculo quBeram. Aliquid certe, re- 
-perio, cerani candidam ; commodissima est 
-huic rei; nuper mihi hoc frustillum dona- 
-vit sedituus ad tales usus. Tu porro atten- 
-tus aspice me suentem, et artem disce, quo 
+H. In meo sacculo quBeram. Aliquid certe, reperio, cerani candidam ; commodissima est 
+huic rei; nuper mihi hoc frustillum donavit sedituus ad tales usus. Tu porro attentus aspice me suentem, et artem disce, quo 
 posthac aliena opera indigeas. 
 
 0. Aspicio intentis oculis. 
 
 H. Ecce quemadmodum chartam cbartae arctius 
-conjungo, ut spatium inter illas nullum in- 
-tercedat. 
+conjungo, ut spatium inter illas nullum intercedat. 
 
 Video. 
 
-Item quemadmodum supra et infra sunt aequa- 
-les inter se ; nulla prominet. 
+Item quemadmodum supra et infra sunt aequales inter se ; nulla prominet. 
 
 Apte, artificiose. 
 
@@ -26543,16 +25411,14 @@ Nodi parvi, et intus omnes.
 
 Sane. 
 
-Nunc tu cultellum accipSsis, partesque char- 
-tarum superiores caute scindendo ap6ri. 
+Nunc tu cultellum accipSsis, partesque chartarum superiores caute scindendo ap6ri. 
 
 
 
 
 C, Pro ista opera referetur gratia tibi, mi Hugo. 
 H. Satis gratiarum retulSris, si me amavgris, et 
-majdre quadam cura et alacritate quam hu- 
-cusque didicer is. 
+majdre quadam cura et alacritate quam hucusque didicer is. 
 
 C. Utrumque prsestiturum tibi recipio. 
 
@@ -26571,8 +25437,7 @@ mutuos.
 C, Thecam plenam apud te vidi. 
 
 P. Per somnium fortassis. Sed dicam uno verbo 
-rem totam : nullos habeo quos tu commoda- 
-tos retineas. 
+rem totam : nullos habeo quos tu commodatos retineas. 
 
 C, Quae tam mala mens in banc te suspicionem 
 impellit? tam perverse de me existimas? 
@@ -26622,14 +25487,12 @@ tibi nec cbartam esse bonam, nec calamos
 aptos. 
 
 B, Ab bis singulis fateor me inopem Cbarta nec 
-Candida multum, nec firma et plana, sed as- 
-pera, scabra, et pilis pravissimis plena, quos 
+Candida multum, nec firma et plana, sed aspera, scabra, et pilis pravissimis plena, quos 
 cum a calami crena detrabo, scis ipse quales 
 efFormentur litterse. Sed quod intolerabilius 
 mibi accidit, etiam perfluit, verum bsec 
 culpa sit atramenti potius, quod, cum esset 
-beri spissum valde, aqua nimia eflecit dilu- 
-tissimum et subalbidum. Calamos ad usum 
+beri spissum valde, aqua nimia eflecit dilutissimum et subalbidum. Calamos ad usum 
 accommodare cultello prorsus nescio; et te 
 etiam atque etiam vebementer rogo, ut banc 
 rem me doceas, si ipse scias. 
@@ -26643,19 +25506,14 @@ condiscipuli tui didicerunt magnam partem,
 B. Libera tu me ista ignorantia. 
 
 V, Ausculta igitur. Anserinte pennse sunt ad 
-scribendum imprimis appositse, iisque plu- 
-ries utimur, ac ssepius quam pavonum aut 
+scribendum imprimis appositse, iisque pluries utimur, ac ssepius quam pavonum aut 
 cygnorum, quarum illye nirais sunt durse, hse 
-nimis ampise quamquam diutius bonse per- 
-manent atque anserinse. 
+nimis ampise quamquam diutius bonse permanent atque anserinse. 
 
 B, Teneo. 
 
 V. Ex his ipsis anserinis mellores judicantur quae 
-sunt pellucidae, mediocriter durae, caule lon- 
-giore, ampliore, firmiore. Quae autem ha- 
-bent caulem brevem, angustum, et sunt ad- 
-modum durse, ut quae inhaerent extremae 
+sunt pellucidae, mediocriter durae, caule longiore, ampliore, firmiore. Quae autem habent caulem brevem, angustum, et sunt admodum durse, ut quae inhaerent extremae 
 alae, non probantur. 
 
 B. Jam noverim deligere pennas. 
@@ -26670,28 +25528,21 @@ latus est unguis auricularis digiti.
 
 B, Meminero. 
 
-V, Post haec in dorso crenam facies; id est cala- 
-mum cuspide cultelli, sivi extreme cultello 
+V, Post haec in dorso crenam facies; id est calamum cuspide cultelli, sivi extreme cultello 
 juste per medium scindes, sic ut fissio seu 
-incisura diametro dorsi pariter pene aequali- 
-terque respondeat. Turn ubi adhuc ali- 
-quantillum deorsum a fronte exsecueris, a 
-dextris et sinistris acu6re calamum, et mu- 
-cronem facere perges; seu aequabis duos illos 
+incisura diametro dorsi pariter pene aequaliterque respondeat. Turn ubi adhuc aliquantillum deorsum a fronte exsecueris, a 
+dextris et sinistris acu6re calamum, et mucronem facere perges; seu aequabis duos illos 
 
 
 Dialogues. 
 pedunctilos, sive crnscMa. Nunc me vide, 
-quom5do indita crena utrumque horum ab- 
-solvam. 
+quom5do indita crena utrumque horum absolvam. 
 
 B. Observe. 
 
 V. Rastellum hoc, quern mucronem antea vocavi, 
 temperatre gracilitatis esse debet, de quo 
-quanto plus abscideris, tanto habebis cala- 
-mum obtusiorem, et grandioribus notis du- 
-cendis aptiorem: dextra tamen pars, in 
+quanto plus abscideris, tanto habebis calamum obtusiorem, et grandioribus notis ducendis aptiorem: dextra tamen pars, in 
 quam calamus, dum scribimus, incumbit, 
 sit aliquanto altior sinistra, quod discrimen 
 adeo sit minutum, vix ut perspiciatur. Age, 
@@ -26704,13 +25555,11 @@ V. Tene pollice et medio digito, molliterque
 superpone indicem, sic ; ita minus vacillabit 
 manus, et firmius earn chartse imprimes. Sit 
 autem brachium usque ad cubitum libSrum, 
-dum scribis, et pondSre suo tabulae seu plu- 
-teo innitatur, tota autem manus auricular!. 
+dum scribis, et pondSre suo tabulae seu pluteo innitatur, tota autem manus auricular!. 
 Intuere me scribentem. 
 
 B. Imitabor ad unguem, et quibuscumque officiis 
-potSro, tuam erga me humanitatem aut ob- 
-ruam aut exaequabo. 
+potSro, tuam erga me humanitatem aut obruam aut exaequabo. 
 
 PONTANUS, s. J. 
 
@@ -26724,21 +25573,16 @@ pauxillum atramenti in vasciilum hoc
 
 304 Guide to Latm Conversation, 
 
-meum, ciijus linte51um pene exaruit, infun- 
-d6re de suo dignaretur. Si gossypium, aut 
-tomentum imposuissem, et calrimos intin- 
-gen do coiTupissem, jam pridem atramento 
-caruissem. Tu^ Zephyrine, quoniam cir- 
-cumfers atramentarium instar lampadis aut 
+meum, ciijus linte51um pene exaruit, infund6re de suo dignaretur. Si gossypium, aut 
+tomentum imposuissem, et calrimos intingen do coiTupissem, jam pridem atramento 
+caruissem. Tu^ Zephyrine, quoniam circumfers atramentarium instar lampadis aut 
 mortar ii vastum et amplum, ne deneges 
 mihi ad incitas redacto, quam submisse peto 
 stipe m seu eleemosynam. 
 
 Z, Vix quarta pars horoe prseteriit, cum alius 
 idem quoque me poposcit: et dedi. Nunc 
-si tibi similiter dedero, veniet tertius, de- 
-inde quartus, deinde quintus, et ita me ex- 
-armabitis omnlno, et mendicitatem mihi 
+si tibi similiter dedero, veniet tertius, deinde quartus, deinde quintus, et ita me exarmabitis omnlno, et mendicitatem mihi 
 afferetis. 
 
 S, Non venient, interpono fidem meam. 
@@ -26750,8 +25594,7 @@ atramentariolis madidissimos.
 
 Z. Quin aquam infundis? 
 
-S, Exeundum esse e schola currendumque ad fon- 
-tem in forum propter sex aut septem aquse 
+S, Exeundum esse e schola currendumque ad fontem in forum propter sex aut septem aquse 
 guttulas. 
 
 Z. Inspue. 
@@ -26759,17 +25602,14 @@ Z. Inspue.
 S, Linguam nimis siccam gero. Da si quid das, 
 et si vis dare bis, da cito semel. 
 
-Z. Aliam quercum exciite, aliunde exora quo in- 
-diges: atramentum hoc mihi coxi, non tibi. 
+Z. Aliam quercum exciite, aliunde exora quo indiges: atramentum hoc mihi coxi, non tibi. 
 
 S, Saltern da mutuum, si non vis gratuito, rem 
 tantillam. 
 
 Z, Pergin’ aures tundere? abi hinc. 
 
-S, Aliquando tu etiam egebis aliquo: turn acce- 
-dito ad Simplicium ; per pari referet. Spec- 
-
+S, Aliquando tu etiam egebis aliquo: turn accedito ad Simplicium ; per pari referet. Spec
 
 Dialogues, 
 tate hiijns Zephyrini inhumanitatem et 
@@ -26794,12 +25634,9 @@ confecit.
 J, Ubi poiTo ipse didicit ductus bosce bellissimos? 
 
 E, Semper bujus artibcii studiosus fuit et in 
-quemdam magistrum anno proximo superi- 
-ore incidit, qui Latinas, Grsecas, Germani- 
-cas pingebat excellentissime. 
+quemdam magistrum anno proximo superiore incidit, qui Latinas, Grsecas, Germanicas pingebat excellentissime. 
 
-Exemplar et prototypon quoddam mibi quo- 
-
+Exemplar et prototypon quoddam mibi quo
 . que datum est muneri ab amico : verum prse 
 tuo sordet. En. 
 
@@ -26826,8 +25663,7 @@ J, Ostende mihi tuam maniim.
 
 E, Ecce. 
 
-J. Quasdam formas propemSdum perfecte, quas- 
-dam non assequ6ris, quod pace dixerim tua. 
+J. Quasdam formas propemSdum perfecte, quasdam non assequ6ris, quod pace dixerim tua. 
 
 E. Paulatim et consuetudine imitandi ass^quar. 
 
@@ -26844,25 +25680,21 @@ seneis in cliartam essent impressse.
 
 J, Ipsa vero quae alphabeto subjecta est scrip tura, 
 quam ad lineam rectam sine linea directis 
-versibus! quam sequalibus sursum ac deor- 
-sum elementis I Unum te volo. 
+versibus! quam sequalibus sursum ac deorsum elementis I Unum te volo. 
 
 E, Vel decern. 
 
 J. Nonne tibi prsecepta dat pingendi, et lapsus 
 corrigit? 
 
-E. Certe: et nonnunquam sua manu meam tenen- 
-tem calamum comprebendit, atque alienis 
+E. Certe: et nonnunquam sua manu meam tenentem calamum comprebendit, atque alienis 
 digitis pingit, ut ego tractibus litterarum 
 bac ratione assuescam. 
 
-J, Inires a me non vulgarem gratiam, si ex- 
-emplum a fratre mibi curares. 
+J, Inires a me non vulgarem gratiam, si exemplum a fratre mibi curares. 
 
 E. Difficulter inducam. Nibilomlnus quoniam 
-te tanto studio pulcbre pingendorum cbar- 
-acterum ardere animadverto, curabo, ut voti 
+te tanto studio pulcbre pingendorum cbaracterum ardere animadverto, curabo, ut voti 
 compos fias. 
 
 J. Quotum intra diem polliceris daturum in 
@@ -26873,8 +25705,7 @@ E, Intra quartum.
 
 Dialogues. 
 J. Perlubenter gratissimum hoc donum tamdiu 
-expectfibo, cogitaboque interim quo te hono- 
-rario remungrer. 
+expectfibo, cogitaboque interim quo te honorario remungrer. 
 
 E. Sic habeto me gratuito hoc opSris non esse 
 facturum. 
@@ -26898,9 +25729,7 @@ C. Qui prills designant utroque tenentur.
 S. Ita prorsus existimo. V erum qui aliud, alibi 
 oculis curiose divagantur, pingunt animalia, 
 equites, stultos, libellos ineptos legunt, 
-chartas et scamna conscindunt, illi in pos- 
-teriore genere culpam castigabilem com- 
-mittunt. 
+chartas et scamna conscindunt, illi in posteriore genere culpam castigabilem committunt. 
 
 C. Vere dictum sentio et novi quorum ista est 
 consuetudo. 
@@ -26923,15 +25752,13 @@ S, Non semper.
 
 
 C, Quando eorum quae tu commemorasti allquid 
-ago, quasi si quid per transennam inspi- 
-cerem, et levi brachio id fit. 
+ago, quasi si quid per transennam inspicerem, et levi brachio id fit. 
 
 S. Ut elevat hie peccatum suum? 
 
 C, Haud elevo ; ut ioquor, ■ ita res. 
 
-S. Quin est quando sermunculos seris cum proxi- 
-mis. 
+S. Quin est quando sermunculos seris cum proximis. 
 
 C, Demiror tantum tibi esse otii a rebus tuis, ut 
 aliena cures. 
@@ -26944,8 +25771,7 @@ C. Vicissim te captabo.
 
 S. Capta, non capies tamen. Sed extra jocum : 
 desiste, si te amas, ab hujusmodi, virtutibus, 
-et noli cum te ipsum priviire tan tar um utili- 
-tatum fructu, turn alios impedlre. 
+et noli cum te ipsum priviire tan tar um utilitatum fructu, turn alios impedlre. 
 
 C. Quos alios impedio cum tenuissimo sono loquar? 
 
@@ -26954,8 +25780,7 @@ tergo.
 
 (7. Apage cum superstitiosa ista religiSne tua. 
 
-S. Amice monenti volens obsecunda, et boni con- 
-sule: alioqui coactus, nonmihi, sed Magistro. 
+S. Amice monenti volens obsecunda, et boni consule: alioqui coactus, nonmihi, sed Magistro. 
 
 C. Adeo infanda hsec tibi peccata videntur? 
 
@@ -26966,8 +25791,7 @@ possit, baud dispicio.
 C. Nisi aut ego mutus fiam, aut tu obsurdescas, 
 difficile pax inter nos erit. 
 
-S, Tu considera quorsum eas, et quid tibi futu- 
-rum sit. Auceps quando concinnavit aream, 
+S, Tu considera quorsum eas, et quid tibi futurum sit. Auceps quando concinnavit aream, 
 effiindit cibum : aves assiiescunt, ssepe edunt : 
 semel si sunt captse, rem solvunt aiicuni. 
 
@@ -26983,10 +25807,8 @@ PONTANUS, S. J.
 
 Observatory Athanasim, MalthceuSy Bonifaeius. 
 
-0. Vos tres lingnas geritis impense libgras et ex- 
-pedltas, loquacitas vobis dominatior; meam 
-admonitionemcoiiteiimitisac pro niliilo pu- 
-tatis. Ecce in fabulatorum indiceni vos 
+0. Vos tres lingnas geritis impense libgras et expedltas, loquacitas vobis dominatior; meam 
+admonitionemcoiiteiimitisac pro niliilo putatis. Ecce in fabulatorum indiceni vos 
 refero. Si Pegaso velocioi'es sitis, numquam 
 hodie effugietis infortunium. 
 
@@ -27023,8 +25845,7 @@ quidpiam.
 
 
 
-0. Eg5ne ut patiar me abs te corrumpi muneri- 
-biis? 
+0. Eg5ne ut patiar me abs te corrumpi muneribiis? 
 
 B. Lepidissimum est. 
 
@@ -27041,8 +25862,7 @@ A. Habet certe.
 B. Ecce imago longe venustissima : Augustissima 
 
 Dei mater puerum Jesum ulnis sustmens. 
-Videtisut amabiliter arrideat nobis divinissi- 
-mus atque bellissimus infans? 
+Videtisut amabiliter arrideat nobis divinissimus atque bellissimus infans? 
 
 O. Hanceme daturus es? 
 
@@ -27051,15 +25871,13 @@ B. Daturus, si pollicere silentium.
 0. Polliceor, da. 
 
 B. Qu90 res feliciter ambdbus eveniat ! accipe. 
-M.O factum bene! jam tu, incorruptissime ob- 
-servator, nec me, nec Athanasium audebis 
+M.O factum bene! jam tu, incorruptissime observator, nec me, nec Athanasium audebis 
 accusare. 
 
 0, Quapropter non auderem? 
 
 A. Quia nos te accusaremus, et tu penderes poenas 
-non leves, quod Prseceptori infidelis ac per- 
-fidus extitisses. 
+non leves, quod Prseceptori infidelis ac perfidus extitisses. 
 
 0. Ignosco vobis similiter, ut Bonifacio. 
 
@@ -27067,15 +25885,13 @@ M. Perplacet. Discede jam bine, observa alios.
 
 A. Prob! quantum boni adepti sumus bac luce, 
 
-qui ab isto quidem observatore quoad volu- 
-erimus tuti simus. 
+qui ab isto quidem observatore quoad voluerimus tuti simus. 
 
 B. Quinam? 
 
 A. Si de fracta lege silentii postulare quemquam 
 e nobis meditabitur, objiciemus illi, quam 
-abs te accipgre non recusavit elegantem pic- 
-turam ut sileret: mutire non audebit. Nam 
+abs te accipgre non recusavit elegantem picturam ut sileret: mutire non audebit. Nam 
 
 
 Dialogues, 
@@ -27085,8 +25901,7 @@ vel jiirato credet Magister. Perjurissimum
 dicet, si dqjeraverit. 
 
 M. Via reperta est commodissima ad evadenda 
-verbera, propter istam congressionem nos- 
-tram videlicet imminentia. V ah. 
+verbera, propter istam congressionem nostram videlicet imminentia. V ah. 
 
 PONTANUS, S. J. 
 
@@ -27095,8 +25910,7 @@ PONTANUS, S. J.
 
 Prceceptor, Dlscipuli. 
 
-Bias, At, at, ecce, nunc capti estis: nonne con- 
-fabulamini? 
+Bias, At, at, ecce, nunc capti estis: nonne confabulamini? 
 
 Clem. Certe fatemur ingenue : sed te, quseso, mi 
 Blasi, ne velis nos notare. 
@@ -27120,8 +25934,7 @@ desinunt tumultuari.
 PrcBC. Quinam auctores sunt turbarum? 
 
 ^las, Felix jam inde ab ingressu suo nihil aliud 
-quam garrivit. Gregorius sursum deor- 
-sum de scamnis saltitat. 
+quam garrivit. Gregorius sursum deorsum de scamnis saltitat. 
 
 Greg. Placetne Reverentiae vestrae ut respondeam? 
 
@@ -27146,22 +25959,17 @@ notavi petulantem.
 
 Pr. Siccine? 
 
-Bias. Prodi, inquiebat, e schola in plateam : im- 
-pingam tibi alapas; omnes dentes labe- 
-faciam tibi. 
+Bias. Prodi, inquiebat, e schola in plateam : impingam tibi alapas; omnes dentes labefaciam tibi. 
 
-Pr. Istuc ergo volo ipsum experiri : ego quo- 
-que in ipsum depugnabo, et tentabimus 
+Pr. Istuc ergo volo ipsum experiri : ego quoque in ipsum depugnabo, et tentabimus 
 uter viribus plus valeat. 
 
 Flor. Prseceptor, Kemigius mihi assiduo crines 
 vellicat. 
 
-Bern. Ille a tergo imponit scamno pedes, et chla- 
-mydem meam calceorum luto contaminat. 
+Bern. Ille a tergo imponit scamno pedes, et chlamydem meam calceorum luto contaminat. 
 
-Flor. Immo, tu, Eemigi, rapuisti e manibus pen- 
-sum et concerpsisti. 
+Flor. Immo, tu, Eemigi, rapuisti e manibus pensum et concerpsisti. 
 
 Bern. Domine, Florus modo conspuit libros meos, 
 modo atramentum adspergit scripturse, 
@@ -27170,8 +25978,7 @@ me momento esse quietum.
 
 Pr. Mox ego adero vobis, et faciam altercandi 
 finem. — Jac5be, quis tuam sic unguibus 
-laceravit faciem, videris cum felibus con- 
-curisse. 
+laceravit faciem, videris cum felibus concurisse. 
 
 Jac. Acceptum id refero Gaspari nostro. 
 
@@ -27180,14 +25987,12 @@ pulsabat me, quantum poterat.
 
 
 Dialogues, 
-Jac, Equidem jocabar: at ille serio agens de- 
-jecit me in terram, et al^pas impegit ad 
+Jac, Equidem jocabar: at ille serio agens dejecit me in terram, et al^pas impegit ad 
 satietatem: distraxit mihi auriculas ; 
 
 misSris excepit mod is. 
 
-P/\ O Gaspar, Gaspar, tuam istam semel com- 
-pescam lasciviam. 
+P/\ O Gaspar, Gaspar, tuam istam semel compescam lasciviam. 
 
 Don, Kaphael praetereunti sacerdoti nunquam 
 assiirgit; numquam caput aperit. 
@@ -27199,31 +26004,25 @@ singulari certamine decertarunt.
 
 Pr, Audiamus eventum pugnae. 
 
-Don, Ponunt utrinque pallia et libros humi : con- 
-sistunt altrinsjcus: librant brachia et 
+Don, Ponunt utrinque pallia et libros humi : consistunt altrinsjcus: librant brachia et 
 
-pugnos. Sine mora involarunt et se in- 
-vicem pugnis ceciderunt. Circumfluunt 
-pueri, succlamant; risus tollitur incondi- 
-tus: turbae fiunt mirabiles. 
+pugnos. Sine mora involarunt et se invicem pugnis ceciderunt. Circumfluunt 
+pueri, succlamant; risus tollitur inconditus: turbae fiunt mirabiles. 
 
 Pr, liter victoria potitus est? 
 
-Don, Uterque multatus est probe. Simon e nari- 
-bus cru5rem emisit: Henricus oculum 
+Don, Uterque multatus est probe. Simon e naribus cru5rem emisit: Henricus oculum 
 plagis lividum retulit. 
 
 Pr, Belle! meae nunc sunt partes ut pacem 
 conciliem. 
 
-Don. Ludicrafuit velitatio, Praeceptor: non age- 
-batur de capite. 
+Don. Ludicrafuit velitatio, Praeceptor: non agebatur de capite. 
 
 Pr, Nec in schola, ubi redierint, agetur de 
 capite, sed de poena. 
 
-Ben, Redde mihi meum Ciceronem, Christo- 
-phore. 
+Ben, Redde mihi meum Ciceronem, Christophore. 
 
 Christ. Quern Cicerdnem repStis? 
 
@@ -27245,8 +26044,7 @@ Christ, Hoc ut fecerim? malim egere indigne,
 quam clepere. 
 
 Ben, Fabtilse: idem nnper sufFuratus mihi est 
-chartam de capsula; deprehendi in faci- 
-n5re. 
+chartam de capsula; deprehendi in facin5re. 
 
 Christ. Mutuiibar raodo, alinm deinde restitui. 
 
@@ -27271,8 +26069,7 @@ feceris impune.
 
 Nat, Neque has minas adeo Magistrum celavSro. 
 
-Grat. Die quidquid in buccam venSrit, non la- 
-boro. 
+Grat. Die quidquid in buccam venSrit, non laboro. 
 
 Mart. Decurise prsefectus nostrae notavit me signo 
 ignorantiae. 
@@ -27281,11 +26078,9 @@ Vit. Merito : ad singulos versus haesitas.
 
 3fart. Immo non amplius bis me fefellit memoria. 
 
-Vit. Certabo quovis pigndre ignorare te lectio- 
-nem: sit Magister arbiter. 
+Vit. Certabo quovis pigndre ignorare te lectionem: sit Magister arbiter. 
 
-Pr. Quid deponis, Vite, si citra errorem reddi- 
-derit? 
+Pr. Quid deponis, Vite, si citra errorem reddiderit? 
 
 Vit. Ego pro illo luam. 
 
@@ -27330,8 +26125,7 @@ A. Suadeo ut sit, quod tu semper possis avertere.
 Libentius sane tu cum malo quiescis, an sine 
 malo, si copia est? 
 
-R Quis potuit clepsisse nisi qui mihi sedet proxi- 
-mus? 
+R Quis potuit clepsisse nisi qui mihi sedet proximus? 
 
 d. Quid ergo? Joannes tibi a dextris non assidet, 
 sicuti ego a sinistris? Cur non potius ilium 
@@ -27341,8 +26135,7 @@ quam me arcessis furti hujus?
 
 
 B. Joannem novi, mallet spoliari suis, quam 
-minimum quippiam sublegSre de meis : dis- 
-similis tui est. 
+minimum quippiam sublegSre de meis : dissimilis tui est. 
 
 A. Certe dignus es virgis. 
 
@@ -27354,8 +26147,7 @@ sine argumento pronuncias.
 
 B, Hei, utinam haberem calamum meum : quern 
 
-eo molestius amitto, quod tertium jam men- 
-sem usus sum, adeo bonus et firmus est. 
+eo molestius amitto, quod tertium jam mensem usus sum, adeo bonus et firmus est. 
 
 A, Quid si reddidero tibi calamum tuum? 
 
@@ -27371,14 +26163,12 @@ B. QuomSdo? quis post hommum genus natum
 
 sibi quidquam absliilit? 
 
-A, Quia super auriciilam, ut mos obtinet, reposu- 
-
+A, Quia super auriciilam, ut mos obtinet, reposu
 isti, postea es oblltus, quodque non amisSras 
 qusesivisti et alios furatos putavisti. En tibi 
 tuum optatissimum calamum : deinceps 
 
-quoties amiseris, aurichlam dexteram inter- 
-roga prills, an viderit calamum quam de 
+quoties amiseris, aurichlam dexteram interroga prills, an viderit calamum quam de 
 innocentibus mentiare. 
 
 B. Mi Alipi, mi Alipi. Gratias ago tibi; ignosce, 
@@ -27416,8 +26206,7 @@ G. Nunquam.
 Quid culpa3 contraxi? 
 
 G. Scamnum eultello scriptorio conscindis, quod 
-prohibuit Praeceptor, et tuum nomen inci- 
-dis, quod gravius prohibuit. 
+prohibuit Praeceptor, et tuum nomen incidis, quod gravius prohibuit. 
 
 T. Oro te, tace, cera complebo sulcos illos, aut 
 radam lignum, ne appareant litterae. 
@@ -27425,8 +26214,7 @@ radam lignum, ne appareant litterae.
 G. Vah consilium callidum 1 Quid dabis in loco 
 mercedis? 
 
-T. Submisse, ne audiat Magister. Pulcherri- 
-mum de globiilis meis. 
+T. Submisse, ne audiat Magister. Pulcherrimum de globiilis meis. 
 
 G. An tulisti tecum? 
 
@@ -27440,8 +26228,7 @@ G. Monstra, si placet.
 
 T. En. 
 
-G. Sunt elegantes. Faci^ne mihi copiam eli- 
-gendi quern praecipue probavero? 
+G. Sunt elegantes. Faci^ne mihi copiam eligendi quern praecipue probavero? 
 
 T. Facio. 
 
@@ -27451,8 +26238,7 @@ T. Facio.
 
 G. Hunc eligo. 
 
-T. Istum eligeres ; meo enim judicio, post se re- 
-linquit altfirum prsestantia. 
+T. Istum eligeres ; meo enim judicio, post se relinquit altfirum prsestantia. 
 
 G, Non tarn aptus est ad manum meam propter 
 magnitudmem. 
@@ -27461,30 +26247,25 @@ T. Ergo istum, paulo mindrem.
 
 G, Sine tentem. Nimium parvus est. 
 
-T. Eetinebis igitur quern primum omnium sump- 
-sSras. 
+T. Eetinebis igitur quern primum omnium sumpsSras. 
 
 G. Ita faciam. Quam venuste nigro alboque 
-distinctus, venulas quasdam ostentat ! Em- 
-istine an lucro acquisivisti? 
+distinctus, venulas quasdam ostentat ! Emistine an lucro acquisivisti? 
 
 T, Lucro. 
 
 G. A quo? 
 
-T, A Leonardo nostri viclni filio, quicum per- 
-ssepe ludo. 
+T, A Leonardo nostri viclni filio, quicum perssepe ludo. 
 
-G. Si tarn scite factis abundat globulis, provo- 
-cabo ilium ego similiter ad certamen. 
+G. Si tarn scite factis abundat globulis, provocabo ilium ego similiter ad certamen. 
 
 T. Vix aliquando vincitur: peritissimus enim 
 hujus scientise puer est. 
 
 G. Et me lusorum non ultimum esse cognoscet. 
 At comprimamus oratidnem : Praeceptor de 
-cathedra descendit, ne confabulantes inve- 
-niat, et ad poenam vocet. Profecto baud 
+cathedra descendit, ne confabulantes inveniat, et ad poenam vocet. Profecto baud 
 multum abest a nobis infortunium. 
 
 PONTANUS, S. J. 
@@ -27511,8 +26292,7 @@ F. Mihi sic usus est: tu, ut tibi opus est facto,
 
 ita fact to, Tua quid refert? 
 
-E. Mea quidem aliquantulum, tua vero permul- 
-tum. Nam si te dormire sivero. Doctor 
+E. Mea quidem aliquantulum, tua vero permultum. Nam si te dormire sivero. Doctor 
 me quoque ut infidelem custodem supplicio 
 prosecuturus est. 
 
@@ -27528,21 +26308,18 @@ Istam a Magistro veniam pete.
 Irrldes? quasi tu dicas: pete ab atroci cane 
 ut te mordeat: sua sponte mordebit. 
 
-Ego profecto non feram, non patiar, non si- 
-nam ut dormias: usque et usque molestus 
+Ego profecto non feram, non patiar, non sinam ut dormias: usque et usque molestus 
 ero, etiam acicula, en, te comp un gam, ut 
 dames, teque ipsum ut so rex tuo indicio 
 prodas. 
 
-Heu ! mitte me, vicissim indulgebo, si te som- 
-niculus corripugrit. 
+Heu ! mitte me, vicissim indulgebo, si te somniculus corripugrit. 
 
 Hanc abs te gratiam nolo. 
 
 Tamen. 
 
-J am reddenda erit e memoria hestema prselec- 
-tio : excute somnum, frica paulum oculos, et 
+J am reddenda erit e memoria hestema prselectio : excute somnum, frica paulum oculos, et 
 rel6ge quse edidicisti. Nisi faxis, a tergo, 
 supra caput, ante oculos vindicta est. 
 
@@ -27569,20 +26346,17 @@ figri? nihil attraxit funis tuus.
 F. Actum est, poenas luam, recitare non pot^ro. 
 
 Quid ergo prodSrit mihi si vigilem? uno 
-dolore duo peccata expiabo : dormiam rur- 
-sus. 
+dolore duo peccata expiabo : dormiam rursus. 
 
 E. Dor mi, dormi, nihil moror. Si Magister me 
 
-objurgabit, narrabo quid fecSrim, quid dix- 
-6rim tibi, quid tu contra responderis. 
+objurgabit, narrabo quid fecSrim, quid dix6rim tibi, quid tu contra responderis. 
 
 F. Tantum ne me expergefacias. Si etiam hodie 
 
 vapulavero, non moriar. 
 
-E. Quae tibi res fauste ac feliciter eveniat, mi Fa- 
-biole. 
+E. Quae tibi res fauste ac feliciter eveniat, mi Fabiole. 
 
 PONTANUS, S. J. 
 
@@ -27591,17 +26365,14 @@ PONTANUS, S. J.
 
 Pcedagogus, BlcesuSy Curtiolus, Alumni. 
 
-P. Germanus tuus, Blaesiile, in discendo est im- 
-piger, citoque arripit omnia, tu autem lente 
+P. Germanus tuus, Blaesiile, in discendo est impiger, citoque arripit omnia, tu autem lente 
 admodum et ambulas gradu testudineo. 
 
-P. Quid ergo tarn crebro obmutescit, cum, te in- 
-terrogante respondendum est? 
+P. Quid ergo tarn crebro obmutescit, cum, te interrogante respondendum est? 
 
 P. A tidin’ Curtiole? 
 
-C. Stimulat fratrem meum invidia, ferre neuti- 
-quam potest, cum abs te laudor. 
+C. Stimulat fratrem meum invidia, ferre neutiquam potest, cum abs te laudor. 
 
 P. Egone gloriblas tuas tibi invideo? Scilicet 
 
@@ -27615,17 +26386,14 @@ affixus adhierescis.
 (7. Tibi, obtrectator, hoc visum est : nam ego 
 vocatus soleo me cublli proripgre. 
 
-P. Ambbrum una culpa. Mea hoc facit indul- 
-gentia: sed aliquando malis mala evenient. 
+P. Ambbrum una culpa. Mea hoc facit indulgentia: sed aliquando malis mala evenient. 
 
 B. Nihilo sum te inferior. 
 
 G. Quid erit imprudenter loqui, si hoc non est? 
 nondum declinationes devorasti? 
 
-P. Pridem concoxi. Hebdomade antegressa exa- 
-rabatur tibi corium, quod vocabulum jus- 
-jurandum, in casus male inflectebas. 
+P. Pridem concoxi. Hebdomade antegressa exarabatur tibi corium, quod vocabulum jusjurandum, in casus male inflectebas. 
 
 B, Et tu ex uno errato colligis inflexiones me 
 
@@ -27645,8 +26413,7 @@ G. At tu interea manes indoctior: quamvis me
 alii docti5res, sunt, ut sunt: caetSrum vix 
 tres qiiatuorve ex omni copia. 
 
-B. Si tarn crebris donarer munusciilis ut tu, forsi- 
-tan alacrius discerem. 
+B. Si tarn crebris donarer munusciilis ut tu, forsitan alacrius discerem. 
 
 G, Imo turn acciperes, si alacrius disceres. Non 
 ante, sed post lab5rem veniunt. 
@@ -27654,8 +26421,7 @@ ante, sed post lab5rem veniunt.
 B. Abi, argutiile, consequar te, tametsi nolis. 
 
 G. Si ego te cursiiram incipiente consistgrem, turn 
-me non exsequares modo, sed etiam antever- 
-tSres. Hoc tu, si speras, despera. 
+me non exsequares modo, sed etiam antevertSres. Hoc tu, si speras, despera. 
 
 
 
@@ -27682,21 +26448,15 @@ P. Ketraxit a cursu is, qui horologium moderatur.
 Z, Non abest suspicio. Egisset hoc bonus vir 
 antequam scholas ingrederemur. At illi 
 perpetuo post meridiem errorum horologii 
-sui, vel suam potius incuriam ista hora cor- 
-rigit, ponderaque sursum revocat quo in 
-dies singulos ferme ad dimidium horse tern- 
-pus nobis prorogetur, cum alioqui totas 
+sui, vel suam potius incuriam ista hora corrigit, ponderaque sursum revocat quo in 
+dies singulos ferme ad dimidium horse ternpus nobis prorogetur, cum alioqui totas 
 quinque hie sessitemus. 
 
-P. Ubinam igitur hanc injustitiam deplora- 
-bimus? Apud quern de ista injustitia quseri- 
-moniam habebimus? 
+P. Ubinam igitur hanc injustitiam deplorabimus? Apud quern de ista injustitia quserimoniam habebimus? 
 
-Z. Censeo apud Prseceptorem. Verum cum ipse- 
-met non ignoret tempus extendi, et tarn leni 
+Z. Censeo apud Prseceptorem. Verum cum ipsemet non ignoret tempus extendi, et tarn leni 
 anlnio id patiatur, videtur velle nos citra 
-definitum spatium hie inter scamna hsesi- 
-tare: quod tamen sine magna ejus quoque 
+definitum spatium hie inter scamna hsesitare: quod tamen sine magna ejus quoque 
 molestia fiSri non potest. 
 
 P. Consilium dabo. 
@@ -27727,17 +26487,14 @@ Amanlius, Mansuelus,
 
 A, Si incumbSre in libros, et cubito supra eos 
 deposito niti male est, baud memini videre 
-qui magis incumbat te uno, qui Emmanu- 
-elem et alios codices tuos prope jam in- 
-cumbendo contrivisti. 
+qui magis incumbat te uno, qui Emmanuelem et alios codices tuos prope jam incumbendo contrivisti. 
 
 M, Assiduitas hoc intertrimentum atthlit, non 
 cubitus. 
 
 A, Quid? ista assiduitas in meo cur non sic 
 apparet? praeterea, quam sunt commaculati 
-intus et foris tui? quam habent oras pagi- 
-narum infimaset summas introrsus inflexas? 
+intus et foris tui? quam habent oras paginarum infimaset summas introrsus inflexas? 
 quas auriculas asinorum solemus vocare. 
 Itane ut loquor? 
 
@@ -27749,15 +26506,13 @@ libros mundiores, minusque tritos.
 
 
 A. Nullum teneo artificium, omitte jocationes; 
-munditiam librorum perinde ut corporis to- 
-tius amo et complector. 
+munditiam librorum perinde ut corporis totius amo et complector. 
 
 M, Quid tarn te misSret librorum medrum? quid 
 tarn mirum in modum sollicitus es? brevi 
 novos emam. 
 
-A. Si sanus es mentis, quare mavis prodigere pe- 
-cuniam, quam deponere rusticitatem et 
+A. Si sanus es mentis, quare mavis prodigere pecuniam, quam deponere rusticitatem et 
 negligentiam? 
 
 M. Eho, tu ut mihi rusticitatem et negligentiam 
@@ -27770,13 +26525,11 @@ M. Quid tibi mecum est negotii? cura tuos.
 
 A. Id ego ago; verumtamen odi male sordes 
 istas in aliis quoque. Phu! quam babes 
-item digitos atramento focdatos, et os simili- 
-ter denigratum; ut non injuria suspicetur 
+item digitos atramento focdatos, et os similiter denigratum; ut non injuria suspicetur 
 aliquis, te atramentum bibere solitum. Cur 
 non caves? cur non aqua purgas? 
 
-M. Indicia et vestigia sunt haec diligentise mag- 
-nse et laboris. 
+M. Indicia et vestigia sunt haec diligentise magnse et laboris. 
 
 A. Pigritiae magnae et torpdris: oportebat alioqui 
 diligentes fiSri immundos atque sordidos. 
@@ -27798,8 +26551,7 @@ M. Non deSrit unde tibi par reponam.
 
 Dialogues, 
 
-A. Minae istae nihil sunt nisi minae. Vale, sor- 
-dide. 
+A. Minae istae nihil sunt nisi minae. Vale, sordide. 
 
 M, Vale, nitidiuscule. 
 
@@ -27846,32 +26598,26 @@ dulcius? quid ilia sonorum temperatione
 auribus gratius aut jucundius? 
 
 S. Scire fidibus (quod ingravescente jam aetate 
-Socratem philosSphum didicisse fama vul- 
-gavit), et canere cithara, testudine, barbito 
+Socratem philosSphum didicisse fama vulgavit), et canere cithara, testudine, barbito 
 
 
 
 
-multo esse suavius quovis pignftre conten- 
-dam : at de vocibus, libentius audigrim Si- 
-renas, aut luscini5lam, aut cygnum in morte 
+multo esse suavius quovis pignftre contendam : at de vocibus, libentius audigrim Sirenas, aut luscini5lam, aut cygnum in morte 
 canentem. 
 
 Dulcia delecta modulatur carmina lingua 
 Cantator cygnus funeris ipse sui. 
 
 C, Ista reprehensio inscitiam tuam coarguit ; 
-nam si musicam scires, numquam faculta- 
-tem nobilissimam in vituperationem ad- 
-ducSres. 
+nam si musicam scires, numquam facultatem nobilissimam in vituperationem adducSres. 
 
 S. Non diffitebor me artem hominum feriatorum, 
 languentium, et nihil agentium ignorare. 
 Aures permulcet ilia quidem; in ammo 
 voluptatis nihil relinquit ut littSrse. 
 
-C. Necesse non est, si littSrse sunt bonum, musi- 
-cam esse malum : nec si illae plus prosunt, 
+C. Necesse non est, si littSrse sunt bonum, musicam esse malum : nec si illae plus prosunt, 
 ideo hanc nihil prodesse. 
 
 S. Acumen Dialecticorum. Patet tamen in 
@@ -27881,8 +26627,7 @@ tria verba Latine loqui nescire.
 (7. Haud me dedam immoderate, non dico amplius. 
 
 S. Nolim ego tempus disperdSre in repetendis, et 
-usque ad vomitum pene audientium recan- 
-tandis per dies integros hisce syllabis, ut, re, 
+usque ad vomitum pene audientium recantandis per dies integros hisce syllabis, ut, re, 
 mi, fa, sol, la. Prseterea in ligaturis, fugis, 
 cantibus naturalibus, consonantiis perfect is, 
 imperfectis, resolutionibus, diminutionibus, 
@@ -27893,13 +26638,11 @@ hoc maledicti confSras.
 
 S. In neminem. 
 
-C. In multos prsestantissima dignitate, et in ex- 
-
+C. In multos prsestantissima dignitate, et in ex
 
 Dialogues, 
 celso setcitem agentes viros, qui animos 
-pondgre curarum lassos, cantiuncdlis remit- 
-tunt ac relevant. Sanctarum litterarum 
+pondgre curarum lassos, cantiuncdlis remittunt ac relevant. Sanctarum litterarum 
 surama est auctorltas, qua commendatur 
 musica. 
 
@@ -27923,8 +26666,7 @@ PONTANUS, S. J.
 
 Arhtorij Florinus, 
 
-A. Tenesne memoriter rerum ediscendarum pen- 
-sum imperatum? 
+A. Tenesne memoriter rerum ediscendarum pensum imperatum? 
 
 F, Num vides, huic rei me navare operam quam 
 possum diligentissime? 
@@ -27966,8 +26708,7 @@ similem tui.
 A. Rem ipsam dico ; nec enim is sum qui auribus 
 tuis serviam. 
 
-F. Quanam igitur arte, tarn facile commendas me- 
-morise quod cupis addiscere? 
+F. Quanam igitur arte, tarn facile commendas memorise quod cupis addiscere? 
 
 A. Dicam libenter. Principio effingo religiose 
 signum sanctse crucis: turn operam meam 
@@ -27977,9 +26718,7 @@ volo memorise.
 
 F. Prseclare factum. 
 
-A. Deinde, ternas et quaternas sumo voces, tam- 
-diuque revolvo atque rep^to, donee impres- 
-sas firmiter in animo habeam; pari ratifne 
+A. Deinde, ternas et quaternas sumo voces, tamdiuque revolvo atque rep^to, donee impressas firmiter in animo habeam; pari ratifne 
 condisco quse sequuntur. Secretum jam 
 tenes meum et artem calles. 
 
@@ -28004,8 +26743,7 @@ quam hesterno vespere explanavi epist6lam?
 
 D. Vero comprehendi. 
 
-M. Quod felix sit, claude librura, et recita dis- 
-tincte, clara voce. 
+M. Quod felix sit, claude librura, et recita distincte, clara voce. 
 
 D, Tullius Terentiije suce^ et pater TuUiolce duabus 
 animabus suis, et Ctcero matri optimce ac saa* 
@@ -28013,29 +26751,22 @@ vissimce so^'ori, S, P. D. Si vos valetisy nos
 valemus. Vestrum jam consilium estj non 
 solum meum, quid sit vobis faciendum. 
 
-M. Alti5re voce, ut omnes exaudiant. Date vac- 
-uas aures, Pugri. 
+M. Alti5re voce, ut omnes exaudiant. Date vacuas aures, Pugri. 
 
-D. Si die, Romam modeste venturus est, rede in pros- 
-sentia domi esse polestisj etc. 
+D. Si die, Romam modeste venturus est, rede in prossentia domi esse polestisj etc. 
 
 M. Andrea, Andrea, nae tu male hanc tarn bellam 
 epistolam memoria sepsisti atque custodisti. 
 
 D. Revera domi tenebam perfectissime. 
 
-M. Oh ! tibi ego ut credam? Tdentidem inspi- 
-ciebas librum, et verba furabaris. Antiquum 
+M. Oh ! tibi ego ut credam? Tdentidem inspiciebas librum, et verba furabaris. Antiquum 
 obtinebas. 
 
 D. Bis tantummodo, sum mum ter. 
 
-M. Et mentiri non vereris? quoties clamavi,- 
-claude, claude? Quam ssepe insuper ordi- 
-nem verb5rum commutabas, priora pos- 
-ter! us, posteriora, prius pronuntiando? et 
-aliquando tua pro Cicer5nis, lutea pro au- 
-reis videlicet substituebas. Frequenter 
+M. Et mentiri non vereris? quoties clamavi,claude, claude? Quam ssepe insuper ordinem verb5rum commutabas, priora poster! us, posteriora, prius pronuntiando? et 
+aliquando tua pro Cicer5nis, lutea pro aureis videlicet substituebas. Frequenter 
 prfeterea voces jam dictas repetebas, et 
 denuo quasi deglutiebas : ut interim posses 
 
@@ -28057,14 +26788,12 @@ ediscere.
 3/. Ecce, jamjam asseverabas, domi te perfecte 
 memoriter earn complexum. Itane tandem? 
 Tu ex uno ore calidum et frigidum? et aliud 
-stans, aliud sedens? Cur non ingenue fas- 
-sus es te nescire? 
+stans, aliud sedens? Cur non ingenue fassus es te nescire? 
 
 D. Me terruerunt poense. 
 
 M. Infelix puer, hoc magis pro commerita noxia 
-te castigabo quia ludificasti me, et ad socor- 
-dise vitium vanitatis culpam addidisti. 
+te castigabo quia ludificasti me, et ad socordise vitium vanitatis culpam addidisti. 
 
 D. Volebam mihi consulere. 
 
@@ -28079,23 +26808,19 @@ MagisteVy Stephanus discipulus.
 
 M. Saepenumgro cum minis severissimis interdixi 
 vobis, Pueri, ne suggereretis recitantibus : vos 
-nihilominus, qui mos est vester, idem pecca- 
-turn peccare non desinitis; patientia mea 
+nihilominus, qui mos est vester, idem peccaturn peccare non desinitis; patientia mea 
 nimium abutimini. Jam postremum moneo, 
 praedico, et ante denuntio, tibi praesertim 
 
 
 Dialogues, 
-capillfite, tibi bone Steph^ne, quern obser- 
-vavi prseter cseteros in ista noxia contra- 
-henda diligentissimum, nisi temperaveritis 
+capillfite, tibi bone Steph^ne, quern observavi prseter cseteros in ista noxia contrahenda diligentissimum, nisi temperaveritis 
 ab ista intempestiva benev^olentia, non ego 
 mihi teinperfibo ab iracundia. 
 
 S. Non soleo tarn frequenter. 
 
-M. Non soles? nemo quisqam frequentius. Pros- 
-pice rebus tuis: nam acriter ulciscar te, si 
+M. Non soles? nemo quisqam frequentius. Prospice rebus tuis: nam acriter ulciscar te, si 
 vel semel amplius suggerentem conspexgro. 
 
 S. Spero mitiora. 
@@ -28108,9 +26833,7 @@ M, Etiam tu taces? Ilia merita tua merebuntur,
 quod dixi, praemium. Itaque nisi finem 
 deritis mutuo bene merendi, et imperium 
 meum minuendi, faciam ego ut hujus diei, 
-locique, meique in omnem vitam meminer- 
-itis. Et ego quidem verberando, vos vapu- 
-lando defatigabimini. 
+locique, meique in omnem vitam memineritis. Et ego quidem verberando, vos vapulando defatigabimini. 
 
 S. Crudele promissum. 
 
@@ -28134,8 +26857,7 @@ PONTANUS, s. J.
 
 PubliuSj Gaudentius. 
 
-P. Conferamus inter nos audita, Gaudenti, ant6- 
-quam Magister hue aditum ferat. 
+P. Conferamus inter nos audita, Gaudenti, ant6quam Magister hue aditum ferat. 
 
 G. Non ausim. 
 
@@ -28149,10 +26871,8 @@ G. Quia fit cum periculo.
 P. Quo periculo. 
 
 G. Animadversores isti me hoc alias cum alio 
-facientem in gregem fabulantium, per sum- 
-mum nefas, aliquoties conjecerunt, ut a*gre 
-postea multa nimirum diligentique purga- 
-tione usus, constitutum garrulis supplicium 
+facientem in gregem fabulantium, per summum nefas, aliquoties conjecerunt, ut a*gre 
+postea multa nimirum diligentique purgatione usus, constitutum garrulis supplicium 
 evitaverim. 
 
 P. Vix adjungSre dictis tuis fidem queo. 
@@ -28172,32 +26892,22 @@ aliud in lingua promptum habes.
 
 G. Aliter est, tutiora eligo. 
 
-P. Quam tu vereris culpam, ego prsestabo. Con- 
-suestme solus tecum domi repetere explica- 
-tiones Magistri. 
+P. Quam tu vereris culpam, ego prsestabo. Consuestme solus tecum domi repetere explicationes Magistri. 
 
 
 Dialogues, 
-O. Ut si conceptis verbis id me facturum ju- 
-
+O. Ut si conceptis verbis id me facturum ju
 rassem. 
 
-P. Non mirabor amplius, te numquam non para- 
+P. Non mirabor amplius, te numquam non para
+tuin inveniri cum juberis auctorem expon6re. 
 
-tuin inveniri cum juberis auctorem expo- 
-n6re. 
-
-G. Parum conducibile est audisse, Publi, nisi re- 
-c5las qu9e audieris, nec proxima tantum, 
-verum longinqua etiam, quseque ante heb- 
-domadam, ante mensem explicata fuerunt, 
-repetendo iteranda sunt, quoniam Themis- 
-toclis aut Carneadis memoria non antecelli- 
-mus, facileque auditdrum obliviscimur. 
+G. Parum conducibile est audisse, Publi, nisi rec5las qu9e audieris, nec proxima tantum, 
+verum longinqua etiam, quseque ante hebdomadam, ante mensem explicata fuerunt, 
+repetendo iteranda sunt, quoniam Themistoclis aut Carneadis memoria non antecellimus, facileque auditdrum obliviscimur. 
 
 P. Possesne, non quidem in dies singulos, nam 
-id neutri foret commodum, at festis, ac vaca- 
-tidnum diebus, cum scilicet, otium est a 
+id neutri foret commodum, at festis, ac vacatidnum diebus, cum scilicet, otium est a 
 scholis, pauxillum temporis mihi tribuere, 
 meque adjuvare, et communicare mecum 
 banc meam provinciam? 
@@ -28207,8 +26917,7 @@ sunt declaremus?. istuc vis?
 
 P. Nempe istuc. 
 
-G, Equidem possum, et tua causa volo. Venti- 
-tabis igitur in aedes nostras. 
+G, Equidem possum, et tua causa volo. Ventitabis igitur in aedes nostras. 
 
 P. Habes mqsaeum quietum, atque a strepitu 
 remotum? 
@@ -28260,23 +26969,18 @@ T. Nullo negotio retinebo, si itSrum audiero :
 nec enim est ita longum. 
 
 TJ. Postea Ciceronem exponam verbum verbo, 
-sequens constructionis ordinem; mox sen- 
-tentiam sententia, ut Praeceptor solet. 
+sequens constructionis ordinem; mox sententiam sententia, ut Praeceptor solet. 
 
-T. Et ut nos vult sese imitantes facere in repe- 
-tendo. 
+T. Et ut nos vult sese imitantes facere in repetendo. 
 
 TJ. Postremo themata indicabo cum accidentibus, 
 et syntaxes quasdam faciliores. 
 
-T. Obstringes me non vulgari beneficio. Seceda- 
-mus in locum solitarium, ne quis hie nostra 
+T. Obstringes me non vulgari beneficio. Secedamus in locum solitarium, ne quis hie nostra 
 dicta arbitretur. 
 
 
-Dialogues- 
-U. Ecce tibi Gabrielem, Jac5bum et Ferdi- 
-nandum... opportune conveniunt. 
+DialoguesU. Ecce tibi Gabrielem, Jac5bum et Ferdinandum... opportune conveniunt. 
 
 G. Tenesne, Urbane, memoria prselectionem? 
 
@@ -28286,8 +26990,7 @@ G, Vis una repetamus?
 
 U, Maxime velim ; audianius nos vicissim. 
 
-G. Incipe, igitur: ego te corrigam, si quid erra- 
-veris. 
+G. Incipe, igitur: ego te corrigam, si quid erraveris. 
 
 Z7. Fiat; ordiar a nomlnum declinatione. 
 
@@ -28297,13 +27000,11 @@ it6ra. Nihilo melius.
 Z7. Me misSrum ! putabam me tenere ad apicem. 
 
 G. Aliud est sibi tacite pronuntiare, aliud clara 
-voce CO ram Prseceptore. — Videsne te erra- 
-visse quater? 
+voce CO ram Prseceptore. — Videsne te erravisse quater? 
 
 U, Video, vah! quam turpiter fefellit memoria! 
 
-G- Excutiamus interpretatidnem vernaculam ter- 
-tiae epistdlae : en hanc Magister prsescripsit 
+G- Excutiamus interpretatidnem vernaculam tertiae epistdlae : en hanc Magister prsescripsit 
 exponendam. 
 
 TJ. Quando istud fuit? 
@@ -28323,9 +27024,7 @@ quid pridie actum sit.
 U. Fateor: cedo librum tuum, quaeso, ut videam 
 quid nobis reddendum sit. 
 
-G. Signato eadem opSra quam praescripsit Mag- 
-ister praelectionem et vale : alium mihi ad- 
-jungam socium, quicum repStam lectionem : 
+G. Signato eadem opSra quam praescripsit Magister praelectionem et vale : alium mihi adjungam socium, quicum repStam lectionem : 
 tecum tempus absumo inutiliter. — Jacobe? 
 
 
@@ -28349,8 +27048,7 @@ facultfite; tu stude quantum lubet; ego
 vero ludam quamdiu licebit. 
 
 G. Tandem nactus sum sodiilem percommSdum 
-quicum repgtam. — Ferdinande, complectS- 
-risne memoria prselectionem? 
+quicum repgtam. — Ferdinande, complectSrisne memoria prselectionem? 
 
 F. Quasi digitos meos, aut nomen proprium. 
 
@@ -28366,14 +27064,12 @@ F, Quod si Praeceptor interveniat? Instat ad^
 
 ventus. 
 
-G. Scilicet instat : nondum est semihora post pri- 
-
+G. Scilicet instat : nondum est semihora post pri
 mam. 
 
 F. Ergo submissa voce susurremus, ne censor nos 
 
-notet pro confabulantibus. — Tu age Priecep- 
-toris partes: ego discipuli. 
+notet pro confabulantibus. — Tu age Prieceptoris partes: ego discipuli. 
 
 G. Equidem incipiam: tamen alternabimus vices. 
 
@@ -28386,8 +27082,7 @@ G. Varia.
 
 F. Ferendum^ am, um esse. 
 
-F. Recte : quern casum admittit prsepositio sub- 
-terf 
+F. Recte : quern casum admittit prsepositio subterf 
 
 F, Accusativum aut ablativum. 
 
@@ -28408,8 +27103,7 @@ F. Malus^ V^j^i pessimus.
 G. Est igitur comparativus anom2.1us? 
 
 F. Est... Est... sufficit, Prseceptor adest : audio 
-tussientem: desinamus, ne putet nos gar- 
-rire. 
+tussientem: desinamus, ne putet nos garrire. 
 
 Van Tokre, s. j. 
 
@@ -28425,8 +27119,7 @@ copiis contendat.
 
 0. Quid tu garris, audacule? 
 
-E. Ad disputandum quemcumque de condisci- 
-piilis pricsentibus provSco, nemine excepto 
+E. Ad disputandum quemcumque de condiscipiilis pricsentibus provSco, nemine excepto 
 ne tcipso quidem, etsi videris esse quantivis 
 pretii. 
 
@@ -28435,25 +27128,21 @@ pretii.
 E. Diligentia sola: tenas? 
 
 0. Nos igitur hact^nus dormivimus; et tu, si 
-coelitibus placet, didicisti omnia, csetSris ni- 
-hil reliquisti? 
+coelitibus placet, didicisti omnia, csetSris nihil reliquisti? 
 
-E. Qui se credit profecisse surgat, veniat, digla- 
-diemur. 
+E. Qui se credit profecisse surgat, veniat, digladiemur. 
 
 
 
 
 
 0. Quasi tu sis prsecipuus et invictus disputator, 
-ita gloriaris, ventosissime atque confident- 
-issime homuncule. 
+ita gloriaris, ventosissime atque confidentissime homuncule. 
 
 E. Ee cupio refelli, non meris negationibus et 
 maledictionibus. 
 
-0. Dolebis intiniis sensibus, cum tibi victo rub5- 
-rem excussSro. 
+0. Dolebis intiniis sensibus, cum tibi victo rub5rem excussSro. 
 
 E. Tu opinione tua dejectus, et a me pudore 
 affectus recedes. 
@@ -28509,8 +27198,7 @@ E. Quid petes?
 0. Timm mihi locum cedas oportebit. 
 
 E. Haud recusem. Tuum, cum meo inferior sit 
-non postulo ; aliud victoriie prsemium per- 
-solves. 
+non postulo ; aliud victoriie prsemium persolves. 
 
 0. Quale? 
 
@@ -28519,15 +27207,11 @@ aliquot de selectioribus.
 
 0. Iniqua conditio. 
 
-E. Quapropter? Locus meus bonoratissimus lo- 
-c5rum est, ista autem qu^ abs te exacturus 
+E. Quapropter? Locus meus bonoratissimus loc5rum est, ista autem qu^ abs te exacturus 
 sum, bonbris et ornamenti quid aflferu^it. 
 
-0. Etsi non optima apparet conditio, nibilomi- 
-nus quia fastum bunc tuum retundere dis- 
-cupio, bui, Martem utrinque invadamus. 
-Pone tuas qusestiunculas. Mox vel ad ter- 
-ram ictus corrues, vel prsecipitem te fugse 
+0. Etsi non optima apparet conditio, nibilominus quia fastum bunc tuum retundere discupio, bui, Martem utrinque invadamus. 
+Pone tuas qusestiunculas. Mox vel ad terram ictus corrues, vel prsecipitem te fugse 
 mandabis. 
 
 E. Ees tibi erit in angusto. 
@@ -28539,8 +27223,7 @@ PONTANUS, S. J.
 
 MaximuSy Paulinus. 
 
-M. Scriptibnem componamus; satis, Pauline, lus- 
-imus. 
+M. Scriptibnem componamus; satis, Pauline, lusimus. 
 
 P. Mibi quidem constitutum est, nibil toto boc 
 ^ die scriptibnis edere. 
@@ -28566,8 +27249,7 @@ At compongre nullam vis.
 
 Alicui furto auferam. 
 
-At nescis, decretum esse furibus virgarum sup- 
-plicium? 
+At nescis, decretum esse furibus virgarum supplicium? 
 
 Recte dicis ; tutius fu6rit emere. 
 
@@ -28586,11 +27268,9 @@ Quodnam autem?
 Sume in manu calamum, serioque incumbe 
 opgri. 
 
-Faciam quod mones, dummodo tuam polli- 
-cearis op6ram. 
+Faciam quod mones, dummodo tuam pollicearis op6ram. 
 
-Polliceor. • Age, calamum deprdme et atra- 
-mentum. 
+Polliceor. • Age, calamum deprdme et atramentum. 
 
 Sunt ilia in promptu. 
 
@@ -28603,13 +27283,11 @@ Lexicum autem?
 En ilium, super illam tabulam, at usu jam 
 detritum. 
 
-M. In primis, fac singulas ut orationis partes per- 
-spectas habeas, et quidquseque vox significet, 
+M. In primis, fac singulas ut orationis partes perspectas habeas, et quidquseque vox significet, 
 
 
 Dialogues, 
-quidve regat, aut a qua regatur, quemve mu- 
-tuum habeant habitum, considfires diligenter. 
+quidve regat, aut a qua regatur, quemve mutuum habeant habitum, considfires diligenter. 
 P. Id omne peractum est. 
 
 M. Quaere nunc in lexico vocabula singula. 
@@ -28631,8 +27309,7 @@ P. Hem: reperi: utile dedisti monitum.
 
 M. Tiia causa gaudeo. 
 
-P. At, in quo casu collocandum nunc est id nomi- 
-nis? 
+P. At, in quo casu collocandum nunc est id nominis? 
 
 M, Quern regit casum prsepositio a qua pendet? 
 P. Ablativum. 
@@ -28683,8 +27360,7 @@ retuli.
 
 E. Etiam quern texui indicem. 
 
-L, Trade, aut potius alta voce et distincta per- 
-l6ge. 
+L, Trade, aut potius alta voce et distincta perl6ge. 
 
 A. German us scriptidnem non composuit. 
 
@@ -28696,29 +27372,24 @@ G. Quia oblltus sum afFerre.
 
 L. At non es oblltus jentare. 
 
-G. Sane non sum oblitus ; at, si placet, ibo quaesl- 
-tum. 
+G. Sane non sum oblitus ; at, si placet, ibo quaesltum. 
 
 L. Nequ^uam; sed afl^res a prandio geminam. 
 
-A. Felicianus scriptionem reddidit fcede exara- 
-tam, vix legi potest. 
+A. Felicianus scriptionem reddidit fcede exaratam, vix legi potest. 
 
-F. Quia nempe mea charta bibula est atramen- 
-
+F. Quia nempe mea charta bibula est atramen
 tum transmittit. 
 
 X. Emere tibi debuisti firmiorem. 
 
-F. Emi etiam, at hsec quoque perfluit, puto vi- 
-tium esse atramenti. 
+F. Emi etiam, at hsec quoque perfluit, puto vitium esse atramenti. 
 
 L. Quin atramentum tibi idoneum paras? 
 
 F. Parabo quam primum. 
 
-A. Pelagius in charta scripsit semilacera, pin- 
-guique oleo illita. 
+A. Pelagius in charta scripsit semilacera, pinguique oleo illita. 
 
 L. Apage te. 
 
@@ -28729,8 +27400,7 @@ casu, id, non culpa mea factum est.
 
 L. Quid ita? 
 
-P. Scriptionem reliquSram supra cullnae men- 
-sam: hanc ancilla, ignara quid rei esset, 
+P. Scriptionem reliquSram supra cullnae mensam: hanc ancilla, ignara quid rei esset, 
 adhibuit abstergendse lampS^di. 
 
 L. Nempe musaeum tibi culina est, et studes intra 
@@ -28743,8 +27413,7 @@ versus; ne unum quidem rectum exitrat,
 prseterea characteres efFormat perpSram, 
 eosque nimium stipat: neque satis voces 
 discriminat : sed ita perpetuat connectitque, 
-ut singulae singulis lineae vocabulis contin- 
-eantur. 
+ut singulae singulis lineae vocabulis contineantur. 
 
 S. Pinggre non didici elegantius. 
 
@@ -28760,11 +27429,9 @@ A. Martinius nullas omnimo interpunctiones
 adhibet: virgulas, oppdnit nullas, nulla 
 puncta, nullos, ubi opus est, characteres 
 appingit majusculos; nullas seu admirandi, 
-seu interrogandi notas ; neque usquam ap- 
-pingit littgrae I apicem suum. 
+seu interrogandi notas ; neque usquam appingit littgrae I apicem suum. 
 
-L. Poenam meretur non levem tarn gravis osci- 
-tantia. 
+L. Poenam meretur non levem tarn gravis oscitantia. 
 
 4. Silvester chartam dedit lituris deformatam 
 innumSris, foedissimisque deturpatam ex 
@@ -28783,16 +27450,12 @@ S. Spissius reddere non vult caliimus.
 L. Diliie ac tempera vino vel aceto. Eecita jam 
 tu, Eraste, indicem tuum. 
 
-E. Pontianus denos admisit soloecismos. Secun- 
-dlnus prsepositioni per ablativiim adjunxit. 
-Hilarion, verbo auxillor, accusativum copu- 
-lavit. Leontlnus, lauro, masculinum genus 
+E. Pontianus denos admisit soloecismos. Secundlnus prsepositioni per ablativiim adjunxit. 
+Hilarion, verbo auxillor, accusativum copulavit. Leontlnus, lauro, masculinum genus 
 adscripsit. Florentinus, quaestioni Quando, 
-non attribuit casiim, quern postiilat. Juven- 
-tius barbarismo^ fecit inunderabiles. In 
+non attribuit casiim, quern postiilat. Juventius barbarismo^ fecit inunderabiles. In 
 scriptidne Metelli, non paucidra sunt menda 
-quam vocabula. In ilia vero Liberii nequa- 
-quam tot sunt voces quot cacograpb iae. 
+quam vocabula. In ilia vero Liberii nequaquam tot sunt voces quot cacograpb iae. 
 
 L, Satis est: fluxit jam quadrans: alia nobis 
 
@@ -28809,35 +27472,26 @@ Gerardus^ Octavius^ Lamhertus.
 
 G. Magister die adhinc tertia materiam nobin 
 communem ad scribendum dictavit, eras 
-ante meridiem ostendenda est scriptio. Lam - 
-bertus suam praedicatidne effert, meam vili- 
-pendit, quam tamen nondum vidit; ego me 
+ante meridiem ostendenda est scriptio. Lam bertus suam praedicatidne effert, meam vilipendit, quam tamen nondum vidit; ego me 
 inferidrem illo in animum inducere noji 
 possum ut existimem. Restat igitur ut te 
 
 
 Dialogues, 
-oremus.. Octavi, des judicium; noster arbi- 
-ter, noster Palsemon sis, et hanc controver- 
-siam ex sequo et bdho disceptes. 
+oremus.. Octavi, des judicium; noster arbiter, noster Palsemon sis, et hanc controversiam ex sequo et bdho disceptes. 
 
-0. Non audeo me in istam contentionem interpo- 
-n6re. Non nostrum inter vos tantas com- 
-ponere lites. 
+0. Non audeo me in istam contentionem interpon6re. Non nostrum inter vos tantas componere lites. 
 
-L. Ludens potes, si libeat : siquidem utrdque nos- 
-trum non paulo est literatior. 
+L. Ludens potes, si libeat : siquidem utrdque nostrum non paulo est literatior. 
 
 G. Da hoc mutuse familiaritati, sine impetremus. 
 
 Q. Quid vultis faciam? 
 
-G, Ausculta dum legimus scripta, et quae vide- 
-buntur commbde dicta, appr5ba, quae vitidse, 
+G, Ausculta dum legimus scripta, et quae videbuntur commbde dicta, appr5ba, quae vitidse, 
 improba. 
 
-0. Fiat ea lege hoc adeo, si neque laudatas su- 
-perbia, neque reprehensione perstrictus bile 
+0. Fiat ea lege hoc adeo, si neque laudatas superbia, neque reprehensione perstrictus bile 
 intumescat. 
 
 L. Spondeo meam vicem. 
@@ -28862,8 +27516,7 @@ erga me pristinam, nee me, sicvt antea diligas.
 caetgra itete. 
 
 G. Si errOy tUy quce proxima inciderit occasioy earn 
-noli proetermittere quin ad me scribasy et erro- 
-rem hunc mihi eripias: si id non fecerisy ne 
+noli proetermittere quin ad me scribasy et errorem hunc mihi eripias: si id non fecerisy ne 
 
 
 
@@ -28878,14 +27531,12 @@ hanc opinionem ex animo meo evelle. Quod si
 prcestar'e detrectaveris, ne succenseas^ si deinceps 
 inimicorum te loco habuero. 
 
-0. Uterque baud inepte, et paulo melius Lam- 
-bertus. 
+0. Uterque baud inepte, et paulo melius Lambertus. 
 
 G. Simus itaque pares hactenus. Ceterum sequa 
 manu ex hoc praelio non discedemus. 
 
-L. Planum hoc, et ad victoriam maxime id in- 
-terest. 
+L. Planum hoc, et ad victoriam maxime id interest. 
 
 O. Ad reliqua procedamus. 
 
@@ -28899,8 +27550,7 @@ L. Quod a me attinet.
 
 0. Kecte. 
 
-G. Quod a me attinet^ idem sum erga te, quern cogno- 
-visti a Ion go tempore. 
+G. Quod a me attinet^ idem sum erga te, quern cognovisti a Ion go tempore. 
 
 L. Barbarum et hoc. 
 
@@ -28942,8 +27592,7 @@ non adhibuisti illud : quod ad me attiuet.
 
 L. Credebam hoc quoque Komane dictum. 
 
-L. Idem permaneo in te, quern expertus es jampri- 
-dem ; nec me ah aniore semel suscepto quidpiam 
+L. Idem permaneo in te, quern expertus es jampridem ; nec me ah aniore semel suscepto quidpiam 
 aliquando ahstrahehit. 
 
 G. Ho, ho, ho ahstrahehit. 
@@ -28951,9 +27600,7 @@ G. Ho, ho, ho ahstrahehit.
 L. Ahdrahety ahstrahet, Phui, non advertSram, 
 obstupesco, hui! obr^^psit. 
 
-0. Etiam non advertere vitia erratum est quod- 
-dam scribentium, quos convenit quam ocu- 
-latissimos esse et non solum scribere, verum 
+0. Etiam non advertere vitia erratum est quoddam scribentium, quos convenit quam oculatissimos esse et non solum scribere, verum 
 etiam scripturam relegere, bis, ter, quater 
 emendareque studiosissime. 
 
@@ -28977,9 +27624,7 @@ Tj. Ista conscripsi in magnis lahorihus ; quando plus
 
 
 
-mihi vacuitcUis contiyerit, et ad aliquid r6- 
-sponderis, sicut multum desidero et sperq, pro- 
-lixiores a me accipies. Valetudinem tuam cura 
+mihi vacuitcUis contiyerit, et ad aliquid r6sponderis, sicut multum desidero et sperq, prolixiores a me accipies. Valetudinem tuam cura 
 dilicferitissime. 
 
 O. Servabitis promissa? 
@@ -28989,13 +27634,9 @@ L. Utique.
 O. Til igitur, Gerarde, ne tibi ut victor placeas: 
 tu Lamberte, ne ut victus excandescas. 
 Qnamvis semel iterumque minus LatTne 
-qusedam inseruerit Gerardus, accuratius ta- 
-men epistolam contexuit, et loquitur Latin- 
-ius quam Lambertus. Cede tu priores, 
-cede palmam Gerardo et jactura hujus glo- 
-riolse noli ad desperationem abuti, quod 
-esset pusilli et abjecti animi, sed ad labo- 
-rem ac navitatem; quo tanto plus alias 
+qusedam inseruerit Gerardus, accuratius tamen epistolam contexuit, et loquitur Latinius quam Lambertus. Cede tu priores, 
+cede palmam Gerardo et jactura hujus gloriolse noli ad desperationem abuti, quod 
+esset pusilli et abjecti animi, sed ad laborem ac navitatem; quo tanto plus alias 
 honoris reportes, quanto ipsum victorem 
 tuum superaveris. 
 
@@ -29010,9 +27651,7 @@ PONTANUS, S. J.
 
 A dan ctns, Olympius. 
 
-A. Examen, id quod nosti, propediem instruen- 
-dum dies noctesque ante ociilos mihi obver- 
-satur penitiisque insedit in animo. 
+A. Examen, id quod nosti, propediem instruendum dies noctesque ante ociilos mihi obversatur penitiisque insedit in animo. 
 
 0. Eadem res versat et coquit mentem meam. 
 Si huic tarn gravi periciilo ereptus essem ! 
@@ -29023,23 +27662,19 @@ non idoneas ob causas declinavi ludum, id
 
 Dialogues. 
 nunquam seqiie sensi ut nunc sentio quan-, 
-turn damni fecerim: quocirca non medi- 
-ocri in dolore sum. 
+turn damni fecerim: quocirca non mediocri in dolore sum. 
 
-0. Me pari ter jequaliterque absentia? meae, quan- 
-tumvis non tarn frequentis pudet, poenitet, 
+0. Me pari ter jequaliterque absentia? meae, quantumvis non tarn frequentis pudet, poenitet, 
 piget. 
 
 A. Accedit ad exaggerandum animi aegritudinem, 
-quod divinare non possum, quienam inter- 
-rogaturi sint illi Qua?sitores. 
+quod divinare non possum, quienam interrogaturi sint illi Qua?sitores. 
 
 0. Si scires? 
 
 A. AddiscSrem ea quam accerrime. 
 
-0. Estne aliquis ex omnibus, cui hoc detegSre so- 
-leant? 
+0. Estne aliquis ex omnibus, cui hoc detegSre soleant? 
 
 A. Nullus. 
 
@@ -29050,21 +27685,15 @@ intrepide quae scio ; itaque haeret mi hi aqua
 saepe. Hinc pro inscitia ducitur, quae non 
 fuit. 
 
-0. Ego, ne ut errans aliquantulum sinistre re- 
-spondeam, nihil quidquam vereor ; sed ne 
-ut illiteratus plane illiteratissime respon- 
-deam, id vero non mediocriter pertimesco. 
+0. Ego, ne ut errans aliquantulum sinistre respondeam, nihil quidquam vereor ; sed ne 
+ut illiteratus plane illiteratissime respondeam, id vero non mediocriter pertimesco. 
 
-A. Qui te ad istud tremendum et horribile ex- 
-amen praeparas? 
+A. Qui te ad istud tremendum et horribile examen praeparas? 
 
 0. Quidquid audivi totius anni curriculo, saepius 
 relSgo, ac repSto expositiones, quantum me 
-adjuvat memoria; in Cicerone, Grammati- 
-cis Christiana Catechesi. Ubi quid non in- 
-telligo, de condiscipiilis doctiorem aliquem 
-interrogo. Ad haec, denuo mando memo- 
-riae praecepta pro virili. 
+adjuvat memoria; in Cicerone, Grammaticis Christiana Catechesi. Ubi quid non intelligo, de condiscipiilis doctiorem aliquem 
+interrogo. Ad haec, denuo mando memoriae praecepta pro virili. 
 
 A. Nimium operosus labor est tarn multa discSre. 
 
@@ -29076,53 +27705,42 @@ A. Nimium operosus labor est tarn multa discSre.
 
 A. Certuin est tamen non omnia qua?sitiiros. 
 
-O, Pi'opterea instructiim esse in omnibus con- 
-venit, quia quod ipsis lubet interrogant de 
-omnibus prudenter. Si enim ordine inter- 
-rogare velint universa, idque de singulis, 
+O, Pi'opterea instructiim esse in omnibus convenit, quia quod ipsis lubet interrogant de 
+omnibus prudenter. Si enim ordine interrogare velint universa, idque de singulis, 
 nimis longum sit et fastidii plenum. Qui 
 poiTO qusestioni cuicumque apte respondeat, 
 is totam videtur scientiam consecutus. 
 
-A. Non stulte dictum. O si prseteriisset hac tur- 
-bulentissima tempestas ! 
+A. Non stulte dictum. O si prseteriisset hac turbulentissima tempestas ! 
 
 0. Subeunda et perferenda est, si optes ascend^re. 
 
 A. Tametsi hucusque segregfivi a me ignaviam in 
 ista prseparatione, tamen cogor nervos magis 
-contendere, turn ne rejiciar, turn ne de pos- 
-tremis fiam unus, cui rei, prasertim quando 
-est major ascendentium societas magna ad- 
-juncta turpitudo et infamia. At enim, nisi 
-examen istuc impiidens me adigeret, num- 
-quam studia forent mihi tanti, ut eorum 
+contendere, turn ne rejiciar, turn ne de postremis fiam unus, cui rei, prasertim quando 
+est major ascendentium societas magna adjuncta turpitudo et infamia. At enim, nisi 
+examen istuc impiidens me adigeret, numquam studia forent mihi tanti, ut eorum 
 gratia caput affligerem. 
 
-0. Non ob examen duntaxat, sed ob futuras quo- 
-que pralectiones melius citiusque capiendas 
+0. Non ob examen duntaxat, sed ob futuras quoque pralectiones melius citiusque capiendas 
 audita repetenda et recolenda sunt, ut sic 
 felicius et fructuosius in superiore schola 
 versemur. 
 
-A, In scri ptione baud leve momentum est ; ibi bar- 
-barismos et soloecismos timeo, malas bestias. 
+A, In scri ptione baud leve momentum est ; ibi barbarismos et soloecismos timeo, malas bestias. 
 
 O. Non sine causa; mordent atrociter. 
 
-A, Ex tempore, sine ullo libro in schola de ar- 
-gumento improviso scribendum. 
+A, Ex tempore, sine ullo libro in schola de argumento improviso scribendum. 
 
 0. Omnia denique ad exploratam progressurn 
 nostrorum et cognitionem capiendam insti' 
 
 
 Dialogues, 
-tuuntur; ideo reprehensioni affinia neqiia- 
-quam putanda sunt. Et cum hujuscem6di 
+tuuntur; ideo reprehensioni affinia neqiiaquam putanda sunt. Et cum hujuscem6di 
 discrimina in annos recurrant singulos, nec 
-ulla via evitabilia sint, reddamur studiosi- 
-ores : numquam vidi diligentes excludi. 
+ulla via evitabilia sint, reddamur studiosiores : numquam vidi diligentes excludi. 
 
 A, Opitulemur alter altSri in ista prseparatione. 
 O. Opgram meam tibi promitto. 
@@ -29138,8 +27756,7 @@ Paulus, Gregorius, Faustinus,
 
 P. Jubemus te salvere, Gregftri noster. 
 
-O. Salvete, suavissimi sodales mei: quid agi- 
-
+O. Salvete, suavissimi sodales mei: quid agi
 tur? 
 
 P. Mirabamur paulo ante ego et Paulus ubmam 
@@ -29156,19 +27773,15 @@ G, Nulla, Paule.
 
 F. Quid ego, amabo te, creavit hanc absent! am? 
 
-G. Dum per tabulata in summis sedibus euro in- 
-
-cautius, clavi cuspide e vetusto assure promi- 
-nente me indui : id vulnus me ut claudum 
-sutorem residere domi solum adegit, et ju- 
-cundissimi spectaculi fructu privavit. Sed 
+G. Dum per tabulata in summis sedibus euro in
+cautius, clavi cuspide e vetusto assure prominente me indui : id vulnus me ut claudum 
+sutorem residere domi solum adegit, et jucundissimi spectaculi fructu privavit. Sed 
 unde VOS ad me? 
 
 
 
 
-P. CelSri passu ex ipso theatre hue nos contull- 
-mus. 
+P. CelSri passu ex ipso theatre hue nos contullmus. 
 
 G, Frons Iseta, et oculi ludibundi indicio sunt 
 rem cecidisse ut voluistis. 
@@ -29181,14 +27794,12 @@ F. Haud aliquando aeque beati fuimus ut hodie.
 
 popiili admurmurationem consecuti esiis. 
 
-P. Qui bene conjiciet, hunc vatem perhibeto opti- 
-mum. Ita sane, obtinuimus praemia. 
+P. Qui bene conjiciet, hunc vatem perhibeto optimum. Ita sane, obtinuimus praemia. 
 
 G. Uterque? 
 
 P. Uterque, atque ut nihil omnlno dubites, rem 
-ipsam tibi auctorem proferemqs. Ecce li- 
-bellum. 
+ipsam tibi auctorem proferemqs. Ecce libellum. 
 
 F. Ecce^meum. 
 
@@ -29214,8 +27825,7 @@ Anchisen humgris impositum ex incendio
 Trojano efterens, quern passibus etiam non 
 aequis parvus lulus sequitur. 
 
-F. Et meus, aspice, quam elegantibus signis insig- 
-
+F. Et meus, aspice, quam elegantibus signis insig
 nitus est ! 
 
 G, Sic est. A peri, ut videam quis auctor, et qua 
@@ -29226,11 +27836,8 @@ de re scriptus.
 Dialogues, 
 P. Publius Virgilius Maro. 
 
-O, Anno proximo superiore hujusm5di ego qno- 
-que consecutus sum, quern librum, utgryphes 
-in Riphaeis montibus aurum, custodio. Sum- 
-mopgre parentes recreabitis hisce munus- 
-ciilis tarn politis et micantibus. 
+O, Anno proximo superiore hujusm5di ego qnoque consecutus sum, quern librum, utgryphes 
+in Riphaeis montibus aurum, custodio. Summopgre parentes recreabitis hisce munusciilis tarn politis et micantibus. 
 
 F, Spero equidem. 
 
@@ -29249,42 +27856,32 @@ DIALOGUES.
 
 ParenSj Ludimagisier, 
 
-P. OpSrse pretium facturum me credidi, si ali- 
-quando interrogarem te uti se darent in- 
-itia, quamtumque proficSret meus Lauren- 
-tiulus. 
+P. OpSrse pretium facturum me credidi, si aliquando interrogarem te uti se darent initia, quamtumque proficSret meus Laurentiulus. 
 
-L. Est cur Deo gratias agas : mirandum in mo- 
-dum procedit in litteris. 
+L. Est cur Deo gratias agas : mirandum in modum procedit in litteris. 
 
-P. Jam hue accessum, et hoc abs te audltum gau- 
-deo, tibique secundum Deum ago gratias 
+P. Jam hue accessum, et hoc abs te audltum gaudeo, tibique secundum Deum ago gratias 
 singulares propter tuam diligentiam. 
 
 L. Similes illi utinam essent omnes. Verum 
-alios plerosque minis et ictibus spgre pro- 
-moveo ad discendum quomodocumque ; iste 
-tantum laudibus alitur; nihilque pejus ti- 
-met quam dedecus. Quod si quando in 
+alios plerosque minis et ictibus spgre promoveo ad discendum quomodocumque ; iste 
+tantum laudibus alitur; nihilque pejus timet quam dedecus. Quod si quando in 
 concertationibus frangitur (quod perquam 
 raro contingit) plorat tanquam si parentem 
 
 
 Dialogues. 
-amisisset. Excellenti imprimis est memo- 
-ria : nam cum facile percipit quae audit et 
+amisisset. Excellenti imprimis est memoria : nam cum facile percipit quae audit et 
 legit, turn fideliter continet. Quid multis? 
 Ducit classem suam, et cum tempus adgrit 
-ad scholam superidrem ascendendi, aut pri- 
-mus, aut a prime proximus, est ascensurus. 
+ad scholam superidrem ascendendi, aut primus, aut a prime proximus, est ascensurus. 
 
 P. De moribus quid sperem? 
 
 L. Non mindra. Pius omnino puerulus est. 
 Catechismum memoria tenet ut nomen suum ; 
 rosarium secum assidue, et in sinu semper 
-libellum precatidnum gestat; cum in tern- 
-plum venlmus, quietissimus est, Deumque 
+libellum precatidnum gestat; cum in ternplum venlmus, quietissimus est, Deumque 
 precibus colit quam religiosissime : quin et 
 in ludo nemo ipso tranquillior, nemo ad 
 parendum promptior. Aureum genuisti 
@@ -29300,8 +27897,7 @@ enim prorsus carere libgris quam eos non
 habere quam preestantissimos : quales tua 
 fideli opera me visurum spero. 
 
-C. Deus votis tuis operatisque quam cumula- 
-tissime respondeat. 
+C. Deus votis tuis operatisque quam cumulatissime respondeat. 
 
 
 PONTANUS, S. J. 
@@ -29315,49 +27911,35 @@ PONTANUS, S. J.
 Magisier^ JDiscipulis. 
 
 M. Non tu existimas, Antoni, ad progressus in 
-eruditione liberali hand ita longinquo tem- 
-p5re consequendos permagni interesse, cer- 
-tosne tibi labdres, libros, exercitationes pro- 
-p5nas, qnibus studium dedas in dies singu- 
-los, an ut impetus tulSrit, et quamdiu tulSrit, 
+eruditione liberali hand ita longinquo temp5re consequendos permagni interesse, certosne tibi labdres, libros, exercitationes prop5nas, qnibus studium dedas in dies singulos, an ut impetus tulSrit, et quamdiu tulSrit, 
 ita quidquid et tamdiu agas? 
 
 jD. Sane quidem maximi interest. Haec mea est 
 opinio. 
 
 M. Nonne praeterea intelligis quanti refuse ac 
-perturbate, an distinct e, et ordine discas at- 
-que exerceas, quae discenda et exercenda sunt? 
+perturbate, an distinct e, et ordine discas atque exerceas, quae discenda et exercenda sunt? 
 
-D. Ego vero perspicue intelligo et reipsa id ex- 
-perior. 
+D. Ego vero perspicue intelligo et reipsa id experior. 
 
-M. Non tu igitur consuevisti certa quaedam trac- 
-tare et unumquodque praestituta bora per 
+M. Non tu igitur consuevisti certa quaedam tractare et unumquodque praestituta bora per 
 diei spatium? 
 
 Prorsus consuevi. 
 
 Commemdra mihi quanam istuc ratione. 
-Postequam ad primam auroram somno solu- 
-tus de lectulo surrexi, corpus amictu con- 
-text, faciem ablui, capillum pexui, quartam 
+Postequam ad primam auroram somno solutus de lectulo surrexi, corpus amictu context, faciem ablui, capillum pexui, quartam 
 horae partem divmis precationibus transigo, 
-a coelesti Doctdre opem auxiliumque efSa- 
-gito, me illi cum studiis et actionibus diur- 
-nis totum efibro et dedico. 
+a coelesti Doctdre opem auxiliumque efSagito, me illi cum studiis et actionibus diurnis totum efibro et dedico. 
 
-M, Castissime: a Deo enim qui est totius sapi- 
-entiae primus et antiquissimus Parens, auspi- 
-cari oportet; ab eo agendi sunt capienda initia. 
+M, Castissime: a Deo enim qui est totius sapientiae primus et antiquissimus Parens, auspicari oportet; ab eo agendi sunt capienda initia. 
 
 
 Dialogues, 
 D, Turn me ad libros applico. Prime dum omnia 
 qu8e ante meridiem in scholis pronuntianda 
 sunt ex memoria edisco. Keliquiim tempus 
-in vespertlnis diei prsecedentis interpreta- 
-tionibus dictatisque consumo : ut si jusseris, 
+in vespertlnis diei prsecedentis interpretationibus dictatisque consumo : ut si jusseris, 
 possim auctorem explanare. -<Ere campano 
 interea in ludum arcessimur, ibi tu ipse 
 nosti quid again. 
@@ -29369,28 +27951,21 @@ retracto ac revolve, quae te explicantem, et
 alioqui ad nos expoliendos accommodata et 
 idonea disserentem audivi. Si quid supSrest 
 temp5ris, quern admSdum mane quoque, 
-Adrianum Cardinalem, aut epistblas Cicero- 
-nis lectito. 
+Adrianum Cardinalem, aut epistblas Ciceronis lectito. 
 
 M. Pectissime. Quando scribis? 
 
-D, Secundum scbolas pomeridianas usque ad coe- 
-nam: id est intervallum horse et semis. 
+D, Secundum scbolas pomeridianas usque ad coenam: id est intervallum horse et semis. 
 Nunquam autem scriptioni manus admoveo, 
-nisi prius Ciceronem versaverim, animum- 
-que meum illius compositissimse ac splendi- 
-dissimse orationis illecSbra delinitum, amore 
-et diligentia ad similiter scribendum inflam- 
-marim. 
+nisi prius Ciceronem versaverim, animumque meum illius compositissimse ac splendidissimse orationis illecSbra delinitum, amore 
+et diligentia ad similiter scribendum inflammarim. 
 
-M, Euge, prudentissimum consilium. Quam vel- 
-lem te condiscipiili et quotquot posthac se 
+M, Euge, prudentissimum consilium. Quam vellem te condiscipiili et quotquot posthac se 
 mihi in disciplTnam tradent, imitarentur! 
 Hoc si fiat, publico fiat bono. A coena quid 
 inceptas? 
 
-D, Si non desunt sodales, honestis facetisque ser- 
-monibus, aliquando symphonia, seu cantu 
+D, Si non desunt sodales, honestis facetisque sermonibus, aliquando symphonia, seu cantu 
 musico, cum illis diem comburo. Si solus, 
 
 
@@ -29398,23 +27973,18 @@ musico, cum illis diem comburo. Si solus,
 
 turn aut testudmem pulso, aut fabellas ^Esopi, 
 apophthegmata, historiam planam et diserte 
-ac terse conscriptam, quandoque etiam fes- 
-tlva et pudlca, poemata lego, quibus lectiun- 
-culis oblecto otiSlum meum, et turn ex ipsa 
+ac terse conscriptam, quandoque etiam festlva et pudlca, poemata lego, quibus lectiunculis oblecto otiSlum meum, et turn ex ipsa 
 rerum pulcherrimarum eognitione, turn ex 
-sermonis elegantia, quasi aliud agens, utili- 
-tatis fructum minime poenitendum excerpo. 
+sermonis elegantia, quasi aliud agens, utilitatis fructum minime poenitendum excerpo. 
 
 M. Liberalius, jucundius, conducibilius suadere 
 tibi nihil potuissem; supra setatem sapis. 
 Diebus festis, quid rerum agis? 
 
-D. Ad exercendam memoriam, de Poetis veteri- 
-bus, item ex Cicerdne, Livio, Sallustio, locos 
+D. Ad exercendam memoriam, de Poetis veteribus, item ex Cicerdne, Livio, Sallustio, locos 
 insignes edisco, quia te id in laude ponere 
 non sum nescius. Prseter ista in Grsecis non 
-parum temporis, colloco. E sacris auctori- 
-bus ad animum emendandum etiam sa?pe 
+parum temporis, colloco. E sacris auctoribus ad animum emendandum etiam sa?pe 
 aliquid lego. 
 
 M. Probo summopere institutum. Quid? diem 
@@ -29431,18 +28001,14 @@ M. Quid ergo facis?
 D. Ubi boras aliquot corpus animumque jucunde 
 recreavi, et ad omnem me hilaritatem edudi, 
 mihimet receptui cano, ad libellos regredior. 
-Nam me quemcumque diem, quo non didi- 
-c6rim, perdidisse statuo. 
+Nam me quemcumque diem, quo non didic6rim, perdidisse statuo. 
 
-M. Quam non invito ad aures sermo hie tuus ac- 
-cessit I O te solertissimum, o summe indus- 
-
+M. Quam non invito ad aures sermo hie tuus accessit I O te solertissimum, o summe indus
 
 Dialogues, 
 trium adolescentem? Tu non aniandus? 
 Tu non gestandiis in sinn? Mane in hac 
-ratione semper teque ex ea lucrum emolu- 
-mentumque uberrimum, et immortalis glorise 
+ratione semper teque ex ea lucrum emolumentumque uberrimum, et immortalis glorise 
 splenddrem acquisiturum spera. 
 
 Pont ANUS, s. j. 
@@ -29477,8 +28043,7 @@ si captus fuissem ociilis.
 
 C. Sed quid est in quo tibi commodare possim? 
 
-J. Da mihi mutuas centesimas triginta quadra- 
-gintave. 
+J. Da mihi mutuas centesimas triginta quadragintave. 
 
 C. Non tantum nunc habeo praesentis pecuniae. 
 
@@ -29496,8 +28061,7 @@ est.
 
 (7. Totum, si usus est, accipe. 
 
-J. Inurbanus sim si te prorsus pecunia spoli- 
-avero. 
+J. Inurbanus sim si te prorsus pecunia spoliavero. 
 
 0. Hodie non egebo : universam accix)e. 
 
@@ -29510,8 +28074,7 @@ J. Amo de te ista tarn prompta benignitate.
 
 (7. Si quid aliud poscis ne parcas. 
 
-J. Keddam ab ob5lum, Deo volente, quum pri- 
-mum eras te videro. 
+J. Keddam ab ob5lum, Deo volente, quum primum eras te videro. 
 
 <7. Illam mitte sollicitudinem : nondum est opus 
 mihi. 
@@ -29525,8 +28088,7 @@ J. Ego sodales reviso et lusum repSto.
 
 (7. Faxit Deus, ut melidri auspicio it6res. 
 
-J. Alit ludentem spes victorise, et ipsa dies quan- 
-doque parens, quandoque noverca est. V ale 
+J. Alit ludentem spes victorise, et ipsa dies quandoque parens, quandoque noverca est. V ale 
 in crastinum. 
 
 Van Torre, s. j. 
@@ -29556,19 +28118,16 @@ videris cochleae ex more vitam ag6re.
 
 J. Qui sic? 
 
-B. Quia perpetuo domi latitas, nec usquam pro- 
-repis. 
+B. Quia perpetuo domi latitas, nec usquam prorepis. 
 
 J. Est quod agam domi : foris mihi negotia non 
-sunt. Neque tarnen sum tetricus: si pro- 
-deambulare lubet hodie, non recuso. 
+sunt. Neque tarnen sum tetricus: si prodeambulare lubet hodie, non recuso. 
 
 B. Plane videtur utendum hoc coelo. 
 
 J. Utamur: adsciscendus est unus et alter socius. 
 
-B. En opportune se nobis ofFert sodalis percom- 
-modus; lepidusest adolescens: consalutemus. 
+B. En opportune se nobis ofFert sodalis percommodus; lepidusest adolescens: consalutemus. 
 
 J. Paschasi, salye: te quaerebamus. 
 
@@ -29594,8 +28153,7 @@ B. Me misSrum ! Ubi deinceps similem nanciscar
 socium ! 
 
 P. Ne te sollicitet discessus mens : mei sirnilium 
-sat vilis est copia... Prseterea absentes cor- 
-p5re, praesentes animis erimus. 
+sat vilis est copia... Prseterea absentes corp5re, praesentes animis erimus. 
 
 J. Quandoquidem te a nobis distr^hit necessitas, 
 ferendum est. 
@@ -29653,8 +28211,7 @@ contraxit morbum? Non ex intempestivo
 
 
 Dialogues. * 
-litterarnm studio, opinor, nedum ex fri- 
-g5re, aiit inedia. 
+litterarnm studio, opinor, nedum ex frig5re, aiit inedia. 
 
 Man. E crudis mails, pyris, fructibu^ : nam horum 
 puer non alter seque est cupidus atque 
@@ -29687,10 +28244,8 @@ esse speciem.
 Man. Spero meliora. Superioribus diebus febri 
 quotidiana conflict abatur. 
 
-Pat. Nondum convaluit a febri : jam tertio quo- 
-que recur rit die. Sed quid tarn diu pro 
-foribus VOS detineo? Tecto, si placet, suc- 
-cedite. 
+Pat. Nondum convaluit a febri : jam tertio quoque recur rit die. Sed quid tarn diu pro 
+foribus VOS detineo? Tecto, si placet, succedite. 
 
 Man. Pax et salus hisce sedibus sit! et omnibus 
 eas incolentibus. 
@@ -29712,8 +28267,7 @@ Pat Interdiu somni nullam partem capit, noctu
 baud multo amplius: innoxii acceditis. 
 Est illi solatio et voluptati consortium. 
 
-Man, Qui vales in prsesentia, mi Charine? Nihil- 
-dum melius quam heri? 
+Man, Qui vales in prsesentia, mi Charine? Nihildum melius quam heri? 
 
 Char, Nihilo melius, quin aliquanto pejus. 
 
@@ -29721,18 +28275,15 @@ Man, Sane doleo : at bono sis ammo oportet.
 
 Char. Et vos quanam valetudme estis? 
 
-PLac, ProspSra certe, quae Dei benignitas est. Uti- 
-nam propediem tu quoque valeas perinde 
+PLac, ProspSra certe, quae Dei benignitas est. Utinam propediem tu quoque valeas perinde 
 ac nos. 
 
 Char, Ubi supgris videbitur, fiat; sin minus aequo 
 amfno ferendum est. 
 
-Plac, Charine, ut corpori tuo male sit, certe ani- 
-mus valet. 
+Plac, Charine, ut corpori tuo male sit, certe animus valet. 
 
-Char, Quid agam? Impatientia morbus aggra- 
-vescit: contra multum juvat animus in re 
+Char, Quid agam? Impatientia morbus aggravescit: contra multum juvat animus in re 
 mala bonus. 
 
 Man. Nondum tibi redditur cibi appetentia? 
@@ -29741,19 +28292,15 @@ Char, Non nauseat saltern stomachus.
 
 Man. Id felix est famis principium. 
 
-Char. Paulatim restituendam orexin spero, quo- 
-niam febris intermittSre coepit. 
+Char. Paulatim restituendam orexin spero, quoniam febris intermittSre coepit. 
 
-Plac. Nos porro precibus opitulabimus quoad po- 
-terimus. 
+Plac. Nos porro precibus opitulabimus quoad poterimus. 
 
 Char. Habeo gratiam. 
 
-Plac. Non est quod habeas ; mutua precum sub- 
-sidia pro jure suo sodales exigunt. 
+Plac. Non est quod habeas ; mutua precum subsidia pro jure suo sodales exigunt. 
 
-Char. Aliquanto crebrius deinceps commeate in- 
-visendi mei gratia. 
+Char. Aliquanto crebrius deinceps commeate invisendi mei gratia. 
 
 Man. Adhuc metuimus, visendo ne molestiam 
 tibi exhiberemus potius quam officium. 
@@ -29834,8 +28381,7 @@ attrahendo proficio.
 
 S. Tune fregisti hanc mathlam, Henrice? 
 
-H. Apage cum istac insimulatidne, nuces jug- 
-la ndes, castaneas, amygdalas fregi multas, 
+H. Apage cum istac insimulatidne, nuces jugla ndes, castaneas, amygdalas fregi multas, 
 hoc scio. 
 
 A. Quis autem pectinem meum sublegit? 
@@ -29850,11 +28396,9 @@ C. Visam. Pern elocutus es ; hie est. Pecteigitur
 caput, Adolphe. Primum, uti suadent medici, 
 radiis rarioribus, turn densioribus a bregmate 
 in occiput, rursumque ab occipite in sinciput 
-ducito : sic enim pori aperiuntur et exhala- 
-tionibus caput levatur. 
+ducito : sic enim pori aperiuntur et exhalationibus caput levatur. 
 
-A. Obtempero, ac vellem hanc me citius medicl- 
-nam docuisses. Da inductorium, calcei sunt 
+A. Obtempero, ac vellem hanc me citius mediclnam docuisses. Da inductorium, calcei sunt 
 angusti et breves. 
 
 S. Ut stridet sponda mea? ut item crepidse meae, 
@@ -29865,8 +28409,7 @@ Dialogues.
 C. Fnlmenta lecticae tuse, Adolphe, quam cariosa 
 sunt? 
 
-A. Non minus tua, si aspicias et si scruteris, for- 
-sitan musciilos aliquot invenies, qiios tibi 
+A. Non minus tua, si aspicias et si scruteris, forsitan musciilos aliquot invenies, qiios tibi 
 culcita tua stramentitia progenugrit. 
 
 C. Sentlrem, si quid esset vernulorum istorum 
@@ -29874,8 +28417,7 @@ domi mese procreatum.
 
 H. Globiilos thoraci assutos unumquemque ocello 
 suo fac indas, Adolphe : ne ut ventridsi 
-abdomina, eo infra aperto, sub interiore tu- 
-nica ventriculum tuum spectandum inggras. 
+abdomina, eo infra aperto, sub interiore tunica ventriculum tuum spectandum inggras. 
 
 A. Euge, calcedlos tuos nitidissimos vinculis suis 
 obliga ne laxi in pedo haereant. 
@@ -29920,8 +28462,7 @@ ipso lecto et toralibus.
 
 C. Nullus est hoc meticulosus seque. 
 
-S. Si spondes te damnum prsestaturum, non me- 
-tuam. 
+S. Si spondes te damnum prsestaturum, non metuam. 
 
 C, Spondeat Henricus, mihi non est otium. 
 
@@ -29938,10 +28479,7 @@ PcedagoguSy LucioluSy AmanduSy Pueriy PateVy
 Mater, 
 
 Peed. Heu ! puSri, jam satis superque lusum est a 
-coena, quantum videlicet nunquam ant6- 
-hac. Dormitum censeo allquando disce- 
-damus, quandoquidem istuc hora nos ad- 
-monuit. 
+coena, quantum videlicet nunquam ant6hac. Dormitum censeo allquando discedamus, quandoquidem istuc hora nos admonuit. 
 
 L. Hora? Numerastine, Amande, octavam? 
 
@@ -29972,13 +28510,11 @@ Peed. Nempe ita volo.
 
 L. Necdum est capido somni: ne prohibe nos, 
 amabo, adhuc aliquantisper hac tarn bell a 
-et optata lusione contendere : paululo con- 
-tent! erimus. 
+et optata lusione contendere : paululo content! erimus. 
 
 P(zd. Arcessit nos somnus, qui, quam mox cubilia 
 vestra ascenderitis, tarn mox utrumque 
-complectetur. EtSnim puerdrum est aman- 
-tissimus. Estne aliter ac dixi? 
+complectetur. EtSnim puerdrum est amantissimus. Estne aliter ac dixi? 
 
 A. Hand aliter. 
 
@@ -29986,10 +28522,7 @@ Peed. Ite prae.
 
 L. Ecce imus. 
 
-Peed. Caeterum antgquam in cubiculum nos ab- 
-damus, parentibus pro consuetudine di- 
-cenda est salus, porrigendaque prius oscu- 
-lata manus dextera, poplitibus modice 
+Peed. Caeterum antgquam in cubiculum nos abdamus, parentibus pro consuetudine dicenda est salus, porrigendaque prius osculata manus dextera, poplitibus modice 
 curvatis, id quod boni liberalesque pueruli 
 factitare consueverunt, et ego vos sic 
 institui. • 
@@ -30002,24 +28535,20 @@ capessendam proficiscimur.
 L. Salvus esto in crastinum, pater, salva esto, 
 mater. 
 
-Pat. Quid? sopor ocellos vestros obtegSre pro- 
-p6rat? Utinam quiescatis ambo tranquil- 
-lissime usque in lucem. V erumtamen non 
+Pat. Quid? sopor ocellos vestros obtegSre prop6rat? Utinam quiescatis ambo tranquillissime usque in lucem. V erumtamen non 
 
 
 
 
 
 usque adeo in multam lucem. Septem 
-horse vel pu6ris putantur sufficSre. INihil- 
-ominus ego vobis octavam et aliquid etiam 
+horse vel pu6ris putantur sufficSre. INihilominus ego vobis octavam et aliquid etiam 
 ultra indulserim. 
 
 A. Istud tibi est in manu, pater. 
 
 Mat. Dominus Jesus vigilantes vos juxta atque 
-somno consopitos ab omni malo pericu- 
-loque semper custodiat, filiSli mei. 
+somno consopitos ab omni malo periculoque semper custodiat, filiSli mei. 
 
 P. Spero equidem banc noctem eventuram nobis 
 
@@ -30036,20 +28565,16 @@ et Films cujus diror morte a sempiierna morte
 vindicati et Spiritus Sanctus, per quern ablnii 
 et sanctificaii sumus. Jam lucis or to si d ere. etc. 
 Surgite contubernales, surgite Adolphe, 
-Henrice, Symperte. Ecquid audistis? Ex- 
-pergiscimini. Tacent; cSrnite, ut valvis 
-reclusis clarissima se lux infudit. Surrectu- 
-rine estis, an non? 
+Henrice, Symperte. Ecquid audistis? Expergiscimini. Tacent; cSrnite, ut valvis 
+reclusis clarissima se lux infudit. Surrecturine estis, an non? 
 
-A. Quid tu (malum !) nobis ista borribili vocifera- 
-tione somnum abrumpis? Quid gannis? Quid 
+A. Quid tu (malum !) nobis ista borribili vociferatione somnum abrumpis? Quid gannis? Quid 
 vis? atra bilis te agitat? 
 
 C. Surgendum est tibi, deserendus nidulus. Heus, 
 heus! surge. 
 
-A. Cessa sic bos clamores edSre. Enimvero pro- 
-fecto non possum. 
+A. Cessa sic bos clamores edSre. Enimvero profecto non possum. 
 
 
 Dialogues, 
@@ -30059,8 +28584,7 @@ Dialogues,
 
 C. Profecto potes. 
 
-A. Connivi potius hac nocte quam dormivi, eam- 
-qiie plenam timoribus et miseriis habiii; 
+A. Connivi potius hac nocte quam dormivi, eamqiie plenam timoribus et miseriis habiii; 
 plimibeum gero caput. 
 
 (7. Et cujusnam erant illi rhonchi? 
@@ -30088,15 +28612,13 @@ Erratis nterque, tu et horologium. Adhuc
 nox atra cava circumvolat umbra 
 
 C. Scilicet in oculis tuis. Faxo mox adducfitur 
-faber, qui forcipibus illos tibi aperiat. Ex- 
-cute noctem, -lormitator. Quin surgis? 
+faber, qui forcipibus illos tibi aperiat. Excute noctem, -lormitator. Quin surgis? 
 
 H. Obtundis, jam primum versavi me in alterum 
 latus. 
 
 (7. O Christe, etiam hie stertere vult in meridiem. 
-In eodem ludo videntur docti ad somno- 
-lentiam. Sed est vocis sat. Symperte, 
+In eodem ludo videntur docti ad somnolentiam. Sed est vocis sat. Symperte, 
 surge. 
 
 S. Dictum ac factum, surgo. 
@@ -30122,8 +28644,7 @@ Cur tu istud quseris?
 
 Quia de more ad sextam liceret somno recreari. 
 Negotiosus, seu pro festus est, non festus. Sed 
-conticeseite dum solitam precation em ex- 
-pedio: attendite, animosque vestros ad Deum 
+conticeseite dum solitam precation em expedio: attendite, animosque vestros ad Deum 
 transferte. 
 
 A. Hoc agimus. 
@@ -30151,8 +28672,7 @@ adjuva me, Fulgenti.
 
 
 Dialogues, 
-F. Quam miiltis astrigmenti et quam scite hie su- 
-bligar thoraci alligavit. 
+F. Quam miiltis astrigmenti et quam scite hie subligar thoraci alligavit. 
 
 D. Sic oportet. Ast ego, aspice ut labSrem in 
 abstrabendis caligis. 
@@ -30210,8 +28730,7 @@ F, Nec ibi honestnm est in indusio conspici a
 prsetereuntibus. 
 
 D. Par reponam quod te mordeat. Quorsum tot 
-fibulae? Ad orn amentum scilicet superva- 
-caneum, atque ad dissipandasetdispergendas 
+fibulae? Ad orn amentum scilicet supervacaneum, atque ad dissipandasetdispergendas 
 pecunias. 
 
 F. Tua quid interest? 
@@ -30231,8 +28750,7 @@ baud mecum sentit. Verumego periscelides
 seu facias crurales tuas validius optaverim 
 quarn tu istam zonam meam. 
 
-J. Posterius hoc dicis quam credidi. At tu, Ful- 
-genti, in area tarn alta, tarn longa, tarn lata, 
+J. Posterius hoc dicis quam credidi. At tu, Fulgenti, in area tarn alta, tarn longa, tarn lata, 
 quid habes? 
 
 F. Quid hoc autem ad te attinet? libros nonnullos 
@@ -30241,8 +28759,7 @@ philosophicos.
 i). Hui philosophicos 
 
 F, Ita, philosophicos, quibus me usurum spero, 
-postquam aevi florem contigero : aliquot in- 
-dusia, femoralia bina, tibialium paria duo, 
+postquam aevi florem contigero : aliquot indusia, femoralia bina, tibialium paria duo, 
 interulam elegant! opere contextam, pileum 
 sericum, et quatuor tenuissima tela, perque 
 angiilos acu picta sudariola. Adhsec totidem 
@@ -30255,19 +28772,14 @@ quales sacerdotes litteratique viri gestant.
 
 
 Dialogues, 
-D. Quam comm5dura est conopeum hoc, quo mus- 
-cas et ciillces arces? 
+D. Quam comm5dura est conopeum hoc, quo muscas et ciillces arces? 
 
-J. Beatus ter et amplius si quid etiam ad arcen- 
-dos polices. 
+J. Beatus ter et amplius si quid etiam ad arcendos polices. 
 
-D. Obsgcro tu mihi armorum tuoriim tegumento- 
-rumque pauxillulum comm6da, quibus te 
-adversus illorum insultus morsusque coin- 
-munire soles atque defendgre. 
+D. Obsgcro tu mihi armorum tuoriim tegumentorumque pauxillulum comm6da, quibus te 
+adversus illorum insultus morsusque coinmunire soles atque defendgre. 
 
-F. V?e inisSro. Ut se isti impudentissimi scele- 
-ratissimique sacrificatores meo sanguine hac 
+F. V?e inisSro. Ut se isti impudentissimi sceleratissimique sacrificatores meo sanguine hac 
 nocte ingurgitabunt: intggros alo exercitus, 
 et sum stigraaticus toto corp5re. 
 
@@ -30280,14 +28792,12 @@ splendid issim am ac principe dignam.
 
 J. Ideone arctius dormis ac nos? qui sestate, ut 
 nuric, gausapmis tegimur laxis: cortinas 
-sericas, tuasque exoticas delicias nihili pen- 
-dimus. At, at! Praeceptor redit, sileamus, 
+sericas, tuasque exoticas delicias nihili pendimus. At, at! Praeceptor redit, sileamus, 
 et in lectum perniciter. 
 
 P. Comprimite linguas. Siccme hoc figri? An 
 istuc est colgre vespertlnum silentium? 
-Cras pro his meritis condigno vos affi- 
-ciam pretio. Cur non occlusisti valvas, 
+Cras pro his meritis condigno vos afficiam pretio. Cur non occlusisti valvas, 
 Juste? 
 
 J. Oblltus sum. 
@@ -30295,8 +28805,7 @@ J. Oblltus sum.
 P. Solemnem precationera edidistis? imo earn 
 quoque, ut suspicor, obllti estis. Vide quam 
 parum religiosi sunt isti adolescentes; sic 
-somnum carpsissent, Deique, suique, mei- 
-
+somnum carpsissent, Deique, suique, mei
 
 
 
@@ -30324,8 +28833,7 @@ obsonator noster, Dromo, spartam cape,
 curre in forum piscarium curriculo, adfer 
 quos mercatus es pisces : et accelSra. 
 
-Ant. Modo obsonator Judocus rediit: advexit sal- 
-monem, acipenserem, raias, ostrea, soleas, 
+Ant. Modo obsonator Judocus rediit: advexit salmonem, acipenserem, raias, ostrea, soleas, 
 pisces alios varii generis. 
 
 Arc. Visam: ades hue. Anthrax: pisces igni 
@@ -30369,8 +28877,7 @@ A rc. Cedo ut igni superponam : tu adfer croticulam.
 
 Ant. Num is asellus erat recentior? 
 
-Arc. Caput consule: en ut rubent branchiae: id in- 
-dicium est certissimum. Aquamne in 
+Arc. Caput consule: en ut rubent branchiae: id indicium est certissimum. Aquamne in 
 ahenum infudisti, quod jusseram? 
 
 Ant. Etiam supra focum appendi. Quid postea. 
@@ -30382,11 +28889,8 @@ ahenum, modo dimittis; serva medium.
 Ant. An aceti guttas aliquot instillabo, quo piscis 
 sapiat acrius? 
 
-Arc. Tu fac ipse sapias et abstine. Instillabis ace- 
-tum cum tibi praecepero. Laurenti, ad- 
-mone architriclinum, mensarn ut sternat: 
-interea temporis csetSra fercula appar- 
-avero. 
+Arc. Tu fac ipse sapias et abstine. Instillabis acetum cum tibi praecepero. Laurenti, admone architriclinum, mensarn ut sternat: 
+interea temporis csetSra fercula apparavero. 
 
 
 Van Torre, s. j. 
@@ -30403,8 +28907,7 @@ L. Heus, heus, ArchitriclTne, adesdum extrue
 ocyus mensam ; est enim tempus prandendi. 
 Herus praestolatur convivas. 
 
-A. Jam unum id ago: sis mihi paululum sub- 
-sidio, quseso te. 
+A. Jam unum id ago: sis mihi paululum subsidio, quseso te. 
 
 L, Non recuso. Ubi est mappa? 
 
@@ -30414,8 +28917,7 @@ L. Ubi autem orbes sunt stannei?
 
 A. Kespice : sunt ad manum supra abacum. 
 
-L. Papa?! ut relucent non secus ac tersum specu- 
-lum. 
+L. Papa?! ut relucent non secus ac tersum speculum. 
 
 A. Hoc meis debent manibus: heri ad sudorem 
 defricui. Mantile mundum singulis impone 
@@ -30424,40 +28926,32 @@ orbibus: juxta vero cultrum cochleare.
 L. Monstra mihi sallna, implebo sale : ubinam 
 sunt? 
 
-A. Foris propter januam triclinii yidebis arma- 
-rium: aperi, illic invenies. Una adfer canis- 
-trum. 
+A. Foris propter januam triclinii yidebis armarium: aperi, illic invenies. Una adfer canistrum. 
 
-L. Scio consuetudinem : addam sub unumquod- 
-que mantile panem triticeum candidum. 
+L. Scio consuetudinem : addam sub unumquodque mantile panem triticeum candidum. 
 
 A. Sicut dicis. Panem autem secundarium seca 
-in partes oblongas, ut circumferatur cupi- 
-entibus. 
+in partes oblongas, ut circumferatur cupientibus. 
 
 L. Videtur hie panis non recens. 
 
 A, Ne te crucia: abi, statue sallnum hoc in 
-medio mensse : ego aquam hauriam exter- 
-gendis cyathis vitreis, et cantharis. 
+medio mensse : ego aquam hauriam extergendis cyathis vitreis, et cantharis. 
 
 L Jamjam operam tibi navabo. 
 
 
 Dialogues, 
-A, Cave ne illidas illos in marginem situlse et de- 
-fringas, crystal lini sunt et cari. 
+A, Cave ne illidas illos in marginem situlse et defringas, crystal lini sunt et cari. 
 
 L. Quotquot opus est eluere? 
 
-A. In singulis convivas bina vitra; altSrum vina- 
-rium, altgruni cerevisarium 
+A. In singulis convivas bina vitra; altSrum vinarium, altgruni cerevisarium 
 
 L. Nu mqu id deside ratur prseterea? 
 
 A, Sedilia adferamus e proximo conclavi. Nunc 
-confiisa suo qu\^que loco reponamus, Cceno- 
-culum instructum est: adsint convivse, ubi 
+confiisa suo qu\^que loco reponamus, Ccenoculum instructum est: adsint convivse, ubi 
 libugrit. 
 
 L. Patrem familias commonefaciam. 
@@ -30470,8 +28964,7 @@ Van Torre, s. j.
 Donatus, Simon. 
 
 D. Age quoniam nunc otidsi sumus, narra mihi, 
-qiieeso, aliquid de hesterno convivio, in- 
-structo domi tuae. 
+qiieeso, aliquid de hesterno convivio, instructo domi tuae. 
 
 S. Quid de illo scire cupis? 
 
@@ -30479,8 +28972,7 @@ D. Primum, qui convivse fuerint: deinde quam
 lautum et opiparum convivium. 
 
 S. Convivae fuere hi praecipui: Consul es duo, 
-urbis praefectus, alii tres primae notae e sena- 
-torum numero. 
+urbis praefectus, alii tres primae notae e senatorum numero. 
 
 D. Nostme viros? 
 
@@ -30508,8 +29000,7 @@ S. Longum est singula enarrare fercula: dabo
 tam( n opgram, ut aliqua ex parte expleam 
 desiderium tuum. 
 
-D, Succedamus sub porticum, ut in umbra com- 
-modius fabulemur. 
+D, Succedamus sub porticum, ut in umbra commodius fabulemur. 
 
 S. Accipe ergo mensse principium. In primis 
 apposita? sunt pernje salitse, linguae bubulae 
@@ -30531,16 +29022,14 @@ posterius ; sine me cibos expedire.
 I). Prosequere; ausculto. 
 
 S. In stcundo missu baec fere fuerunt: artocreas, 
-pulli gallinacei elixi cum intiibis candidissi- 
-mis, caro bubula, vervecina; suilla recens et 
+pulli gallinacei elixi cum intiibis candidissimis, caro bubula, vervecina; suilla recens et 
 salsa. Sed hie fabulatum fuit plus quam esum. 
 
 D. Nil miror: desiderabatur condimentum. 
 
 S. Quodnam? 
 
-I). Fames. Nam ut in adagio: Optimum envdi- 
-meuLum est fames. 
+I). Fames. Nam ut in adagio: Optimum envdimeuLum est fames. 
 
 S. Fames non deSrat, verum assa expectabantur. 
 
@@ -30550,8 +29039,7 @@ S. Assa haec fuerunt apposita: pulli columbini;
 
 
 Dialogues, 
-anser farttlis, nefrendes castaneis farti cuni- 
-cilli et armus vervecinus, duae perdices 
+anser farttlis, nefrendes castaneis farti cunicilli et armus vervecinus, duae perdices 
 junctae cum lepusciilo. 
 
 D, Unum mihi videtur praetermisisse. 
@@ -30569,8 +29057,7 @@ D. O quot gulae irritamenta !
 
 S. Tandem cum jam nemo amplius quidquam 
 attingeret, jubet pater inferri bellaria, in 
-quibus haec fuerunt inter caetera: caseus re- 
-cens et vetus, placenta a pomis, oryza in lacte 
+quibus haec fuerunt inter caetera: caseus recens et vetus, placenta a pomis, oryza in lacte 
 cocta sacch^ro et cinnamo dense conspersa. 
 Armen iaca mala, ficus cerasa, uvae passae, et 
 alia quae nunc mihi non occurrunt. 
@@ -30578,8 +29065,7 @@ alia quae nunc mihi non occurrunt.
 i). Age vero, quale vinum appositum fuit? 
 
 S. Si de colore quaeris, album fundebatur, rubrum 
-et flavum, omnia generosissima: commenda- 
-bant plerique Ehenanum pauci bibebant 
+et flavum, omnia generosissima: commendabant plerique Ehenanum pauci bibebant 
 Gallicum, vix aliquis delibabat Hispanum. 
 
 D. Quis fuit prandii exitus? 
@@ -30587,10 +29073,8 @@ D. Quis fuit prandii exitus?
 S. Ubi pater vidit con vivas omnes jam saturos 
 edendo et bibendo, ordine tolluntur omnia: 
 datur aqua odorifera manibus abluendis. De 
-more Deo gratias agimus. Denique ad con- 
-vivas pater inquit: Mihi, qu?eso, ignoscite, 
-quod pro dignitMe non ampliter satis ex- 
-ceperim. Contra Prsefectus urbis objurgat 
+more Deo gratias agimus. Denique ad convivas pater inquit: Mihi, qu?eso, ignoscite, 
+quod pro dignitMe non ampliter satis exceperim. Contra Prsefectus urbis objurgat 
 eum, quod tarn magnifico et sumptuoso 
 appariitu convivatus fuisset. His dictis, 
 
@@ -30627,8 +29111,7 @@ Van Toeee, s. j.
 
 Prceceptor, Ccesarius, Lucianus. 
 
-P. Age, Csesari, et tu, Lucia ne. qua tide ac dili- 
-gentia gessistis munus vobis impositum, 
+P. Age, Csesari, et tu, Lucia ne. qua tide ac diligentia gessistis munus vobis impositum, 
 observandi ea quse pracipue peccari solent 
 inter missse sacriticium. 
 
@@ -30649,8 +29132,7 @@ ex adverse respondeat.
 
 L. Sic agere jam apud nos statueramus. 
 
-C. Sunt, qui templum dum intrant, sibi non adhi- 
-bent aquam lustralem. 
+C. Sunt, qui templum dum intrant, sibi non adhibent aquam lustralem. 
 
 L. Et sunt, qui plus seque adhibent, nec enim mode 
 frontem, sed guttur etiam aspergunt. 
@@ -30665,8 +29147,7 @@ ad umbilicum pertingant.
 C, Multi Deo altare versus hondrem non habent. 
 
 L. Et multi^iuoque plusquam semel habent, toties 
-ferme acclinantes corpus et pedibus reducen- 
-dis perstrepentes incondite, quot sunt in 
+ferme acclinantes corpus et pedibus reducendis perstrepentes incondite, quot sunt in 
 templo arie et sacra signa. 
 
 C. Vidi qui nulla id poscente causa legitima, sacro 
@@ -30685,8 +29166,7 @@ res divinas pie afFecti.
 
 L/. Sunt pariter, qui assiduas quidem fundunt 
 preces, at labiorum motu, collisuque ita 
-sondro, ut exaudiantur a circumstanti- 
-bus. 
+sondro, ut exaudiantur a circumstantibus. 
 
 C. Subrident quidam cum precantur. 
 
@@ -30700,8 +29180,7 @@ C. Quosdam v'deas, qui manus habent to to illo
 tempore in peram insertas, aut immissas in 
 inanicam. 
 
-L. Et cernis quosdam, qui manus pro pect5re con- 
-junctas aut consertas teneant quidem : at non 
+L. Et cernis quosdam, qui manus pro pect5re conjunctas aut consertas teneant quidem : at non 
 sine specie quadam assimulatse pietatis. 
 
 C. Sunt qui se per idem sacrum tempus, aut foede 
@@ -30716,14 +29195,12 @@ ut satis ex longinquo feriant ai4res.
 
 C. Bene multi oculos intendunt in omnes partes. 
 
-L. Alii clauses habent, aut uni loco defixos immo- 
-biliter; aut sursum arrectos, sic ut nihil 
+L. Alii clauses habent, aut uni loco defixos immobiliter; aut sursum arrectos, sic ut nihil 
 ociili appareat prseter album. 
 
 P. Abite, egregii estis; sane meremini, prseclari 
 quidpiam ut quaeram in mea cist el la, quo 
-laborem a vobis susceptum remunSrer. Cae- 
-tSrum, date omnes opfiram, ne recidat in 
+laborem a vobis susceptum remunSrer. CaetSrum, date omnes opfiram, ne recidat in 
 vanum recensio hujusmodi, neu quis vestrum 
 deinceps quidquam committat simile. 
 
@@ -30755,9 +29232,7 @@ se vest! bus sacris.
 S. Fortassis faciet ad aram Deip3.rae aut Sancti 
 Ignatii? 
 
-V. Faciet ad summum altare, certo scio. Accele- 
-remus... Viden, accurrit sedituus, ut nos ac- 
-cersat. 
+V. Faciet ad summum altare, certo scio. Acceleremus... Viden, accurrit sedituus, ut nos accersat. 
 
 S. Vah! Hodie non lavi: pudebit me manus 
 porriggre ad pnebendas ampullas, adeo nigri 
@@ -30782,12 +29257,10 @@ clavo secundum abacum.
 S. Sacrum inchoatum est, conticeamus. 
 
 F. Sacro non jam inservimus serio. Sed exercitii 
-gratia: conferamus oportet consilia. Te- 
-nesne memoria respondendi formulas? 
+gratia: conferamus oportet consilia. Tenesne memoria respondendi formulas? 
 
 S. Accurate didici et teneo. Verum tu, Vincenti, 
-volubili es lingua, segre te assgquor inter res- 
-
+volubili es lingua, segre te assgquor inter res
 
 
 
@@ -30796,8 +29269,7 @@ quo cavit, ne alter alt^runi antevertat?
 
 V. Hoc est prseceptum observatu difficile. 
 
-aS’. Non est, si advertas animum; sed unico tu spi- 
-ritu totam vis percurrgre formulam, qufe 
+aS’. Non est, si advertas animum; sed unico tu spiritu totam vis percurrgre formulam, qufe 
 longa est. Ad interpunctiones subinde recipe 
 animum, ut invicem accommodemus : et ita 
 te assgquar, sicubi hasitavero. 
@@ -30808,14 +29280,11 @@ Domini palam in altaris medio est exposita !
 
 aS’. Hie me culpa vacare satis scio : quoties enim 
 ex adverse Corp5ris Domini transeundum 
-est, consisto paulisper, sustollo pedem dex- 
-tCrum et ad calcaneum sinistri digitos ap- 
-plico, sic ut dextra tibia sinistrse surny 
+est, consisto paulisper, sustollo pedem dextCrum et ad calcaneum sinistri digitos applico, sic ut dextra tibia sinistrse surny 
 innitatur ; turn erectus, sine strepitu submitto 
 genua. 
 
-y. Certe videris in ludo humanitatis esse institu- 
-tus ad oranem urbanitatem. Verum vidistiffi 
+y. Certe videris in ludo humanitatis esse institutus ad oranem urbanitatem. Verum vidistiffi 
 hisce diebus Ignatium nostrum? Laborabat 
 ut librum de lat6re ad latus transferret, ita 
 brevi est statura. 
@@ -30828,26 +29297,20 @@ S. Quomddo doctus es quatere tintinnabulum,
 Vincenti !... Sunt qui bis terve interrumpunt 
 pulsum. 
 
-y. Ego nolam agito pulsu, non per vices inter- 
-ruptos, sed perpetuo... Decetne, Silvi, minis- 
-trum sacrificii, oculos hac iliac in circulum 
+y. Ego nolam agito pulsu, non per vices interruptos, sed perpetuo... Decetne, Silvi, ministrum sacrificii, oculos hac iliac in circulum 
 circumferre, ad minimum motum intrantium 
 templum, aut templo egredientium? 
 
 
 ^ Dialogues, 
-S. Id vero indgcens est qiiam quod maxlme... Pe- 
-racto sacro, ut a sacerdote discedendum 
+S. Id vero indgcens est qiiam quod maxlme... Peracto sacro, ut a sacerdote discedendum 
 est? 
 
 V, Non extemplo fugiendum, sed haud ita pridem 
-hanc magister nos docuit missidnem formu- 
-1am petendi... Placetne, Reverende Pater, 
+hanc magister nos docuit missidnem formu1am petendi... Placetne, Reverende Pater, 
 mihi bene precari; insuper corrig6re me, 
 siciibi err5rem aliquem admisSrim inter 
-ministrandum? Turn si admoneor venera- 
-bundus ausculto ; sin minus, exhibita sacer- 
-doti reverentia, in scholam me recipio. 
+ministrandum? Turn si admoneor venerabundus ausculto ; sin minus, exhibita sacerdoti reverentia, in scholam me recipio. 
 
 Van Torre, s..t. 
 
@@ -30885,14 +29348,11 @@ dormientibus omnia confecturum I)eum.
 P. Dum Latine loqiii sciam modo, Aristot^lem et 
 Euclidem tibi et aliis relinquam. 
 
-I. At tu, ne Latine quidem aliquando dices, si au- 
-diendi, legendi loquendi, scribendi quamdam 
+I. At tu, ne Latine quidem aliquando dices, si audiendi, legendi loquendi, scribendi quamdam 
 perse verantiam non adhibeas. 
 
-P. Quorsus hsec tetrica et jucunditatis omnis ex- 
-pertia, ut Catones aliqui fabulamur? Hodie 
-insigmter ludendum esse aio, instanrandas- 
-que vires, quas labor tarn longus delassavit. 
+P. Quorsus hsec tetrica et jucunditatis omnis expertia, ut Catones aliqui fabulamur? Hodie 
+insigmter ludendum esse aio, instanrandasque vires, quas labor tarn longus delassavit. 
 
 I. Nec Ignatius ludum quietemque necessariam 
 recusav6rit, quin paratus sum hac ipsa bora 
@@ -30902,8 +29362,7 @@ crebas et extraordin arias odi, siquldem
 honestis moribus, optimarumque artium 
 studiis detrimentosae sunt. 
 
-P. Tu fac, et senti quod collibuSrit : mihi indul- 
-gentia vacationum nihil potest contingSre 
+P. Tu fac, et senti quod collibuSrit : mihi indulgentia vacationum nihil potest contingSre 
 gratius. Magistri vidgrint quid, quibus, 
 quando indulgeant: nostrarum partium esse 
 statuo, quod conceditur non invitos accipere, 
@@ -30912,23 +29371,19 @@ quotiescumque conceditur.
 1. Olim cognosces te nimium lusisse. 
 
 P. Et tu perspicies olim te nimium studuisse; 
-quando, inquam ociili caligabunt; ventri- 
-culus cibum male conc5quet, corpus totum 
+quando, inquam ociili caligabunt; ventriculus cibum male conc5quet, corpus totum 
 pallor et macies obsidebunt. Nimia omnia 
 nimium exhibent negotium hominibus. 
 
-I. O falsidicum vatem. Haud ita me intempe- 
-ranter ingurgito littSris, ut istas praz-dictiones 
+I. O falsidicum vatem. Haud ita me intemperanter ingurgito littSris, ut istas praz-dictiones 
 formidare oporteat. Audivi etiam eruditos 
 
 
 Dialogues, 
-plurimos, ad decrepitam setatem sevura ex- 
-teiidisse, cum assidue in libris litterisque 
+plurimos, ad decrepitam setatem sevura exteiidisse, cum assidue in libris litterisque 
 essent volutati. 
 
-P. Ipse Thales ad sapientiam tuam merus nu- 
-gfitor est. Desine philosophari : hsec lux 
+P. Ipse Thales ad sapientiam tuam merus nugfitor est. Desine philosophari : hsec lux 
 hilariter consumenda est. 
 
 7. Qua tandem ratione consumenda? 
@@ -30966,8 +29421,7 @@ obtinuistis?
 
 T Neutrum. 
 
-G. Quid igitur exeundi tempus antecapitis? Nec- 
-dum enim secundam audivimus, et exTri 
+G. Quid igitur exeundi tempus antecapitis? Necdum enim secundam audivimus, et exTri 
 soiet ad quartam demum. 
 
 E Quin taces? no» displicebit tibi simul rem 
@@ -31015,15 +29469,13 @@ T. Nobis nec opinantibus hsec fortuna obtigit,
 siquidem, ita ingressi eramus gymnasium, 
 tanquam vet^ri more exituri. 
 
-G, Euh, probe. Nemo igitur banc gratiam ex- 
-torsit? 
+G, Euh, probe. Nemo igitur banc gratiam extorsit? 
 
 E. Nemo quod sciam, sponte sua benefecit nobis. 
 
 G. Omnium quantum est qui vivunt hominum 
 optimus est homo. Verum in isto concessu 
-seu liberalitate sui magis quam nostri ratio- 
-nem duxit; nam hsec lux, qua ipse primum 
+seu liberalitate sui magis quam nostri rationem duxit; nam hsec lux, qua ipse primum 
 
 
 Dialogues, 
@@ -31054,10 +29506,8 @@ PONTANUS, s. J.
 
 PhUippus, Magister^ Puerorum turha^ Decius, 
 
-P, Memoriter memini, Prseceptor, dixis.^ te ali- 
-quando nobis necessarium esse in rebus 
-vicissitudinem, nec durare posse, quod al- 
-terna requie careat. 
+P, Memoriter memini, Prseceptor, dixis.^ te aliquando nobis necessarium esse in rebus 
+vicissitudinem, nec durare posse, quod alterna requie careat. 
 
 M. Quid turn postea? quam ob causam tu id mihi 
 nunc subjicis? 
@@ -31067,8 +29517,7 @@ sententiam.
 
 M. Ergo cur usurpas? Die. 
 
-P. Quoniam res qu?edani est, quam me a benig- 
-nitate tua impetratam auferre volo. 
+P. Quoniam res qu?edani est, quam me a benignitate tua impetratam auferre volo. 
 
 M. Memora, puer. 
 
@@ -31109,22 +29558,18 @@ sumus.
 M, Itani3 vero? Exhausti? o me in discipulos 
 atrocem, o crudelem. 
 
-P. Nec unquam nobis vel ad momentum respi- 
-rare, viresque fessas reparare datum est. 
+P. Nec unquam nobis vel ad momentum respirare, viresque fessas reparare datum est. 
 
 M. Ut res suas exaggSrat? quodque contritum est 
 veiustate proverbium: Ex musca elephmitvm. 
 
-P. Quare vehementer etiam atque etiam te roga- 
-mus, Prseceptor noster, pomeridianis horis 
+P. Quare vehementer etiam atque etiam te rogamus, Prseceptor noster, pomeridianis horis 
 ad lusum remissionemque animi descendere 
 tuo concessu licitum sit. 
 
-M. ^quissimum postulas. Verum ego his con- 
-ditionibus potestatem largior. Ut absque 
+M. ^quissimum postulas. Verum ego his conditionibus potestatem largior. Ut absque 
 tumultu ludiitis, neve quis alteri turbas ciere 
-insistat. Ut ante qiiintam ad libellos rede- 
-atis. Ut deinceps manibus pedibusque, cum 
+insistat. Ut ante qiiintam ad libellos redeatis. Ut deinceps manibus pedibusque, cum 
 
 
 b b b b b b b *5 b b b 
@@ -31140,16 +29585,13 @@ schola respondeam.
 3/. Capesse cursum, condiscipulos aftice tarn bono 
 nuncio. 
 
-D. Gratias magnas, ingentes tibi agimus, human- 
-issime atque optiine Prseceptor. Heus, 
+D. Gratias magnas, ingentes tibi agimus, humanissime atque optiine Prseceptor. Heus, 
 heus, pueri. 
 
-Pt. Numquidnam apportas novi? frontem expor- 
-rexisti, hoc omen placet. 
+Pt. Numquidnam apportas novi? frontem exporrexisti, hoc omen placet. 
 
 P. Oneriitura Isetitia pectus apporto. Ego vester 
-hodie orator et ex orator fui apud Magis- 
-trum. 
+hodie orator et ex orator fui apud Magistrum. 
 
 In quo? 
 
@@ -31193,8 +29635,7 @@ PONTANUS, s. J.
 
 DonatuSj Rumoldus, Theodorus, Remigius. 
 
-D. Facta est nobis hodie ludendi, copia, Ku- 
-molde. 
+D. Facta est nobis hodie ludendi, copia, Kumolde. 
 
 Pi^um. Id tu nosti scilicet. 
 
@@ -31205,34 +29646,29 @@ Rum. Agedum quolibet te provoco lusus gen^re.
 D. Jaciamus lapides funda ad scopum. 
 
 Rum. Legibus scholasticis is lusns est vetitus, et 
-plus illi discriminis est quam volup- 
-tatis. 
+plus illi discriminis est quam voluptatis. 
 
 D. Quo nos igitur lusu oblectabimus? 
 
-Rum. Mihi quidem sphaeris lubet ludfire per annii- 
-lum ferreum. 
+Rum. Mihi quidem sphaeris lubet ludfire per anniilum ferreum. 
 
 D. Hoc lusu nimium quantum me supSras, scio 
 quam valido sis brachio. Undecumque 
-globos feris, ut metam transeant: unde- 
-cumque recta mittis per annulum. 
+globos feris, ut metam transeant: undecumque recta mittis per annulum. 
 
 Rum. Velim esse vera quae de me praedicas. 
 
 D. Globis missilibus nos exerceamus potius. 
 
 Rum. Neque viribus, neque arte tibi concessero : 
-ita torquebo globos, Donate, ut si tormen- 
-tum meum foret brachium. 
+ita torquebo globos, Donate, ut si tormentum meum foret brachium. 
 
 D. Periclitabimur tamen. 
 
 T. Trahit sua quemque voluptas, mihi placet 
 venatio a meridie. 
 
-Rum. Placet et mihi : sed ubi canes? ubi vena- 
-bula ! Ubi casses? 
+Rum. Placet et mihi : sed ubi canes? ubi venabula ! Ubi casses? 
 
 T. Valeant apri et vulpes, nos insidiabimur 
 cuniculis. 
@@ -31249,9 +29685,7 @@ T. Quo ranas astu decipis?
 
 R. Aliis atque aliis modis: interdura, ex linea 
 pendula de vimine aut arundine suspendo 
-frustulum panni rubri, ipsum in aquas di- 
-mitto : avide id glutiunt ranae, et adhaere- 
-scunt : illico ex aquis extraho. 
+frustulum panni rubri, ipsum in aquas dimitto : avide id glutiunt ranae, et adhaerescunt : illico ex aquis extraho. 
 
 T. O lepidum venatorem ! 
 
@@ -31263,11 +29697,8 @@ Rem. Non, sed arcu.
 
 T. Novum piscandi genus. 
 
-Rem. Ah! Non injucundum. Habeo balistam mo- 
-dicam, sed longo manubrio ; nervo affixum 
-est telum ferrea cuspide, praeacuta et re- 
-curva. Manu teneo funem, item nervo an- 
-nexum: turn autem sicul)i ranam undis 
+Rem. Ah! Non injucundum. Habeo balistam modicam, sed longo manubrio ; nervo affixum 
+est telum ferrea cuspide, praeacuta et recurva. Manu teneo funem, item nervo annexum: turn autem sicul)i ranam undis 
 eminentem aspicio, jaculum admoveo 
 quam possum proxime: nervum adduco, 
 mox iinpetu remitto in prfedam, ut cuspis 
@@ -31287,10 +29718,8 @@ T, At ego mox efficiam ut sexcenti prosiliant.
 
 Rem. Quo pacto? 
 
-T. Talpam simulabo. Hoc ligone terram tre- 
-mefaciam, quasi si talpa lumbricis infes • 
-tissima humum moliretur : extemplo exi- 
-
+T. Talpam simulabo. Hoc ligone terram tremefaciam, quasi si talpa lumbricis infes • 
+tissima humum moliretur : extemplo exi
 
 
 
@@ -31368,8 +29797,7 @@ jaeebunt : si impar, omnes erunt tui.
 
 Ast ego quoque jaefire velim. 
 
-Esto, sed tune quando ero vietus. Fae serobi- 
-eblum. 
+Esto, sed tune quando ero vietus. Fae serobieblum. 
 
 Comm6da eultrum. 
 
@@ -31382,8 +29810,7 @@ Dietum ae faetum; everri. Hie erit meta.
 Nimium distat. 
 
 QuomSdo nimium? Duobus passibus meis, et 
-semis : est humus plana, sine lapidibus stra- 
-toriis, leniter aeelivis, aeeommodata huie 
+semis : est humus plana, sine lapidibus stratoriis, leniter aeelivis, aeeommodata huie 
 ludo.. Si esset serobieulus ad parietem, 
 lieeret jaegre majore vi. Quot vis dem tibi 
 in manum? 
@@ -31392,8 +29819,7 @@ F, Si vis eito rem perdgre, da multos.
 
 M. Duos dabo? 
 
-F. Hoe nihil est. Vis me quatuor globules jae- 
-tare? 
+F. Hoe nihil est. Vis me quatuor globules jaetare? 
 
 
 
@@ -31419,14 +29845,12 @@ M. Immo Esto Justus si me vis esse.
 F, Sum. En jacio. Quatuor sunt intus, numgrus 
 par. 
 
-M. Expecta, ne colligas : adhuc alii accurrunt ad- 
-versus scrobiciilum. Hem, quintus incurrit, 
+M. Expecta, ne colligas : adhuc alii accurrunt adversus scrobiciilum. Hem, quintus incurrit, 
 mea est victoria. Jam tu mihi da numgrum. 
 
 F. Accipe sex. 
 
-M. Placet. Prima victoria addidit animos. As- 
-pice omnes injeci, evax ! 
+M. Placet. Prima victoria addidit animos. Aspice omnes injeci, evax ! 
 
 F. Accipe rursus totidem. 
 
@@ -31469,26 +29893,21 @@ F. Et meus est corneus. Aspicite sultis: quam
 niteat, prae nigrore, quam bene fastigiatus 
 excavatusque sit. Nec est grandis nimium 
 qui laborioso flagello agitaretur : nec niniis 
-parvus, qui saltitaret immodice et amittere- 
-tur facile. 
+parvus, qui saltitaret immodice et amitteretur facile. 
 
 C. Vis commutemus? 
 
 F. Qui tibi hoc cogitare libet? tuus citius teretur 
 quam meus, lignum quippe mollius cornu. 
 
-L. Meum hunc non laudo, jam semetipse lau- 
-dabit, cum gyros describet currendo maxi- 
-mos, et paucis, ac levissimis ictibus curret 
+L. Meum hunc non laudo, jam semetipse laudabit, cum gyros describet currendo maximos, et paucis, ac levissimis ictibus curret 
 diutissime. 
 
 C. Hoc solum est planissimum, proindeque huic 
-lusui mire idoneum. Quod bene vertat, con- 
-torques meum pollice et medio digito. 
+lusui mire idoneum. Quod bene vertat, contorques meum pollice et medio digito. 
 
 L. Ego soleo circumvolv^re ter, quater corrigiam 
-flagelli, circumvolutum humi pongre, ba- 
-cillum impStu attrah^re sursum. Turn ille 
+flagelli, circumvolutum humi pongre, bacillum impStu attrah^re sursum. Turn ille 
 liberatus vinculo, quasi in pedes se erigit, et 
 strenue cursitat hoc modo. 
 
@@ -31515,9 +29934,7 @@ relictum est, et turbines contra se mutuo
 impellamus 
 
 F. Sic agaraus. Bone Deus, ut me fatigat meus ! 
-et minutis tantum ictibus opus est. Scuti- 
-cam probatissimam habeo, corrigiam opti- 
-mam e pelle hircina, et bifid am. 
+et minutis tantum ictibus opus est. Scuticam probatissimam habeo, corrigiam optimam e pelle hircina, et bifid am. 
 
 C. Sudore diffluo, cessemus. 
 
@@ -31540,14 +29957,12 @@ F. Nunquam, Charine.
 C. Quo pignore certas mecum? Sed redit Lepidus. 
 
 F. Ego quoque lassus sum, spectabimus ambo 
-Lepidum. O Lepidiile, tibi cedimus cam- 
-pum istum. Nunc te ostendes, quantus vir 
+Lepidum. O Lepidiile, tibi cedimus campum istum. Nunc te ostendes, quantus vir 
 lies. 
 
 L. Tam cito fessi? 
 
-C. Te deficiente (deficies enim), nos ludum itera- 
-bimus. 
+C. Te deficiente (deficies enim), nos ludum iterabimus. 
 
 L, Quid eras futurum sit, juxta vobiscum nescio. 
 Hoc die quidem istud quod vos auguramini 
@@ -31571,18 +29986,15 @@ Martinus.
 A. Visne certare nobiscum pila, Laurenti? 
 
 L. Equidem volo, et queinlibet vestrum prov5co. 
-A. Fateor te in hac palaestra longe me exercita- 
-tiorem. 
+A. Fateor te in hac palaestra longe me exercitatiorem. 
 
-L Age, largiar tibi terminum quam poles mit- 
-tere longissime. 
+L Age, largiar tibi terminum quam poles mittere longissime. 
 
 A. Largire mi hi quindScim. 
 
 L. Faciam tibi unlus errati gratiam. 
 
-A. Placet mihi. Sunt ne plures, qui velint col- 
-lude re? 
+A. Placet mihi. Sunt ne plures, qui velint collude re? 
 
 P. Sunt. 
 
@@ -31605,8 +30017,7 @@ A. De pila Martinum non metuo.
 L. Ducamus sortem igitur, qui sint futuri comites. 
 A. Ducamus. 
 
-L. Fia ! mihi oblata est optio, Fgo mihi Marti- 
-
+L. Fia ! mihi oblata est optio, Fgo mihi Marti
 num sumo et CarSlum. 
 
 A. Placent mihi Petrus et Gulielmus. 
@@ -31620,8 +30031,7 @@ G. Habeo unicam.
 
 
 
-L, Non sufficit. Ego in singulos semissem sup- 
-
+L, Non sufficit. Ego in singulos semissem sup
 peditabo; diminnetur mihi, si victoria ceci« 
 dero, aut reddttur, si potitus fu6ro. 
 
@@ -31638,10 +30048,8 @@ M. Faciam equidem lubens.
 P. Nos definiamus interea quse sit futura jaciendi 
 meta, qui cetfiri limites. 
 
-L. Etiam apparent a superioribus diebus. Sortia- 
-mur utra pars intus, utra foris sit constituta. 
-C. Vos exercitatiores in hac estis palsestra: prio- 
-res intra lineas consistite. 
+L. Etiam apparent a superioribus diebus. Sortiamur utra pars intus, utra foris sit constituta. 
+C. Vos exercitatiores in hac estis palsestra: priores intra lineas consistite. 
 
 L. Non sinam: sorte potius experiamur. 
 
@@ -31662,8 +30070,7 @@ pretio?
 P. Fateor, aliquo periculo certandum est, alidqui 
 friget lusus. 
 
-A. Utra pars prior tres lusus amis6rit, ea victori- 
-bus singulis pendet centesimas tres. 
+A. Utra pars prior tres lusus amis6rit, ea victoribus singulis pendet centesimas tres. 
 
 L. Placet omnibus. Agite, commilitones optimi, 
 
@@ -31683,8 +30090,7 @@ M. Nequaquam.
 
 A. Volo disquiriltur. 
 
-L. Pila metam prjeteriit, spectatores, necne? Ne- 
-gant prseteriisse. 
+L. Pila metam prjeteriit, spectatores, necne? Negant prseteriisse. 
 
 G. Inauspicatum hoc aiispicium. 
 
@@ -31698,8 +30104,7 @@ pilam excipies, si me transv6let.
 L. Cai’6le, consiste in medio. 
 
 C. Potius in hunc me angulum confSram, atque 
-istic observabo. Ut ne musca quidem prse- 
-tervblet impune. 
+istic observabo. Ut ne musca quidem prsetervblet impune. 
 
 A, AgSdurn, Laurenti, excipe pilam denuo. 
 
@@ -31726,8 +30131,7 @@ L. Excipe pilam, Arnolde.
 6r. Ut qui repercussum expectasti? pilam debuisses 
 volatu excipSre. 
 
-L. Cecidit commode sic satis : singhli singdlas me- 
-tassuperavimus: utrique habemusquindgcim. 
+L. Cecidit commode sic satis : singhli singdlas metassuperavimus: utrique habemusquindgcim. 
 
 G. Placide: tua prsecipitantia nos opprimgre 
 
@@ -31747,8 +30151,7 @@ C. Bona tua venia priore excepi.
 P. Ne commutemus inter nos verba: MartTne, 
 dirime controversiam. 
 
-M. Quantum ego visu colligere potui, primo ex- 
-cepisse recussu mihi videtur. 
+M. Quantum ego visu colligere potui, primo excepisse recussu mihi videtur. 
 
 C. Vicimus triginta. 
 
@@ -31757,34 +30160,27 @@ duos termmos.
 
 A. Excipe pilam Laurent!. 
 
-L. Prsesto sum. Fac, commSde m!s§r!s: t!b! do- 
-
-mum remittam. Euge! extra metas m!- 
-s!st!. 
+L. Prsesto sum. Fac, commSde m!s§r!s: t!b! do
+mum remittam. Euge! extra metas m!s!st!. 
 
 A. Tentabo denuo, excipite. 
 
-M. Pudor, Laurent!! tenon potuisse pilam repel- 
-
+M. Pudor, Laurent!! tenon potuisse pilam repel
 l^re : et tamen erat commodissime missa. 
 
 L. Quid, commodissime? Stringebat humum. 
 
 Nisi commodius misSris, Arnolde, par pari 
-mox -refSram : petis pedes. Ludamus le- 
-gitime. 
+mox -refSram : petis pedes. Ludamus legitime. 
 
-C. Laurenti, sufficit ; illdrum nunc est intus con- 
-sistgre: habemus quadraginta: et terminum 
+C. Laurenti, sufficit ; illdrum nunc est intus consistgre: habemus quadraginta: et terminum 
 bene longinquum. 
 
-G. Totis viribus. Arnolde, hie est ictus decre- 
-torius. 
+G. Totis viribus. Arnolde, hie est ictus decretorius. 
 
 M. Hunc ludum certo vicerimus, Gulielme. 
 
-G. Prsepropgre tu quidem ante victoriam trium- 
-phum canis. Varia est ut Martis, ita lusus 
+G. Prsepropgre tu quidem ante victoriam triumphum canis. Varia est ut Martis, ita lusus 
 alea. 
 
 A. Heus ! ludite : recte ! tetigit pila tibi vestem, 
@@ -31822,8 +30218,7 @@ A. Estis. Hanc, si potestis, ad dat5rem remittite.
 
 C. Fac, mittas commSde, conabimur. 
 
-A, Euge ! pila iterato tacta est. Semel a Mar- 
-tino, iterum a Laurentio. 
+A, Euge ! pila iterato tacta est. Semel a Martino, iterum a Laurentio. 
 
 M. Quis tecum ludat? perpetuo rixaris. Pignus 
 
@@ -31838,16 +30233,13 @@ A. Ubi igitur obstitisti pilse?
 L. Hie. 
 
 A, Ponatur igitur nota termini. Vos nunc intro 
-consistite: alt^rum habemus termmum in- 
-tra, alterum extra lineam. 
+consistite: alt^rum habemus termmum intra, alterum extra lineam. 
 
-P. Prsestate vos viros, socii, nunc serio res agi- 
-tur. 
+P. Prsestate vos viros, socii, nunc serio res agitur. 
 
 L, Excipite. 
 
-P. Euge! successit: facile duobus passibus ter- 
-minum primum vincimus. 
+P. Euge! successit: facile duobus passibus terminum primum vincimus. 
 
 L. Excipite, t^nc pendet victoria. 
 
@@ -31855,15 +30247,13 @@ L. Excipite, t^nc pendet victoria.
 
 
 
-A. Erratum est: non prseteriit pila lineam. Vici- 
-mus lusum 
+A. Erratum est: non prseteriit pila lineam. Vicimus lusum 
 
 L. Gratulor vobis victoriam, et gaudeo nos 
 jucunde adeo pomeridianum hoc tempus 
 transegisse. 
 
-P. Gaudemus et nos pariter. Verum advespe- 
-rascit, et ludendo adeo defessus sum ut genua 
+P. Gaudemus et nos pariter. Verum advesperascit, et ludendo adeo defessus sum ut genua 
 mihi labent lassitudine. 
 
 G. Insuper vespSra nos domum et ad musea 
@@ -31894,13 +30284,10 @@ adde socium.
 
 Phil. Addam enimvero: eo accurrebam. 
 
-Pet. Convenerunt sodales bono nurnSro : auspice- 
-mur. 
+Pet. Convenerunt sodales bono nurnSro : auspicemur. 
 
 Paul. Nondum, etiam unus ad duodScim deest. 
-Accersam ultimum: heus, Barnaba ; uni- 
-cus desideratur collusor ; placetne velite- 
-mur curriciilo? 
+Accersam ultimum: heus, Barnaba ; unicus desideratur collusor ; placetne velitemur curriciilo? 
 
 
 Dialogxies, 
@@ -31912,8 +30299,7 @@ Age, segnitiem execute.
 
 Bar. Tentabo tua gratia: aggrediamur. 
 
-Pet. Deimo te ob tuam illam facilitatem. Prox- 
-imum est ut duces partium eligamus. 
+Pet. Deimo te ob tuam illam facilitatem. Proximum est ut duces partium eligamus. 
 Quos censetis strenuissimos, socii? 
 
 Bar. Tu Petre, alterius cohortis dux esto. 
@@ -31930,13 +30316,11 @@ velocissimus.
 
 Pet. Imo tu, Paule, cervum cursu antev61as. 
 
-Paul. Experiendum est. Sortiamurquis commil- 
-itones prior eligat. 
+Paul. Experiendum est. Sortiamurquis commilitones prior eligat. 
 
 Pet. Fiat. Nummum in altum ejaculare. 
 
-Paul. Utrum mavis faciem pronam an supi- 
-nam? 
+Paul. Utrum mavis faciem pronam an supinam? 
 
 Pet. Euge! secus accidit, facie signatum latus 
 pronum cecidit, et mihi ex sententia: 
@@ -31973,33 +30357,26 @@ Paul, Tu, Matthsee, mihi es novissimus, sed non
 eris in cursu ; te novimus. 
 
 Pet. Priusquam lusum auspicemur, promulgentur 
-linjus certammis leges, ne quis harum ig- 
-narus noceat forte fortunse, dum prodesse 
+linjus certammis leges, ne quis harum ignarus noceat forte fortunse, dum prodesse 
 voluSrit. 
 
 Paul. Rectemones. 
 
 Pet. Lex 'prima : Intra castra quivis ab hostibus 
 et ante et post excursiones tutus esto. 
-Secunda: Qui prior ad lacessendum hos- 
-tem e castris procurrit, eum si forte quis 
+Secunda: Qui prior ad lacessendum hostem e castris procurrit, eum si forte quis 
 adversorium insequens attiggrit, captivus 
 in hostiles careSres abducitur. Tertia: 
 Tantisper captus apud hostes persistito; 
 dum ejus commilitonum aliquis manum 
-extensam aut aliquam vestis ipsius par- 
-tem attingat: turn ad suos liber ei 
+extensam aut aliquam vestis ipsius partem attingat: turn ad suos liber ei 
 reditus esto. Quarta: Hostis nullum ex 
-hostibus, prseter eum qui ante se prox- 
-ime castris egressus est, legitime capito. 
-Quinta: Si, dum hunt excursiones, co- 
-hors altera stativa sua ab omni prspsidio 
-vacua relinquat, licite ab hostibus occu- 
-pantur. Sexta: Interceptis castris aut 
+hostibus, prseter eum qui ante se proxime castris egressus est, legitime capito. 
+Quinta: Si, dum hunt excursiones, cohors altera stativa sua ab omni prspsidio 
+vacua relinquat, licite ab hostibus occupantur. Sexta: Interceptis castris aut 
 
 virtute aut dolo, item captis universis, 
-victoria parta esto. Septima : Si qua con- 
-troversia incidgrit circa lusum, locus detur 
+victoria parta esto. Septima : Si qua controversia incidgrit circa lusum, locus detur 
 disquisition i. Interim, ne qua fraus 
 inter veniat, omnes pari ter a lusione 
 
@@ -32015,8 +30392,7 @@ Pet, Nihil inagnopere refert utro loco figainus
 castra: tibi, Paule, eligendi optionem 
 def^ro. 
 
-Paul. Quoniam defers, accipio. Nos ad banc co- 
-lumnam stationem eligimus. 
+Paul. Quoniam defers, accipio. Nos ad banc columnam stationem eligimus. 
 
 Pet. Nos ad illam ex adverse arb5rem castra 
 locabimus. Career esto noster istac 
@@ -32033,8 +30409,7 @@ Pet. Sane aliquot passuum intervallo videtur
 propior : tamen ex hoc tibi largiar. 
 
 Paul, Sit ita. In stationem quisque suam se 
-recipiat, bonisque rem avibus ordia- 
-mur. 
+recipiat, bonisque rem avibus ordiamur. 
 
 Pet, Eia, Jacobe, primus hostes lacesse; tu, 
 Philippe, subsequere. Vos, observate 
@@ -32043,8 +30418,7 @@ periclitantes.
 Paul, Quo simul omnes ita proruitis? Vicissim 
 excurrite. 
 
-Pet. Thoma, tu fer suppetias Barnabae: pericli- 
-tatur: accelera. Quid hoc rei? Captivus 
+Pet. Thoma, tu fer suppetias Barnabae: periclitatur: accelera. Quid hoc rei? Captivus 
 e nostris primus abducitur. 
 
 Th. Eum brevi in libertatem vindicavero. 
@@ -32075,11 +30449,9 @@ Sim. Proxime aberat ut manu te sistSrem.
 
 Phil. Non tibi assentior. 
 
-Sim. Quid altercatione est opus? spectatores con- 
-sulamus. 
+Sim. Quid altercatione est opus? spectatores consulamus. 
 
-Phil. Placet illorum stabo judicio. Andrea, ex- 
-quire. 
+Phil. Placet illorum stabo judicio. Andrea, exquire. 
 
 And. Quid censetis, spectatores? Non Simon 
 tergo Philippum ad vestem attigit? 
@@ -32087,8 +30459,7 @@ Aiunt universi attigisse.
 
 Sim. Sequere hue, age ad carcerem. 
 
-Pet. Tandem et vos primi lacessite : nos identi- 
-dem excurrimus. 
+Pet. Tandem et vos primi lacessite : nos identidem excurrimus. 
 
 Paul. Euge, Petre, hac me insequere. 
 
@@ -32102,8 +30473,7 @@ Thad. Dixisti in futurum? captivos reduco.
 Matt.Yii ab adversariis nobis injuria: peractis 
 excursionibus suis non revertuntur in 
 campum — Bartholomsee, legatus ad eos 
-accede: ludant legitime, vel a ludo de- 
-sistant: nobis non placent fraudes. 
+accede: ludant legitime, vel a ludo desistant: nobis non placent fraudes. 
 
 Bar. Sic fecero. Pleus, heus, socii, tutone mihi 
 stationem vestram adire licet? 
@@ -32129,8 +30499,7 @@ circumveni.
 
 Jac, Meus es, Bartholomaje. 
 
-Bar, Imo, Jac5be, tu, meus. Posterior ego sta- 
-ti5ne egressus sum; tu prior. 
+Bar, Imo, Jac5be, tu, meus. Posterior ego stati5ne egressus sum; tu prior. 
 
 Non deslnes j urgare? 
 
@@ -32159,8 +30528,7 @@ Pet. Ultimum emi^tmus Paulo prius.
 Paul. Salva pace, Simon noster jamjam rediit: 
 vix a cursu animam trahit. 
 
-Pet. Quid rixamur? Matthsee, fac unum curricu- 
-lum. Videmur hostem metugre. 
+Pet. Quid rixamur? Matthsee, fac unum curriculum. Videmur hostem metugre. 
 
 Matt. Hoc agam. 
 
@@ -32174,8 +30542,7 @@ fronte, ne ad Matthseum advertant a tergo
 insidiantem 
 
 Malt. lo triumphe! castra hostilia victor invasi: 
-capti estis ad uiuim omnes. Paule, quo- 
-nam afficientur victi supplicio? 
+capti estis ad uiuim omnes. Paule, quonam afficientur victi supplicio? 
 
 Paul. Dimittantur. Sufiicit nobis victorise gloria. 
 
@@ -32195,13 +30562,11 @@ ad deambulandum : age, fruamur tempore.
 
 C. Placet: at tetricum est nos solos excurrere. 
 
-A. Jam turmatim in campos excurrere gram- 
-matici: nos poscimur. 
+A. Jam turmatim in campos excurrere grammatici: nos poscimur. 
 
 C. Quod lusos genus tractant in campis patentibus? 
 
-A. Alii pila certant; alii harpasto; quidam con- 
-tendunt cursu: quidam sagittis avem petunt 
+A. Alii pila certant; alii harpasto; quidam contendunt cursu: quidam sagittis avem petunt 
 erectam in pertica: alios trahunt lusus alii. 
 
 C. Parum me exercui istiusmSdi ludis: non 
@@ -32219,8 +30584,7 @@ C. Ut tu es, tentabo aleam ; proper emus.
 
 
 Dialogues, 
-A, Hrec esset sequissima campi planities, et utrim- 
-que in seriem consit^e quercus sestum solis 
+A, Hrec esset sequissima campi planities, et utrimque in seriem consit^e quercus sestum solis 
 temp grant. 
 
 C. Hie ego fodiam scrobiciilum. 
@@ -32243,8 +30607,7 @@ A, Admitto, observaf Bonum auspicium ! jactus
 mihi primus bene longinquus est. 
 
 C. Meus longinquus quidem, sed non recta misi 
-ad stipitem. Jam damnum resarciam: iter- 
-abo. 
+ad stipitem. Jam damnum resarciam: iterabo. 
 
 A, Heus! procurris plus aequo : consistendum est 
 in sphaerae vestigio. 
@@ -32260,14 +30623,12 @@ C. Jam singiili alterum jactum numeramus. Tu
 tertium prior jace: nam meus est globus 
 proprior termino. 
 
-A, Hoc si jactu tetigero, victor sum: eo collin- 
-eabo. 
+A, Hoc si jactu tetigero, victor sum: eo collineabo. 
 
 C. Adhibe sane omnem industriam : sudabis satis, 
 ut vel circa stipitem volvas; tantum distas. 
 
-A. Hem noster vehemens! aegre pervenit ad me- 
-dium. 
+A. Hem noster vehemens! aegre pervenit ad medium. 
 
 
 414 Guide io Latin Conversation. 
@@ -32281,8 +30642,7 @@ A. Scilicet. Kune etego tertium jaciam: adverte.
 Euge! victus es : tertio jactu stipitem attigi : 
 te nondum etiam quarto. 
 
-C. Placetne a ludo desist €re? nam vespgra appe- 
-tit, et prorsus anhelo. 
+C. Placetne a ludo desist €re? nam vespgra appetit, et prorsus anhelo. 
 
 A. Quomodo? nunc primum ludus allubescit. 
 
@@ -32301,11 +30661,9 @@ Met AM.
 
 MatthceuSy Marcus, Lucas, Joannes. 
 
-Matt. Quo lusu hoc pomeridiano tempore oblec- 
-tabimur? 
+Matt. Quo lusu hoc pomeridiano tempore oblectabimur? 
 
-Marc. Ut nunc fertanni tempestas, lapidem mitta- 
-mus ad metarn terrse defixam. 
+Marc. Ut nunc fertanni tempestas, lapidem mittamus ad metarn terrse defixam. 
 
 Matt. Non displicet. Adjungamus nobis Lucam 
 et Joannem. 
@@ -32322,8 +30680,7 @@ Matt. Ego mihi,qua?ro et segre invenio.
 
 
 Dialogues, 
-J. Ego te altSro meorum dono: accipe. Ex- 
-perire an comm5dus sit. 
+J. Ego te altSro meorum dono: accipe. Experire an comm5dus sit. 
 
 Matt. Habeo gratiam. Ego et Marcus una in vos 
 certabimus. 
@@ -32366,15 +30723,12 @@ Matt. Metiamur.
 L. Cedo virgulam, aut stramen aliquod, Marce, 
 ut metiar. 
 
-Matt. Dum arenam decutis, furtim protrudis lapi- 
-dem tuum. Flatu pulvis dimovendus erat. 
+Matt. Dum arenam decutis, furtim protrudis lapidem tuum. Flatu pulvis dimovendus erat. 
 
-L. Salva pace tua nondum etiam lapidem at- 
-
+L. Salva pace tua nondum etiam lapidem at
 tigi. 
 
-Matt. Viden’? nihil est discriminis. Vis redin- 
-tegrare j actum? 
+Matt. Viden’? nihil est discriminis. Vis redintegrare j actum? 
 
 
 41G Guide fo Latin Conversation. 
@@ -32391,8 +30745,7 @@ Lanr. Vultismeo stare judicio?
 Lavr. Quantum visu ass^^quor. est ille propinquior. 
 
 L. Nonne dixeram? Tu Joannes, nunc, si 
-possis, hunc depellito; et primas tene- 
-bimus. 
+possis, hunc depellito; et primas tenebimus. 
 
 J. Metuo ne dum Matthsei peto lapidem, una 
 tuum disjiciam. 
@@ -32405,8 +30758,7 @@ J. Timida manu misi ob periculum.
 L. Inepte meticulosus es. 
 
 Hunc si prseterverteris, Marce, te virum 
-prgestitSris. Successit. Ejus lapis mini- 
-mum palmo propinquior est omnibus. 
+prgestitSris. Successit. Ejus lapis minimum palmo propinquior est omnibus. 
 Tota nostra est victoria. 
 
 PONTANUS, S. J. 
@@ -32422,8 +30774,7 @@ B. Quid hie sessitamus et marcemus otio? Quin
 aggredimur ad ludendum? quandoquidem 
 ea nobis a Doetdre facta est copia. 
 
-C. Id ipsum in pectore volutabam meo, quo- 
-
+C. Id ipsum in pectore volutabam meo, quo
 modo hunc diem ludis jocisque conderemus, 
 et mirabar te quiesc6re tamdiu potuisse 
 
@@ -32440,8 +30791,7 @@ op6ram.
 
 E. Et quern ludum? nam ad victoriam non parum 
 apud me interest : neque enam trecentis in 
-generibus exercitatum me possum affir- 
-mare. 
+generibus exercitatum me possum affirmare. 
 
 B. Nucibus ludamus, si vultis. 
 
@@ -32457,16 +30807,13 @@ Et vobis, si perite luseritis.
 
 Die sodes. 
 
-Jactus lapidum ad conum, seu metam, proba- 
-tur mi ante omnes. 
+Jactus lapidum ad conum, seu metam, probatur mi ante omnes. 
 
 C. Qua causa? 
 
-E. Usitatissimus est candidatis litterarum : exer- 
-
+E. Usitatissimus est candidatis litterarum : exer
 cet corpus, et casui non est tarn subjectus 
-quam alii: nam artificio quodam contor- 
-quendus et emittendus est lapis, si gestias 
+quam alii: nam artificio quodam contorquendus et emittendus est lapis, si gestias 
 vinegre: casus vel numquam vel perraro te 
 adjuvabit. 
 
@@ -32501,8 +30848,7 @@ C. Metas depangamus. Tu banc, Eusebi, ego istam.
 I), At enim quot passibus unam abesse placet ab 
 
 altera, quod intervallum neve nimis breve, 
-neve nimis longum fiat? Hoc etenim incom- 
-modo est debilioribus, illud valentibus. 
+neve nimis longum fiat? Hoc etenim incommodo est debilioribus, illud valentibus. 
 
 B. QuindScim passus mei intersint, nisi aliud 
 videatur. 
@@ -32561,8 +30907,7 @@ aiit tu Garble.
 
 C. Ecce. 
 
-D. Quo pacto tu Eusebium, e5dem ego te supe- 
-
+D. Quo pacto tu Eusebium, e5dem ego te supe
 Tcibo. 
 
 C. Non superasti. Rade metam, Basili, si potes. 
@@ -32594,8 +30939,7 @@ B. Non patiemur.
 E. Lex hunc ludum ludentium sanxit, ut si quis 
 
 imprudensjecSrit, autsi dimidiatum spatium 
-non transmisbrit, resumat lapidem, ac de in- 
-tbgro jaciat 
+non transmisbrit, resumat lapidem, ac de intbgro jaciat 
 
 C. Geramus morem illis ; alioqui par pari refbrent, 
 
@@ -32620,8 +30964,7 @@ Basilii. Excipe socium Carole.
 D. Ohe. lapis tuus. Garble, semulatur rotam. Qnot 
 
 millia curret? Eestas solus, Eusebi. Esto vir 
-fortis. Vicimus. Quantum numSrum obtine- 
-bamus antea? Heus, Carole, ecquid ternarius 
+fortis. Vicimus. Quantum numSrum obtinebamus antea? Heus, Carole, ecquid ternarius 
 potest numerari? Nam paulo ante monas 
 non poterat. 
 
@@ -32635,8 +30978,7 @@ D. Vide mihi hunc, et vince, si queas, Basili.
 
 B. Vincam. 
 
-C. Si tu deinceps ita vic^ris, nos jentaculum per- 
-didimus. 
+C. Si tu deinceps ita vic^ris, nos jentaculum perdidimus. 
 
 Papse, quantum a meta disto? 
 
@@ -32648,8 +30990,7 @@ Nostra est palma.
 
 Nostra est. 
 
-Nostra est profecto. Quo pign5re certas me- 
-cum, Carole? 
+Nostra est profecto. Quo pign5re certas mecum, Carole? 
 
 Tres ligulas, quas optimas habeo, depono. 
 
@@ -32691,8 +31032,7 @@ E, O jactum faustissimum !
 
 B. O infellcem jactum meum! Nisi tu, Car6le, 
 doctius ludis, propemodum actum erit de 
-nobis. Nos miseri, jam isti septem nume- 
-rabunt. 
+nobis. Nos miseri, jam isti septem numerabunt. 
 
 E. lo, triumplie? 
 
@@ -32731,8 +31071,7 @@ S. Miror istum liisorem ollarium.
 C. More antiqno recepto ludamus: impinge hanc 
 ollam pariC'ti. 
 
-F. Tibi pugnum facilius ac libentius in os im- 
-pegerim. Pra ceptor me novum quemdam 
+F. Tibi pugnum facilius ac libentius in os impegerim. Pra ceptor me novum quemdam 
 lusum docuit: eum jam vos docebo: discetis 
 niillo negotio. 
 
@@ -32744,9 +31083,7 @@ voluerit. Post liumi collocatur; communi
 consensu meta statuitur, a qua unusquisque 
 os oll^e ter aut quater nuce petit vicissim, et 
 eo ordine ac loco quern quisque sortitus 
-fuerit. Juglande ab olla ad metam provo- 
-luta, proximus metse sit primus, huic vicin- 
-ior secundus et it a deinceps. 
+fuerit. Juglande ab olla ad metam provoluta, proximus metse sit primus, huic vicinior secundus et it a deinceps. 
 
 S. Quid amplius? 
 
@@ -32761,8 +31098,7 @@ F. Nos similiter.
 
 S. Juglans altera de tuis est vitiosa, quia mucida. 
 
-G. Ecce aliam. Hujus ego nucleum statim come- 
-
+G. Ecce aliam. Hujus ego nucleum statim come
 dam, tibi relinquam putamina. 
 
 S. Devora hsec quoque. 
@@ -32806,20 +31142,16 @@ S, Vidisti! injScimeam.
 
 I). Heu ! infaustus fui hoc jactu. 
 
-F, Ecce duas nuces intus jam habeo, spero vic- 
-toriam. 
+F, Ecce duas nuces intus jam habeo, spero victoriam. 
 
 C. En tertia intus est. Sed quid hoc prodest? 
 
-S. Iterum intravi. Nisi tu, Flavi, tertiam inje- 
-
+S. Iterum intravi. Nisi tu, Flavi, tertiam inje
 ceris, erinaus pares, ac praeter alios quartum 
 aut quintiim etiam jaciemus, donee penes 
-alterum victoria fuerit. Mitte nucem, Di- 
-onysi. 
+alterum victoria fuerit. Mitte nucem, Dionysi. 
 
-D. Possum ego, favente for tuna, secundam inji- 
-
+D. Possum ego, favente for tuna, secundam inji
 c5re. et aberrare Flavius ad hac ultima 
 petitione sua; turn e^o utrique vestrum ero 
 par, et palma nullius. 
@@ -32862,13 +31194,10 @@ J. Ego quidem hoc pugnse genus subibo lubens;
 sum enim in hoc ludo plane rudis. 
 
 M. Ego vero, sat mihi videor peritus: at cum 
-aperta hodie mibi fuerit dexteri vena bra- 
-cbii, prudens abstinebo. 
+aperta hodie mibi fuerit dexteri vena bracbii, prudens abstinebo. 
 
-A. Eamus ergo; banc ingrediamur domum du- 
-
-plici celebratam trudiculari area. Ad in- 
-feram accedamus. 
+A. Eamus ergo; banc ingrediamur domum du
+plici celebratam trudiculari area. Ad inferam accedamus. 
 
 B. Plurima huic insunt vitia. 
 
@@ -32878,8 +31207,7 @@ vitiis hujus generis abiiti ad victoriam.
 
 B. Id ei proclive fuerit, qui ilia norit; nosti 
 
-autem tu, qui frequens trivisti bunc lu- 
-dum. 
+autem tu, qui frequens trivisti bunc ludum. 
 
 A. Non admddum frequens. 
 
@@ -32924,13 +31252,11 @@ G, Err5rem brevi correx6ro.
 
 H. Primas sum assecutus ; bene est. 
 
-B, Vah? quid fecisti? dedisti te in praedam: ob- 
-jecisti te ipse discrimmi. 
+B, Vah? quid fecisti? dedisti te in praedam: objecisti te ipse discrimmi. 
 
 A. Succedes me in tutum, si placet. 
 
-G, Sane quidem, ni prius te compingam in forni- 
-cem. Hei! in ipsa fundiilae ora hoesit globulus. 
+G, Sane quidem, ni prius te compingam in fornicem. Hei! in ipsa fundiilae ora hoesit globulus. 
 J. Nempe quia nihil pene declivitatis est illam 
 ad orcam. 
 
@@ -32943,8 +31269,7 @@ in arctum sum redactus.
 
 A, Te mox expediam ; vades per me liber. 
 
-G. At tu constitue te commode in loca ad transi- 
-
+G. At tu constitue te commode in loca ad transi
 tum, aut objice te ipsi metulae, 
 
 H. Conabor quidem. 
@@ -33051,8 +31376,7 @@ B. Venti dissiparunt nivem. Novi ubi yjateat
 ampla planities : agedum comitare me. 
 
 M. Quoniam tarn amice instas, comitabor. Sed 
-muniamus manus cbirothecis ; alias obriges- 
-cunt frigore. 
+muniamus manus cbirothecis ; alias obrigescunt frigore. 
 
 B. Manus meae patientes sunt frig5ris: tamen 
 induam cbirothecas. 
@@ -33072,20 +31396,16 @@ satis audax, ut incedam per glaciem : metuo
 ne glacies mihi fallat vestigia. 
 
 B. Curnontibi comparas calceos soleis clavatis? 
-quantumcumque sit glacies lubrica, inambu- 
-lilbis tutissime. 
+quantumcumque sit glacies lubrica, inambulilbis tutissime. 
 
-M. Atque ecce obvium commcdehabemus Domin- 
-icum. Is se nobis adj unget tertium. Pri- 
-mum, salve Domimce. 
+M. Atque ecce obvium commcdehabemus Dominicum. Is se nobis adj unget tertium. Primum, salve Domimce. 
 
 D. Et VOS tantumdem. 
 
 M. Cred(t te glacie domum reverti. 
 
 D. Glaciem ego conscendgre numquam soleo. 
-Yereor, ne mihi cadendo cerebrum dimin- 
-uam, et brachia frangam vel crus, aut luxem 
+Yereor, ne mihi cadendo cerebrum diminuam, et brachia frangam vel crus, aut luxem 
 aliquod membrum. 
 
 B. Nimium es meticulosus. 
@@ -33095,8 +31415,7 @@ prseterivi vivarium quod in proximo est :
 aliquosgravissime labentes conspexi de ripa, 
 adeo, inquam, graviter, ut glacies crepitaret 
 atque in formam stellse rimas aggret. Malo 
-me in atrio nostro calefacere flagellis agi- 
-tando trocbum. 
+me in atrio nostro calefacere flagellis agitando trocbum. 
 
 B. At nos excursu in glaciem. Vale. 
 
@@ -33129,16 +31448,13 @@ V. Honor sit auribus?
 P. Minime. 
 
 V, Hens ! quemnam virum me judicas, Pater?.^ra 
-distant luplnis tamen. At quae te via nos- 
-tram in scholam tarn feliciter reportat? 
+distant luplnis tamen. At quae te via nostram in scholam tarn feliciter reportat? 
 Numquid velis Magistri vices explere? 
 
 P. Quidni? 
 
 V. hoc si affectas, Pater, vereor ne pervicacem 
-atque malam suscipias provinciam... qiian- 
-quam nos aures tibi sat elegantes afFere- 
-mus. 
+atque malam suscipias provinciam... qiianquam nos aures tibi sat elegantes afFeremus. 
 
 P. O facete dictum ! tamen a malitia non discedis; 
 hoc tandem cognovi, recocte vir; laterem 
@@ -33158,8 +31474,7 @@ F, Nec mirum ! scilicet res increbuit proverbio.
 
 
 P. Ergo rumore commotus, mirari cupiebam illud 
-ipsr.m sacellum, quod, i-isi ne me omnia fal- 
-lunt, optime se mihi offert; illud est forsan? 
+ipsr.m sacellum, quod, i-isi ne me omnia fallunt, optime se mihi offert; illud est forsan? 
 
 F. Admodum, K. Pater. 
 
@@ -33169,8 +31484,7 @@ tarn pulchrum quam quantum voluissemus,sed
 Non ebur neque aurenin 
 Mea renidet m domo lacunar. 
 
-P. Haud ita, quseso; pulchrum, imo pulcherri- 
-mum... Suo marte quidem, nee sane aquam 
+P. Haud ita, quseso; pulchrum, imo pulcherrimum... Suo marte quidem, nee sane aquam 
 perdidere juvenes; respondet operse fructus. 
 Pulch rum, pulchrum... 
 
@@ -33184,11 +31498,9 @@ Decent valde ornamenta. Attamen, opinor,
 melius conveniret textura cserulea quam ilia 
 rubra: non enim est color virgineus. 
 
-F. At, Pater, Maria est regina martyrum... Quam- 
-obrem... 
+F. At, Pater, Maria est regina martyrum... Quamobrem... 
 
-P. Ut lubet; sit ita. Caet^ra belle se habent; pul- 
-chrum, pulchrum dicam... At haec, o Bone? 
+P. Ut lubet; sit ita. Caet^ra belle se habent; pulchrum, pulchrum dicam... At haec, o Bone? 
 
 V. Oh ! pulcherrimum. 
 
@@ -33222,8 +31534,7 @@ erat hie locus.
 
 V, O Pater, putasne aliquid simultatis Mariam in 
 Josephum habere quod sub pedes nomen ejus 
-habeat, et clientium vota quasi primus acci- 
-p6re videatur? Hinc facilius nobis apparehit 
+habeat, et clientium vota quasi primus accip6re videatur? Hinc facilius nobis apparehit 
 beata pleno copia cornu. Et ill ud AvE Maria? 
 
 P. AfiUbre factum et satis belle adurabratum. Sed 
@@ -33253,23 +31564,18 @@ TTcoTOJi/TO ^ovdal TT^pX TribaK€S afi(pi fx4Kt,(raai.
 P. Fugio, fugio, hei ! recitator acerbe. Numquam 
 tibi hse rebit aqua. 
 
-V. Poetas quotidie evolvo, bine poetae ad ma- 
-num. 
+V. Poetas quotidie evolvo, bine poetae ad manum. 
 
 Navita de ventis, de bobus narrat arator; 
 Enumerat miles vulneraj pastor oves, 
 
 P. Pergtte, pergite, o Boni; Noclurna versate 
 manUy vert ate diurna; et, quod satius est, 
-maximo semper in amore Virginem habe- 
-atis. Ut bene nosti, cum quis diligit 
-Mariam, huic certe omnia ad votum succe- 
-dunt. 
+maximo semper in amore Virginem habeatis. Ut bene nosti, cum quis diligit 
+Mariam, huic certe omnia ad votum succedunt. 
 
 F, Et profecto quidem in ammis est ; imo etiam 
-pietatem cultumque adversus Mariam, sem- 
-per et assidua contentione promovere ave- 
-mus. 
+pietatem cultumque adversus Mariam, semper et assidua contentione promovere avemus. 
 
 P. Belle, optime; nimirum in gymnasio apud 
 condiscipillos. 
@@ -33285,8 +31591,7 @@ recte procedat?
 P. Quomodo? Dextra laevaque; modo sermone 
 et modo factis, et non tarn sermone quam 
 factis. — At quid istud est? Quid sibi volunt 
-istae tabulae? Oh! Oh! carmina proscri- 
-buntur. 
+istae tabulae? Oh! Oh! carmina proscribuntur. 
 
 V. Ita, carmina. Id mungris nobis imposuit 
 Magister ut sua quisque vice in laudem 
@@ -33434,8 +31739,7 @@ P Cedo carmma, vel tute ipse, si placet, legas.
 
 
 
-Diva Virgo P. Praefectum studiorum allo- 
-quitur dum in schola prseest 
+Diva Virgo P. Praefectum studiorum alloquitur dum in schola prseest 
 concertationi. 
 
 Qiios taciturn cemis juvenes consistere in orbem, 
@@ -33497,12 +31801,10 @@ O. O salve, dulcissirne rerum.
 
 F. V, Salvum te venire gaudemus. 
 
-P. Poetam sane comperimus. Tune solus car- 
-
+P. Poetam sane comperimus. Tune solus car
 mine vacuus? 
 
-O. Conari licuit; at non omnibus fas est attin- 
-
+O. Conari licuit; at non omnibus fas est attin
 geremetam. Ex Anacreonte flosciilum juvat 
 decerpere; recte an secus, lis sub judice. 
 
@@ -33573,8 +31875,7 @@ Jam cornice loquacior.
 
 P. Perbelle omnlno. Arduum sane mihi foret 
 decernSre cuinam ex vobis palma debeatur; 
-ratum tamen habeo carmina omnium Dei- 
-parae grata fore atque acceptissima. — En 
+ratum tamen habeo carmina omnium Deiparae grata fore atque acceptissima. — En 
 quod ego adhibui dum in gymnasio M***, 
 apud puerulos, magisterium agerem. Male 
 rem fortunabant nisus et industria docendi. 
@@ -33586,31 +31887,23 @@ Quadam die ita mecum: Adhortatio et
 Dialogues, 
 poenae nihil prom6vent. Quot ego prsecepta 
 dedi ! Quain multa de pretio temp5ris, de 
-informando litt6ris ingenio, de laude hu- 
-manitatis discipllnae lociltus sum ! At frus- 
-tra; in ventum vires quam plurimuin 
+informando litt6ris ingenio, de laude humanitatis discipllnae lociltus sum ! At frustra; in ventum vires quam plurimuin 
 efFundo. Fraude nunc proficiendum est, 
 pia scilicet. Turn ad juv6nes: ^^Migrabit de 
-coelo hodie ut inter vos veniat Marla benig- 
-nissima Virgo Mater Dei.’’ Mirari omnes. 
+coelo hodie ut inter vos veniat Marla benignissima Virgo Mater Dei.’’ Mirari omnes. 
 ^‘Quidvero?” Conclamant. Tunc ita pergo ; 
 
 “ Et coelo descendet Regina Angelorum ; imo 
 vero subsellia lustrabit, et per hebdomadem 
-vicissim ante unumquemque vestrum con- 
-sistet. TempSre autem quo quisque ante se 
+vicissim ante unumquemque vestrum consistet. TempSre autem quo quisque ante se 
 sedentem possidebit Matrem benignam, omni 
-hon5re earn prosequatur. Absint igitur in- 
-tempestiva garrulitas et nugatorise artes. V ae 
+hon5re earn prosequatur. Absint igitur intempestiva garrulitas et nugatorise artes. V ae 
 vafellis; ne peregrinentur aures, adstudium, 
 intentus anTmus et ingenuitas prodeant.” 
 Plausum impertit puerrlis turba; arridet 
-propositum; nec ultra expectatio; sortitio- 
-neque facta, signum Marise, corona adorna- 
-tum, admotis utrinque floribus, in subsellio 
+propositum; nec ultra expectatio; sortitioneque facta, signum Marise, corona adornatum, admotis utrinque floribus, in subsellio 
 rite constituitur. Hinc mirum in modum 
-cal ere reverentia, silentium et quaedam inau- 
-dlta aemulatio ad studium, 
+cal ere reverentia, silentium et quaedam inaudlta aemulatio ad studium, 
 
 F. O consilium sane lepidum! 
 
@@ -33628,13 +31921,11 @@ P. Optime, o bone vir... sed eccum hoc? jam cesso
 abire. Pro tua malitia, Vedaste, hoc mihi 
 poenarum dabis ut qiiotidie pro me Mariam 
 ores dulcissimam matrem. — Nec tamen non 
-possum quin laudem vestrum opus... et car- 
-mma etiam. 
+possum quin laudem vestrum opus... et carmma etiam. 
 
 Este salutati tempus in omne mihi, 
 
-F. V. 0. Keverentise vestrse fausta quseque adpre- 
-camur omnes. 
+F. V. 0. Keverentise vestrse fausta quseque adprecamur omnes. 
 
 
 ## SENTENTIAE SELECTAE. 
@@ -34058,8 +32349,7 @@ Give the word and your hungry Greekliny will climb
 the clouds. (Sat. Ill, 78.) 
 
 Omne animi vitium tanto conspectius in se. 
-Crimen habet, quanto major qui peccat liabe- 
-tur. 
+Crimen habet, quanto major qui peccat liabetur. 
 
 In every human fault, the sinner's rank displays its 
 vileness on a pedestal of shame 
@@ -34068,8 +32358,7 @@ vileness on a pedestal of shame
 
 Cantabit vacuus coram latrone viator. 
 
-A penniless traveller trolls his song in the highway- 
-wayman^s face. (Sat. X, 22.) 
+A penniless traveller trolls his song in the highwaywayman^s face. (Sat. X, 22.) 
 
 Mors sola fatetur, 
 
@@ -34086,8 +32375,7 @@ way of virtue. (Sat. X, 363.)
 
 Committunt eadem diverse crimina fato : 
 
-Ille crucem sceleris pretium tulit, hie dia- 
-dema. 
+Ille crucem sceleris pretium tulit, hie diadema. 
 
 The same transgression brings different fates upon 
 different men. The reward of one man’s iniquity 
@@ -34132,8 +32420,7 @@ understanding too low, but respect the innocence
 of their age. (Sat. XIV, 47.) 
 
 Interea pleno quum turget sacculus ore, 
-Crescit amor nummi, quantum ipsa pecunia cres- 
-cit. 
+Crescit amor nummi, quantum ipsa pecunia crescit. 
 
 While the money-bag keeps swelling almost to bursting 
 the dust of gold waxes stronger with every added 
@@ -34343,13 +32630,11 @@ Viamque insiste domandi,
 Dum faciles animi juvenum, dum mobilis 
 setas. 
 
-Begin to train the young while their disposition is ten- 
-der, while their age is pliant. 
+Begin to train the young while their disposition is tender, while their age is pliant. 
 
 (Georg. Ill, 164.) 
 
-Sed fugit interea, fugit irreparabile tern- 
-pus. 
+Sed fugit interea, fugit irreparabile ternpus. 
 
 But in the meanwhile time fiies, flies irrevocably. 
 
@@ -34357,8 +32642,7 @@ But in the meanwhile time fiies, flies irrevocably.
 
 Alitur vitium, vivitque tegendo. 
 
-The distemper is nourished and grows by being con- 
-cealed. (Georg, ill, 454.) 
+The distemper is nourished and grows by being concealed. (Georg, ill, 454.) 
 
 Ingentes animos angusto in pectore versant. 
 They stir up great courage in a narrow breast. 
@@ -34438,15 +32722,13 @@ To spare the humble and crush the proud.
 
 (iEn. VI, 854.) 
 
-Aude, hospes, contemnere opes, et te quoque dig- 
-num 
+Aude, hospes, contemnere opes, et te quoque dignum 
 
 Finge deo, rebusque veni non asper egenis. 
 
 Dare then, my guest y to despise magnificence, and do 
 you also conduct yourself as becomes a gody and 
-be not disgusted with these our mean accommoda- 
-tions. 
+be not disgusted with these our mean accommodations. 
 
 (^n. VIII, 364.) 
 Sua cuique deus fit dira cupido. 
@@ -34461,15 +32743,13 @@ Fortune favors the brave. {Mn. X, 284.)
 
 
 Choice Thoughts. 
-Stat sua cuique dies, breve et irreparabile tem- 
-piis 
+Stat sua cuique dies, breve et irreparabile tempiis 
 
 Omnibus est vitae; sed famam ostendere factis, 
 
 Hoc virtutis opus. 
 
-Everyone's day is determined ; a short and irretriev- 
-able term of life is given to all ; but to lengthen 
+Everyone's day is determined ; a short and irretrievable term of life is given to all ; but to lengthen 
 out fame by deedsy is virtue's task. 
 
 (^n. X, 468.) 
@@ -34490,8 +32770,7 @@ undertaking, (^n. XII, 126.)
 
 Cuncti se scire fatentur. 
 
-Quid fortuna ferat populi; sed dicere mus- 
-sant. 
+Quid fortuna ferat populi; sed dicere mussant. 
 
 All must confess that they know what the interest of 
 the people demands, but they hesitate to speak. 
@@ -34984,8 +33263,7 @@ Till the broad stream that bars his way is gone.
 But on still flows the stream, and ever will flow on, 
 (Epist. I, 2, 37.) 
 
-Sincerum est nisi vas, quodcumque infandis aces- 
-cit. 
+Sincerum est nisi vas, quodcumque infandis acescit. 
 
 In a foul vessel everything turns sour. 
 
@@ -35018,8 +33296,7 @@ Wealth’s sickly fancies, and her tastes untrue.
 
 
 
-Coelum, non animum mutant, qui trans mare cur- 
-runt. 
+Coelum, non animum mutant, qui trans mare currunt. 
 
 However far o'er ocean we may range^ 
 
@@ -35027,8 +33304,7 @@ However far o'er ocean we may range^
 
 (Epist. I, il, 27.) 
 
-Virtus est medium vitiorum, et utrinque reduc- 
-tum. 
+Virtus est medium vitiorum, et utrinque reductum. 
 
 True wisdom's course is proved 
 To he from both extremes alike removed. 
@@ -35312,8 +33588,7 @@ Obstare, nec se vertere, ac retro dare.
 
 Virtue does not consist in hatmg life^ as you would 
 have itj dear father, but rather does it consist in 
-bearing up manfully against the accidents of for- 
-tune and in never succumbing beneath its attacks. 
+bearing up manfully against the accidents of fortune and in never succumbing beneath its attacks. 
 
 (Phoen., act. I, sc. 1.) 
 
@@ -35347,8 +33622,7 @@ He who is timid in asking invites a refusal.
 (Hippol., act. II, sc. 3.) 
 
 Haud quisquam honeste flere quod voluit potest. 
-It is not becoming in anyone to grieve over a wished- 
-for evil. (Hippol., act. IV, sc. 2.) 
+It is not becoming in anyone to grieve over a wishedfor evil. (Hippol., act. IV, sc. 2.) 
 
 Quanti casus humana rotant ! 
 
@@ -35447,8 +33721,7 @@ He wh * has wronged you is either stronger or weaker
 than yourselj ; be he weaker, spare him; he he 
 stronger, then spare yourself. 
 
-Turpe est aliquid loqui, aliud sentire ; quanto tur- 
-pius aliud scribere, aliud sentire. 
+Turpe est aliquid loqui, aliud sentire ; quanto turpius aliud scribere, aliud sentire. 
 
 It is a disgrace to say one thing and think another ; 
 hut how much more disgraceful to write one thing 
@@ -35468,8 +33741,7 @@ When modesty has once perished, it will never revive.
 Choice Thoughts, 
 Qaemcunque miserum videris, hominem scias. 
 
-Whenever you see a fellow -creature in trouble^ remem- 
-ber that he is a man. 
+Whenever you see a fellow -creature in trouble^ remember that he is a man. 
 
 Praesentemque refert quaelibet herba Deum. 
 
@@ -35527,8 +33799,7 @@ The Quantity of Penultimates,
 ilium, exc, : malum, apple, 
 
 ill us, exc, : malus, tree and mast^ palus [i], qualus, 
-squalus, talus, Pharsalus, Sardanapa- 
-lus. 
+squalus, talus, Pharsalus, Sardanapalus. 
 
 ama, exc, : dama, fama, squama, trama, Apama, 
 acroama, thimiama. 
@@ -35551,8 +33822,7 @@ anum, exc. : Aliphanum, Ambianum, arcanum,
 Danum, Mediolanum. 
 
 anus, exc, : anus old woman, clibilnus, cyanus, 
-Dardanus, Eridanus, Libanus, Rhoda- 
-nus, manus, Oceanus, orphanus, planus 
+Dardanus, Eridanus, Libanus, Rhodanus, manus, Oceanus, orphanus, planus 
 t^^gabond, platanus, Stephanus, fatic^nus 
 and other compounds of c3.no. 
 
@@ -35585,42 +33855,33 @@ bilaris, Paris, Phalaris, JSilaris, Tanaris,
 Tyndaris, Damaris. 
 aro, in verbs j exc, : claro. 
 
-arus, exc. : barbarus, cammarus, cantharus, liila- 
-rus, Bulgarus, Dejotarus, Hungarus, 
-Icarus, Lazarus, larus, Megarus, opi- 
-parus, Pindarus, scarus, Silarus, Teena- 
-rus, Tartarus, Tyndarus, viviparus and 
+arus, exc. : barbarus, cammarus, cantharus, liilarus, Bulgarus, Dejotarus, Hungarus, 
+Icarus, Lazarus, larus, Megarus, opiparus, Pindarus, scarus, Silarus, Teenarus, Tartarus, Tyndarus, viviparus and 
 other compounds oj pario. 
 asa. 
 
 asis, exc. : Amasis, Chareasis, Pbasis and nouns 
-in oasis, iasis, like acroasis, elephantia- 
-sis. 
+in oasis, iasis, like acroasis, elephantiasis. 
 
 aso, exc. : Thraso, Carcaso. 
 
 asus, exc. : carbasus, cerasus, Pegasus, Caucasus* 
 petasus, thyasus, Damasus. 
-ata, exc. : apostata, gabata, tata, Dalmata, Ga- 
-lata, Sarmata. 
+ata, exc. : apostata, gabata, tata, Dalmata, Galata, Sarmata. 
 ate, exc. : cate, Hecate. 
 
 ater, exc. : ater blacky crater, frater, mater. 
 
-ates, exc. : Crates, ^'ame of man or of flower, Hy- 
-
-pocrates, Socrates and other nouns end- 
-ing in crates, lates, bates like Euribates, 
+ates, exc. : Crates, ^'ame of man or of flower, Hy
+pocrates, Socrates and other nouns ending in crates, lates, bates like Euribates, 
 Pelates. 
 
 atim, exc. : aflfatim, statim. 
 at is, exc. : batis, ratis, satis, Eucratis, 
 ato, exc. : cato, nato and compounds. 
-ator, exc. : dator, sator, stator, Eupator, Philo- 
-pator. 
+ator, exc. : dator, sator, stator, Eupator, Philopator. 
 
-atus, exc. : catus, latus Aratus, Callistra- 
-
+atus, exc. : catus, latus Aratus, Callistra
 tus, Pisistratus, Philostratus. 
 
 
@@ -35633,9 +33894,7 @@ aviS; exc. : it vis, grtvis
 avo, exc. : ctvo and compounds, gr3,vo and comp., 
 liivo. 
 
-avus, exc. : Batfivus, claviis, flaviis, gnavus, igna- 
-vus, nfivus, octavus, piivus, pravus, ra- 
-vus, Timavus. 
+avus, exc. : Batfivus, claviis, flaviis, gnavus, ignavus, nfivus, octavus, piivus, pravus, ravus, Timavus. 
 
 6ber, exc. : creber. 
 
@@ -35667,8 +33926,7 @@ ela, exc. : G6la.
 
 elis, exc. : periscelis, Sic6lis. 
 elo, exc. : gelo as and compounds. 
-elus, exc. : angelus, Icelus, obelus, scSlus, Eutra- 
-pelus. 
+elus, exc. : angelus, Icelus, obelus, scSlus, Eutrapelus. 
 
 ema, in neuter nouns ; exc. : thema, epithSma. 
 emis, exc. : Arthemis, Themis. 
@@ -35676,8 +33934,7 @@ emis, exc. : Arthemis, Themis.
 Smo, exc. : Demo, nemo, temo, blasphemo. 
 emum. 
 
-emus, exc. : nemus, Neoptolemus, Remus, Tel6- 
-mus, Triptolemus, Eupolemns. 
+emus, exc. : nemus, Neoptolemus, Remus, Tel6mus, Triptolemus, Eupolemns. 
 ena. exc. : advena and other compounds of venio. 
 
 
@@ -35688,8 +33945,7 @@ Guide to Latin Conversation,
 
 Helena, indiggna and other compounds of 
 gigno, Philomena, PorsSna. 
-ene, exc. : bene, Dexamgne, Melpomene, Cte- 
-m^ne, Nyctim^ne. 
+ene, exc. : bene, Dexamgne, Melpomene, Ctem^ne, Nyctim^ne. 
 
 Sner. 
 
@@ -35712,8 +33968,7 @@ equa.
 gquus. 
 
 era, exc. : camera, cholera, cum^ra, fSra, hed^ra, 
-littSra, opSra, patera, phalSra, s6ra, tes- 
-sera, vipera. Chimera, Himgra, Odera. 
+littSra, opSra, patera, phalSra, s6ra, tessera, vipera. Chimera, Himgra, Odera. 
 Sro, exc. : incero, persevero, sero, spero and 
 compounds. 
 
@@ -35723,9 +33978,7 @@ icterus, inferus, j uniperus, lacerus, mSrus,
 numgrus, posterus, properus, puerpSrus, 
 superus, cratSrus. 
 
-6sis, exc, : catachresis, catachesis, dioecesis, exo- 
-mologesis, mathesis, phrenesis, phrone- 
-sis, poesis, Agnesis, Nesis. 
+6sis, exc, : catachresis, catachesis, dioecesis, exomologesis, mathesis, phrenesis, phronesis, poesis, Agnesis, Nesis. 
 esus, exc. : Ephesus, Voggsus. 
 eta, exc. : athleta, cometa, creta, meta, moneta, 
 planeta, poeta, propheta, rubeta, seta, 
@@ -35755,11 +34008,9 @@ ibo, exc. : bibo and compounds^ cibo.
 
 ibiis. 
 
-ica, exc, : Africa, alica, Armorica, basilica, bras- 
-sica, calantica, carica, cavatica, Corsica, 
+ica, exc, : Africa, alica, Armorica, basilica, brassica, calantica, carica, cavatica, Corsica, 
 fulica, Lucanica, manica, medica, pedica, 
-persica, pertica, plastica, canopica, scu- 
-fica, Salmatica, sublica, tunica. Utica 
+persica, pertica, plastica, canopica, scufica, Salmatica, sublica, tunica. Utica 
 and the names of arts and sciences, like 
 Musica, Khetorica. 
 
@@ -35776,8 +34027,7 @@ inimico, intrico, lorico, mendico and
 compounds, spico and compounds. 
 icus, exc. : amicus, anticus, apricus, ceramicus, 
 ficus, inimicus, lumbricns, mendicus, 
-posticus, pudicus and compounds, um- 
-bilicus and all barbaric uords: Alaricus, 
+posticus, pudicus and compounds, umbilicus and all barbaric uords: Alaricus, 
 Ludovicus, Theodoricus, etc. 
 
 ida. 
@@ -35795,13 +34045,11 @@ Belides, EuclTdes, Lycurgides, NeoclTdes,
 Snides. Pelldes, Tlierldes, Tydides, 
 Achillldes. 
 
-Ido, exc : divide, gravido, lapido, madido, suc- 
-cido and compounds from cudo, virido. 
+Ido, exc : divide, gravido, lapido, madido, succido and compounds from cudo, virido. 
 idor, exc. : nidor, stridor 
 
 idus, exc. : idus, nidus, sidus, fidus and compounds 
-[except, peifidus), Gaudefridus, Sige- 
-fridus. 
+[except, peifidus), Gaudefridus, Sigefridus. 
 
 iter. 
 
@@ -35811,8 +34059,7 @@ iger.
 
 Igo, in nouns, exc. : ligo. 
 
-igo, in verbs, exc. : affligo, callgo, castigo, fasti- 
-go, figo and compounds, fatigo, instigo, 
+igo, in verbs, exc. : affligo, callgo, castigo, fastigo, figo and compounds, fatigo, instigo, 
 vertigo and compounds. 
 
 Igor. 
@@ -35831,8 +34078,7 @@ ills. exc. : subtllis, and the words derived from a
 noun, except. : dapsilis, humilis, parilis, 
 pestilis. 
 
-ilo, in verbs. ; except. : bombilo, mutilo, pip- 
-ilo, rutilo, similo, ventilo, vigilo, 
+ilo, in verbs. ; except. : bombilo, mutilo, pipilo, rutilo, similo, ventilo, vigilo, 
 aquilo. 
 
 Hum, exc. : nihilum. 
@@ -35851,36 +34097,27 @@ of antmus.
 
 imo, exc. : ITmo and compounds. 
 
-mius, ejx. : bimus,- imiis, ITmus, matrlmHS, ml- 
-miis, patrlmus, primus, quadrimus resT- 
-mus, Theotimus, Trimus, opimus, and in 
+mius, ejx. : bimus,- imiis, ITmus, matrlmHS, mlmiis, patrlmus, primus, quadrimus resTmus, Theotimus, Trimus, opimus, and in 
 noun.^ in timiis, tUce Philotimus. 
 
 Ina, exc. : asina, bombycina, buccina, carbasTna, 
 Catina, Felsina, femina, fiscina, fuscina, 
-lamina, machina, nundinee, pagina, pa- 
-tina, Proserpina, sambucina, sarcina, 
-Sarsina, trutina, domina, tibicina, Ru- 
-mina. 
+lamina, machina, nundinee, pagina, patina, Proserpina, sambucina, sarcina, 
+Sarsina, trutina, domina, tibicina, Rumina. 
 
 Inax. 
 
 inis, exc. : cinis, oscmis. 
 
-ino, in verb.^, exc. : clino and compounds, di- 
-vino, festino, popino, propino, sagino, 
+ino, in verb.^, exc. : clino and compounds, divino, festino, popino, propino, sagino, 
 supino, 
 
-inor, exc. : opinor, peregrinor, propinor, vulpi- 
-nor. 
+inor, exc. : opinor, peregrinor, propinor, vulpinor. 
 
-ilium, exc. : fascinum, succmum, Arimmum, Ven- 
-docmum 
+ilium, exc. : fascinum, succmum, Arimmum, Vendocmum 
 
 inus, exc. : adamantinus and other names of metals 
-(exc. : ebeninus), acinus, asinus, carci- 
-nus, carpinus, circmus, cophinus, crasti- 
-nus, diutinus, facinus, fraxinus, fraginus, 
+(exc. : ebeninus), acinus, asinus, carcinus, carpinus, circmus, cophinus, crastinus, diutinus, facinus, fraxinus, fraginus, 
 hornotinus, Linus, dominus, minus and 
 compounds, pampinus, pristinus, ricinus, 
 serotinus, Ninus, Mysinns. 
@@ -35920,8 +34157,7 @@ is us, exc. : cytisus.
 
 ita, exc. : amita, cicerbita, cucurbita, hospita, 
 
-hypocrita, instita, Melita, navlta, sem- 
-ita, sospita. 
+hypocrita, instita, Melita, navlta, semita, sospita. 
 
 itas. 
 
@@ -35937,8 +34173,7 @@ ito, exc. : dito, dormito, irrito, marito, prorito,
 
 vito and compounds. 
 
-itor, exc. : nouns derived from a long supine; para- 
-site, nitor and compounds. 
+itor, exc. : nouns derived from a long supine; parasite, nitor and compounds. 
 itus, exc. : maritus, invitus, ritus ond nouns de~ 
 rived from a long supine {exc, : servitus, 
 ambitus), Heraclitus. 
@@ -35987,13 +34222,11 @@ dgus, exc. : pedagogus, Artotrogus.
 dla, exc. : B51a, Nola, bibliopola and other words 
 termmatuKj in pola, Loiola. 
 dies, exc. : inddles, sobdles, sdles. 
-olis, exc. : Hermopdlis and other words termina- 
-ting in pdlis, tirdlis. 
+olis, exc. : Hermopdlis and other words terminating in pdlis, tirdlis. 
 
 dlo, in verbs, exc. : desolo, insdlo, ndlo. 
 dlor, exc. : solor and compounds. 
-dlus, exc. : Cimolus, Pactolus, solus, Smolus, Ci- 
-molus, -Etolus, Mausolus. 
+dlus, exc. : Cimolus, Pactolus, solus, Smolus, Cimolus, -Etolus, Mausolus. 
 oma, in neuter nouns. 
 omen. 
 
@@ -36016,8 +34249,7 @@ Som6na.
 6ne, exc. : anemone, cone, Dione, Dodone, pone, 
 Porphyrione. 
 
-ono, exc. : s6no and compounds, t6no and com- 
-pounds. 
+ono, exc. : s6no and compounds, t6no and compounds. 
 
 6nus, exc. : colonus, conus, nonus, patronus, 
 pronus. 
@@ -36042,8 +34274,7 @@ Ebora.
 oras, exc. : Coras, and nouns terminating in g5ras 
 like Anaxagoras Pythagoras. 
 
-oro, exc. : decoro and compounds, foro and com- 
-pounds, mem6ro and compounds, rob5ro 
+oro, exc. : decoro and compounds, foro and compounds, mem6ro and compounds, rob5ro 
 and compounds, sterc5ro and compounds, 
 v5ro and compounds. 
 
@@ -36053,8 +34284,7 @@ orum, exc. : thrum, octophorum and
 ting in phorum ; Durosthrum. 
 
 orus, exc. : Bosphhrus and others terminating in 
-pbhrus, carnivorus and other words com- 
-pounded with voro, chorus, torus, Olhrus. 
+pbhrus, carnivorus and other words compounded with voro, chorus, torus, Olhrus. 
 
 osa, exc. : Mhsa, r5sa. 
 
@@ -36107,14 +34337,12 @@ file, exc. : adfilo.
 filor, exc, : adfilor. 
 filuna. 
 
-filus, exc. : mfilus, cuefilus, Aristobfilus, Cleobfi- 
-lus, Gsetfilus, Ifilus, Theodfilus and other 
+filus, exc. : mfilus, cuefilus, Aristobfilus, Cleobfilus, Gsetfilus, Ifilus, Theodfilus and other 
 names which have ou\os in Greek. 
 fima, exc. : cucuma, Drfima, Nfima, 
 fimen, exc. : columen, doefimen, tegfimen. 
 fimis, exc. : cuefimis, incolfimis. 
-fimo, exc. : antfimo, hfimo and compounds, Lu- 
-efimo. 
+fimo, exc. : antfimo, hfimo and compounds, Luefimo. 
 
 
 
@@ -36147,8 +34375,7 @@ usus, exc, ; Ebhsus, Volhsus, Genhsus.
 uta, exc. : puta. 
 
 uto, exc. : adjuto, arguto, muto and eompoundsj 
-nuto and compounds^ refute and com- 
-pounds^ salute and compounds. 
+nuto and compounds^ refute and compounds^ salute and compounds. 
 titer, exc. : arguter, scruter and compounds^ uter 
 and compounds. 
 utus, exc. : arbutus, 
@@ -36168,8 +34395,7 @@ Measures of Length.
 
 The basis of Roman measures was the foot, pes, 
 which, for ordinary purposes, may be said to be 
-equal to.9710 foot; thus we see that it was some- 
-what less than the English measure of the same 
+equal to.9710 foot; thus we see that it was somewhat less than the English measure of the same 
 name. It was divided into the palmus, the uncia. 
 
 
@@ -36306,8 +34532,7 @@ Decempeda, = (10 pes) = 120 “
 Actus, = (120 pes) = 1440 “ 
 
 Milliare, Milliarum 1 rc\f\n t 
-Mine passuum. | = P®" = 1 “'1®- 
-
+Mine passuum. | = P®" = 1 “'1®
 The Koman mile is less by some yards than the 
 English mile. 
 
@@ -36551,8 +34776,7 @@ and the as as a coin, weighed a pound. This weight
 was gradually reduced to 1 ounce, this producing a 
 corresponding depreciation in the value of the coin. 
 The as was divided into twelve parts, the coins being 
-named according to the number of ounces they con- 
-tained. 
+named according to the number of ounces they contained. 
 
 As, = 12 ounces. 
 
@@ -36581,8 +34805,7 @@ Dextans, = f “ = 10 “
 Deunx, = H = 
 At the time of the reduction of the as to of 
 its original value, the denarius was introduced as 
-well as the sestertius, both silver coins. The de- 
-narius was equivalent to 10 asses and the sestertius 
+well as the sestertius, both silver coins. The denarius was equivalent to 10 asses and the sestertius 
 to 2^ asses. Their relative values in the classical 
 period, may be thus expressed : 
 
@@ -36599,8 +34822,7 @@ money.
 
 
 
-ROMANS, ARABICiEQUE NUMERO- 
-RUM NOTiE. 
+ROMANS, ARABICiEQUE NUMERORUM NOTiE. 
 
 ROMAN AND ARABIC NOTATION. 
 
@@ -37073,8 +35295,7 @@ Ante diem.
 Ager, annis, Augustales. 
 -<Edilis curilis. 
 
-Anno post Romam con- 
-ditam. 
+Anno post Romam conditam. 
 
 Anno urbis conditse or 
 ab urbe condita. 
@@ -37131,8 +35352,7 @@ W.
 IMP, 
 
 
-Corona civica data de- 
-creto publico. 
+Corona civica data decreto publico. 
 
 Civis Romanus. 
 
@@ -37140,8 +35360,7 @@ Cujus rei causa.
 Condemno. 
 
 Communi sepulchro hie 
-siti sunt ; sit vobis ter- 
-ra levis. 
+siti sunt ; sit vobis terra levis. 
 
 Consul, Consule. 
 Consules, consulibus. 
@@ -37257,8 +35476,7 @@ Patres conscripti.
 Pater Patriae. 
 Plebiscitum. 
 
-Pontifex Maximus, Pas- 
-sus mille. 
+Pontifex Maximus, Passus mille. 
 
 Koma, Rom anus. 
 Reipublicae causa. 
@@ -37266,8 +35484,7 @@ Salutem, Sacrum.
 Senatus consultum. 
 Salutem dicit, dat. 
 Salutem primum dicit. 
-Senatus populusque Ro- 
-manus. 
+Senatus populusque Romanus. 
 
 Si vales bene est, ego 
 quidem valeo. 
@@ -37301,8 +35518,7 @@ V.S.
 P. E. E. 
 
 
-Quindecimvir sacris fa- 
-ciundis. 
+Quindecimvir sacris faciundis. 
 
 Triumvir Reipublicae 
 constituendae. 
@@ -37430,8 +35646,7 @@ XIV
 
 W 
 
-£- 
-
+£
 
 XIII 
 
@@ -37482,8 +35697,7 @@ IV
 III 
 
 
-Pridie Kalen- 
-
+Pridie Kalen
 das mensis 
 
 sequentis. 
@@ -37540,8 +35754,7 @@ V
 IV 
 III 
 
-Pridie Kalen- 
-das mensis 
+Pridie Kalendas mensis 
 sequentis. 
 
 
@@ -37583,8 +35796,7 @@ V
 IV 
 III 
 
-Pridie Kalen- 
-das mensis 
+Pridie Kalendas mensis 
 sequentis. 
 
 
@@ -37683,8 +35895,7 @@ F IV
 
 Prid. Kal. Ill 
 
-Pridie Kalen- 
-
+Pridie Kalen
 das mensis 
 
 sequentis. 
@@ -37697,8 +35908,7 @@ INDEX.
 
 PAGE. 
 
-Utility and General Division of the book... Manner of using Guide to Latin Conversa- 
-tion 
+Utility and General Division of the book... Manner of using Guide to Latin Conversation 
 
 Vocabulary. 
 
@@ -37711,11 +35921,9 @@ Trees, plants, flowers, fruits
 Animals 
 Cries of animals 
 Parts of the human body 
-Qualities and defects of the human body ; dis- 
-eases, wounds, death 
+Qualities and defects of the human body ; diseases, wounds, death 
 Apparel of men and of women 
-Of the soul: qualities and defects of the in- 
-telligence, of the will ; the passions 
+Of the soul: qualities and defects of the intelligence, of the will ; the passions 
 Of a city, and of its parts 
 Of the inhabitants of a city 
 Age, relationship 
@@ -37746,8 +35954,7 @@ Painting and sculpture
 Medicine 
 Mechanical arts and artisans 
 Games, amusements 
-List of Latin Comparatives and Superlatives Verbs whose Preterites and Supines may pre- 
-sent difficulties to beginners 
+List of Latin Comparatives and Superlatives Verbs whose Preterites and Supines may present difficulties to beginners 
 Grammatical Construction of Question and 
 
 Answer 
@@ -37790,8 +35997,7 @@ Varia Colloquia.
 PKIMA PARS. 
 
 A Deo capienda primordia 
-Formulfe salutandi et valedicendi in con- 
-
+Formulfe salutandi et valedicendi in con
 gressionibus 
 Formulae bene precandi 
 Arma scholastica 
@@ -37814,8 +36020,7 @@ Officium pripfectorum decurise
 Censura variarum culparum 
 Formal e disputantium Latine 
 Concertatio 
-Comparatio nominum, verborumque conju- 
-
+Comparatio nominum, verborumque conju
 gatio 
 Nomenclatura 
 Iterura nomenclatura 

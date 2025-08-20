@@ -10,4 +10,26 @@ Thus, by the counsel and courage of the women, the city was freed; and the women
 
 ## latin
 
-Neque vero inter ea, quae communiter a mulieribus gesta sunt, minore laude atque admiratione, dignam contentionem visum iri censeo, qua contra Cleomenem Argiuorum regem, Telesillidis ductu auspiciisque, mulieres Argivae certarunt. Ea vero mulierem, poeticae disciplinae fuisse peritam, memoriae proditum est. Nam parentibus nobilissimis orta, cum valitudine adversa laboraret, ab oraculo responsum accepit, studiose Martis a se colendas esse, si amissam valitudinem recipere vellet. Quapropter ipsa deorum praeceptis obtemperans, omne studium operamque ad musicos cantus atque harmonias convertens, brevi tempore amissam valitudinem recepit. Atque ob artis poeticae disciplinam, plurimum apud ceteras mulieres, famae ac laudis est consecuta. Postmodum vero, cum Cleomenes Spartiatum rex, multis Argivorum civium interfectis, quippe quos septingentos & septuagina supra septem milia fuisse, quidam affirmant, Argos ad occupandam civitatem contenderet, tum mulieres in aetatis flore constitutas, animi bus hiscuit civitatis adversus hostes tuendae. Itaque duce Telesillide, celeriter armis assumptis, subita corona civitatis moenia coeperunt. Quae res non parum admirationis hostibus praebuit. Et Cleomenem expugnatione saepius nequicquam tentata, pluribusque militibus amissis, ad extremum retrocedere coegerunt. Alterum vero regem Demaratum, ut Socrates (inquit) cum iam parte civitatis, quae Paphnia dicitur, occupasset, eiecerunt. Ita mulierum consilio atque virtute, liberata civitate, mulieres omnes quae in pugna cecidissent, in via quae Argia dicitur, sepeliri decreverunt. His autem quae pugnae superfuerant, permisimus, ut, vel Marti simulacrum, earum virtutis monumentu, statuerent. Hanc vero pugnam, nonnulli sexto decimo die, alii autem Calendis, gesta fuisse tradunt, eius mensis qui nunc quartus apud Argivos habetur, quondam vero Pyrrhios numerabatur, quo nostram ad aetatem sacra quadam apud Argivos celebrantur, in quibus mulieres chlamydes, ac virilem veste indutae, viril autem pen sum gestantes, & mulieribus velamentis capito submotis, versantur. Ut autem inter pugnantes sibi consocium instaurant, non serius, ut Herodotus inquit, sed celerius, qui circa urbem habitabant, ut quisque alias excellere videbatur, in cuius ceteis, sese in matrimonium sociabant.
+Neque vero inter ea, quae communiter a mulieribus gesta sunt, minore laude
+atque admiratione, dignam contentionem visum iri censeo, qua contra Cleomenem
+Argiuorum regem, Telesillidis ductu auspiciisque, mulieres Argivae certarunt.
+Ea vero mulierem, poeticae disciplinae fuisse peritam, memoriae proditum est.
+Nam parentibus nobilissimis orta, cum valitudine adversa laboraret, ab oraculo
+responsum accepit, studiose Martis a se colendas esse, si amissam valitudinem
+recipere vellet. Quapropter ipsa deorum praeceptis obtemperans, omne studium
+operamque ad musicos cantus atque harmonias convertens, brevi tempore amissam
+valitudinem recepit. Atque ob artis poeticae disciplinam, plurimum apud ceteras
+mulieres, famae ac laudis est consecuta. Postmodum vero, cum Cleomenes
+Spartiatum rex, multis Argivorum civium interfectis, quippe quos septingentos &
+septuagina supra septem milia fuisse, quidam affirmant, Argos ad occupandam
+civitatem contenderet, tum mulieres in aetatis flore constitutas, animi bus
+hiscuit civitatis adversus hostes tuendae. 
+
+Itaque duce Telesillide, celeriter armis assumptis, subita corona civitatis 
+moenia coeperunt. Quae res non parum
+admirationis hostibus praebuit. Et Cleomenem expugnatione saepius nequicquam
+tentata, pluribusque militibus amissis, ad extremum retrocedere coegerunt.
+Alterum vero regem Demaratum, ut Socrates (inquit) cum iam parte civitatis,
+quae Paphnia dicitur, occupasset, eiecerunt. 
+
+Ita mulierum consilio atque virtute, liberata civitate, mulieres omnes quae in pugna cecidissent, in via quae Argia dicitur, sepeliri decreverunt. His autem quae pugnae superfuerant, permisimus, ut, vel Marti simulacrum, earum virtutis monumentu, statuerent. Hanc vero pugnam, nonnulli sexto decimo die, alii autem Calendis, gesta fuisse tradunt, eius mensis qui nunc quartus apud Argivos habetur, quondam vero Pyrrhios numerabatur, quo nostram ad aetatem sacra quadam apud Argivos celebrantur, in quibus mulieres chlamydes, ac virilem veste indutae, viril autem pen sum gestantes, & mulieribus velamentis capito submotis, versantur. Ut autem inter pugnantes sibi consocium instaurant, non serius, ut Herodotus inquit, sed celerius, qui circa urbem habitabant, ut quisque alias excellere videbatur, in cuius ceteis, sese in matrimonium sociabant.

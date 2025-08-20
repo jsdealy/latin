@@ -453,3 +453,43 @@ de die proelii, alii ferunt pugnatum fuisse sexdecima die, alii kalendas illius 
 > the science to perfection, but to lend a helping hand.
 
 hi, dein, publi mi, sunt viri qui ad consultationem tibi vocandi sunt antequam ullum foederem agriculturae iceris, et sine ulla perfectionis exspectatione attingi totae rei dictis eorum, nam commentaria talium scriptorum artificem docent, non efficiunt. exercitatio enim atque consuetudo regnant in fabricis, et semper docentur omnes sua errata. nam cum periculum male gestum perditur, vitanda sunt errata comissa consiliisque doctoris recta via lucetur. itaque praecepta nostra non tendunt perducere scientiam usque ad perfectionem, sed profert manum. 
+
+> Whilst, O Cæsar, your god-like mind and genius were engaged in acquiring the
+> dominion of the world, your enemies having been all subdued by your
+> unconquerable valour; whilst the citizens were extolling your victories, and
+> the conquered nations were awaiting your nod; whilst the Roman senate and
+> people, freed from alarm, were enjoying the benefit of your opinions and
+> counsel for their governance; I did not presume, at so unfit a period, to
+> trouble you, thus engaged, with my writings on Architecture, lest I should have
+> incurred your displeasure. When, however, I found that your attention, not
+> exclusively devoted to state affairs, was bestowed on the state of the public
+> buildings, so that the republic was not more indebted to you for its extended
+> empire, in the addition of so many provinces, than for your numerous public
+> buildings by which its grandeur is amply manifested, I considered it right that
+> no time should be lost in laying these precepts before you.
+
+dum, caesar magna, mens tua divina ingeniumque totum mundum superabant, inimicis tuis virtute tua insuperabili pacatis, dum cives omnes victorias tuas extollebant, et nationes subdita nutum tuum exspectabant, dum senatus romanus et populi terrore liberati beneficiis opinionum tuarum consiliorumque ad se gubernanda fruebantur, non praesumpsi, eo inepto tempore, te adeo occupatum molestare,  opusculis meis de arcitectura, ne tibi displicerem. cum autem cognovi te animadvertere non solum ad res publicos sed quoque in conditionem aedificiorum publicorum, ita ut res publica tibi non minus tibi debet ob imperium suum manentem, permultis provinciis adiectis, quam ob numeros aedificiorum tuorum quibus maiestas suas late praebetur, consideravi fas esse si nequaquam morarer quin haec praecepta tibi anteponerem.
+
+> Greetings in abundance, and many good nights as numerous as the stars in the
+> sky and the fish in the sea. And you must know that I am well, and my mother
+> also. And I would gladly likewise hear the same of you, for I think of your
+> lordship every day, at least once. But with your leave, listen to one great
+> wonder, which this one nobleman did: may the devil confound him forever! for he
+> gave offense to our master, Master Peter Meyer, at table, where many were
+> present of the lord and the nobleman, and he did not have a single drop of
+> shame, but was so arrogant that I was astonished.
+
+salutationes abundantes, et multa bona noctes, numerosiora quam stellae in caelo et pisces in mare. bene sciendum est tibi quam valeo, et mater mea. gratum esset item de te audiverem, nam cotidie cogito de te saltem semel. te sinante, audito unum miraculum ab aliquo procero factum: satanus eum perpetue confundat! nam offensionem dedit magistro nostro petro meyero ad cenam apud multos nobiles dominosque, et non praebebat non unam stillam pudoris, sed tam arrogans erat ut attonitus essem. 
+
+> He said: ‘Look, Doctor Johannes Reuchlin is a greater doctor than you,’ and he
+> gave him a slap. Then our master Peter said: ‘I would risk my neck to prove
+> whether that is true. Holy Mary, Doctor Reuchlin is in theology like a mere
+> boy, and any one boy knows more theology than Doctor Reuchlin. Holy Mary,
+> believe me, for I have experience in this. Yet he knows nothing in the books of
+> the Sentences. Holy Mary, this subject is subtle, and men cannot grasp it as
+> they can grammar and poetry. I too would like to be a good poet, and I would
+> also know how to compose meters, such as I heard at Leipzig from Sulpitius, on
+> the quantities of syllables. But what of it? He ought rather to put to me some
+> question in theology, and then argue for and against it.
+
+ait, "videlicet, doctor johannes reuchlinus maior te est doctor" et ei alapam dedit. deinde magister noster petrus respondens, "collum meum periclitarer ut illud refutetur. mater sancta, doctor reuchlinus in theologico sicut puer est, et ullus puer plus de theologico scit quam doctor reuchlinus. mater sancta mihi crede, quoniam consuetudinem possideo. nil scit de libris sententiarum. mater sancta, quam subtilis est haec res, et occulta ab hominibus, dispar poeticis grammaticisque. ego quoque bonum poetam esse velim, et scire quomodo componere tales metricas quales audivi leipzigi ab sulpitio de quantitatibus syllabarum. sed quid refert? anteponat mihi rogationem theologicum, et arguat pro et contra."

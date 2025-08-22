@@ -493,3 +493,32 @@ salutationes abundantes, et multa bona noctes, numerosiora quam stellae in caelo
 > question in theology, and then argue for and against it.
 
 ait, "videlicet, doctor johannes reuchlinus maior te est doctor" et ei alapam dedit. deinde magister noster petrus respondens, "collum meum periclitarer ut illud refutetur. mater sancta, doctor reuchlinus in theologico sicut puer est, et ullus puer plus de theologico scit quam doctor reuchlinus. mater sancta mihi crede, quoniam consuetudinem possideo. nil scit de libris sententiarum. mater sancta, quam subtilis est haec res, et occulta ab hominibus, dispar poeticis grammaticisque. ego quoque bonum poetam esse velim, et scire quomodo componere tales metricas quales audivi leipzigi ab sulpitio de quantitatibus syllabarum. sed quid refert? anteponat mihi rogationem theologicum, et arguat pro et contra."
+
+> Nevertheless, when Caecilius Metellus, tribune of the commons, brought forward
+> some bills of a highly seditious nature in spite of the veto of his colleagues,
+> Caesar abetted him and espoused his cause in the stubbornest fashion, until at
+> last both were suspended from the exercise of their public functions by a
+> decree of the senate. Yet in spite of this Caesar had the audacity to continue
+> in office and to hold court; but when he learned that some were ready to stop
+> him by force of arms, he dismissed his lictors, laid aside his robe of office,
+> and slipped off privily to his house, intending to remain in retirement because
+> of the state of the times. 
+
+
+nihilominus, cum caecilius metullus, tribunus plebis, profert rogationes aliquos ingenii factiosissimi etiamsi vetatus esset a collegis, caesar eum adiuvat, et causam eius defendit modo contumacissimo, donec ambo decreto senatus officiis suis publicis denudati sunt. at his rebus non obstantibus, caesar tam audax fuit ut pergeret in officio suo, causas audiens; sed cum cognosceret sunt parati ei resistere armis, lictores amisit, deposuit vestem officialem, et delapsus est privatus ad casam, cogitans ut lateret umbratice ob temporum statum. 
+
+> Indeed, when the populace on the following day
+> flocked to him quite of their own accord, and with riotous demonstrations
+> offered him their aid in recovering his position, he held them in check. Since
+> this action of his was wholly unexpected, the senate, which had been hurriedly
+> convoked to take action about that very gathering, publicly thanked him through
+> its leading men; then summoning him to the House and lauding him in the
+> strongest terms, they rescinded their former decree and restored him to his rank.
+
+vere, cum populi postero die ad eum convenissent sua sponte, et cum
+demonstrationibus ebriis ei obtulerunt auxilio suo ad statum eius recipiendum,
+eos continuit. quia haec actio omnino inopinata fuit, senatus, convocatus
+properanter ad aliquid de illo ipso conventiculo faciendum, ei aperte et per
+primos viros gratulatus est. deinde ad casam eum arcessentes et fortissimis
+verbis eum laudantes, decretum priorem resciderunt et eum gradui suo
+renovaverunt. 

@@ -1,6 +1,6 @@
 # M. TULLI CICERONIS EPISTULARUM AD ATTICUM LIBER PRIMUS
 
-## I.1 (10) Cicero Attico Sal. Rome, shortly before 17 July 65 B.C.
+## I.1 (10) Cicero Attico Sal. Rome, shortly before 17 July 65 B.C. 
 
 Petitionis nostrae, quam tibi summae curae esse scio, huius modi ratio
 est, quod adhuc coniectura provideri possit. Prensat unus P. Galba. Sine
@@ -64,7 +64,7 @@ probasse, cupio quidem certe.
 Hermathena tua valde me delectat et posita ita belle est, ut totum
 gymnasium eius *anathema* esse videatur. Multum te amamus.
 
-## I.II (11) Cicero Attico Sal. Rome, shortly after I.I
+## I.II (11) Cicero Attico Sal. Rome, shortly after I.I 
 
 L. Iulio Caesare, C. Marcio Figulo consulibus filiolo me auctum scito
 salva Terentia. Abs te tam diu nihil litterarum! Ego de meis ad te
@@ -79,7 +79,7 @@ tuos familiares nobiles homines adversarios honori nostro fore. Ad eorum
 voluntatem mihi conciliandam maximo te mihi usui fore video. Quare
 Ianuario mense, ut constituisti, cura ut Romae sis.
 
-## I.III (8) Cicero Attico Sal. Rome, end of 67
+## I.III (8) Cicero Attico Sal. Rome, end of 67 
 
 Aviam tuam scito desiderio tui mortuam esse, et simul quod verita sit,
 ne Latinae in officio non manerent et in montem Albanum hostias non
@@ -99,7 +99,7 @@ potui. Hoc ad te scripsi, quod is me accusare de te solebat. In se
 expertus est illum esse minus exorabilem, meum studium nec sibi nec tibi
 defuisse. Tulliolam C. Pisoni L. f. Frugi despondimus.
 
-## I.IV (9) Cicero Attico Sal. Rome, beginning of 66
+## I.IV (9) Cicero Attico Sal. Rome, beginning of 66 
 
 Crebras exspectationes nobis tui commoves. Nuper quidem, cum iam te
 adventare arbitraremur, repente abs te in mensem Quintilem reiecti
@@ -123,7 +123,7 @@ abundare coepero, ornabo. Libros tuos conserva et noli desperare eos me
 meos facere posse. Quod si adsequor, supero Crassum divitiis atque
 omnium vicos et prata contemno.
 
-## I.V (1) Cicero Attico Sal. Rome, shortly before November 27, 68
+## I.V (1) Cicero Attico Sal. Rome, shortly before November 27, 68 
 
 Quantum dolorem acceperim et quanto fructu sim privatus et forensi et
 domestico Luci fratris nostri morte, in primis pro nostra consuetudine
@@ -172,12 +172,12 @@ tuam et matrem maxime diligit salutemque tibi plurimam ascribit et
 Tulliola, deliciae nostrae. Cura, ut valeas et nos ames et tibi
 persuadeas te a me fraterne amari.
 
-## I.VI (2) Cicero Attico Sal. Rome, shortly after November 27, 68
+## I.VI (2) Cicero Attico Sal. Rome, shortly after November 27, 68 
 
 Non committam posthac, ut me accusare de epistularum neglegentia possis;
 tu modo videto, in tanto otio ut par in hoc mihi sis. Domum Fabirianam
 nam Neapoli, quam tu iam dimensam et exaedificatam animo habebas, M.
-Fontius emit HS 130,000. Id te scire volui, si quid forte ea res ad
+Fontius emit HS  130,000 . Id te scire volui, si quid forte ea res ad
 cogitationes tuas pertineret. Quintus frater, ut mihi videtur, quo
 volumus animo, est in Pomponiam, et cum ea nunc in Arpinatibus praediis
 erat, et secum habebat hominem *chrestomathe*, D. Turranium. Pater nobis
@@ -189,16 +189,16 @@ ne praetermittas. Nos Tusculano ita delectamur, ut nobismet ipsis tum
 denique, cum illo venimus, placeamus. Quid agas omnibus de rebus, et
 quid acturus sis, fac nos quam diligentissime certiores.
 
-## I.VII (3) Cicero Attico Sal. Rome, before February 13, 67
+## I.VII (3) Cicero Attico Sal. Rome, before February 13, 67 
 
-Apud matrem recte est, eaque nobis curae est. L. Cincio HS 20,400
+Apud matrem recte est, eaque nobis curae est. L. Cincio HS  20,400 
 constitui me curaturum Idibus Febr. Tu velim ea, quae nobis emisse et
 parasse scribis, des operam ut quam primum habeamus, et velim cogites,
 id quod mihi pollicitus es, quem ad modum bibliothecam nobis conficere
 possis. Omnem spem delectationis nostrae, quam, cum in otium venerimus,
 habere volumus, in tua humanitate positam habemus.
 
-## I.VIII (4) Cicero Attico Sal. Rome, after February 13, 67
+## I.VIII (4) Cicero Attico Sal. Rome, after February 13, 67 
 
 Apud te est, ut volumus. Mater tua et soror a me Quintoque fratre
 diligitur. Cum Acutilio sum locutus. Is sibi negat a suo procuratore
@@ -209,7 +209,7 @@ iucundum. Ille noster amicus, vir mehercule optimus et mihi amicissimus,
 sane tibi iratus est. Hoc si quanti tu aestimes sciam, tum, quid mihi
 elaborandum sit, scire possim.
 
-L. Cincio HS 20,400 pro signis Megaricis, ut tu ad me scripseras,
+L. Cincio HS  20,400  pro signis Megaricis, ut tu ad me scripseras,
 curavi. Hermae tui Pentelici cum capitibus aeneis, de quibus ad me
 scripsisti, iam nunc me admodum delectant. Quare velim et eos et signa
 et cetera, quae tibi eius loci et nostri studii et tuae elegantiae esse
@@ -220,7 +220,7 @@ Lentuli navis non erit, quo tibi placebit, imponito. Tulliola deliciolae
 nostrae, tuum munusculum flagitat et me ut sponsorem appellat; mi autem
 abiurare certius est quam dependere.
 
-## I.IX (5) Cicero Attico Sal. Rome, March or April 67
+## I.IX (5) Cicero Attico Sal. Rome, March or April 67 
 
 Nimium raro nobis abs te litterae adferuntur, cum et multo tu facilius
 reperias, qui Romam proficiscantur, quam ego, qui Athenas, et certius
@@ -236,10 +236,10 @@ est voluptatis meae; quae *gymnasiode* maxime sunt, ea quaero. Lentulus
 naves suas pollicetur. Peto abs te, ut haec diligenter cures. Thyillus
 te rogat et ego eius rogatu *Eymolpidon patria*.
 
-## I.X (6) Cicero Attico Sal. Rome, before July 67
+## I.X (6) Cicero Attico Sal. Rome, before July 67 
 
-Cum essem in Tusculano (erit hoc tibi pro illo tuo: \"Cum essem in
-Ceramico \") verum tamen cum ibi essem, Roma puer a sorore tua missus
+Cum essem in Tusculano (erit hoc tibi pro illo tuo: "Cum essem in
+Ceramico ") verum tamen cum ibi essem, Roma puer a sorore tua missus
 epistulam mihi abs te adlatam dedit nuntiavitque eo ipso die post
 meridiem iturum eum, qui ad te proficisceretur. Eo factum est, ut
 epistulae tuae rescriberem aliquid, brevitate temporis tam pauca cogerer
@@ -273,7 +273,7 @@ autem eum et offendes erga te et audies, quasi mihi, si quae parta
 erunt, non modo te praesente, sed per te parta sint. Tulliola tibi dicm
 dat, sponsorem me appellat.
 
-## I.XI (7) Cicero Attico Sal. Rome, July or August 67
+## I.XI (7) Cicero Attico Sal. Rome, July or August 67 
 
 Et mea sponte faciebam antea et post duabus epistulis tuis perdiligenter
 in eandem rationem scriptis magno opere sum commotus. Eo accedebat
@@ -305,13 +305,13 @@ Summum me eorum studium tenet sicut odium iam ceterarum rerum; quas tu
 incredibile est quam brevi tempore quanto deteriores offensurus sis,
 quam reliquisti.
 
-## I.XII (12) Cicero Attico Sal. Rome, January 1, 61
+## I.XII (12) Cicero Attico Sal. Rome, January 1, 61 
 
 Teucris illa lentum sane negotium, neque Cornelius ad Terentiam postea
 rediit. Opinor, ad Considium, Axium, Selicium confugiendum est; nam a
 Caecilio propinqui minore centesimis nummum movere non possunt. Sed ut
 ad prima illa redeam, nihil ego illa impudentius, astutius, lentius
-vidi. \" Libertum mitto, Titomandavi.\"*Skepseis* atque *anabolai* sed
+vidi. " Libertum mitto, Titomandavi."*Skepseis* atque *anabolai* sed
 nescio an *tautomaton hemon*. Nam mihi Pompeiani prodromi nuntiant
 aperte Pompeium acturum Antonio succedi oportere, eodemque tempore aget
 praetor ad populum. Res eius modi est, ut ego nec per bonorum nec per
@@ -339,7 +339,7 @@ meque plus quam servi mors debere videbatur, commoverat. Tu velim saepe
 ad nos scribas. Si rem nullam habebis, quod in buccam venerit, scribito.
 Kal. Ianuariis M. Messalla, M. Pisone coss.
 
-## I.XIII (13) Cicero Attico Sal. Rome, January 25, 61
+## I.XIII (13) Cicero Attico Sal. Rome, January 25, 61 
 
 Accepi tuas tres iam epistulas, unam a M. Cornelio, quam Tribus
 Tabernis, ut opinor, ei dedisti, alteram, quam mihi Canusinus tuus
@@ -395,7 +395,7 @@ nescio cui committere epistulam tantis de rebus non audeo.
 
 Provincias praetores nondum sortiti sunt. Res eodem est loci, quo
 reliquisti. *Topothesian*, quam postulas, Miseni et Puteolorum, includam
-orationi meae. \"A. d. III Non. Decembr.\" mendose fuisse
+orationi meae. "A. d. III Non. Decembr." mendose fuisse
 animadverteram. Quae laudas ex orationibus, mihi crede, valde mihi
 placebant, sed non audebam antea dicere; nunc vero, quod a te probata
 sunt, multo mi *attikotera* videntur. In illam orationem Metellinam
@@ -403,14 +403,14 @@ addidi quaedam. Liber tibi mittetur, quoniam te amor nostri *philretora*
 reddidit.
 
 Novi tibi quidnam scribam? quid? etiam. Messalla consul Autronianam
-domum emit HS +134,000+. \" Quid id ad me ?\" inquies. Tantum, quod
+domum emit HS  +134,000+ . " Quid id ad me ?" inquies. Tantum, quod
 ea emptione et nos bene emisse iudicati sumus, et homines intellegere
 coeperunt licere amicorum facultatibus in emendo ad dignitatem aliquam
 pervenire. Teucris illa lentum negotium est, sed tamen est in spe. Tu
 ista confice. A nobis liberiorem epistulam exspecta. VI Kal. Febr. M.
 Messalla, M. Pisone coss.
 
-## I.XIV (14) Cicero Attico Sal. Rome, February 13, 61
+## I.XIV (14) Cicero Attico Sal. Rome, February 13, 61 
 
 Vereor, ne putidum sit scribere ad te, quam sim occupatus, sed tamen ita
 distinebar, ut huic vix tantulae epistulae tempus habuerim atque id
@@ -427,12 +427,12 @@ visam esse respondit et id multis verbis. Postea Messalla consul in
 senatu de Pompeio quaesivit, quid de religione et de promulgata
 rogatione sentiret. Locutus ita est in senatu, ut omnia illius ordinis
 consulta *genikos* laudaret, mihique, ut adsedit, dixit se putare satis
-ab se etiam \"de istis rebus\" esse responsum. Crassus posteaquam vidit
+ab se etiam "de istis rebus" esse responsum. Crassus posteaquam vidit
 illum excepisse laudem ex eo, quod suspicarentur homines ei consulatum
 meum placere, surrexit ornatissimeque de meo consulatu locutus est, cum
-ita diceret, \"se, quod esset senator, quod civis, quod liber, quod
+ita diceret, "se, quod esset senator, quod civis, quod liber, quod
 viveret, mihi acceptum referre; quotiens coniugem, quotiens domum,
-quotiens patriam videret, totiens se beneficium meum videre.\" Quid
+quotiens patriam videret, totiens se beneficium meum videre." Quid
 multa? totum hunc locum, quem ego varie meis orationibus, quarum tu
 Aristarchus es, soleo pingere, de flamma, de ferro (nosti illas
 *lekythous*) valde graviter pertexuit. Proximus Pompeio sedebam.
@@ -456,7 +456,7 @@ rogationi ex senatus consulto ferendae, concursabant barbatuli iuvenes,
 totus ille grex Catilinae, duce filiola Curionis et populum, ut
 antiquaret, rogabant. Piso autem consul lator rogationis idem erat
 dissuasor. Operae Clodianae pontes occuparant, tabellae ministrabantur
-ita, ut nulla daretur \"VTI ROGAS.\" Hic tibi in rostra Cato advolat,
+ita, ut nulla daretur "VTI ROGAS." Hic tibi in rostra Cato advolat,
 commulcium Pisoni consuli mirificum facit, si id est commulcium, vox
 plena gravitatis, plena auctoritatis, plena denique salutis. Accedit
 eodem etiam noster Hortensius, multi praeterea boni; insignis vero opera
@@ -467,7 +467,7 @@ cohortarentur ad rogationem accipiendam, homines ad quindecim Curioni
 nullum senatus consultum facienti adsenserunt, ex altera parte facile
 CCCC fuerunt. Acta res est. Fufius tribunus tum concessit. Clodius
 contiones miseras habebat, in quibus Lucullum, Hortensium, C. Pisonem,
-Messallam consulem contumeliose laedebat; me tantum \"comperisse\" omnia
+Messallam consulem contumeliose laedebat; me tantum "comperisse" omnia
 criminabatur. Senatus et de provinciis praetorum et de legationibus et
 de ceteris rebus decernebat, ut, antequam rogatio lata esset, ne quid
 ageretur.
@@ -485,12 +485,12 @@ vero Pseudocatone. Quid quaeris?
 
 Nunc ut ad privata redeam, *Teukris* promissa patravit. Tu mandata
 effice, quae recepisti. Quintus frater, qui Argiletani aedificii
-reliquum dodrantem emit HS 725,000, Tusculanum venditat, ut, si
+reliquum dodrantem emit HS  725,000 , Tusculanum venditat, ut, si
 possit, emat Pacilianam domum. Cum Lucceio in gratiam redii. Video
 hominem valde petiturire. Navabo operam. Tu quid agas, ubi sis, cuius
 modi istae res sint, fac me quam diligentissime certiorem. Idibus Febr.
 
-## I.XV (15) Cicero Attico Sal. Rome, March 15, 61
+## I.XV (15) Cicero Attico Sal. Rome, March 15, 61 
 
 Asiam Quinto, suavissimo fratri, obtigisse audisti. Non enim dubito,
 quin celerius tibi hoc rumor quam ullius nostrum litterae nuntiarint.
@@ -505,7 +505,7 @@ aveo scire, quid agas. Idibus Martiis.
 
 ------------------------------------------------------------------------
 
-## I.XVI (16) Cicero Attico Sal. Rome, June/July, 61
+## I.XVI (16) Cicero Attico Sal. Rome, June/July, 61 
 
 Quaeris ex me, quid acciderit de iudicio, quod tam praeter opinionem
 omnium factum sit, et simul vis scire, quo modo ego minus, quam soleam,
@@ -562,7 +562,7 @@ Areopagitae se non esse venturos nisi praesidio constituto. Refertur ad
 consilium. Una sola sententia praesidium non desideravit. Defertur res
 ad senatum. Gravissime ornatissimeque decernitur; laudantur iudices;
 datur negotium magistratibus. Responsurum hominem nemo arbitrabatur.
-*Espete nun moi, Moysai\--hoppos de proton pur empese.*
+*Espete nun moi, Moysai--hoppos de proton pur empese.*
 
 Nosti Calvum ex Nanncianis illum, illum laudatorem meum, de cuius
 oratione erga me honorifica ad te scripseram. Biduo per unum servum et
@@ -573,8 +573,8 @@ non nullis iudicibus pro mercedis cumulo fuerunt. Ita summo discessu
 bonorum, pleno foro servorum XXV iudices ita fortes tamen fuerunt, ut
 summo proposito periculo vel perire maluerint quam perdere omnia. XXXI
 fuerunt, quos fames magis quam fama commoverit. Quorum Catulus cum
-vidisset quendam, \"Quid vos,\" inquit, \" praesidium a nobis
-postulabatis ? an, ne nummi vobis eriperentur, timebatis?\" Habes, ut
+vidisset quendam, "Quid vos," inquit, " praesidium a nobis
+postulabatis ? an, ne nummi vobis eriperentur, timebatis?" Habes, ut
 brevissime potui, genus iudicii et causam absolutionis. Quaeris
 deinceps, qui nunc sit status rerum et qui meus. Rei publicae statum
 illum, quem tu meo consilio, ego divino confirmatum putabam, qui bonorum
@@ -608,24 +608,24 @@ conciderent, ne deficerent; vulnus esse eius modi, quod mihi nec
 dissimulandum nec pertimescendum videretur, ne aut ignorando stultissimi
 aut metuendo ignavissimi iudicaremur: bis absolutum esse Lentulum, bis
 Catilinam, hunc tertium iam esse a iudicibus in rem publicam immissum.
-\"Erras, Clodi; non te iudices urbi, sed carceri reservarunt, neque te
+"Erras, Clodi; non te iudices urbi, sed carceri reservarunt, neque te
 retinere in civitate, sed exsilio privare voluerunt. Quam ob rem, patres
 conscripti, erigite animos, retinete vestram dignitatem. Manet illa in
 re publica bonorum consensio; dolor accessit bonis viris, virtus non est
 imminuta; nihil est damni factum novi, sed, quod erat, inventum est. In
-unius hominis perditi iudicio plures similes reperti sunt.\" Sed quid
+unius hominis perditi iudicio plures similes reperti sunt." Sed quid
 ago ? paene orationem in epistulam inclusi. Redeo ad altercationem.
 Surgit pulchellus puer, obicit mihi me ad Baias fuisse. Falsum, sed
-tamen \"Quid? Hoc simile est,\" inquam, \"quasi in operto dicas
-fuisse?\" \"Quid,\" inquit, \"homini Arpinati cum aquis calidis?\"
-\"Narra,\" inquam, \"patrono tuo, qui Arpinatis aquas concupivit\"
-(nosti enim Marianas).\" Quousque,\" inquit, \"hunc regem feremus ?\"
-\"Regem appellas,\" inquam, \"cum Rex tui mentionem nullam fecerit?\";
-ille autem Regis hereditatem spe devorarat. \"Domum,\" inquit,
-\"emisti.\" \"Putes,\" inquam, \"dicere: Iudices emisti.\" \"Iuranti,\"
-inquit, \"tibi non crediderunt.\" \"Mihi vero,\" in quam, \"XXV iudices
+tamen "Quid? Hoc simile est," inquam, "quasi in operto dicas
+fuisse?" "Quid," inquit, "homini Arpinati cum aquis calidis?"
+"Narra," inquam, "patrono tuo, qui Arpinatis aquas concupivit"
+(nosti enim Marianas)." Quousque," inquit, "hunc regem feremus ?"
+"Regem appellas," inquam, "cum Rex tui mentionem nullam fecerit?";
+ille autem Regis hereditatem spe devorarat. "Domum," inquit,
+"emisti." "Putes," inquam, "dicere: Iudices emisti." "Iuranti,"
+inquit, "tibi non crediderunt." "Mihi vero," in quam, "XXV iudices
 crediderunt, XXXI, quoniam nummos ante acceperunt, tibi nihil
-crediderunt.\" Magnis clamoribus adflictus conticuit et concidit.
+crediderunt." Magnis clamoribus adflictus conticuit et concidit.
 
 Noster autem status est hic. Apud bonos iidem sumus, quos reliquisti,
 apud sordem urbis et faecem multo melius nunc, quam reliquisti. Nam et
@@ -636,7 +636,7 @@ confitentur. Accedit illud, quod illa contionalis hirudo aerarii, misera
 ac ieiuna plebecula, me ab hoc Magno unice diligi putat, et hercule
 multa et iucunda consuetudine coniuncti inter nos sumus usque eo, ut
 nostri isti comissatores coniurationis barbatuli iuvenes illum in
-sermonibus \"Cn. Ciceronem\" appellent. Itaque et ludis et gladiatoribus
+sermonibus "Cn. Ciceronem" appellent. Itaque et ludis et gladiatoribus
 mirandas *episemasias* sine ulla pastoricia fistula auferebamus.
 
 Nunc est exspectatio comitiorum; in quae omnibus invitis trudit noster
@@ -652,7 +652,7 @@ cum lege alia iniit, solutus est et Aelia et Fufia, ut legem de ambitu
 ferret, quam ille bono auspicio claudus homo promulgavit. Ita comitia in
 a. d. VI Kal. Sext. dilata sunt. Novi est in lege hoc, ut, qui nummos in
 tribu pronuntiarit, si non dederit, impune sit, sin dederit, ut, quoad
-vivat, singulis tribubus HS 3,000 debeat. Dixi hanc legem P. Clodium
+vivat, singulis tribubus HS  3,000  debeat. Dixi hanc legem P. Clodium
 iam ante servasse; pronuntiare enim solitum esse et non dare. Sed heus
 tu! videsne consulatum illum nostrum, quem Curio antea *apotheosin*
 vocabat, si hic factus erit, fabam mimum futurum? Quare, ut opinor,
@@ -679,7 +679,7 @@ absoluti.
 
 ------------------------------------------------------------------------
 
-## I.XVII (17) Cicero Attico Sal. Rome, December 5, 61
+## I.XVII (17) Cicero Attico Sal. Rome, December 5, 61 
 
 Magna mihi varietas voluntatis et dissimilitudo opinionis ac iudicii
 Quinti fratis mei demonstrata est ex litteris tuis, in quibus ad me
@@ -733,7 +733,7 @@ defero. Vidi enim, vidi penitusque perspexi in meis variis temporibus et
 sollicitudines et laetitias tuas. Fuit mihi saepe et laudis nostrae
 gratulatio tua iucunda et timoris consolatio grata. Quin mihi nunc te
 absente non solum consilium, quo tu excellis, sed etiam sermonis
-communicatio, quae mihi suavissima tecum solet esse, maxime deest\--quid
+communicatio, quae mihi suavissima tecum solet esse, maxime deest--quid
 dicam? in publicana re, quo in genere mihi neglegenti esse non licet, an
 in forensi labore, quem antea propter ambitionem sustinebam, nunc, ut
 dignitatem tueri gratia possim, an in ipsis domesticis negotiis, in
@@ -791,13 +791,13 @@ rogo, quod maxime cupio, ut quam primum venias. Nonis Decembribus.
 
 ------------------------------------------------------------------------
 
-## I.XVIII (18) Cicero Attico Sal. Rome, January 20, 60
+## I.XVIII (18) Cicero Attico Sal. Rome, January 20, 60 
 
 Nihil mihi nunc scito tam deesse uam hominem eum, quocum omnia, que me
 cura aliqua adficiunt, uno communicem, qui me amet, qui sapiat, quicum
 ego cum loquar, nihil fingam, nihil dissimulem, nihil obtegam. Abest
 enim frater *aphelestatos* et amantissimus. Metellus non homo, sed
-\"litus atque aer et solitudo mera.\" Tu autem, qui saepissime curam et
+"litus atque aer et solitudo mera." Tu autem, qui saepissime curam et
 angorem animi mei sermone et consilio levasti tuo, qui mihi et in
 publica re socius et in privatis omnibus conscius et omnium meorum
 sermonum et consiliorum particeps esse soles, ubinam es? Ita sum ab
@@ -867,7 +867,7 @@ primum videamus. Vale. Kal. Febr. Q. Metello, L. Afranio coss.
 
 ------------------------------------------------------------------------
 
-## I.XIX (19) Cicero Attico Sal. Rome, March 15, 60
+## I.XIX (19) Cicero Attico Sal. Rome, March 15, 60 
 
 Non modo si mihi tantum esset otii, quantum est tibi, verum etiam si tam
 breves epistulas vellem mittere, quam tu soles, facile te superarem et
@@ -974,7 +974,7 @@ et talis, qualem esse eum tuae mihi litterne nuntiarant. Idibus Martiis.
 
 ------------------------------------------------------------------------
 
-## I.XX (20) Cicero Attico Sal. Rome, May 60
+## I.XX (20) Cicero Attico Sal. Rome, May 60 
 
 Cum e Pompeiano me Romam recepissem a. d. IV Idus Maias, Cincius noster
 eam mihi abs te epistulam reddidit, quam tu Idibus Febr. dederas. Ei
@@ -1045,3 +1045,7 @@ velle arbitraris, ipsiusque Paeti tibi negotia commendo, de quibus tibi
 ille agit maximas gratias, et, ut iam invisas nos, non solum rogo, sed
 etiam suadeo.
 
+::: footer
+ [The Classics
+Page](/classics.html)
+:::

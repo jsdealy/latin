@@ -1,6 +1,8 @@
-P. CORNELI TACITI AGRICOLA
+# P. CORNELI TACITI AGRICOLA
 
-§1. Clarorum virorum facta moresque posteris tradere, antiquitus
+## 1
+
+Clarorum virorum facta moresque posteris tradere, antiquitus
 usitatum, ne nostris quidem temporibus quamquam incuriosa suorum aetas
 omisit, quotiens magna aliqua ac nobilis virtus vicit ac supergressa est
 vitium parvis magnisque civitatibus commune, ignorantiam recti et
@@ -14,7 +16,9 @@ aestimantur, quibus facillime gignuntur. At nunc narraturo mihi vitam
 defuncti hominis venia opus fuit, quam non petissem incusaturus: tam
 saeva et infesta virtutibus tempora.
 
-§2. Legimus, cum Aruleno Rustico Paetus Thrasea, Herennio
+## 2
+
+Legimus, cum Aruleno Rustico Paetus Thrasea, Herennio
 Senecioni Priscus Helvidius laudati essent, capitale fuisse, neque in
 ipsos modo auctores, sed in libros quoque eorum saevitum, delegato
 triumviris ministerio ut monumenta clarissimorum ingeniorum in comitio
@@ -27,7 +31,9 @@ ita nos quid in servitute, adempto per inquisitiones etiam loquendi
 audiendique commercio. Memoriam quoque ipsam cum voce perdidissemus, si
 tam in nostra potestate esset oblivisci quam tacere.
 
-§3. Nunc demum redit animus; et quamquam primo statim beatissimi
+## 3
+
+Nunc demum redit animus; et quamquam primo statim beatissimi
 saeculi ortu Nerva Caesar res olim dissociabilis miscuerit, principatum
 ac libertatem, augeatque cotidie felicitatem temporum Nerva Traianus,
 nec spem modo ac votum securitas publica, sed ipsius voti fiduciam ac
@@ -45,7 +51,9 @@ prioris servitutis ac testimonium praesentium bonorum composuisse. Hic
 interim liber honori Agricolae soceri mei destinatus, professione
 pietatis aut laudatus erit aut excusatus.
 
-§4. Gnaeus Iulius Agricola, vetere et inlustri Foroiuliensium
+## 4
+
+Gnaeus Iulius Agricola, vetere et inlustri Foroiuliensium
 colonia ortus, utrumque avum procuratorem Caesarum habuit, quae
 equestris nobilitas est. Pater illi Iulius Graecinus senatorii ordinis,
 studio eloquentiae sapientiaeque notus, iisque ipsis virtutibus iram Gai
@@ -63,7 +71,9 @@ erectum ingenium pulchritudinem ac speciem magnae excelsaeque gloriae
 vehementius quam caute adpetebat. Mox mitigavit ratio et aetas,
 retinuitque, quod est difficillimum, ex sapientia modum.
 
-§5. Prima castrorum rudimenta in Britannia Suetonio Paulino,
+## 5
+
+Prima castrorum rudimenta in Britannia Suetonio Paulino,
 diligenti ac moderato duci, adprobavit, electus quem contubernio
 aestimaret. Nec Agricola licenter, more iuvenum qui militiam in
 lasciviam vertunt, neque segniter ad voluptates et commeatus titulum
@@ -79,7 +89,9 @@ iuveni, intravitque animum militaris gloriae cupido, ingrata temporibus
 quibus sinistra erga eminentis interpretatio nec minus periculum ex
 magna fama quam ex mala.
 
-§6. Hinc ad capessendos magistratus in urbem degressus Domitiam
+## 6
+
+Hinc ad capessendos magistratus in urbem degressus Domitiam
 Decidianam, splendidis natalibus ortam, sibi iunxit; idque matrimonium
 ad maiora nitenti decus ac robur fuit. vixeruntque mira concordia, per
 mutuam caritatem et in vicem se anteponendo, nisi quod in bona uxore
@@ -97,7 +109,9 @@ duxit, uti longe a luxuria ita famae propior. Tum electus a Galba ad
 dona templorum recognoscenda diligentissima conquisitione effecit, ne
 cuius alterius sacrilegium res publica quam Neronis sensisset.
 
-§7. Sequens annus gravi vulnere animum domumque eius adflixit.
+## 7
+
+Sequens annus gravi vulnere animum domumque eius adflixit.
 Nam classis Othoniana licenter vaga dum Intimilium (Liguriae pars est)
 hostiliter populatur, matrem Agricolae in praediis suis interfecit,
 praediaque ipsa et magnam patrimonii partem diripuit, quae causa caedis
@@ -113,7 +127,9 @@ cohibendum potens, incertum suo an militum ingenio. Ita successor simul
 et ultor electus rarissima moderatione maluit videri invenisse bonos
 quam fecisse.
 
-§8. Praeerat tunc Britanniae Vettius Bolanus, placidius quam
+## 8
+
+Praeerat tunc Britanniae Vettius Bolanus, placidius quam
 feroci provincia dignum est. Temperavit Agricola vim suam ardoremque
 compescuit, ne incresceret, peritus obsequi eruditusque utilia honestis
 miscere. Brevi deinde Britannia consularem Petilium Cerialem accepit.
@@ -124,7 +140,9 @@ Agricola umquam in suam famam gestis exultavit; ad auctorem ac ducem ut
 minister fortunam referebat. Ita virtute in obsequendo, verecundia in
 praedicando extra invidiam nec extra gloriam erat.
 
-§9. Revertentem ab legatione legionis divus Vespasianus inter
+## 9
+
+Revertentem ab legatione legionis divus Vespasianus inter
 patricios adscivit; ac deinde provinciae Aquitaniae praeposuit,
 splendidae inprimis dignitatis administratione ac spe consulatus, cui
 destinarat. Credunt plerique militaribus ingeniis subtilitatem deesse,
@@ -147,7 +165,9 @@ fama; aliquando et eligit. Consul egregiae tum spei filiam iuveni mihi
 despondit ac post consulatum collocavit, et statim Britaniae praepositus
 est, adiecto pontificatus sacerdotio.
 
-§10. Britanniae situm populosque multis scriptoribus memoratos
+## 10
+
+Britanniae situm populosque multis scriptoribus memoratos
 non in comparationem curae ingeniive referam, sed quia tum primum
 perdomita est. Ita quae priores nondum comperta eloquentia percoluere,
 rerum fide tradentur. Britannia, insularum quas Romana notitia
@@ -171,7 +191,9 @@ dominari mare, multum fluminum huc atque illuc ferre, nec litore tenus
 adcrescere aut resorberi, sed influere penitus atque ambire, et iugis
 etiam ac montibus inseri velut in suo.
 
-§11. Ceterum Britanniam qui mortales initio coluerint,
+## 11
+
+Ceterum Britanniam qui mortales initio coluerint,
 indigenae an advecti, ut inter barbaros, parum compertum. Habitus
 corporum varii atque ex eo argumenta. Namque rutilae Caledoniam
 habitantium comae, magni artus Germanicam originem adseverant; Silurum
@@ -188,7 +210,9 @@ accepimus; mox segnitia cum otio intravit, amissa virtute pariter ac
 libertate. Quod Britannorum olim victis evenit: ceteri manent quales
 Galli fuerunt.
 
-§12. In pedite robur; quaedam nationes et curru proeliantur.
+## 12
+
+In pedite robur; quaedam nationes et curru proeliantur.
 Honestior auriga, clientes propugnant. Olim regibus parebant, nunc per
 principes factionibus et studiis trahuntur. Nec aliud adversus
 validissimas gentis pro nobis utilius quam quod in commune non
@@ -210,7 +234,9 @@ viva ac spirantia saxis avelli, in Britannia, prout expulsa sint,
 colligi: ego facilius crediderim naturam margaritis deesse quam nobis
 avaritiam.
 
-§13. Ipsi Britanni dilectum ac tributa et iniuncta imperii
+## 13
+
+Ipsi Britanni dilectum ac tributa et iniuncta imperii
 munia impigre obeunt, si iniuriae absint: has aegre tolerant, iam domiti
 ut pareant, nondum ut serviant. Igitur primus omnium Romanorum divus
 Iulius cum exercitu Britanniam ingressus, quamquam prospera pugna
@@ -224,7 +250,9 @@ auctor iterati operis, transvectis legionibus auxiliisque et adsumpto in
 partem rerum Vespasiano, quod initium venturae mox fortunae fuit:
 domitae gentes, capti reges et monstratus fatis Vespasianus.
 
-§14. Consularium primus Aulus Plautius praepositus ac subinde
+## 14
+
+Consularium primus Aulus Plautius praepositus ac subinde
 Ostorius Scapula, uterque bello egregius: redactaque paulatim in formam
 provinciae proxima pars Britanniae, addita insuper veteranorum colonia.
 Quaedam civitates Cogidumno regi donatae (is ad nostram usque memoriam
@@ -237,7 +265,9 @@ Paulinus biennio prosperas res habuit, subactis nationibus firmatisque
 praesidiis; quorum fiducia Monam insulam ut vires rebellibus
 ministrantem adgressus terga occasioni patefecit.
 
-§15. Namque absentia legati remoto metu Britanni agitare inter
+## 15
+
+Namque absentia legati remoto metu Britanni agitare inter
 se mala servitutis, conferre iniurias et interpretando accendere: nihil
 profici patientia nisi ut graviora tamquam ex facili tolerantibus
 imperentur. Singulos sibi olim reges fuisse, nunc binos imponi, e quibus
@@ -258,7 +288,9 @@ relegatum in alia insula exercitum detinerent; iam ipsos, quod
 difficillimum fuerit, deliberare. Porro in eius modi consiliis
 periculosius esse deprehendi quam audere.
 
-§16. His atque talibus in vicem instincti, Boudicca generis
+## 16
+
+His atque talibus in vicem instincti, Boudicca generis
 regii femina duce (neque enim sexum in imperiis discernunt) sumpsere
 universi bellum; ac sparsos per castella milites consectati, expugnatis
 praesidiis ipsam coloniam invasere ut sedem servitutis, nec ullum in
@@ -283,7 +315,9 @@ inertia erga hostis, similis petulantia castrorum, nisi quod innocens
 Bolanus et nullis delictis invisus caritatem paraverat loco
 auctoritatis.
 
-§17. Sed ubi cum cetero orbe Vespasianus et Britanniam
+## 17
+
+Sed ubi cum cetero orbe Vespasianus et Britanniam
 recuperavit, magni duces, egregii exercitus, minuta hostium spes. Et
 terrorem statim intulit Petilius Cerialis, Brigantum civitatem, quae
 numerosissima provinciae totius perhibetur, adgressus. Multa proelia, et
@@ -293,7 +327,9 @@ famamque obruisset: subiit sustinuitque molem Iulius Frontinus, vir
 magnus, quantum licebat, validamque et pugnacem Silurum gentem armis
 subegit, super virtutem hostium locorum quoque difficultates eluctatus.
 
-§18. Hunc Britanniae statum, has bellorum vices media iam
+## 18
+
+Hunc Britanniae statum, has bellorum vices media iam
 aestate transgressus Agricola invenit, cum et milites velut omissa
 expeditione ad securitatem et hostes ad occasionem verterentur.
 Ordovicum civitas haud multo ante adventum eius alam in finibus suis
@@ -323,7 +359,9 @@ expeditionem aut victoriam vocabat victos continuisse; ne laureatis
 quidem gesta prosecutus est, sed ipsa dissimulatione famae famam auxit,
 aestimantibus quanta futuri spe tam magna tacuisset.
 
-§19. Ceterum animorum provinciae prudens, simulque doctus per
+## 19
+
+Ceterum animorum provinciae prudens, simulque doctus per
 aliena experimenta parum profici armis, si iniuriae sequerentur, causas
 bellorum statuit excidere. A se suisque orsus primum domum suam
 coercuit, quod plerisque haud minus arduum est quam provinciam regere.
@@ -340,7 +378,9 @@ pretio cogebantur. Divortia itinerum et longinquitas regionum
 indicebatur, ut civitates proximis hibernis in remota et avia deferrent,
 donec quod omnibus in promptu erat paucis lucrosum fieret.
 
-§20. Haec primo statim anno comprimendo egregiam famam paci
+## 20
+
+Haec primo statim anno comprimendo egregiam famam paci
 circumdedit, quae vel incuria vel intolerantia priorum haud minus quam
 bellum timebatur. Sed ubi aestas advenit, contracto exercitu multus in
 agmine, laudare modestiam, disiectos coercere; loca castris ipse capere,
@@ -352,7 +392,9 @@ iram posuere et praesidiis castellisque circumdatae, et tanta ratione
 curaque, ut nulla ante Britanniae nova pars \[pariter\] inlacessita
 transierit.
 
-§21. Sequens hiems saluberrimis consiliis absumpta. Namque ut
+## 21
+
+Sequens hiems saluberrimis consiliis absumpta. Namque ut
 homines dispersi ac rudes eoque in bella faciles quieti et otio per
 voluptates adsuescerent, hortari privatim, adiuvare publice, ut templa
 fora domos extruerent, laudando promptos, castigando segnis: ita honoris
@@ -363,7 +405,9 @@ etiam habitus nostri honor et frequens toga; paulatimque discessum ad
 delenimenta vitiorum, porticus et balinea et conviviorum elegantiam.
 Idque apud imperitos humanitas vocabatur, cum pars servitutis esset.
 
-§22. Tertius expeditionum annus novas gentis aperuit, vastatis
+## 22
+
+Tertius expeditionum annus novas gentis aperuit, vastatis
 usque ad Tanaum (aestuario nomen est) nationibus. Qua formdine territi
 hostes quamquam conflictatum saevis tempestatibus exercitum lacessere
 non ausi; ponendisque insuper castellis spatium fuit. Adnotabant periti
@@ -380,14 +424,18 @@ adversus malos iniucundus. Ceterum ex iracundia nihil supererat
 secretum, ut silentium eius non timeres: honestius putabat offendere
 quam odisse.
 
-§23. Quarta aestas obtinendis quae percucurrerat insumpta; ac
+## 23
+
+Quarta aestas obtinendis quae percucurrerat insumpta; ac
 si virtus exercituum et Romani nominis gloria pateretur, inventus in
 ipsa Britannia terminus. Namque Clota et Bodotria diversi maris aestibus
 per inmensum revectae, angusto terrarum spatio dirimuntur: quod tum
 praesidiis firmabatur atque omnis propior sinus tenebatur, summotis
 velut in aliam insulam hostibus.
 
-§24. Quinto expeditionum anno nave prima transgressus ignotas
+## 24
+
+Quinto expeditionum anno nave prima transgressus ignotas
 ad id tempus gentis crebris simul ac prosperis proeliis domuit; eamque
 partem Britanniae quae Hiberniam aspicit copiis instruxit, in spem magis
 quam ob formidinem, si quidem Hibernia medio inter Britanniam atque
@@ -402,7 +450,9 @@ modicis auxiliis debellari obtinerique Hiberniam posse; idque etiam
 adversus Britanniam profuturum, si Romana ubique arma et velut e
 conspectu libertas tolleretur.
 
-§25. Ceterum aestate, qua sextum officii annum incohabat,
+## 25
+
+Ceterum aestate, qua sextum officii annum incohabat,
 amplexus civitates trans Bodotriam sitas, quia motus universarum ultra
 gentium et infesta hostilis exercitus itinera timebantur, portus classe
 exploravit; quae ab Agricola primum adsumpta in partem virium sequebatur
@@ -421,7 +471,9 @@ cognoscit hostis pluribus agminibus inrupturos. Ac ne superante numero
 et peritia locorum circumiretur, diviso et ipso in tris partes exercitu
 incessit.
 
-§26. Quod ubi cognitum hosti, mutato repente consilio universi
+## 26
+
+Quod ubi cognitum hosti, mutato repente consilio universi
 nonam legionem ut maxime invalidam nocte adgressi, inter somnum ac
 trepidationem caesis vigilibus inrupere. Iamque in ipsis castris
 pugnabatur, cum Agricola iter hostium ab exploratoribus edoctus et
@@ -434,7 +486,9 @@ hostes, utroque exercitu certante, his, ut tulisse opem, illis, ne
 eguisse auxilio viderentur. Quod nisi paludes et silvae fugientis
 texissent, debellatum illa victoria foret.
 
-§27. Cuius conscientia ac fama ferox exercitus nihil virtuti
+## 27
+
+Cuius conscientia ac fama ferox exercitus nihil virtuti
 suae invium et penetrandam Caledoniam inveniendumque tandem Britanniae
 terminum continuo proeliorum cursu fremebant. Atque illi modo cauti ac
 sapientes prompti post eventum ac magniloqui erant. Iniquissima haec
@@ -445,7 +499,9 @@ armarent, coniuges ac liberos in loca tuta transferrent, coetibus et
 sacrificiis conspirationem civitatum sancirent. Atque ita inritatis
 utrimque animis discessum.
 
-§28. Eadem aestate cohors Usiporum per Germanias conscripta et
+## 28
+
+Eadem aestate cohors Usiporum per Germanias conscripta et
 in Britanniam transmissa magnum ac memorabile facinus ausa est. Occiso
 centurione ac militibus, qui ad tradendam disciplinam inmixti manipulis
 exemplum et rectores habebantur, tris liburnicas adactis per vim
@@ -460,7 +516,9 @@ intercepti sunt. Ac fuere quos per commercia venumdatos et in nostram
 usque ripam mutatione ementium adductos indicium tanti casus
 inlustravit.
 
-§29. Initio aestatis Agricola domestico vulnere ictus, anno
+## 29
+
+Initio aestatis Agricola domestico vulnere ictus, anno
 ante natum filium amisit. Quem casum neque ut plerique fortium virorum
 ambitiose, neque per lamenta rursus ac maerorem muliebriter tulit, et in
 luctu bellum inter remedia erat. Igitur praemissa classe, quae pluribus
@@ -476,7 +534,9 @@ gestantes, cum inter pluris duces virtute et genere praestans nomine
 Calgacus apud contractam multitudinem proelium poscentem in hunc modum
 locutus fertur:
 
-§30. \"Quotiens causas belli et necessitatem nostram intueor,
+## 30
+
+\"Quotiens causas belli et necessitatem nostram intueor,
 magnus mihi animus est hodiernum diem consensumque vestrum initium
 libertatis toti Britanniae fore: nam et universi co\[i\]stis et
 servitutis expertes, et nullae ultra terrae ac ne mare quidem securum
@@ -496,7 +556,9 @@ non Oriens, non Occidens satiaverit: soli omnium opes atque inopiam pari
 adfectu concupiscunt. Auferre trucidare rapere falsis nominibus
 imperium, atque ubi solitudinem faciunt, pacem appellant.
 
-§31. \"Liberos cuique ac propinquos suos natura carissimos esse
+## 31
+
+\"Liberos cuique ac propinquos suos natura carissimos esse
 voluit: hi per dilectus alibi servituri auferuntur; coniuges sororesque
 etiam si hostilem libidinem effugerunt, nomine amicorum atque hospitum
 polluuntur. Bona fortunaeque in tributum, ager atque annus in frumentum,
@@ -515,7 +577,9 @@ vertisset, exuere iugum potuere: nos integri et indomiti et in
 libertatem, non in paenitentiam \[bel\]laturi; primo statim congressu
 ostendamus, quos sibi Caledonia viros seposuerit.
 
-§32. \"An eandem Romanis in bello virtutem quam in pace
+## 32
+
+\"An eandem Romanis in bello virtutem quam in pace
 lasciviam adesse creditis? Nostris illi dissensionibus ac discordiis
 clari vitia hostium in gloriam exercitus sui vertunt; quem contractum ex
 diversissimis gentibus ut secundae res tenent, ita adversae dissolvent:
@@ -538,7 +602,9 @@ tributa et metalla et ceterae servientium poenae, quas in aeternum
 perferre aut statim ulcisci in hoc campo est. Proinde ituri in aciem et
 maiores vestros et posteros cogitate.\'
 
-§33. Excepere orationem alacres, ut barbaris moris, fremitu
+## 33
+
+Excepere orationem alacres, ut barbaris moris, fremitu
 cantuque et clamoribus dissonis. Iamque agmina et armorum fulgores
 audentissimi cuiusque procursu; simul instruebatur acies, cum Agricola
 quamquam laetum et vix munimentis coercitum militem accendendum adhuc
@@ -562,7 +628,9 @@ exercitus neque ducis terga tuta esse. Proinde et honesta mors turpi
 vita potior, et incolumitas ac decus eodem loco sita sunt; nec inglorium
 fuerit in ipso terrarum ac naturae fine cecidisse.
 
-§34. \"Si novae gentes atque ignota acies constitisset, aliorum
+## 34
+
+\"Si novae gentes atque ignota acies constitisset, aliorum
 exercituum exemplis vos hortarer: nunc vestra decora recensete, vestros
 oculos interrogate. Hi sunt, quos proximo anno unam legionem furto
 noctis adgressos clamore debellastis; hi ceterorum Britannorum
@@ -577,7 +645,9 @@ expeditionibus, imponite quinquaginta annis magnum diem, adprobate rei
 publicae numquam exercitui imputari potuisse aut moras belli aut causas
 rebellandi.\'
 
-§35. Et adloquente adhuc Agricola militum ardor eminebat, et
+## 35
+
+Et adloquente adhuc Agricola militum ardor eminebat, et
 finem orationis ingens alacritas consecuta est, statimque ad arma
 discursum. Instinctos ruentisque ita disposuit, ut peditum auxilia, quae
 octo milium erant, mediam aciem firmarent, equitum tria milia cornibus
@@ -592,7 +662,9 @@ porrectior acies futura erat et arcessendas plerique legiones
 admonebant, promptior in spem et firmus adversis, dimisso equo pedes
 ante vexilla constitit.
 
-§36. Ac primo congressu eminus certabatur; simulque constantia,
+## 36
+
+Ac primo congressu eminus certabatur; simulque constantia,
 simul arte Britanni ingentibus gladiis et brevibus caetris missilia
 nostrorum vitare vel excutere, atque ipsi magnam vim telorum
 superfundere, donec Agricola quattuor Batavorum cohortis ac Tungrorum
@@ -611,7 +683,9 @@ facies erat, cum aegre clivo instantes simul equorum corporibus
 impellerentur; ac saepe vagi currus, exterriti sine rectoribus equi, ut
 quemque formido tulerat, transversos aut obvios incursabant.
 
-§37. Et Britanni, qui adhuc pugnae expertes summa collium
+## 37
+
+Et Britanni, qui adhuc pugnae expertes summa collium
 insederant et paucitatem nostrorum vacui spernebant, degredi paulatim et
 circumire terga vincentium coeperant, ni id ipsum veritus Agricola
 quattuor equitum alas, ad subita belli retentas, venientibus
@@ -635,7 +709,9 @@ Finis sequendi nox et satietas fuit. Caesa hostium ad decem milia:
 nostrorum trecenti sexaginta cecidere, in quis Aulus Atticus praefectus
 cohortis, iuvenili ardore et ferocia equi hostibus inlatus.
 
-§38. Et nox quidem gaudio praedaque laeta victoribus: Britanni
+## 38
+
+Et nox quidem gaudio praedaque laeta victoribus: Britanni
 palantes mixto virorum mulierumque ploratu trahere vulneratos, vocare
 integros, deserere domos ac per iram ultro incendere, eligere latebras
 et statim relinquere; miscere in vicem consilia aliqua, dein separare;
@@ -653,7 +729,9 @@ hibernis locavit. Et simul classis secunda tempestate ac fama
 Trucculensem portum tenuit, unde proximo Britanniae latere praelecto
 omni redierat.
 
-§39. Hunc rerum cursum, quamquam nulla verborum iactantia
+## 39
+
+Hunc rerum cursum, quamquam nulla verborum iactantia
 epistulis Agricolae auctum, ut erat Domitiano moris, fronte laetus,
 pectore anxius excepit. Inerat conscientia derisui fuisse nuper falsum e
 Germania triumphum, emptis per commercia, quorum habitus et crinis in
@@ -667,8 +745,10 @@ cogitationis indicium erat, secreto suo satiatus, optimum in praesentia
 statuit reponere odium, donec impetus famae et favor exercitus
 languesceret: nam etiam tum Agricola Britanniam obtinebat.
 
-§40. Igitur triumphalia ornamenta et inlustris statuae honorem
-et quidquid pro triumpho datur, multo verborum honore cumulata, decerni
+## 40
+
+Igitur triumphalia ornamenta et inlustris statuae honorem
+et quidquid pro triumpho datur, multo verborum honore cumulata, decerni;
 in senatu iubet addique insuper opinionem, Syriam provinciam Agricolae
 destinari, vacuam tum morte Atili Rufi consularis et maioribus
 reservatam. Credidere plerique libertum ex secretioribus ministeriis
@@ -687,7 +767,9 @@ altero amicorum comitatus, adeo ut plerique, quibus magnos viros per
 ambitionem aestimare mos est, viso aspectoque Agricola quaererent famam,
 pauci interpretarentur.
 
-§41. Crebro per eos dies apud Domitianum absens accusatus,
+## 41
+
+Crebro per eos dies apud Domitianum absens accusatus,
 absens absolutus est. Causa periculi non crimen ullum aut querela laesi
 cuiusquam, sed infensus virtutibus princeps et gloria viri ac pessimum
 inimicorum genus, laudantes. Et ea insecuta sunt rei publicae tempora,
@@ -704,7 +786,9 @@ malignitate et livore pronum deterioribus principem extimulabant. Sic
 Agricola simul suis virtutibus, simul vitiis aliorum in ipsam gloriam
 praeceps agebatur.
 
-§42. Aderat iam annus, quo proconsulatum Africae et Asiae
+## 42
+
+Aderat iam annus, quo proconsulatum Africae et Asiae
 sortiretur, et occiso Civica nuper nec Agricolae consilium deerat nec
 Domitiano exemplum. Accessere quidam cogitationum principis periti, qui
 iturusne esset in provinciam ultro Agricolam interrogarent. Ac primo
@@ -724,7 +808,9 @@ malis principibus magnos viros esse, obsequiumque ac modestiam, si
 industria ac vigor adsint, eo laudis excedere, quo plerique per abrupta,
 sed in nullum rei publicae usum \<nisi\> ambitiosa morte inclaruerunt.
 
-§43. Finis vitae eius nobis luctuosus, amicis tristis,
+## 43
+
+Finis vitae eius nobis luctuosus, amicis tristis,
 extraneis etiam ignotisque non sine cura fuit. vulgus quoque et hic
 aliud agens populus et ventitavere ad domum et per fora et circulos
 locuti sunt; nec quisquam audita morte Agricolae aut laetatus est aut
@@ -741,7 +827,9 @@ piissimae filiae Domitianum scripsit, laetatum eum velut honore
 iudicioque. Tam caeca et corrupta mens adsiduis adulationibus erat, ut
 nesciret a bono patre non scribi heredem nisi malum principem.
 
-§44. Natus erat Agricola Gaio Caesare tertium consule idibus
+## 44
+
+Natus erat Agricola Gaio Caesare tertium consule idibus
 Iuniis: excessit quarto et quinquagesimo anno, decimum kalendas
 Septembris Collega Prisc\<in\>oque consulibus. Quod si habitum quoque
 eius posteri noscere velint, decentior quam sublimior fuit; nihil
@@ -760,7 +848,9 @@ postremum illud tempus, quo Domitianus non iam per intervalla ac
 spiramenta temporum, sed continuo et velut uno ictu rem publicam
 exhausit.
 
-§45. Non vidit Agricola obsessam curiam et clausum armis
+## 45
+
+Non vidit Agricola obsessam curiam et clausum armis
 senatum et eadem strage tot consularium caedes, tot nobilissimarum
 feminarum exilia et fugas. Una adhuc victoria Carus Mettius censebatur,
 et intra Albanam arcem sententia Messalini strepebat, et Massa Baebius
@@ -782,7 +872,9 @@ amissus est. Omnia sine dubio, optime parentum, adsidente amantissima
 uxore superfuere honori tuo: paucioribus tamen lacrimis comploratus es,
 et novissima in luce desideravere aliquid oculi tui.
 
-§46. Si quis piorum manibus locus, si, ut sapientibus placet,
+## 46
+
+Si quis piorum manibus locus, si, ut sapientibus placet,
 non cum corpore extinguuntur magnae animae, placide quiescas, nosque
 domum tuam ab infirmo desiderio et muliebribus lamentis ad
 contemplationem virtutum tuarum voces, quas neque lugeri neque plangi
@@ -800,7 +892,3 @@ aeternitae temporum, fama rerum; nam multos veterum velut inglorios et
 ignobilis oblivio obruit: Agricola posteritati narratus et traditus
 superstes erit.
 
-::: footer
-[Tacitus](/tac.html) [The Latin Library](/index.html) [The Classics
-Page](/classics.html)
-:::

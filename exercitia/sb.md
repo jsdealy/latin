@@ -493,3 +493,20 @@ salutationes abundantes, et multa bona noctes, numerosiora quam stellae in caelo
 > question in theology, and then argue for and against it.
 
 ait, "videlicet, doctor johannes reuchlinus maior te est doctor" et ei alapam dedit. deinde magister noster petrus respondens, "collum meum periclitarer ut illud refutetur. mater sancta, doctor reuchlinus in theologico sicut puer est, et ullus puer plus de theologico scit quam doctor reuchlinus. mater sancta mihi crede, quoniam consuetudinem possideo. nil scit de libris sententiarum. mater sancta, quam subtilis est haec res, et occulta ab hominibus, dispar poeticis grammaticisque. ego quoque bonum poetam esse velim, et scire quomodo componere tales metricas quales audivi leipzigi ab sulpitio de quantitatibus syllabarum. sed quid refert? anteponat mihi rogationem theologicum, et arguat pro et contra."
+
+> The Alban people were not long true to their allegiance. For in the war against
+> Fidenae the contingent sent according to the treaty remained neutral and waited
+> to see what fortune would bring. But the crafty king, when he saw that his
+> allies were inclined to join the enemy, raised the spirit of his men by giving
+> out that they did so by his orders; this aroused hope in the minds of our
+> soldiers and fear in those of the enemy. Thus the deceit of the traitors proved
+> fruitless. So after the defeat of the enemy Tullus bound Mettus Fufetius, the
+> violator of the treaty, between two chariots, and tore him asunder with swift
+> horses. The city of Alba itself, the parent of Rome but also its rival, he
+> destroyed, after first transferring all its wealth and the inhabitants
+> themselves to Rome, in order that thus a kindred State might seem not to have
+> perished but to have been reunited to the body to which it belonged.
+
+populi albani non diu manebant in iure. nam in bello contra fidenas 
+cohors secundum foedus missa neutralem mansit et exspectabat quidquid fortuna
+tulerit. sed rex callidus, cum vidisset socios adparatos hostibus 

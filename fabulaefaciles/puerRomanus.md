@@ -803,12 +803,12 @@ ludum frequentamus! Prima luce e lectulis est surgendum
 et quasi media nocte ad ludum eundum. Ut lucernae,
 quas nobiscum portamus, olent! Quam decolores fiunt
 libri fumo tot lucernarum! Nigra fuligo adhuc Maroni
-meo haeret! olim plus solito discendi me taedebat—media
-erat aestas et Sirius ignibus torrentibus in caelo ardebat—
+meo haeret! olim plus solito discendi me taedebat---media
+erat aestas et Sirius ignibus torrentibus in caelo ardebat---
 hoc igitur consilium inii ut postremam sessionis partem
 omitteremus. Magistrum mane ludum intrantem rogavi
 num semper oporteret nos praeceptis parere poetarum.
-Ille ait; itaque ego hoc Martialis carmen statim declamare incepi:—
+Ille ait; itaque ego hoc Martialis carmen statim declamare incepi:---
 
     Ludi magister, parce simplici turbae;
     sic te frequentes audiant capillati,

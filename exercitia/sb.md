@@ -538,3 +538,70 @@ properanter ad aliquid de illo ipso conventiculo faciendum, ei aperte et per
 primos viros gratulatus est. deinde ad casam eum arcessentes et fortissimis
 verbis eum laudantes, decretum priorem resciderunt et eum gradui suo
 renovaverunt. 
+
+> The last of all the kings was that Tarquinius to whom the name of Superbus
+> was given on account of his character. He preferred to seize rather than to
+> wait for the kingdom of his grandfather which was held by Servius, and, having
+> sent assassins to murder him, administered the power thus won by crime no more
+> righteously than he had acquired it. His wife Tullia was of like character,
+> and, driving in her chariot to hail her husband as king, forced her affrighted
+> horses over the bloodstained corpse of her father. 
+
+ultimus omnium rex erat ille tarquinius cui nomen superbus datus est secundum ingenium suum. praetulit ille rapere potius quam exspectare regnum avi sui a servio tentum, et, percussoribus missis ad eum interficendum, potentiam ita sumptam non rectius administravit quam eam adeptus est. uxor tullia similis erat natura, et, currum agens salutatum maritum suum regem, equos pavidos suos calcare super cruentum corpus patris sui ipsi coegit. 
+
+> Tarquinius himself struck at
+> the senate with executions, at the plebs by scourging them, at all by his
+> pride, which good men think more oppressive than cruelty. When he had exhausted
+> his brutality at home, he at last turned his attention to his enemies. Thus the
+> powerful cities in Latium were captured, Ardea, Ocricolum, Gabii, Suessa
+> Pometia. At the same time he was bloodthirsty towards his own family; for he
+> did not hesitate to scourge his son, in order that, by pretending to be a
+> deserter, he might inspire the confidence of the enemy.
+
+tarquinius ipse senatum confodit suppliciis, plebes mastigatibus, omnes
+superbia sua, quam boni graviorem quam crudelitatem censent. saevitia eius
+exhausta in patria sua, tandem mens eius vertit ad hostes. ita urbes potentes
+in latio capta sunt, ardea, ocricolum, etc. eodem tempore, sanguinarius familiae
+suae erat, nam filium suum ipsum flagitavit, ut, simulans defugam, confidentia
+hostium incitetur. 
+
+> From that time on Caesar managed all the affairs of state alone and after his
+> own pleasure; so that sundry witty fellows, pretending by way of jest to sign
+> and seal testamentary documents, wrote "Done in the consuleship of Julius
+> and Caesar," instead of "Bibulus and Caesar," writing down the same man twice,
+> by name and by surname. Presently too the following verses were on everyone's
+> lips:—
+> 
+> "In Caesar's year, not Bibulus', an act took place of late;
+> For naught do I remember done in Bibulus' consulate."
+> 
+> The plain called Stellas, which had been devoted to public uses by the
+> men of by-gone days, and the Campanian territory, which had been reserved to
+> pay revenues for the aid of the government, he divided without casting
+> lots among twenty thousand citizens who had three or more children each.
+
+post hoc tempus caesar omnes res publicas tractavit secundum sua voluptate; ita
+ut multi lepores, simulantes inter iocum testamenta signare et consignare,
+scriberent "julio et caesare consulibus facta" loco "bibulo et caesare", bis
+conscribentes eundem hominem, nomine et cognomine. mox enim hi versus omnes
+dictitaverunt... 
+
+anno caesare non bibulo actio nuper accidit;
+nam nihil memorandi recordor bibuli consulatu.
+
+campum nomine stellas, a maioribus dedicatum usibus publicis, et territorium
+campaniae, reservatum ad reditus administrationi adiuvando solvendos, divisit
+sine sortiendo inter vigenti milia civium tres liberos singulatim habentium. 
+
+> From that time Dinocrates was in constant attendance on the king, and followed
+> him into Egypt; where Alexander having perceived a spot, at the same time
+> naturally strong, the centre of the commerce of the country, a land abounding
+> with corn, and having those facilities of transport which the Nile afforded,
+> ordered Dinocrates to build a city whose name should be Alexandria. Dinocrates
+> obtained this honour through his comely person and dignified deportment. But to
+> me, Emperor, nature hath denied an ample stature; my face is wrinkled with age,
+> and sickness has impaired my constitution. Deprived of these natural
+> accomplishments, I hope, however, to gain some commendation through the aid of
+> my scientific acquirements, and the precepts I shall deliver.
+
+ab eo tempore dinocrates constanter regem ministrabat, et eum in aegyptum sequebatur; cum alexander locum conspicatus est, e natura sua fortem, assitum ad centrum commercii totius nationis, terram crebram horreum, et habentem illas facultates commeantus nilo praebitas, is dinocratem iussit ut urbem constitueret cui nomen alexandria esset. dinocrates hunc honorem persona decora et habitu digno obtinuit. mihi, autem, imperator, natura staturam amplam abnuit; facies senectute rugata est, constitutioque  mea morbis inhibita facta est. his bonis naturalibus privatus, spero, tamen, commendationem aliquam per scientiam adeptus ero, praecepta a me delatura.

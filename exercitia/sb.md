@@ -605,3 +605,22 @@ sine sortiendo inter vigenti milia civium tres liberos singulatim habentium.
 > my scientific acquirements, and the precepts I shall deliver.
 
 ab eo tempore dinocrates constanter regem ministrabat, et eum in aegyptum sequebatur; cum alexander locum conspicatus est, e natura sua fortem, assitum ad centrum commercii totius nationis, terram crebram horreum, et habentem illas facultates commeantus nilo praebitas, is dinocratem iussit ut urbem constitueret cui nomen alexandria esset. dinocrates hunc honorem persona decora et habitu digno obtinuit. mihi, autem, imperator, natura staturam amplam abnuit; facies senectute rugata est, constitutioque  mea morbis inhibita facta est. his bonis naturalibus privatus, spero, tamen, commendationem aliquam per scientiam adeptus ero, praecepta a me delatura.
+
+> Mankind originally brought forth like the beasts of the field, in woods, dens,
+> and groves, passed their lives in a savage manner, eating the simple food which
+> nature afforded. A tempest, on a certain occasion, having exceedingly agitated
+> the trees in a particular spot, the friction between some of the branches
+> caused them to take fire; this so alarmed those in the neighbourhood of the
+> accident, that they betook themselves to flight. Returning to the spot after
+> the tempest had subsided, and finding the warmth which had thus been created
+> extremely comfortable, they added fuel to the fire excited, in order to
+> preserve the heat, and then went forth to invite others, by signs and gestures,
+> to come and witness the discovery. In the concourse that thus took place, they
+> testified their different opinions and expressions by different inflexions of
+> the voice. From daily association words succeeded to these indefinite modes of
+> speech; and these becoming by degrees the signs of certain objects, they began
+> to join them together, and conversation became general.
+
+humanitas primordio peperit sicut bestiae agri, in silvis, nemoribus, cavernis, et tempus suum degerunt modo saevo, rudem cibum natura praebitum edentes. tempestas, alicubi, arbores valde agitavit quodam loco, et illo incensum erat inter ramos frictionis causa. ita attoniti et adeo permoti fuerunt illi circiter qui adfuerunt, ut se fugae conferrent. rursus revenientes post tempestatem et calorem relictum ibi commodissimum invenientes, materias igni adiecerunt ut calor conservaretur, deinde progressi sunt alios invitatum signis gestibusque ut venirent aspicerentque inventum. in concursu qui ita evenit, testati sunt opiniones suas dilatas locutionesque inflexionibus vocis differentibus. ex conexionibus cottidianis verba succedebant illis obscuris modis loquendi; haec gradatim signa quarumdam rerum facta sunt, et coniungi coeperunt, et colloquia vulgata facta sunt.
+
+

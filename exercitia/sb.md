@@ -645,6 +645,15 @@ humanitas primordio peperit sicut bestiae agri, in silvis, nemoribus, cavernis, 
 > had to correct a Greek. [As I recall] you then tore away all the titles
 > placed at the top of the manuscripts and said, "What's the point of that crap."
 
-
 salutationes multas cum magna reverentia dignitatis tuae, quas debeo scribens ad tuam magistratatem. venerabilis dominus magister, scis bene non est sine re notabili cum petam vel rogem cognitionem a tua magistratate. hic est quidam graecus qui sumpsit grammaticam urbani, et cum graece scriberet, semper titulos supra ponebat, qua de causa nuper dixi, hem, magistrum ortvinum daventrii grammaticam graecam quoque exercere, et peritum esse etiam sicut hunc graecum, et eum numquam ita titulos suos scripsisse, et, ut credo, eum operas suas intellegere tam bene, et fortasse hunc graecum corrigere. sed alii hoc credere nolebant, et socii mei constanter me premebant de quonam possim tibi dominationi scribere, ut a te certior factus essem, num oportet ita titulos poneremus, an non. si non, dein pro deo, cupimus hunc graecum irritare, et ita hoc facere ut pauci audientes adessent. bene recordor te coloniae apud henricum quentelem, cum corrector fueris, et corrigendum fuisse quemdam graecum. ut memini, omnes titulos summis chartis avelleras dicens, "quorsus hae quisquilliae?"
 
+> When I myself was a young man, my inclinations at first led me, like many
+> another, into public life, and there I encountered many obstacles; for
+> instead of modesty, incorruptibility and honesty, shamelessness, bribery and
+> rapacity held sway. And although my soul, a stranger to evil ways, recoiled
+> from such faults, yet amid so many vices my youthful weakness was led astray
+> and held captive my ambition; for while I took no part in the evil practices
+> of the others, yet the desire for preferment made me the victim of the same
+> ill-repute and jealousy as they.
+
+cum ipse iuvenis eram, inclinavi imprimis tamquam multi alii in vitam publicam, et illic multa impedimenta mihi obviam obtigerunt. nam loco pudor, incorruptibilitas, et probitas, impudentia, corruptela, et rapacitas regnarunt. etiamsi spiritus meus, alienus viae malae, ab talibus mendis abhorruit, etiam apud tot vitia imbecillitas mea iuvenis subducta est et ambitio mea meo captivo potita est. aliquamdiu moribus aliorum malis abstinui, sed cupiditas honoris me earumdem sicut alios infamiarum invidiarumque victimam confecit.

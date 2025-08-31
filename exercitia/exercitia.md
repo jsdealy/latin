@@ -492,7 +492,11 @@ hominum corrumpit amore pecuniae."
 
 9. Dico te, Pyrrhe, Romanos posse vincere. 
 
-10. Die, hospes, Spartae te nos hie iacentes vidisse, palriae fideles. 
+> ausculta me, pyrrhe, nos romanos vincemus. 
+
+10. Dic, hospes, Spartae te nos hic iacentes vidisse, patriae fideles. 
+
+
 
 11. Slicrates putabat se esse civem totius mundi. (Cicero.)
 

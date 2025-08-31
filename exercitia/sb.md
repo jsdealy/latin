@@ -606,6 +606,7 @@ sine sortiendo inter vigenti milia civium tres liberos singulatim habentium.
 
 ab eo tempore dinocrates constanter regem ministrabat, et eum in aegyptum sequebatur; cum alexander locum conspicatus est, e natura sua fortem, assitum ad centrum commercii totius nationis, terram crebram horreum, et habentem illas facultates commeantus nilo praebitas, is dinocratem iussit ut urbem constitueret cui nomen alexandria esset. dinocrates hunc honorem persona decora et habitu digno obtinuit. mihi, autem, imperator, natura staturam amplam abnuit; facies senectute rugata est, constitutioque  mea morbis inhibita facta est. his bonis naturalibus privatus, spero, tamen, commendationem aliquam per scientiam adeptus ero, praecepta a me delatura.
 
+<<<<<<< Updated upstream
 > Mankind originally brought forth like the beasts of the field, in woods, dens,
 > and groves, passed their lives in a savage manner, eating the simple food which
 > nature afforded. A tempest, on a certain occasion, having exceedingly agitated
@@ -624,3 +625,35 @@ ab eo tempore dinocrates constanter regem ministrabat, et eum in aegyptum sequeb
 humanitas primordio peperit sicut bestiae agri, in silvis, nemoribus, cavernis, et tempus suum degerunt modo saevo, rudem cibum natura praebitum edentes. tempestas, alicubi, arbores valde agitavit quodam loco, et illo incensum erat inter ramos frictionis causa. ita attoniti et adeo permoti fuerunt illi circiter qui adfuerunt, ut se fugae conferrent. rursus revenientes post tempestatem et calorem relictum ibi commodissimum invenientes, materias igni adiecerunt ut calor conservaretur, deinde progressi sunt alios invitatum signis gestibusque ut venirent aspicerentque inventum. in concursu qui ita evenit, testati sunt opiniones suas dilatas locutionesque inflexionibus vocis differentibus. ex conexionibus cottidianis verba succedebant illis obscuris modis loquendi; haec gradatim signa quarumdam rerum facta sunt, et coniungi coeperunt, et colloquia vulgata facta sunt.
 
 
+> Many salutations with great reverence for your dignity, such as I owe,
+> writing to "your teachersty [viz., majesty+teacher]." Venerable lord master,
+> you know that it's with a notable question that I petition or ask your
+> teachersty for insight. There's here a certain Greek who has picked up the
+> grammar of Urbanus [Bellunensis, fortasse], and when he writes Greek, he
+> always puts the titles at the top, for which reason I recently said, ahem,
+> Master Ortvinus [Gratius] of Deventer also practices Greek grammar, and is
+> even as skilled as [this Greek], and he [Gratius] never wrote his titles
+> thus; and I believe he [Gratius] understands his work just as well as [the
+> Greek], and might yet correct this Greek. 
+> But the others were unwilling to
+> credit this, and my associates constantly pressed me as to what I might want
+> to write to your lordship, so that you might tell me, whether we should be
+> putting the titles [in that way], or not. If we shouldn't be putting them [in
+> that way], then by God, we really want to niggle this Greek, and we want to
+> make it such that he should have a bit of an audience. I well recall you in
+> Colonia at the house of Henry Quentel, when you were a "corrector," and you
+> had to correct a Greek. [As I recall] you then tore away all the titles
+> placed at the top of the manuscripts and said, "What's the point of that crap."
+
+salutationes multas cum magna reverentia dignitatis tuae, quas debeo scribens ad tuam magistratatem. venerabilis dominus magister, scis bene non est sine re notabili cum petam vel rogem cognitionem a tua magistratate. hic est quidam graecus qui sumpsit grammaticam urbani, et cum graece scriberet, semper titulos supra ponebat, qua de causa nuper dixi, hem, magistrum ortvinum daventrii grammaticam graecam quoque exercere, et peritum esse etiam sicut hunc graecum, et eum numquam ita titulos suos scripsisse, et, ut credo, eum operas suas intellegere tam bene, et fortasse hunc graecum corrigere. sed alii hoc credere nolebant, et socii mei constanter me premebant de quonam possim tibi dominationi scribere, ut a te certior factus essem, num oportet ita titulos poneremus, an non. si non, dein pro deo, cupimus hunc graecum irritare, et ita hoc facere ut pauci audientes adessent. bene recordor te coloniae apud henricum quentelem, cum corrector fueris, et corrigendum fuisse quemdam graecum. ut memini, omnes titulos summis chartis avelleras dicens, "quorsus hae quisquilliae?"
+
+> When I myself was a young man, my inclinations at first led me, like many
+> another, into public life, and there I encountered many obstacles; for
+> instead of modesty, incorruptibility and honesty, shamelessness, bribery and
+> rapacity held sway. And although my soul, a stranger to evil ways, recoiled
+> from such faults, yet amid so many vices my youthful weakness was led astray
+> and held captive my ambition; for while I took no part in the evil practices
+> of the others, yet the desire for preferment made me the victim of the same
+> ill-repute and jealousy as they.
+
+cum ipse iuvenis eram, inclinavi imprimis tamquam multi alii in vitam publicam, et illic multa impedimenta mihi obviam obtigerunt. nam loco pudor, incorruptibilitas, et probitas, impudentia, corruptela, et rapacitas regnarunt. etiamsi spiritus meus, alienus viae malae, ab talibus mendis abhorruit, etiam apud tot vitia imbecillitas mea iuvenis subducta est et ambitio mea meo captivo potita est. aliquamdiu moribus aliorum malis abstinui, sed cupiditas honoris me earumdem sicut alios infamiarum invidiarumque victimam confecit.

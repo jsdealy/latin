@@ -657,3 +657,42 @@ salutationes multas cum magna reverentia dignitatis tuae, quas debeo scribens ad
 > ill-repute and jealousy as they.
 
 cum ipse iuvenis eram, inclinavi imprimis tamquam multi alii in vitam publicam, et illic multa impedimenta mihi obviam obtigerunt. nam loco pudor, incorruptibilitas, et probitas, impudentia, corruptela, et rapacitas regnarunt. etiamsi spiritus meus, alienus viae malae, ab talibus mendis abhorruit, etiam apud tot vitia imbecillitas mea iuvenis subducta est et ambitio mea meo captivo potita est. aliquamdiu moribus aliorum malis abstinui, sed cupiditas honoris me earumdem sicut alios infamiarum invidiarumque victimam confecit.
+
+> But if anyone suffers from his stomach, he should read out loud, and after
+> the reading take a walk, then exercise himself at handball and at drill or at
+> anything else which brings the upper part of the body into play; on an empty
+> stomach he should not drink water but hot wine; if he digests readily he
+> should take two meals a day; drink light and dry wine, and after a meal
+> drinks should preferably be cold. Weakness of the stomach is indicated by
+> pallor, wasting, pain over the heart, nausea, and involuntary vomiting,
+> headache when the stomach is empty; where these symptoms are absent, the
+> stomach is sound. Nor must one absolutely trust those of our patients who
+> when very unwell have conceived a longing for wine or cold water, and in
+> backing up their desires, lay the blame on their perfectly innocent stomach.
+
+sed si quispiam ab stomacho aegrotat, recitet, et postea spatietur, et deinde se exerceat pilá et discipliná militaris vel ullo alio quo corpus superum erigitur. stomacho vacuo, non aqua, sed vinum calidum bibendum est, et si concoquit facile, bis cenet cottidie, bibat levem et siccum vinum, et post cenam haustus frigidi praeferendi sunt. imbecillitas stomachi indicatur facie exsangui, consumptione, dolore supra cor, nausea, vomendo involuntario, dolore capitis stomacho vacuo; his signis absentibus, stomachus valet. neque sunt omnino confidentes his aegroti nostri qui grave invalidis aquae frigidis vel vini cupiditas conceperunt, et ut desideria sua confirment, hanc rem stomachis suis, et ut opinantur, innocentibus attribuunt. 
+
+> Revenge is a kind of wild justice, which the more man’s nature runs to, the
+> more ought law to weed it out; for as for the first wrong, it doth but offend
+> the law, but the revenge of that wrong, putteth the law out of office.
+> Certainly, in taking revenge, a man is but even with his enemy, but in
+> passing it over, he is superior; for it is a prince’s part to pardon; and
+> Solomon, I am sure, saith, “It is the glory of a man to pass by an offence.”
+> That which is past is gone and irrevocable, and wise men have enough to do
+> with things present and to come; therefore they do but trifle with themselves
+> that labor in past matters. 
+
+ultio est species iustitiae ferae, eo magis ad quam ingenium hominis currit, quo magis id legi eradicandum est. nam primum malum tantum legi offendit, sed ultione eius mali lex munere suo exponitur. certe, ultor aequum est aestimandus inimico suo, sed praetermittendo ei antecedit. est principibus ignoscere. salomon, ut certus sum, ait, "gloria hominis est praeterire offensionem." praeterita aeternum absunt, et sapientes satis negotium nacti sunt e rebus praesentibus et futuris. itaque ii qui super praeteritis laborant modo nugas secum agunt. 
+
+> [There is no man doth a wrong for the wrong’s
+> sake, but thereby to purchase himself profit, or pleasure, or honor, or the
+> like; therefore, why should I be angry with a man for loving himself better
+> than me? And if any man should do wrong merely out of ill-nature, why, yet it
+> is but like the thorn or briar, which prick and scratch, because they can do
+> no other. The most tolerable sort of revenge is for those wrongs which there
+> is no law to remedy; but then, let a man take heed the revenge be such as
+> there is no law to punish, else a man’s enemy is still beforehand, and it is
+> two for one. Some, when they take revenge, are desirous the party should know
+> whence it cometh.]
+
+nemo peccat ut peccet, sed eo lucrum adipiscatur, vel volutatem vel honorem vel similem; itaque, quae causa est mihi irascendi si is se amat plusquam me? et si e natura inimica quispiam malum committit, ecce, veluti est spina vel dumus qui pungit vel radit quia nil aliud potest. ultio quam maxime toleranda est illorum facinorum ad quae emendanda non est lex, sed illo casu cavendum est ultori ne modus ulciscendi suus puniri aliqua lege possit, nam deinde inimicus adhuc antestat, et duo pro uno est. aliqui cum ulciscantur, cupiunt ut reus sciat unde venire. 

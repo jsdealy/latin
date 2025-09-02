@@ -66,7 +66,7 @@ malum perferte{>malum gerite!}.' Vos quoque, o cives," ait{>ait Aesopus},
 ## III. Graculus Superbus et Pavo
 
 
-Ne gloriari libeat{>placeat} alienis bonis,
+{)Ne gloriari} libeat{>placeat} alienis bonis,
 suoque potius habitu{>suo habitu = suo statu} vitam degere{>vitam degere = vivere},
 Aesopus nobis hoc exemplum prodidit.
 Tumens inani{>inané} graculus{>![avis rustica](./img/graculus.jpg)} superbia
@@ -74,23 +74,26 @@ pinnas, pavoni{>![avis splendida](./img/pavonis.png)} quae deciderant{>pinnas pa
 seque exornavit. Deinde, contemnens suos
 immiscet{>interponit} se pavonum formoso gregi.
 Illi impudenti pinnas eripiunt avi,
-fugantque rostris{>ad fugam rostris suis graculum compellunt}.\
-Male mulcatus graculus
-redire maerens coepit ad proprium genus,
-a quo repulsus tristem sustinuit notam.
-Tum quidam ex illis quos prius despexerat
-'Contentus nostris si fuisses sedibus
+fugantque rostris{>ad fugam rostris \ 
+suis graculum coniciunt}.\ 
+Male mulcatus{>valde laceratus} graculus
+redire maerens{>tristis} coepit ad proprium genus,
+a quo repulsus tristem sustinuit notam{>triste insignitus est}.
+Tum quidam ex illis quos prius despexerat{>contempserat}
+'Contentus nostris si fuisses sedibus{>si contentus nostris sedibus fuisses}
 et quod Natura dederat voluisses pati,
-nec illam expertus esses contumeliam
+nec illam expertus esses contumeliam{>nec illam contumeliam sentiret}
 nec hanc repulsam tua sentiret calamitas.'
+
+<br>
 
 ## IV. Canis per Fluvium Carnem Ferens
 
-Amittit merito proprium qui alienum adpetit.
+{)Amittit merito} proprium qui alienum adpetit.
 Canis, per fluvium carnem cum ferret, natans
-lympharum in speculo vidit simulacrum suum,
+lympharum in speculo{>in speculo aquae} vidit simulacrum suum,
 aliamque praedam ab altero ferri putans
-eripere voluit; verum decepta aviditas
+eripere voluit; verum decepta aviditas{>aviditas, cui canem aequamus, verum decepta}
 et quem tenebat ore dimisit cibum,
 nec quem petebat adeo potuit tangere.
 

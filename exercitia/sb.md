@@ -696,3 +696,24 @@ ultio est species iustitiae ferae, eo magis ad quam ingenium hominis currit, quo
 > whence it cometh.]
 
 nemo peccat ut peccet, sed eo lucrum adipiscatur, vel volutatem vel honorem vel similem; itaque, quae causa est mihi irascendi si is se amat plusquam me? et si e natura inimica quispiam malum committit, ecce, veluti est spina vel dumus qui pungit vel radit quia nil aliud potest. ultio quam maxime toleranda est illorum facinorum ad quae emendanda non est lex, sed illo casu cavendum est ultori ne modus ulciscendi suus puniri aliqua lege possit, nam deinde inimicus adhuc antestat, et duo pro uno est. aliqui cum ulciscantur, cupiunt ut reus sciat unde venire. 
+
+> Some, when they take revenge, are desirous the party should know whence it
+> cometh. This is the more generous; for the delight seemeth to be not so much
+> in doing the hurt as in making the party repent; but base and crafty cowards
+> are like the arrow that flieth in the dark. Cosmus, Duke of Florence, had a
+> desperate saying against perfidious or neglecting friends, as if those wrongs
+> were unpardonable. “You shall read,” saith he, “that we are commanded to
+> forgive our enemies; but you never read that we are commanded to forgive our
+> friends.” But yet the spirit of Job was in a better tune: “Shall we,” saith
+> he, “take good at God’s hands, and not be content to take evil also?” and so
+> of friends in a proportion. This is certain, that a man that studieth revenge
+> keeps his own wounds green, which otherwise would heal and do well. Public
+> revenges are for the most part fortunate; as that for the death of Cæsar; for
+> the death of Pertinax; for the death of Henry the Third of France; and many
+> more. But in private revenges it is not so; nay, rather, vindictive persons
+> live the life of witches, who, as they are mischievous, so end they
+> unfortunate.
+
+aliqui cum ulciscantur, cupiunt ut pars sciat unde veniat. beneficentius est; nam inde delicia non tam multum e dolore infligendo quam e parti paenitendo videtur. sed ignavi calidique homines sunt similes sagittae volanti in tenebris. cosmus, dux florentiae, dictum desperatum tenuit de amicis perfidiosis vel neglegentibus, velut si talia facinora ignosci nequeant. legebis, ait, imperati sumus ut inimicis nostris ignoscamus, sed numquam legis imperati sumus ut amicis nostris ignoscamus. 
+
+

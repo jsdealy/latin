@@ -13,11 +13,39 @@ use 5.42.0;
 my $initial_section = 1; 
 my $single_quote_count = 1; 
 my $double_quote_count = 1; 
+my $prose = 0;
+my %OPTIONS;
 
-sub convert_sidenote ($content) {
+sub convert_sidenote {
     state $notecount = 0;
     $notecount++;
-    return '<label for="'.$notecount.'" class="margin-toggle sidenote-number"></label><input type="checkbox" id="'.$notecount.'" class="margin-toggle"/><span class="sidenote">'.$content.'</span>';
+    return '<label for="'.$notecount.'" class="margin-toggle sidenote-number"></label><input type="checkbox" id="'.$notecount.'" class="margin-toggle"/><span class="sidenote">'.$1.'</span>';
+}
+
+sub print_help {
+    print qq[Usage: $0 [option(s) and/or markdown file(s)]\n];
+    print qq[A perl script for preparing latin markdown for Tufte-based html.\n];
+    print qq[\nOPTIONS:\n\n];
+    while (my ($option, $explanation) = each %OPTIONS) {
+	my $spacer = " " x (10 - length($option));
+	print "\t--$option$spacer\t$explanation\n";
+    }
+    print qq[\nOPTIONS that take arguments require the use of '='.\n];
+    print qq[\nThemes: light dark random white league beige night serif simple solarized moon dracula sky blood\n];
+    exit 0
+}
+
+# handling cli args <September 11, 2025> # 
+while ($ARGV[0] =~ m/^--?/) {
+    my $flag = shift(@ARGV);
+
+    $OPTIONS{prose} = "Turn off handling for verse.";
+    $prose = 1 if ($flag =~ m/-p(rose)?/); 
+
+    if ($flag =~ m/-?h(elp)?/) {
+	print_help();
+	exit;
+    }
 }
 
 # paragraph mode <- 08/31/25 16:22:04 # 
@@ -52,7 +80,7 @@ for (@textblocks) {
     }; 
 
     # making lines <- 08/30/25 23:18:42 # 
-    s|^([^#]\s*[^\s]+.*)$|<span class="line">$1<br></span>|gm; 
+    s|^([^#]\s*[^\s]+.*)$|<span class="line">$1<br></span>|gm if $prose == 0;
 
     # converting sidenote tags <- 08/30/25 23:18:52 # 
     s/\{>(.*?)\}/convert_sidenote($1)/sge;

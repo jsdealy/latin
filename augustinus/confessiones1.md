@@ -13,7 +13,7 @@
 Magnus es, domine, et laudabilis valde: magna virtus tua et sapientiae tuae non
 est numerus. Et laudare te vult homo, aliqua portio creaturae tuae, et homo
 circumferens mortalitatem suam, circumferens testimonium peccati sui et
-testimonium quia superbis resistis:{>et testimonium te superbis resistere} et tamen laudare te vult homo, aliqua
+testimonium quia superbis resistis{>testimonium quia superbis resistis = testimonium te superbis resistere}: et tamen laudare te vult homo, aliqua
 portio creaturae tuae. Tu excitas, ut laudare te delectet, quia fecisti nos ad
 te et inquietum est cor nostrum, donec requiescat in te. Da mihi, domine, scire
 et intellegere, utrum sit prius invocare te an laudare te et scire te prius sit

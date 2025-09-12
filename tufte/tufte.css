@@ -377,6 +377,17 @@ label.margin-toggle:not(.sidenote-number) {
     height: 100%;
 }
 
+/* optional: nice triangle indicator */
+summary::-webkit-details-marker { display: none; } /* hide default */
+.tree summary::before {
+  content: "";
+  display: inline-block;
+  width: 0em;
+  transform-origin: 50% 50%;
+  transition: transform .12s ease;
+}
+details[open] > summary::before { transform: rotate(90deg); }
+
 @media (max-width: 760px) {
     body {
         width: 84%;

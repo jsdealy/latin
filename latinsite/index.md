@@ -1,4 +1,6 @@
 - aurelii augustini confessiones
+		<details>
+		    <summary><i>libri</i></summary>
     - [liber primus](confessiones1.html)
     - [liber secundus](confessiones2.html)
     - [liber tertius](confessiones3.html)
@@ -12,6 +14,7 @@
     - [liber undecimus](confessiones11.html)
     - [liber duodecimus](confessiones12.html)
     - [liber tertius decimus](confessiones13.html)
+	    </details>
 
 - phaedri augusti liberti fabularum aesopiarum
     - [liber primus](phaedrus1.html)

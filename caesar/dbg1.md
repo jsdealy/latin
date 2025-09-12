@@ -1,6 +1,6 @@
 # C. IVLI CAESARIS COMMENTARIORVM DE BELLO GALLICO 
 
-## LIBER PRIMVS
+## liber primvs
 
 ### 1.
 

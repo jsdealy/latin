@@ -1,0 +1,29 @@
+<section id="my-section">
+  This is an example paragraph.
+</section>
+
+<div id="output-box" style="border:1px solid black; padding:0.5em; margin-top:1em;"></div>
+
+<script>
+const section = document.getElementById('my-section');
+const outputBox = document.getElementById('output-box');
+
+// Example function that runs when a word is clicked
+function clFunction(word) {
+  return "You clicked: " + word.toUpperCase();
+}
+
+// Split the section into words, wrap each in a span
+section.innerHTML = section.textContent
+  .split(/\s+/)
+  .map(word => `<span class="word" style="cursor:pointer;">${word}</span>`)
+  .join(' ');
+
+// Attach click handlers
+section.querySelectorAll('.word').forEach(span => {
+  span.addEventListener('click', () => {
+    const result = clFunction(span.textContent);
+    outputBox.textContent = result;
+  });
+});
+</script>

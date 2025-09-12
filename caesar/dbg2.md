@@ -1,6 +1,8 @@
-# C. IVLI CAESARIS COMMENTARIORVM DE BELLO GALLICO LIBER SECVNDVS
+# C. IVLI CAESARIS COMMENTARIORVM DE BELLO GALLICO 
 
-## 1
+## LIBER SECVNDVS
+
+### 1
 
 Cum esset Caesar in citeriore Gallia [in hibernis], ita
 uti supra demonstravimus, crebri ad eum rumores adferebantur litterisque
@@ -16,7 +18,7 @@ Gallia a potentioribus atque iis qui ad conducendos homines facultates
 habebant vulgo regna occupabantur; qui minus facile eam rem imperio
 nostro consequi poterant.
 
-## 2
+### 2
 
 His nuntiis litterisque commotus Caesar duas legiones in
 citeriore Gallia novas conscripsit et inita aestate in ulteriorem
@@ -28,7 +30,7 @@ omnes nuntiaverunt manus cogi, exercitum in unum locum conduci. Tum vero
 dubitandum non existimavit quin ad eos proficisceretur. Re frumentaria
 provisa castra movet diebusque circiter XV ad fines Belgarum pervenit.
 
-## 3
+### 3
 
 Eo cum de improviso celeriusque omnium opinione venisset,
 Remi, qui proximi Galliae ex Belgis sunt, ad eum legatos Iccium et
@@ -43,7 +45,7 @@ consanguineosque suos, qui eodem iure et isdem legibus utantur, unum
 imperium unumque magistratum cum ipsis habeant, deterrere potuerint quin
 cum iis consentirent.
 
-## 4
+### 4
 
 Cum ab iis quaereret quae civitates quantaeque in armis
 essent et quid in bello possent, sic reperiebat: plerosque Belgos esse
@@ -70,7 +72,7 @@ milia, Menapios VII milia, Caletos X milia, Veliocasses et Viromanduos
 totidem, Atuatucos XVIIII milia; Condrusos, Eburones, Caerosos,
 Paemanos, qui uno nomine Germani appellantur, arbitrari ad XL milia.
 
-## 5
+### 5
 
 Caesar Remos cohortatus liberaliterque oratione prosecutus
 omnem senatum ad se convenire principumque liberos obsides ad se adduci
@@ -90,7 +92,7 @@ flumine pons erat. Ibi praesidium ponit et in altera parte fluminis Q.
 Titurium Sabinum legatum cum sex cohortibus relinquit; castra in
 altitudinem pedum XII vallo fossaque duodeviginti pedum muniri iubet.
 
-## 6
+### 6
 
 Ab his castris oppidum Remorum nomine Bibrax aberat milia
 passuum VIII. Id ex itinere magno impetu Belgae oppugnare coeperunt.
@@ -105,7 +107,7 @@ praeerat, unus ex iis qui legati de pace ad Caesarem venerant, nuntium
 ad eum mittit, nisi subsidium sibi submittatur, sese diutius sustinere
 non posse.
 
-## 7
+### 7
 
 Eo de media nocte Caesar isdem ducibus usus qui nuntii ab
 Iccio venerant, Numidas et Cretas sagittarios et funditores Baleares
@@ -117,7 +119,7 @@ castra Caesaris omnibus copiis contenderunt et a milibus passuum minus
 duobus castra posuerunt; quae castra, ut fumo atque ignibus
 significabatur, amplius milibus passuum VIII latitudinem patebant.
 
-## 8
+### 8
 
 Caesar primo et propter multitudinem hostium et propter
 eximiam opinionem virtutis proelio supersedere statuit; cotidie tamen
@@ -136,7 +138,7 @@ proxime conscripserat in castris relictis ut, si quo opus esset,
 subsidio duci possent, reliquas VI legiones pro castris in acie
 constituit. Hostes item suas copias ex castris eductas instruxerunt.
 
-## 9
+### 9
 
 Palus erat non magna inter nostrum atque hostium exercitum.
 Hanc si nostri transirent hostes expectabant; nostri autem, si ab illis
@@ -151,7 +153,7 @@ pontemque interscinderent; si minus potuissent, agros Remorum
 popularentur, qui magno nobis usui ad bellum gerendum erant, commeatuque
 nostros prohiberent.
 
-## 10
+### 10
 
 [Caesar] certior factus ab Titurio omnem equitatum et
 levis armaturae Numidas, funditores sagittariosque pontem traducit atque
@@ -171,7 +173,7 @@ quoque ratio eos deduxit, quod Diviciacum atque Haeduos finibus
 Bellovacorum adpropinquare cognoverant. His persuaderi ut diutius
 morarentur neque suis auxilium ferrent non poterat.
 
-## 11
+### 11
 
 Ea re constituta, secunda vigilia magno cum, strepitu ac
 tumultu castris egressi nullo certo ordine neque imperio, cum sibi
@@ -192,7 +194,7 @@ tantam eorum multitudinem nostri interfecerunt quantum fuit diei
 spatium; sub occasum solis sequi destiterunt seque in castra, ut erat
 imperatum, receperunt.
 
-## 12
+### 12
 
 Postridie eius diei Caesar, prius quam se hostes ex
 terrore ac fuga reciperent, in fines Suessionum, qui proximi Remis
@@ -207,7 +209,7 @@ magnitudine operum, quae neque viderant ante Galli neque audierant, et
 celeritate Romanorum permoti legatos ad Caesarem de deditione mittunt et
 petentibus Remis ut conservarentur impetrant.
 
-## 13
+### 13
 
 Caesar, obsidibus acceptis primis civitatis atque ipsius
 Galbae regis duobus filiis armisque omnibus ex oppido traditis, in
@@ -220,7 +222,7 @@ Romanum armis contendere. Item, cum ad oppidum accessisset castraque ibi
 poneret, pueri mulieresque ex muro passis manibus suo more pacem ab
 Romanis petierunt.
 
-## 14
+### 14
 
 Pro his Diviciacus (nam post discessum Belgarum dimissis
 Haeduorum copiis ad eum reverterat) facit verba: Bellovacos omni tempore
@@ -234,7 +236,7 @@ sua clementia ac mansuetudine in eos utatur. Quod si fecerit, Haeduorum
 auctoritatem apud omnes Belgas amplificaturum, quorum auxiliis atque
 opibus, si qua bella inciderint, sustentare consuerint.
 
-## 15
+### 15
 
 Caesar honoris Diviciaci atque Haeduorum causa sese eos in
 fidem recepturum et conservaturum dixit, et quod erat civitas magna
@@ -250,7 +252,7 @@ increpitare atque incusare reliquos Belgas, qui se populo Romano
 dedidissent patriamque virtutem proiecissent; confirmare sese neque
 legatos missuros neque ullam condicionem pacis accepturos.
 
-## 16
+### 16
 
 Cum per eorum fines triduum iter fecisset, inveniebat ex
 captivis Sabim flumen a castris suis non amplius milibus passuum X
@@ -261,7 +263,7 @@ expectari etiam ab iis Atuatucorum copias atque esse in itinere;
 mulieres quique per aetatem ad pugnam inutiles viderentur in eum locum
 coniecisse quo propter paludes exercitui aditus non esset.
 
-## 17
+### 17
 
 His rebus cognitis, exploratores centurionesque praemittit
 qui locum castris idoneum deligant. Cum ex dediticiis Belgis reliquisque
@@ -283,7 +285,7 @@ quo non modo non intrari sed ne perspici quidem posset. His rebus cum
 iter agminis nostri impediretur, non omittendum sibi consilium Nervii
 existimaverunt.
 
-## 18
+### 18
 
 Loci natura erat haec, quem locum nostri castris
 delegerant. Collis ab summo aequaliter declivis ad flumen Sabim, quod
@@ -294,7 +296,7 @@ posset. Intra eas silvas hostes in occulto sese continebant; in aperto
 loco secundum flumen paucae stationes equitum videbantur. Fluminis erat
 altitudo pedum circiter trium.
 
-## 19
+### 19
 
 Caesar equitatu praemisso subsequebatur omnibus copiis;
 sed ratio ordoque agminis aliter se habebat ac Belgae ad Nervios
@@ -317,7 +319,7 @@ uno tempore et ad silvas et in flumine [et iam in manibus nostris]
 hostes viderentur. Eadem autem celeritate adverso colle ad nostra castra
 atque eos qui in opere occupati erant contenderunt.
 
-## 20
+### 20
 
 Caesari omnia uno tempore erant agenda: vexillum
 proponendum, quod erat insigne, cum ad arma concurri oporteret; signum
@@ -332,7 +334,7 @@ singulos legatos Caesar discedere nisi munitis castris vetuerat. Hi
 propter propinquitatem et celeritatem hostium nihil iam Caesaris
 imperium expectabant, sed per se quae videbantur administrabant.
 
-## 21
+### 21
 
 Caesar, necessariis rebus imperatis, ad cohortandos
 milites, quam [in] partem fors obtulit, decucurrit et ad legionem
@@ -347,7 +349,7 @@ tegimenta detrahenda tempus defuerit. Quam quisque ab opere in partem
 casu devenit quaeque prima signa conspexit, ad haec constitit, ne in
 quaerendis suis pugnandi tempus dimitteret.
 
-## 22
+### 22
 
 Instructo exercitu magis ut loci natura [deiectusque
 collis] et necessitas temporis quam ut rei militaris ratio atque ordo
@@ -358,7 +360,7 @@ quaque parte opus esset provideri neque ab uno omnia imperia
 administrari poterant. Itaque in tanta rerum iniquitate fortunae quoque
 eventus varii sequebantur.
 
-## 23
+### 23
 
 Legionis VIIII. et X. milites, ut in sinistra parte aciei
 constiterant, pilis emissis cursu ac lassitudine exanimatos
@@ -376,7 +378,7 @@ qui summam imperii tenebat, ad eum locum contenderunt; quorum pars ab
 aperto latere legiones circumvenire, pars summum castrorum locum petere
 coepit.
 
-## 24
+### 24
 
 Eodem tempore equites nostri levisque armaturae pedites,
 qui cum iis una fuerant, quos primo hostium impetu pulsos dixeram, cum
@@ -395,7 +397,7 @@ partes fugere vidissent, desperatis nostris rebus domum contenderunt:
 Romanos pulsos superatosque, castris impedimentisque eorum hostes
 potitos civitati renuntiaverunt.
 
-## 25
+### 25
 
 Caesar ab X. legionis cohortatione ad dextrum cornu
 profectus, ubi suos urgeri signisque in unum locum conlatis XII.
@@ -416,7 +418,7 @@ redintegrato animo, cum pro se quisque in conspectu imperatoris etiam in
 extremis suis rebus operam navare cuperet, paulum hostium impetus
 tardatus est.
 
-## 26
+### 26
 
 Caesar, cum VII. legionem, quae iuxta constiterat, item
 urgeri ab hoste vidisset, tribunos militum monuit ut paulatim sese
@@ -432,7 +434,7 @@ quo in loco res esset quantoque in periculo et castra et legiones et
 imperator versaretur cognovissent, nihil ad celeritatem sibi reliqui
 fecerunt.
 
-## 27
+### 27
 
 Horum adventu tanta rerum commutatio est facta ut nostri,
 etiam qui vulneribus confecti procubuissent, scutis innixi proelium
@@ -448,7 +450,7 @@ ausos esse transire latissimum flumen, ascendere altissimas ripas,
 subire iniquissimum locum; quae facilia ex difficillimis animi magnitudo
 redegerat.
 
-## 28
+### 28
 
 Hoc proelio facto et prope ad internecionem gente ac
 nomine Nerviorum redacto, maiores natu, quos una cum pueris
@@ -462,7 +464,7 @@ supplices usus misericordia videretur, diligentissime conservavit
 suisque finibus atque oppidis uti iussit et finitimis imperavit ut ab
 iniuria et maleficio se suosque prohiberent.
 
-## 29
+### 29
 
 Atuatuci, de quibus supra diximus, cum omnibus copiis
 auxilio Nerviis venirent, hac pugna nuntiata ex itinere domum
@@ -480,7 +482,7 @@ annos a finitimis exagitati, cum alias bellum inferrent, alias inlatum
 defenderent, consensu eorum omnium pace facta hunc sibi domicilio locum
 delegerant.
 
-## 30
+### 30
 
 Ac primo adventu exercitus nostri crebras ex oppido
 excursiones faciebant parvulisque proeliis cum nostris contendebant;
@@ -493,7 +495,7 @@ staturae (nam plerumque omnibus Gallis prae magnitudine corporum quorum
 brevitas nostra contemptui est) tanti oneris turrim in muro sese posse
 conlocare confiderent?
 
-## 31
+### 31
 
 Ubi vero moveri et adpropinquare muris viderunt, nova
 atque inusitata specie commoti legatos ad Caesarem de pace miserunt, qui
@@ -508,7 +510,7 @@ praestare, si in eum casum deducerentur, quamvis fortunam a populo
 Romano pati quam ab his per cruciatum interfici inter quos dominari
 consuessent.
 
-## 32
+### 32
 
 Ad haec Caesar respondit: se magis consuetudine sua quam
 merito eorum civitatem conservaturum, si prius quam murum aries
@@ -521,7 +523,7 @@ ut prope summam muri aggerisque altitudinem acervi armorum adaequarent,
 et tamen circiter parte tertia, ut postea perspectum est, celata atque
 in oppido retenta, portis patefactis eo die pace sunt usi.
 
-## 33
+### 33
 
 Sub vesperum Caesar portas claudi militesque ex oppido
 exire iussit, ne quam noctu oppidani a militibus iniuriam acciperent.
@@ -542,7 +544,7 @@ atque intromissis militibus nostris, sectionem eius oppidi universam
 Caesar vendidit. Ab iis qui emerant capitum numerus ad eum relatus est
 milium LIII.
 
-## 34
+### 34
 
 Eodem tempore a P. Crasso, quem cum legione una miserat ad
 Venetos, Venellos, Osismos, Coriosolitas, Esuvios, Aulercos, Redones,
@@ -550,7 +552,7 @@ quae sunt maritimae civitates Oceanumque attingunt, certior factus est
 omnes eas civitates in dicionem potestatemque populi Romani esse
 redactas.
 
-## 35
+### 35
 
 His rebus gestis omni Gallia pacata, tanta huius belli ad
 barbaros opinio perlata est uti ab iis nationibus quae trans Rhenum

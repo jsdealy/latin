@@ -1,6 +1,8 @@
-# C. IVLI CAESARIS COMMENTARIORVM DE BELLO GALLICO LIBER TERTIVS
+# C. IVLI CAESARIS COMMENTARIORVM DE BELLO GALLICO 
 
-## 1
+## LIBER TERTIVS
+
+### 1
 
 simplified:
 
@@ -38,7 +40,7 @@ Cum hic in duas partes flumine divideretur, alteram partem eius vici
 Gallis \[ad hiemandum\] concessit, alteram vacuam ab his relictam
 cohortibus attribuit. Eum locum vallo fossaque munivit.
 
-## 2
+### 2
 
 extra simple:
 
@@ -83,7 +85,7 @@ itinerum causa sed etiam perpetuae possessionis culmina Alpium occupare
 conari et ea loca finitimae provinciae adiungere sibi persuasum
 habebant.
 
-## 3
+### 3
 
 His nuntiis acceptis Galba, cum neque opus hibernorum
 munitionesque plene essent perfectae neque de frumento reliquoque
@@ -99,7 +101,7 @@ pervenissent ad salutem contenderent. Maiori tamen parti placuit, hoc
 reservato ad extremum casum consilio interim rei eventum experiri et
 castra defendere.
 
-## 4
+### 4
 
 Brevi spatio interiecto, vix ut iis rebus quas constituissent conlocandis 
 atque administrandis tempus daretur, hostes ex omnibus partibus signo 
@@ -112,7 +114,7 @@ quarum rerum a nostris propter paucitatem fieri nihil poterat, ac non
 modo defesso ex pugna excedendi, sed ne saucio quidem eius loci ubi 
 constiterat relinquendi ac sui recipiendi facultas dabatur.
 
-## 5
+### 5
 
 Cum iam amplius horis sex continenter pugnaretur, ac non
 solum vires sed etiam tela nostros deficerent, atque hostes acrius
@@ -127,7 +129,7 @@ paulisper intermitterent proelium ac tantum modo tela missa exciperent
 seque ex labore reficerent, post dato signo ex castris erumperent, atque
 omnem spem salutis in virtute ponerent.
 
-## 6
+### 6
 
 Quod iussi sunt faciunt, ac subito omnibus portis eruptione
 facta neque cognoscendi quid fieret neque sui colligendi hostibus
@@ -145,7 +147,7 @@ reverti contendit, ac nullo hoste prohibente aut iter demorante
 incolumem legionem in Nantuates, inde in Allobroges perduxit ibique
 hiemavit.
 
-## 7
+### 7
 
 His rebus gestis cum omnibus de causis Caesar pacatam
 Galliam existimaret, \[superatis Belgis, expulsis Germanis, victis in
@@ -158,7 +160,7 @@ militum complures in finitimas civitates frumenti causa dimisit; quo in
 numero est T. Terrasidius missus in Esuvios, M. Trebius Gallus in
 Coriosolites, Q. Velanius eum T. Silio in Venetos.
 
-## 8
+### 8
 
 Huius est civitatis longe amplissima auctoritas omnis orae
 maritimae regionum earum, quod et naves habent Veneti plurimas, quibus
@@ -177,7 +179,7 @@ servitutem perferre malint. Omni ora maritima celeriter ad suam
 sententiam perducta communem legationem ad P. Crassum mittunt, si velit
 suos recuperare, obsides sibi remittat.
 
-## 9
+### 9
 
 Quibus de rebus Caesar a Crasso certior factus, quod ipse
 aberat longius, naves interim longas aedificari in flumine Ligeri, quod
@@ -204,7 +206,7 @@ plurimas possunt cogunt. Socios sibi ad id bellum Osismos, Lexovios,
 Namnetes, Ambiliatos, Morinos, Diablintes, Menapios adsciscunt; auxilia
 ex Britannia, quae contra eas regiones posita est, arcessunt.
 
-## 10
+### 10
 
 Erant hae difficultates belli gerendi quas supra
 ostendimus, sed tamen multa Caesarem ad id bellum incitabant: iniuria
@@ -216,7 +218,7 @@ mobiliter celeriterque excitari, omnes autem homines natura libertati
 studere et condicionem servitutis odisse, prius quam plures civitates
 conspirarent, partiendum sibi ac latius distribuendum exercitum putavit.
 
-## 11
+### 11
 
 Itaque T. Labienum legatum in Treveros, qui proximi
 flumini Rheno sunt, cum equitatu mittit. Huic mandat, Remos reliquosque
@@ -232,7 +234,7 @@ reliquisque pacatis regionibus convenire iusserat, praeficit et, cum
 primum possit, in Venetos proficisci iubet. Ipse eo pedestribus copiis
 contendit.
 
-## 12
+### 12
 
 Erant eius modi fere situs oppidorum ut posita in extremis
 lingulis promunturiisque neque pedibus aditum haberent, cum ex alto se
@@ -248,7 +250,7 @@ aestatis faciebant quod nostrae naves tempestatibus detinebantur
 summaque erat vasto atque aperto mari, magnis aestibus, raris ac prope
 nullis portibus difficultas navigandi.
 
-## 13
+### 13
 
 Namque ipsorum naves ad hunc modum factae armataeque
 erant: carinae aliquanto planiores quam nostrarum navium, quo facilius
@@ -271,7 +273,7 @@ coepisset et\] se vento dedissent, et tempestatem ferrent facilius et in
 vadis consisterent tutius et ab aestu relictae nihil saxa et cautes
 timerent; quarum rerum omnium nostris navibus casus erat extimescendus.
 
-## 14
+### 14
 
 Compluribus expugnatis oppidis Caesar, ubi intellexit
 frustra tantum laborem sumi neque hostium fugam captis oppidis reprimi
@@ -296,7 +298,7 @@ Caesaris atque omnis exercitus res gerebatur, ut nullum paulo fortius
 factum latere posset; omnes enim colles ac loca superiora, unde erat
 propinquus despectus in mare, ab exercitu tenebantur.
 
-## 15
+### 15
 
 Deiectis, ut diximus, antemnis, cum singulas binae ac
 ternae naves circumsteterant, milites summa vi transcendere in hostium
@@ -309,7 +311,7 @@ maximae fuit oportunitati: nam singulas nostri consectati expugnaverunt,
 ut perpaucae ex omni numero noctis interventu ad terram pervenirent, cum
 ab hora fere IIII usque ad solis occasum pugnaretur.
 
-## 16
+### 16
 
 Quo proelio bellum Venetorum totiusque orae maritimae
 confectum est. Nam cum omnis iuventus, omnes etiam gravioris aetatis in
@@ -321,7 +323,7 @@ vindicandum statuit quo diligentius in reliquum tempus a barbaris ius
 legatorum conservaretur. Itaque omni senatu necato reliquos sub corona
 vendidit.
 
-## 17
+### 17
 
 Dum haec in Venetis geruntur, Q. Titurius Sabinus cum iis
 copiis quas a Caesare acceperat in fines Venellorum pervenit. His
@@ -341,7 +343,7 @@ auderent. Id ea de causa faciebat quod cum tanta multitudine hostium,
 praesertim eo absente qui summam imperii teneret, nisi aequo loco aut
 oportunitate aliqua data legato dimicandum non existimabat.
 
-## 18
+### 18
 
 Hac confirmata opinione timoris idoneum quendam hominem et
 callidum deligit, Gallum, ex iis quos auxilii causa secum habebat. Huic
@@ -361,7 +363,7 @@ et ad castra contendant. Qua re concessa laeti, ut explorata victoria,
 sarmentis virgultisque collectis, quibus fossas Romanorum compleant, ad
 castra pergunt.
 
-## 19
+### 19
 
 Locus erat castrorum editus et paulatim ab imo acclivis
 circiter passus mille. Huc magno cursu contenderunt, ut quam minimum
@@ -379,7 +381,7 @@ dediderunt. Nam ut ad bella suscipienda Gallorum alacer ac promptus est
 animus, sic mollis ac minime resistens ad calamitates ferendas mens
 eorum est.
 
-## 20
+### 20
 
 Eodem fere tempore P. Crassus, cum in Aquitaniam
 pervenisset, quae \[pars\], ut ante dictum est, \[et regionum latitudine
@@ -398,7 +400,7 @@ atque insequentibus nostris subito pedestres copias, quas in convalle in
 insidiis conlocaverant, ostenderunt. Hi nostros disiectos adorti
 proelium renovarunt.
 
-## 21
+### 21
 
 Pugnatum est diu atque acriter, cum Sotiates superioribus
 victoriis freti in sua virtute totius Aquitaniae salutem positam
@@ -413,7 +415,7 @@ secturaeque sunt), ubi diligentia nostrorum nihil his rebus profici
 posse intellexerunt, legatos ad Crassum mittunt seque in deditionem ut
 recipiat petunt.
 
-## 22
+### 22
 
 Qua re impetrata arma tradere iussi faciunt. Atque in eam
 rem omnium nostrorum intentis animis alia ex parte oppidi Adiatunnus,
@@ -428,7 +430,7 @@ milites concurrissent vehementerque ibi pugnatum esset, repulsus in
 oppidum tamen uti eadem deditionis condicione uteretur a Crasso
 impetravit.
 
-## 23
+### 23
 
 Armis obsidibusque acceptis, Crassus in fines Vocatium et
 Tarusatium profectus est. Tum vero barbari commoti, quod oppidum et
@@ -449,7 +451,7 @@ non cunctandum existimavit quin pugna decertaret. Hac re ad consilium
 delata, ubi omnes idem sentire intellexit, posterum diem pugnae
 constituit.
 
-## 24
+### 24
 
 Prima luce productis omnibus copiis duplici acie
 instituta, auxiliis in mediam aciem coniectis, quid hostes consilii
@@ -465,7 +467,7 @@ ad pugnandum effecissent atque omnium voces audirentur expectari diutius
 non oportere quin ad castra iretur, cohortatus suos omnibus cupientibus
 ad hostium castra contendit.
 
-## 25
+### 25
 
 Ibi cum alii fossas complerent, alii multis telis
 coniectis defensores vallo munitionibusque depellerent, auxiliaresque,
@@ -477,7 +479,7 @@ acciderent, equites circumitis hostium castris Crasso renuntiaverunt non
 eadem esse diligentia ab decumana porta castra munita facilemque aditum
 habere.
 
-## 26
+### 26
 
 Crassus equitum praefectos cohortatus, ut magnis praemiis
 pollicitationibusque suos excitarent, quid fieri vellet ostendit. Illi,
@@ -495,7 +497,7 @@ consectatus ex milium L numero, quae ex Aquitania Cantabrisque
 convenisse constabat, vix quarta parte relicta, multa nocte se in castra
 recepit.
 
-## 27
+### 27
 
 Hac audita pugna maxima pars Aquitaniae sese Crasso
 dedidit obsidesque ultro misit; quo in numero fuerunt Tarbelli,
@@ -503,7 +505,7 @@ Bigerriones, Ptianii, Vocates, Tarusates, Elusates, Gates, Ausci,
 Garumni, Sibusates, Cocosates: paucae ultimae nationes anni tempore
 confisae, quod hiems suberat, id facere neglexerunt.
 
-## 28
+### 28
 
 Eodem fere tempore Caesar, etsi prope exacta iam aestas
 erat, tamen, quod omni Gallia pacata Morini Menapiique supererant, qui
@@ -519,7 +521,7 @@ evolaverunt et in nostros impetum fecerunt. Nostri celeriter arma
 ceperunt eosque in silvas repulerunt et compluribus interfectis longius
 impeditioribus locis secuti paucos ex suis deperdiderunt.
 
-## 29
+### 29
 
 Reliquis deinceps diebus Caesar silvas caedere instituit,
 et ne quis inermibus imprudentibusque militibus ab latere impetus fieri

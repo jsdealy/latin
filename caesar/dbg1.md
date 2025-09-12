@@ -1,6 +1,10 @@
-C. IVLI CAESARIS COMMENTARIORVM DE BELLO GALLICO LIBER PRIMVS
+# C. IVLI CAESARIS COMMENTARIORVM DE BELLO GALLICO 
 
-§1 Gallia est omnis divisa in partes tres, quarum unam
+## LIBER PRIMVS
+
+### 1.
+
+ Gallia est omnis divisa in partes tres, quarum unam
 incolunt Belgae, aliam Aquitani, tertiam qui ipsorum lingua Celtae,
 nostra Galli appellantur. Hi omnes lingua, institutis, legibus inter
 se differunt. Gallos ab Aquitanis Garumna flumen, a Belgis Matrona
@@ -21,7 +25,9 @@ septentrionem et orientem solem. Aquitania a Garumna flumine ad
 Pyrenaeos montes et eam partem Oceani quae est ad Hispaniam
 pertinet; spectat inter occasum solis et septentriones.
 
-§2 Apud Helvetios longe nobilissimus fuit et ditissimus
+### 2.
+
+ Apud Helvetios longe nobilissimus fuit et ditissimus
 Orgetorix. Is M. Messala, [et P.] M. Pisone consulibus regni
 cupiditate inductus coniurationem nobilitatis fecit et civitati
 persuasit ut de finibus suis cum omnibus copiis exirent: perfacile
@@ -38,7 +44,9 @@ hominum et pro gloria belli atque fortitudinis angustos se fines
 habere arbitrabantur, qui in longitudinem milia passuum CCXL, in
 latitudinem CLXXX patebant.
 
-§3 His rebus adducti et auctoritate Orgetorigis permoti
+### 3.
+
+ His rebus adducti et auctoritate Orgetorigis permoti
 constituerunt ea quae ad proficiscendum pertinerent comparare,
 iumentorum et carrorum quam maximum numerum coemere, sementes quam
 maximas facere, ut in itinere copia frumenti suppeteret, cum
@@ -60,7 +68,9 @@ oratione adducti inter se fidem et ius iurandum dant et regno
 occupato per tres potentissimos ac firmissimos populos totius
 Galliae sese potiri posse sperant.
 
-§4 Ea res est Helvetiis per indicium enuntiata. Moribus
+### 4.
+
+ Ea res est Helvetiis per indicium enuntiata. Moribus
 suis Orgetoricem ex vinculis causam dicere coegerunt; damnatum
 poenam sequi oportebat, ut igni cremaretur. Die constituta causae
 dictionis Orgetorix ad iudicium omnem suam familiam, ad hominum
@@ -71,7 +81,9 @@ exequi conaretur multitudinemque hominum ex agris magistratus
 cogerent, Orgetorix mortuus est; neque abest suspicio, ut Helvetii
 arbitrantur, quin ipse sibi mortem consciverit.
 
-§5 Post eius mortem nihilo minus Helvetii id quod
+### 5.
+
+ Post eius mortem nihilo minus Helvetii id quod
 constituerant facere conantur, ut e finibus suis exeant. Ubi iam se
 ad eam rem paratos esse arbitrati sunt, oppida sua omnia, numero ad
 duodecim, vicos ad quadringentos, reliqua privata aedificia
@@ -84,7 +96,9 @@ cum iis proficiscantur, Boiosque, qui trans Rhenum incoluerant et in
 agrum Noricum transierant Noreiamque oppugnabant, receptos ad se
 socios sibi adsciscunt.
 
-§6 Erant omnino itinera duo, quibus itineribus domo exire
+### 6.
+
+ Erant omnino itinera duo, quibus itineribus domo exire
 possent: unum per Sequanos, angustum et difficile, inter montem
 Iuram et flumen Rhodanum, vix qua singuli carri ducerentur, mons
 autem altissimus impendebat, ut facile perpauci prohibere possent;
@@ -99,7 +113,9 @@ paterentur. Omnibus rebus ad profectionem comparatis diem dicunt,
 qua die ad ripam Rhodani omnes conveniant. Is dies erat a. d. V.
 Kal. Apr. L. Pisone, A. Gabinio consulibus.
 
-§7 Caesari cum id nuntiatum esset, eos per provinciam
+### 7.
+
+ Caesari cum id nuntiatum esset, eos per provinciam
 nostram iter facere conari, maturat ab urbe proficisci et quam
 maximis potest itineribus in Galliam ulteriorem contendit et ad
 Genavam pervenit. Provinciae toti quam maximum potest militum
@@ -118,7 +134,9 @@ intercedere posset dum milites quos imperaverat convenirent, legatis
 respondit diem se ad deliberandum sumpturum: si quid vellent, ad Id.
 April. reverterentur.
 
-§8 Interea ea legione quam secum habebat militibusque, qui
+### 8.
+
+ Interea ea legione quam secum habebat militibusque, qui
 ex provincia convenerant, a lacu Lemanno, qui in flumen Rhodanum
 influit, ad montem Iuram, qui fines Sequanorum ab Helvetiis dividit,
 milia passuum XVIIII murum in altitudinem pedum sedecim fossamque
@@ -133,7 +151,9 @@ erat, non numquam interdiu, saepius noctu si perrumpere possent
 conati, operis munitione et militum concursu et telis repulsi, hoc
 conatu destiterunt.
 
-§9 Relinquebatur una per Sequanos via, qua Sequanis invitis
+### 9.
+
+ Relinquebatur una per Sequanos via, qua Sequanis invitis
 propter angustias ire non poterant. His cum sua sponte persuadere
 non possent, legatos ad Dumnorigem Haeduum mittunt, ut eo
 deprecatore a Sequanis impetrarent. Dumnorix gratia et largitione
@@ -146,7 +166,9 @@ obsidesque uti inter sese dent perficit: Sequani, ne itinere
 Helvetios prohibeant, Helvetii, ut sine maleficio et iniuria
 transeant.
 
-§10 Caesari renuntiatur Helvetiis esse in animo per agrum
+### 10.
+
+ Caesari renuntiatur Helvetiis esse in animo per agrum
 Sequanorum et Haeduorum iter in Santonum fines facere, qui non longe
 a Tolosatium finibus absunt, quae civitas est in provincia. Id si
 fieret, intellegebat magno cum periculo provinciae futurum ut
@@ -164,7 +186,9 @@ provinciae die septimo pervenit; inde in Allobrogum fines, ab
 Allobrogibus in Segusiavos exercitum ducit. Hi sunt extra provinciam
 trans Rhodanum primi.
 
-§11 Helvetii iam per angustias et fines Sequanorum suas
+### 11.
+
+ Helvetii iam per angustias et fines Sequanorum suas
 copias traduxerant et in Haeduorum fines pervenerant eorumque agros
 populabantur. Haedui, cum se suaque ab iis defendere non possent,
 legatos ad Caesarem mittunt rogatum auxilium: ita se omni tempore de
@@ -179,7 +203,9 @@ nihil esse reliqui. Quibus rebus adductus Caesar non expectandum
 sibi statuit dum, omnibus, fortunis sociorum consumptis, in Santonos
 Helvetii pervenirent.
 
-§12 Flumen est Arar, quod per fines Haeduorum et
+### 12.
+
+ Flumen est Arar, quod per fines Haeduorum et
 Sequanorum in Rhodanum influit, incredibili lenitate, ita ut oculis
 in utram partem fluat iudicari non possit. Id Helvetii ratibus ac
 lintribus iunctis transibant. Ubi per exploratores Caesar certior
@@ -198,7 +224,9 @@ poenam persolvit. Qua in re Caesar non solum publicas, sed etiam
 privatas iniurias ultus est, quod eius soceri L. Pisonis avum, L.
 Pisonem legatum, Tigurini eodem proelio quo Cassium interfecerant.
 
-§13 Hoc proelio facto, reliquas copias Helvetiorum ut
+### 13.
+
+ Hoc proelio facto, reliquas copias Helvetiorum ut
 consequi posset, pontem in Arari faciendum curat atque ita exercitum
 traducit. Helvetii repentino eius adventu commoti cum id quod ipsi
 diebus XX aegerrime confecerant, ut flumen transirent, illum uno die
@@ -217,7 +245,9 @@ ne committeret ut is locus ubi constitissent ex calamitate populi
 Romani et internecione exercitus nomen caperet aut memoriam
 proderet.
 
-§14 His Caesar ita respondit: eo sibi minus dubitationis
+### 14.
+
+ His Caesar ita respondit: eo sibi minus dubitationis
 dari, quod eas res quas legati Helvetii commemorassent memoria
 teneret, atque eo gravius ferre quo minus merito populi Romani
 accidissent; qui si alicuius iniuriae sibi conscius fuisset, non
@@ -239,7 +269,9 @@ Helvetios a maioribus suis institutos esse uti obsides accipere, non
 dare, consuerint; eius rem populum Romanum esse testem. Hoc responso
 dato discessit.
 
-§15 Postero die castra ex eo loco movent. Idem facit
+### 15.
+
+ Postero die castra ex eo loco movent. Idem facit
 Caesar equitatumque omnem, ad numerum quattuor milium, quem ex omni
 provincia et Haeduis atque eorum sociis coactum habebat, praemittit,
 qui videant quas in partes hostes iter faciant. Qui cupidius
@@ -253,7 +285,9 @@ pabulationibus populationibusque prohibere. Ita dies circiter XV
 iter fecerunt uti inter novissimum hostium agmen et nostrum primum
 non amplius quinis aut senis milibus passuum interesset.
 
-§16 Interim cotidie Caesar Haeduos frumentum, quod essent
+### 16.
+
+ Interim cotidie Caesar Haeduos frumentum, quod essent
 publice polliciti, flagitare. Nam propter frigora [quod Gallia sub
 septentrionibus, ut ante dictum est, posita est,] non modo frumenta
 in agris matura non erant, sed ne pabuli quidem satis magna copia
@@ -271,7 +305,9 @@ hostibus ab iis non sublevetur, praesertim cum magna ex parte eorum
 precibus adductus bellum susceperit; multo etiam gravius quod sit
 destitutus queritur.
 
-§17 Tum demum Liscus oratione Caesaris adductus quod antea
+### 17.
+
+ Tum demum Liscus oratione Caesaris adductus quod antea
 tacuerat proponit: esse non nullos, quorum auctoritas apud plebem
 plurimum valeat, qui privatim plus possint quam ipsi magistratus.
 Hos seditiosa atque improba oratione multitudinem deterrere, ne
@@ -284,7 +320,9 @@ enuntiari; hos a se coerceri non posse. Quin etiam, quod necessariam
 rem coactus Caesari enuntiarit, intellegere sese quanto id cum
 periculo fecerit, et ob eam causam quam diu potuerit tacuisse.
 
-§18 Caesar hac oratione Lisci Dumnorigem, Diviciaci
+### 18.
+
+ Caesar hac oratione Lisci Dumnorigem, Diviciaci
 fratrem, designari sentiebat, sed, quod pluribus praesentibus eas
 res iactari nolebat, celeriter concilium dimittit, Liscum retinet.
 Quaerit ex solo ea quae in conventu dixerat. Dicit liberius atque
@@ -311,7 +349,9 @@ initium eius fugae factum a Dumnorige atque eius equitibus (nam
 equitatui, quem auxilio Caesari Haedui miserant, Dumnorix praeerat):
 eorum fuga reliquum esse equitatum perterritum.
 
-§19 Quibus rebus cognitis, cum ad has suspiciones
+### 19.
+
+ Quibus rebus cognitis, cum ad has suspiciones
 certissimae res accederent, quod per fines Sequanorum Helvetios
 traduxisset, quod obsides inter eos dandos curasset, quod ea omnia
 non modo iniussu suo et civitatis sed etiam inscientibus ipsis
@@ -330,7 +370,9 @@ ostendit quae separatim quisque de eo apud se dixerit. Petit atque
 hortatur ut sine eius offensione animi vel ipse de eo causa cognita
 statuat vel civitatem statuere iubeat.
 
-§20 Diviciacus multis cum lacrimis Caesarem complexus
+### 20.
+
+ Diviciacus multis cum lacrimis Caesarem complexus
 obsecrare coepit ne quid gravius in fratrem statueret: scire se illa
 esse vera, nec quemquam ex eo plus quam se doloris capere, propterea
 quod, cum ipse gratia plurimum domi atque in reliqua Gallia, ille
@@ -350,7 +392,9 @@ proponit; monet ut in reliquum tempus omnes suspiciones vitet;
 praeterita se Diviciaco fratri condonare dicit. Dumnorigi custodes
 ponit, ut quae agat, quibuscum loquatur scire possit.
 
-§21 Eodem die ab exploratoribus certior factus hostes sub
+### 21.
+
+ Eodem die ab exploratoribus certior factus hostes sub
 monte consedisse milia passuum ab ipsius castris octo, qualis esset
 natura montis et qualis in circuitu ascensus qui cognoscerent misit.
 Renuntiatum est facilem esse. De tertia vigilia T. Labienum, legatum
@@ -361,7 +405,9 @@ ad eos contendit equitatumque omnem ante se mittit. P. Considius,
 qui rei militaris peritissimus habebatur et in exercitu L. Sullae et
 postea in M. Crassi fuerat, cum exploratoribus praemittitur.
 
-§22 Labieno
+### 22.
+
+ Labieno
 teneretur, ipse ab hostium castris non longius mille et quingentis
 passibus abesset neque, ut postea ex captivis comperit, aut ipsius
 adventus aut Labieni cognitus esset, Considius equo admisso ad eum
@@ -377,7 +423,9 @@ Considium timore perterritum quod non vidisset pro viso sibi
 renuntiavisse. Eo die quo consuerat intervallo hostes sequitur et
 milia passuum tria ab eorum castris castra ponit.
 
-§23 Postridie eius diei, quod omnino biduum supererat, cum
+### 23.
+
+ Postridie eius diei, quod omnino biduum supererat, cum
 exercitui frumentum metiri oporteret, et quod a Bibracte, oppido
 Haeduorum longe maximo et copiosissimo, non amplius milibus passuum
 XVIII aberat, rei frumentariae prospiciendum existimavit; itaque
@@ -389,7 +437,9 @@ proelium non commisissent, sive eo quod re frumentaria intercludi
 posse confiderent, commutato consilio atque itinere converso nostros
 a novissimo agmine insequi ac lacessere coeperunt.
 
-§24 Postquam id animum advertit, copias suas Caesar in
+### 24.
+
+ Postquam id animum advertit, copias suas Caesar in
 proximum collem subduxit equitatumque, qui sustineret hostium
 impetum, misit. Ipse interim in colle medio triplicem aciem
 instruxit legionum quattuor veteranarum; in summo iugo duas legiones
@@ -401,7 +451,9 @@ carris secuti impedimenta in unum locum contulerunt; ipsi
 confertissima acie, reiecto nostro equitatu, phalange facta sub
 primam nostram aciem successerunt.
 
-§25 Caesar primum suo, deinde omnium ex conspectu remotis
+### 25.
+
+ Caesar primum suo, deinde omnium ex conspectu remotis
 equis, ut aequato omnium periculo spem fugae tolleret, cohortatus
 suos proelium commisit. Milites loco superiore pilis missis facile
 hostium phalangem perfregerunt. Ea disiecta gladiis destrictis in
@@ -420,7 +472,9 @@ et proelium redintegrare coeperunt. Romani conversa signa bipertito
 intulerunt: prima et secunda acies, ut victis ac submotis
 resisteret, tertia, ut venientes sustineret.
 
-§26 Ita ancipiti proelio diu atque acriter pugnatum est.
+### 26.
+
+ Ita ancipiti proelio diu atque acriter pugnatum est.
 Diutius cum sustinere nostrorum impetus non possent, alteri se, ut
 coeperant, in montem receperunt, alteri ad impedimenta et carros
 suos se contulerunt. Nam hoc toto proelio, cum ab hora septima ad
@@ -439,7 +493,9 @@ ad Lingonas litteras nuntiosque misit, ne eos frumento neve alia re
 iuvarent: qui si iuvissent, se eodem loco quo Helvetios habiturum.
 Ipse triduo intermisso cum omnibus copiis eos sequi coepit.
 
-§27 Helvetii omnium rerum inopia adducti legatos de
+### 27.
+
+ Helvetii omnium rerum inopia adducti legatos de
 deditione ad eum miserunt. Qui cum eum in itinere convenissent seque
 ad pedes proiecissent suppliciterque locuti flentes pacem petissent,
 atque eos in eo loco quo tum essent suum adventum expectare
@@ -452,7 +508,9 @@ tanta multitudine dediticiorum suam fugam aut occultari aut omnino
 ignorari posse existimarent, prima nocte e castris Helvetiorum
 egressi ad Rhenum finesque Germanorum contenderunt.
 
-§28 Quod ubi Caesar resciit, quorum per fines ierant his
+### 28.
+
+ Quod ubi Caesar resciit, quorum per fines ierant his
 uti conquirerent et reducerent, si sibi purgati esse vellent,
 imperavit; reductos in hostium numero habuit; reliquos omnes
 obsidibus, armis, perfugis traditis in deditionem accepit.
@@ -469,7 +527,9 @@ finibus suis conlocarent, concessit; quibus illi agros dederunt
 quosque postea in parem iuris libertatisque condicionem atque ipsi
 erant receperunt.
 
-§29 In castris Helvetiorum tabulae repertae sunt litteris
+### 29.
+
+ In castris Helvetiorum tabulae repertae sunt litteris
 Graecis confectae et ad Caesarem relatae, quibus in tabulis
 nominatim ratio confecta erat, qui numerus domo exisset eorum qui
 arma ferre possent, et item separatim, quot pueri, senes
@@ -480,7 +540,9 @@ milia nonaginta duo. Summa omnium fuerunt ad milia CCCLXVIII. Eorum
 qui domum redierunt censu habito, ut Caesar imperaverat, repertus
 est numerus milium C et X.
 
-§30 Bello Helvetiorum confecto totius fere Galliae legati,
+### 30.
+
+ Bello Helvetiorum confecto totius fere Galliae legati,
 principes civitatum, ad Caesarem gratulatum convenerunt: intellegere
 sese, tametsi pro veteribus Helvetiorum iniuriis populi Romani ab
 his poenas bello repetisset, tamen eam rem non minus ex usu
@@ -496,7 +558,9 @@ vellent. Ea re permissa diem concilio constituerunt et iure iurando
 ne quis enuntiaret, nisi quibus communi consilio mandatum esset,
 inter se sanxerunt.
 
-§31 Eo concilio dimisso, idem princeps civitatum qui ante
+### 31.
+
+ Eo concilio dimisso, idem princeps civitatum qui ante
 fuerant ad Caesarem reverterunt petieruntque uti sibi secreto in
 occulto de sua omniumque salute cum eo agere liceret. Ea re
 impetrata sese omnes flentes Caesari ad pedes proiecerunt: non minus
@@ -547,7 +611,9 @@ sua atque exercitus vel recenti victoria vel nomine populi Romani
 deterrere posse ne maior multitudo Germanorum Rhenum traducatur,
 Galliamque omnem ab Ariovisti iniuria posse defendere.
 
-§32 Hac oratione ab Diviciaco habita omnes qui aderant
+### 32.
+
+ Hac oratione ab Diviciaco habita omnes qui aderant
 magno fletu auxilium a Caesare petere coeperunt. Animadvertit Caesar
 unos ex omnibus Sequanos nihil earum rerum facere quas ceteri
 facerent sed tristes capite demisso terram intueri. Eius rei quae
@@ -562,7 +628,9 @@ daretur, Sequanis vero, qui intra fines suos Ariovistum recepissent,
 quorum oppida omnia in potestate eius essent, omnes cruciatus essent
 perferendi.
 
-§33 His rebus cognitis Caesar Gallorum animos verbis
+### 33.
+
+ His rebus cognitis Caesar Gallorum animos verbis
 confirmavit pollicitusque est sibi eam rem curae futuram; magnam se
 habere spem et beneficio suo et auctoritate adductum Ariovistum
 finem iniuriis facturum. Hac oratione habita, concilium dimisit. Et
@@ -582,7 +650,9 @@ quibus rebus quam maturrime occurrendum putabat. Ipse autem
 Ariovistus tantos sibi spiritus, tantam arrogantiam sumpserat, ut
 ferendus non videretur.
 
-§34 Quam ob rem placuit ei ut ad Ariovistum legatos
+### 34.
+
+ Quam ob rem placuit ei ut ad Ariovistum legatos
 mitteret, qui ab eo postularent uti aliquem locum medium utrisque
 conloquio deligeret: velle sese de re publica et summis utriusque
 rebus cum eo agere. Ei legationi Ariovistus respondit: si quid ipsi
@@ -593,7 +663,9 @@ exercitum sine magno commeatu atque molimento in unum locum
 contrahere posse. Sibi autem mirum videri quid in sua Gallia, quam
 bello vicisset, aut Caesari aut omnino populo Romano negotii esset.
 
-§35 His responsis ad Caesarem relatis, iterum ad eum
+### 35.
+
+ His responsis ad Caesarem relatis, iterum ad eum
 Caesar legatos cum his mandatis mittit: quoniam tanto suo populique
 Romani beneficio adtectus, cum in consulatu suo rex atque amicus a
 senatu appellatus esset, hanc sibi populoque Romano gratiam referret
@@ -610,7 +682,9 @@ senatus censuisset uti quicumque Galliam provinciam obtineret, quod
 commodo rei publicae lacere posset, Haeduos ceterosque amicos populi
 Romani defenderet, se Haeduorum iniurias non neglecturum.
 
-§36 Ad haec Ariovistus respondit: ius esse belli ut qui
+### 36.
+
+ Ad haec Ariovistus respondit: ius esse belli ut qui
 vicissent iis quos vicissent quem ad modum vellent imperarent. Item
 populum Romanum victis non ad alterius praescriptum, sed ad suum
 arbitrium imperare consuesse. Si ipse populo Romano non
@@ -628,7 +702,9 @@ contendisse. Cum vellet, congrederetur: intellecturum quid invicti
 Germani, exercitatissimi in armis, qui inter annos XIIII tectum non
 subissent, virtute possent.
 
-§37 Haec eodem tempore Caesari mandata referebantur et
+### 37.
+
+ Haec eodem tempore Caesari mandata referebantur et
 legati ab Haeduis et a Treveris veniebant: Haedui questum quod
 Harudes, qui nuper in Galliam transportati essent, fines eorum
 popularentur: sese ne obsidibus quidem datis pacem Ariovisti
@@ -640,7 +716,9 @@ veteribus copiis Ariovisti sese coniunxisset, minus facile resisti
 posset. Itaque re frumentaria quam celerrime potuit comparata magnis
 itineribus ad Ariovistum contendit.
 
-§38 Cum tridui viam processisset, nuntiatum est ei
+### 38.
+
+ Cum tridui viam processisset, nuntiatum est ei
 Ariovistum cum suis omnibus copiis ad occupandum Vesontionem, quod
 est oppidum maximum Sequanorum, contendere [triduique viam a suis
 finibus processisse]. Id ne accideret, magnopere sibi praecavendum
@@ -655,7 +733,9 @@ circumdatus arcem efficit et cum oppido coniungit. Huc Caesar magnis
 nocturnis diurnisque itineribus contendit occupatoque oppido ibi
 praesidium conlocat.
 
-§39 Dum paucos dies ad Vesontionem rei frumentariae
+### 39.
+
+ Dum paucos dies ad Vesontionem rei frumentariae
 commeatusque causa moratur, ex percontatione nostrorum vocibusque
 Gallorum ac mercatorum, qui ingenti magnitudine corporum Germanos,
 incredibili virtute atque exercitatione in armis esse praedicabant
@@ -681,7 +761,9 @@ Non nulli etiam Caesari nuntiabant, cum castra moveri ac signa ferri
 iussisset, non fore dicto audientes milites neque propter timorem
 signa laturos.
 
-§40 Haec cum animadvertisset, convocato consilio omniumque
+### 40.
+
+ Haec cum animadvertisset, convocato consilio omniumque
 ordinum ad id consilium adhibitis centurionibus, vehementer eos
 incusavit: primum, quod aut quam in partem aut quo consilio
 ducerentur sibi quaerendum aut cogitandum putarent. Ariovistum se
@@ -724,7 +806,9 @@ si praeterea nemo sequatur, tamen se cum sola decima legione iturum, de
 qua non dubitet, sibique eam praetoriam cohortem futuram. Huic legioni
 Caesar et indulserat praecipue et propter virtutem confidebat maxime.
 
-§41 Hac oratione habita mirum in modum conversae sunt omnium
+### 41.
+
+ Hac oratione habita mirum in modum conversae sunt omnium
 mentes summaque alacritas et cupiditas belli gerendi innata est,
 princepsque X. legio per tribunos militum ei gratias egit quod de se
 optimum iudicium fecisset, seque esse ad bellum gerendum paratissimam
@@ -738,7 +822,9 @@ quarta vigilia, ut dixerat, profectus est. Septimo die, cum iter non
 intermitteret, ab exploratoribus certior factus est Ariovisti copias a
 nostris milia passuum IIII et XX abesse.
 
-§42 Cognito Caesaris adventu Ariovistus legatos ad eum mittit:
+### 42.
+
+ Cognito Caesaris adventu Ariovistus legatos ad eum mittit:
 quod antea de conloquio postulasset, id per se fieri licere, quoniam
 propius accessisset seque id sine periculo facere posse existimaret. Non
 respuit condicionem Caesar iamque eum ad sanitatem reverti arbitrabatur,
@@ -758,7 +844,9 @@ cum fieret, non inridicule quidam ex militibus X. legionis dixit: plus
 quam pollicitus esset Caesarem facere; pollicitum se in cohortis
 praetoriae loco X. legionem habiturum ad equum rescribere.
 
-§43 Planities erat magna et in ea tumulus terrenus satis
+### 43.
+
+ Planities erat magna et in ea tumulus terrenus satis
 grandis. Hic locus aequum fere spatium a castris Ariovisti et Caesaris
 aberat. Eo, ut erat dictum, ad conloquium venerunt. Legionem Caesar,
 quam equis devexerat, passibus CC ab eo tumulo constituit. Item equites
@@ -781,7 +869,9 @@ deinde eadem quae legatis in mandatis dederat: ne aut Haeduis aut eorum
 sociis bellum inferret, obsides redderet, si nullam partem Germanorum
 domum remittere posset, at ne quos amplius Rhenum transire pateretur.
 
-§44 Ariovistus ad postulata Caesaris pauca respondit, de suis
+### 44.
+
+ Ariovistus ad postulata Caesaris pauca respondit, de suis
 virtutibus multa praedicavit: transisse Rhenum sese non sua sponte, sed
 rogatum et arcessitum a Gallis; non sine magna spe magnisque praemiis
 domum propinquosque reliquisse; sedes habere in Gallia ab ipsis
@@ -818,7 +908,9 @@ posset. Quod si decessisset et liberam possessionem Galliae sibi
 tradidisset, magno se illum praemio remuneraturum et quaecumque bella
 geri vellet sine ullo eius labore et periculo confecturum.
 
-§45 Multa a Caesare in eam sententiam dicta sunt quare negotio
+### 45.
+
+ Multa a Caesare in eam sententiam dicta sunt quare negotio
 desistere non posset: neque suam neque populi Romani consuetudinem pati
 ut optime meritos socios desereret, neque se iudicare Galliam potius
 esse Ariovisti quam populi Romani. Bello superatos esse Arvernos et
@@ -828,7 +920,9 @@ quodque tempus spectari oporteret, populi Romani iustissimum esse in
 Gallia imperium; si iudicium senatus observari oporteret, liberam debere
 esse Galliam, quam bello victam suis legibus uti voluisset.
 
-§46 Dum haec in conloquio geruntur, Caesari nuntiatum est
+### 46.
+
+ Dum haec in conloquio geruntur, Caesari nuntiatum est
 equites Ariovisti propius tumulum accedere et ad nostros adequitare,
 lapides telaque in nostros coicere. Caesar loquendi finem fecit seque ad
 suos recepit suisque imperavit ne quod omnino telum in hostes reicerent.
@@ -840,7 +934,9 @@ Gallia Romanis interdixisset, impetumque in nostros eius equites
 fecissent, eaque res conloquium ut diremisset, multo maior alacritas
 studiumque pugnandi maius exercitui iniectum est.
 
-§47 Biduo post Ariovistus ad Caesarem legatos misit: velle se
+### 47.
+
+ Biduo post Ariovistus ad Caesarem legatos misit: velle se
 de iis rebus quae inter eos egi coeptae neque perfectae essent agere cum
 eo: uti aut iterum conloquio diem constitueret aut, si id minus vellet,
 ex suis legatis aliquem ad se mitteret. Conloquendi Caesari causa visa
@@ -858,7 +954,9 @@ se in castris Ariovistus conspexisset, exercitu suo praesente
 conclamavit: quid ad se venirent? an speculandi causa? Conantes dicere
 prohibuit et in catenas coniecit.
 
-§48 Eodem die castra promovit et milibus passuum VI a Caesaris
+### 48.
+
+ Eodem die castra promovit et milibus passuum VI a Caesaris
 castris sub monte consedit. Postridie eius diei praeter castra Caesaris
 suas copias traduxit et milibus passuum duobus ultra eum castra fecit eo
 consilio uti frumento commeatuque qui ex Sequanis et Haeduis
@@ -875,7 +973,9 @@ vulnere accepto equo deciderat, circumsistebant; si quo erat longius
 prodeundum aut celerius recipiendum, tanta erat horum exercitatione
 celeritas ut iubis sublevati equorum cursum adaequarent.
 
-§49 Ubi eum castris se tenere Caesar intellexit, ne diutius
+### 49.
+
+ Ubi eum castris se tenere Caesar intellexit, ne diutius
 commeatu prohiberetur, ultra eum locum, quo in loco Germani consederant,
 circiter passus DC ab his, castris idoneum locum delegit acieque
 triplici instructa ad eum locum venit. Primam et secundam aciem in armis
@@ -887,7 +987,9 @@ acies hostem propulsare, tertiam opus perficere iussit. Munitis castris
 duas ibi legiones reliquit et partem auxiliorum, quattuor reliquas
 legiones in castra maiora reduxit.
 
-§50 Proximo die instituto suo Caesar ex castris utrisque
+### 50.
+
+ Proximo die instituto suo Caesar ex castris utrisque
 copias suas eduxit paulumque a maioribus castris progressus aciem
 instruxit hostibusque pugnandi potestatem fecit. Ubi ne tum quidem eos
 prodire intellexit, circiter meridiem exercitum in castra reduxit. Tum
@@ -901,7 +1003,9 @@ declararent utrum proelium committi ex usu esset necne; eas ita dicere:
 non esse fas Germanos superare, si ante novam lunam proelio
 contendissent.
 
-§51 Postridie eius diei Caesar praesidio utrisque castris quod
+### 51.
+
+ Postridie eius diei Caesar praesidio utrisque castris quod
 satis esse visum est reliquit, alarios omnes in conspectu hostium pro
 castris minoribus constituit, quod minus multitudine militum
 legionariorum pro hostium numero valebat, ut ad speciem alariis
@@ -913,7 +1017,9 @@ carris circumdederunt, ne qua spes in fuga relinqueretur. Eo mulieres
 imposuerunt, quae ad proelium proficiscentes milites passis manibus
 flentes implorabant ne se in servitutem Romanis traderent.
 
-§52 Caesar singulis legionibus singulos legatos et quaestorem
+### 52.
+
+ Caesar singulis legionibus singulos legatos et quaestorem
 praefecit, uti eos testes suae quisque virtutis haberet; ipse a dextro
 cornu, quod eam partem minime firmam hostium esse animadverterat,
 proelium commisit. Ita nostri acriter in hostes signo dato impetum
@@ -928,7 +1034,9 @@ cum animadvertisset P. Crassus adulescens, qui equitatui praeerat, quod
 expeditior erat quam ii qui inter aciem versabantur, tertiam aciem
 laborantibus nostris subsidio misit.
 
-§53 Ita proelium restitutum est, atque omnes hostes terga
+### 53.
+
+ Ita proelium restitutum est, atque omnes hostes terga
 verterunt nec prius fugere destiterunt quam ad flumen Rhenum milia
 passuum ex eo loco circiter L pervenerunt. Ibi perpauci aut viribus
 confisi tranare contenderunt aut lintribus inventis sibi salutem
@@ -948,7 +1056,9 @@ sortibus consultum dicebat, utrum igni statim necaretur an in aliud
 tempus reservaretur: sortium beneficio se esse incolumem. Item M. Metius
 repertus et ad eum reductus est.
 
-§54 Hoc proelio trans Rhenum nuntiato, Suebi, qui ad ripas
+### 54.
+
+ Hoc proelio trans Rhenum nuntiato, Suebi, qui ad ripas
 Rheni venerant, domum reverti coeperunt; quos ubi qui proximi Rhenum
 incolunt perterritos senserunt, insecuti magnum ex iis numerum
 occiderunt. Caesar una aestate duobus maximis bellis confectis maturius

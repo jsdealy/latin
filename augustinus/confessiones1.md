@@ -13,18 +13,18 @@
 Magnus es, domine, et laudabilis valde: magna virtus tua et sapientiae tuae non
 est numerus. Et laudare te vult homo, aliqua portio creaturae tuae, et homo
 circumferens mortalitatem suam, circumferens testimonium peccati sui et
-testimonium quia superbis resistis{>testimonium quia superbis resistis = testimonium te superbis resistere}: et tamen laudare te vult homo, aliqua
-portio creaturae tuae. Tu excitas, ut laudare te delectet, quia fecisti nos ad
-te et inquietum est cor nostrum, donec requiescat in te. Da mihi, domine, scire
-et intellegere, utrum sit prius invocare te an laudare te et scire te prius sit
-an invocare te. Sed quis te invocat nesciens te? Aliud enim pro alio potest
-invocare nesciens. An potius invocaris, ut sciaris? Quomodo autem invocabunt,
-in quem non crediderunt? Aut quomodo credunt sine praedicante? Et laudabunt
-dominum qui requirunt eum. Quaerentes enim inveniunt eum et invenientes
-laudabunt eum. Quaeram te, domine, invocans te et invocem te credens in te:
-praedicatus enim es nobis. Invocat te, domine, fides mea, quam dedisti mihi,
-quam inspirasti mihi per humanitatem filii tui, per ministerium praedicatoris
-tui.
+testimonium quia superbis resistis.{>testimonium quia superbis resistis = testimonium te superbis resistere} 
+Et tamen laudare te vult homo, aliqua portio creaturae tuae. Tu excitas, ut
+laudare te delectet, quia fecisti nos ad te et inquietum est cor nostrum, donec
+requiescat in te. Da mihi, domine, scire et intellegere, utrum sit prius
+invocare te an laudare te et scire te prius sit an invocare te. Sed quis te
+invocat nesciens te? Aliud enim pro alio potest invocare nesciens. An potius
+invocaris, ut sciaris? Quomodo autem invocabunt, in quem non crediderunt? Aut
+quomodo credunt sine praedicante?{>sine aliquo praedicante} Et laudabunt dominum qui requirunt eum.
+Quaerentes enim inveniunt eum et invenientes laudabunt eum. Quaeram te, domine,
+invocans te et invocem te credens in te: praedicatus enim es nobis. Invocat te,
+domine, fides mea, quam dedisti mihi, quam inspirasti mihi per humanitatem
+filii tui, per ministerium praedicatoris tui.
 
 
 
@@ -72,7 +72,7 @@ Angusta est domus animae meae, quo venias ad eam: dilatetur abs te. Ruinosa est;
 
 
 
-### VI. I. nfantiam suam describit, laudat dei providentiam et aeternitatem.
+### VI. Infantiam suam describit, laudat dei providentiam et aeternitatem.
 
 
 
@@ -88,7 +88,7 @@ Confiteor tibi, domine caeli et terrae, laudem dicens tibi de primordiis et infa
 
 
 
-### VII. I. nfantia quoque peccatis obnoxia.
+### VII. Infantia quoque peccatis obnoxia.
 
 
 
@@ -188,7 +188,7 @@ Exaudi, domine, deprecationem meam, ne deficiat anima mea sub disciplina tua neq
 
 
 
-### XVI. I. mprobat modum iuventutis erudiendae.
+### XVI. Improbat modum iuventutis erudiendae.
 
 
 

@@ -65,6 +65,7 @@ body {
 }
 
 h1 {
+    padding-right:8%;
     font-weight: 400;
     margin-top: 4rem;
     margin-bottom: 1.5rem;
@@ -84,7 +85,7 @@ h2 {
 h3 {
     font-style: italic;
     font-weight: 400;
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     margin-top: 2rem;
     margin-bottom: 1.4rem;
     line-height: 1;
@@ -229,9 +230,10 @@ figure.fullwidth figcaption {
 
 a:link,
 a:visited {
+    font-style: italic;
     color: inherit;
-    text-underline-offset: 0.1em;
-    text-decoration-thickness: 0.05em;
+    text-underline-offset: 0.2em;
+    text-decoration-thickness: 1px;
 }
 
 /* Sidenotes, margin notes, figures, captions */
@@ -255,6 +257,10 @@ img {
 
 .sidenote-number {
     counter-increment: sidenote-counter;
+}
+
+ul {
+    list-style-type:none;
 }
 
 .sidenote-number::after,

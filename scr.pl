@@ -73,10 +73,10 @@ for (@textblocks) {
 
     # making sections for tufte <- 08/30/25 23:20:21 # 
     if (m/^#/ and $initial_section==1) {
-	$initial_section=0; print "<section>\n"
+	$initial_section=0; print "\n\n<section>\n\n"
     } 
     elsif (m/^#/ and $initial_section==0) {
-	print "</section>\n<section>\n"
+	print "\n\n</section>\n\n<section>\n\n"
     }; 
 
     # making lines <- 08/30/25 23:18:42 # 
@@ -93,4 +93,4 @@ for (@textblocks) {
 }
 
 # final section closer <- 08/31/25 21:27:02 # 
-print "</section>\n"
+print "\n\n</section>\n\n"

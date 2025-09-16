@@ -716,4 +716,15 @@ nemo peccat ut peccet, sed eo lucrum adipiscatur, vel volutatem vel honorem vel 
 
 aliqui cum ulciscantur, cupiunt ut pars sciat unde veniat. beneficentius est; nam inde delicia non tam multum e dolore infligendo quam e parti paenitendo videtur. sed ignavi calidique homines sunt similes sagittae volanti in tenebris. cosmus, dux florentiae, dictum desperatum tenuit de amicis perfidiosis vel neglegentibus, velut si talia facinora ignosci nequeant. legebis, ait, imperati sumus ut inimicis nostris ignoscamus, sed numquam legis imperati sumus ut amicis nostris ignoscamus. 
 
+> How goes it on your old Marsian estate? And how do you approve of your new
+> purchase? Has it as many beauties in your eye now, as before you bought it?
+> That would be extraordinary indeed! For an object in possession never retains the
+> same charms it had in pursuit. As for myself, the estate left me by my mother
+> uses me but ill; however I value it for her sake, and am, besides, grown a 
+> good deal insensible by a long course of endurance. Thus constant complaints
+> generally end at last in being ashamed of complaining any more.
 
+quam bene agitur in villa tua marsiana vetusta? et quomodo approbas emptionem 
+tuam novam? praebetne tam multa beata oculis tuis quam antequam id empsisti?
+quod vere admirandum esset! nam possessum numquam idem iucunditatem retinet
+habitam dum 

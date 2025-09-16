@@ -741,6 +741,5 @@ illo autem tempore omnis homo caput altius tollere et ingenia magis in promptu h
 
 quam bene agitur in villa tua marsiana vetusta? et quomodo approbas emptionem 
 tuam novam? praebetne tam multa beata oculis tuis quam antequam id empsisti?
-quod vere admirandum esset! nam possessum numquam idem iucunditatem retinet
-habitam dum 
-
+quod vere admirandum esset! nam possessiones numquam idem iucunditatem retinent
+quam dum adfectantur habuerunt.  

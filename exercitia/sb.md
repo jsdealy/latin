@@ -697,6 +697,7 @@ ultio est species iustitiae ferae, eo magis ad quam ingenium hominis currit, quo
 
 nemo peccat ut peccet, sed eo lucrum adipiscatur, vel volutatem vel honorem vel similem; itaque, quae causa est mihi irascendi si is se amat plusquam me? et si e natura inimica quispiam malum committit, ecce, veluti est spina vel dumus qui pungit vel radit quia nil aliud potest. ultio quam maxime toleranda est illorum facinorum ad quae emendanda non est lex, sed illo casu cavendum est ultori ne modus ulciscendi suus puniri aliqua lege possit, nam deinde inimicus adhuc antestat, et duo pro uno est. aliqui cum ulciscantur, cupiunt ut reus sciat unde venire. 
 
+<<<<<<< Updated upstream
 > Some, when they take revenge, are desirous the party should know whence it
 > cometh. This is the more generous; for the delight seemeth to be not so much
 > in doing the hurt as in making the party repent; but base and crafty cowards
@@ -716,6 +717,20 @@ nemo peccat ut peccet, sed eo lucrum adipiscatur, vel volutatem vel honorem vel 
 
 aliqui cum ulciscantur, cupiunt ut pars sciat unde veniat. beneficentius est; nam inde delicia non tam multum e dolore infligendo quam e parti paenitendo videtur. sed ignavi calidique homines sunt similes sagittae volanti in tenebris. cosmus, dux florentiae, dictum desperatum tenuit de amicis perfidiosis vel neglegentibus, velut si talia facinora ignosci nequeant. legebis, ait, imperati sumus ut inimicis nostris ignoscamus, sed numquam legis imperati sumus ut amicis nostris ignoscamus. 
 
+> Now at that time every man began to lift his head higher and to have his
+> talents more in readiness. For kings hold the good in greater suspicion than
+> the wicked, and to them the merit of others is always fraught with danger;
+> still the free state, once liberty was won, waxed incredibly strong and great
+> in a remarkably short time, such was the thirst for glory that had filled
+> men's minds. To begin with, as soon as the young men could endure the
+> hardships of war, they were taught a soldier's duties in camp under a
+> vigorous discipline, and they took more pleasure in handsome arms and war
+> horses than in harlots and revelry. To such men consequently no labour was
+> unfamiliar, no region too rough or too steep, no armed foeman was terrible;
+> valour was all in all.
+
+illo autem tempore omnis homo caput altius tollere et ingenia magis in promptu habere coepit. nam regi bonos magis in suspicione tenent quam malos, et illis honores aliorum semper periculosum sunt. etiam civitas liberata, libertate capta, temporem admirabiliter angustum incredibiliter valida magnaque auxit, ita gloriae mentes hominum esurivere. imprimis, simul atque iuvenis duritias belli gerere potuit, munera militis in castris sub disciplina aspera docti sunt, et sunt magis fructi armis bellis et equis bellicosis quam meretricis conviviisve. talibus viris, itaque, nullus labor alienus, nulla regio nimis rudis vel praerupta, nullus hostis armatus terribilis---valor omnibus praestavit.
+
 > How goes it on your old Marsian estate? And how do you approve of your new
 > purchase? Has it as many beauties in your eye now, as before you bought it?
 > That would be extraordinary indeed! For an object in possession never retains the
@@ -728,3 +743,4 @@ quam bene agitur in villa tua marsiana vetusta? et quomodo approbas emptionem
 tuam novam? praebetne tam multa beata oculis tuis quam antequam id empsisti?
 quod vere admirandum esset! nam possessum numquam idem iucunditatem retinet
 habitam dum 
+

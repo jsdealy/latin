@@ -716,4 +716,30 @@ nemo peccat ut peccet, sed eo lucrum adipiscatur, vel volutatem vel honorem vel 
 
 aliqui cum ulciscantur, cupiunt ut pars sciat unde veniat. beneficentius est; nam inde delicia non tam multum e dolore infligendo quam e parti paenitendo videtur. sed ignavi calidique homines sunt similes sagittae volanti in tenebris. cosmus, dux florentiae, dictum desperatum tenuit de amicis perfidiosis vel neglegentibus, velut si talia facinora ignosci nequeant. legebis, ait, imperati sumus ut inimicis nostris ignoscamus, sed numquam legis imperati sumus ut amicis nostris ignoscamus. 
 
+> Greatly troubled by these measures, and thinking, as they say he was often
+> heard to remark, that now that he was the leading man of the state, it was
+> harder to push him down from the first place to the second than it would be
+> from the second to the lowest, Caesar stoutly resisted Marcellus, partly
+> through vetoes of the tribunes and partly through the other consul, Servius
+> Sulpicius. When next year Gaius Marcellus, who had succeeded his cousin
+> Marcus as consul, tried the same thing, Caesar by a heavy bribe secured the
+> support of the other consul, Aemilius Paulus, and of Gaius Curio, the most
+> reckless of the tribunes. But seeing that everything was being pushed most
+> persistently, and that even the consuls elect were among the opposition, he
+> sent a written appeal to the senate, not to take from him the privilege which
+> the people had granted, or else to compel the others in command of armies to
+> resign also; feeling sure, it was thought, that he could more readily muster
+> his veterans as soon as he wished, than Pompey his newly levied troops. He
+> further proposed a compromise to his opponents, that after giving up eight
+> legions and Transalpine Gaul, he be allowed to keep two legions and Cisalpine
+> Gaul, or at least one legion and Illyricum, until he was elected consul.
+
+pertubatus his arbitriis, et ratus, ut ferunt saepe eum dicentem audiri, 
+quod nunc se rem publicam praesit, difficilius eum primo statu ad 
+secundum expulere esset quam secundo ad infimum, caesar fortiter marcello 
+restitit, partim per intercessiones tribunorum, partim per alium consulem, 
+servium sulpicium. cum gaius marcellus, anno secuto, qui consobrinum suum 
+consulem successit, idem tentavit, caesar mercede gravi praesidium alterius
+consulis, aemilii pauli, et gaii curionis, audacissimi tribunorum, adeptus 
+est. sed omnia pertinaciter pressa videns, 
 

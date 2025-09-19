@@ -717,6 +717,33 @@ nemo peccat ut peccet, sed eo lucrum adipiscatur, vel volutatem vel honorem vel 
 
 aliqui cum ulciscantur, cupiunt ut pars sciat unde veniat. beneficentius est; nam inde delicia non tam multum e dolore infligendo quam e parti paenitendo videtur. sed ignavi calidique homines sunt similes sagittae volanti in tenebris. cosmus, dux florentiae, dictum desperatum tenuit de amicis perfidiosis vel neglegentibus, velut si talia facinora ignosci nequeant. legebis, ait, imperati sumus ut inimicis nostris ignoscamus, sed numquam legis imperati sumus ut amicis nostris ignoscamus. 
 
+> Now at that time every man began to lift his head higher and to have his
+> talents more in readiness. For kings hold the good in greater suspicion than
+> the wicked, and to them the merit of others is always fraught with danger;
+> still the free state, once liberty was won, waxed incredibly strong and great
+> in a remarkably short time, such was the thirst for glory that had filled
+> men's minds. To begin with, as soon as the young men could endure the
+> hardships of war, they were taught a soldier's duties in camp under a
+> vigorous discipline, and they took more pleasure in handsome arms and war
+> horses than in harlots and revelry. To such men consequently no labour was
+> unfamiliar, no region too rough or too steep, no armed foeman was terrible;
+> valour was all in all.
+
+illo autem tempore omnis homo caput altius tollere et ingenia magis in promptu habere coepit. nam regi bonos magis in suspicione tenent quam malos, et illis honores aliorum semper periculosum sunt. etiam civitas liberata, libertate capta, temporem admirabiliter angustum incredibiliter valida magnaque auxit, ita gloriae mentes hominum esurivere. imprimis, simul atque iuvenis duritias belli gerere potuit, munera militis in castris sub disciplina aspera docti sunt, et sunt magis fructi armis bellis et equis bellicosis quam meretricis conviviisve. talibus viris, itaque, nullus labor alienus, nulla regio nimis rudis vel praerupta, nullus hostis armatus terribilis---valor omnibus praestavit.
+
+> How goes it on your old Marsian estate? And how do you approve of your new
+> purchase? Has it as many beauties in your eye now, as before you bought it?
+> That would be extraordinary indeed! For an object in possession never retains the
+> same charms it had in pursuit. As for myself, the estate left me by my mother
+> uses me but ill; however I value it for her sake, and am, besides, grown a 
+> good deal insensible by a long course of endurance. Thus constant complaints
+> generally end at last in being ashamed of complaining any more.
+
+quam bene agitur in villa tua marsiana vetusta? et quomodo approbas emptionem 
+tuam novam? praebetne tam multa beata oculis tuis quam antequam id empsisti?
+quod vere admirandum esset! nam possessiones numquam idem iucunditatem retinent
+quam dum adfectantur habuerunt.  
+
 > Greatly troubled by these measures, and thinking, as they say he was often
 > heard to remark, that now that he was the leading man of the state, it was
 > harder to push him down from the first place to the second than it would be
@@ -744,29 +771,3 @@ consulem successit, idem tentavit, caesar mercede gravi praesidium alterius
 consulis, aemilii pauli, et gaii curionis, audacissimi tribunorum, adeptus 
 est. sed omnia pertinaciter pressa videns, 
 
-> Now at that time every man began to lift his head higher and to have his
-> talents more in readiness. For kings hold the good in greater suspicion than
-> the wicked, and to them the merit of others is always fraught with danger;
-> still the free state, once liberty was won, waxed incredibly strong and great
-> in a remarkably short time, such was the thirst for glory that had filled
-> men's minds. To begin with, as soon as the young men could endure the
-> hardships of war, they were taught a soldier's duties in camp under a
-> vigorous discipline, and they took more pleasure in handsome arms and war
-> horses than in harlots and revelry. To such men consequently no labour was
-> unfamiliar, no region too rough or too steep, no armed foeman was terrible;
-> valour was all in all.
-
-illo autem tempore omnis homo caput altius tollere et ingenia magis in promptu habere coepit. nam regi bonos magis in suspicione tenent quam malos, et illis honores aliorum semper periculosum sunt. etiam civitas liberata, libertate capta, temporem admirabiliter angustum incredibiliter valida magnaque auxit, ita gloriae mentes hominum esurivere. imprimis, simul atque iuvenis duritias belli gerere potuit, munera militis in castris sub disciplina aspera docti sunt, et sunt magis fructi armis bellis et equis bellicosis quam meretricis conviviisve. talibus viris, itaque, nullus labor alienus, nulla regio nimis rudis vel praerupta, nullus hostis armatus terribilis---valor omnibus praestavit.
-
-> How goes it on your old Marsian estate? And how do you approve of your new
-> purchase? Has it as many beauties in your eye now, as before you bought it?
-> That would be extraordinary indeed! For an object in possession never retains the
-> same charms it had in pursuit. As for myself, the estate left me by my mother
-> uses me but ill; however I value it for her sake, and am, besides, grown a 
-> good deal insensible by a long course of endurance. Thus constant complaints
-> generally end at last in being ashamed of complaining any more.
-
-quam bene agitur in villa tua marsiana vetusta? et quomodo approbas emptionem 
-tuam novam? praebetne tam multa beata oculis tuis quam antequam id empsisti?
-quod vere admirandum esset! nam possessiones numquam idem iucunditatem retinent
-quam dum adfectantur habuerunt.  

@@ -496,16 +496,43 @@ hominum corrumpit amore pecuniae."
 
 10. Dic, hospes, Spartae te nos hic iacentes vidisse, patriae fideles. 
 
+> salve hospes. cum abiveris, dicito te aspexisse hic nos spartae fideles requiescentes.
 
+11. Socrates putabat se esse civem totius mundi. (Cicero.)
 
-11. Slicrates putabat se esse civem totius mundi. (Cicero.)
+> socrates se censuit incolam orbis terrarum esse.
 
-12. IIJi magistri negant quemquam virum esse bonum nisi sapientem.
-(Cicero.-quisquam, quidquam, Iln)'One, anylhing; any.)
-13. NegavT, autem, mortem timendam esse. (Cicero.)
-14. Credo deos immortales sparsisse spirilus in corpora humana. (Cic-
-ero.-spargo, -ere, sparsl, sparsum, 10 seal/er. SOIl'.)
-15. Adulescens sperat se diu vTClurum esse; senex potesl dicere se diu
-vixisse. (Cicero.-Do not confuse victiirum, from vim, with victii-
-rum, from vinco).
-16. Aiunt enim multum legendum esse, non multa. (*Pliny.)
+12. Illi magistri negant quemquam virum esse bonum nisi sapientem.
+
+> hoc senex dicit nemo nisi se et alii sapientes putati bonum esse potest. 
+
+13. Negavi, autem, mortem timendam esse.
+
+> dixi, tamen, non debere esse nos timentes morituros esse.
+
+14. Credo deos immortales sparsisse spiritus in corpora humana. 
+
+> fateor mihi credere nos esse spiritus qui in corpore vivunt et agunt.
+
+15. Adulescens sperat se diu victurum esse; senex potest dicere se diu vixisse.
+
+> adulescens cupit se diu victurum esse; senex modo victurum. 
+
+16. Aiunt enim multum legendum esse, non multa. 
+
+> ut mihi docuere, legendum est nobis multum, sed non multa.
+
+# Chapter 26
+
+1. Ille dux nescivit se imperium protinus suscepturum esse.
+
+> hic dux mox imperium recipiet, sed nescit hoc adventurum esse. 
+
+2. "Quidam," inquit, "imperium quondam petebant et liberos viros opprimere cupiebant."
+
+> olim homines erant qui non solum opprimere liberos viros cupiebant, sed etiam
+> imperium consequebantur.
+
+3. Eodem die decem milia hostium ab duce fidelissimo aversa ac pulsa sunt; multi 
+milites vulnera receperant et in agris iacebant.
+
